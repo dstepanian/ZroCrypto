@@ -64,6 +64,7 @@ statically (GitHub Pages, Netlify, the zromek.de server).
 | `src/aggregate.js` | merge, last-24h filter, dedupe, strip HTML |
 | `src/prices.js` | CoinGecko BTC/ETH snapshot |
 | `src/sentiment.js` | Crypto Fear & Greed index (daily mood gauge) |
+| `src/rates.js` | AMD fiat rates (USD/EUR/RUB) + gold/silver |
 | `src/gemini.js` | shared Gemini JSON call (used by daily + weekly) |
 | `src/curate.js` | Gemini prompts — daily digest + weekly recap |
 | `src/format.js` | build the daily and weekly messages |

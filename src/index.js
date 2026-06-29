@@ -2,6 +2,7 @@ import config from './config.js';
 import { aggregate } from './aggregate.js';
 import { getPrices } from './prices.js';
 import { getSentiment } from './sentiment.js';
+import { getRates } from './rates.js';
 import { curate } from './curate.js';
 import { formatDigest, yerevanISO } from './format.js';
 import { postToTelegram } from './post.js';
@@ -10,10 +11,13 @@ import { appendHistory } from './history.js';
 const run = async () => {
   console.log(`[zrocrypto] starting${config.dry ? ' (dry run)' : ''}`);
 
-  // Prices, raw news and market sentiment in parallel.
-  const [prices, raw, sentiment] = await Promise.all([getPrices(), aggregate(), getSentiment()]);
+  // Prices, raw news, market sentiment and fiat/metal rates in parallel.
+  const [prices, raw, sentiment, rates] = await Promise.all([
+    getPrices(), aggregate(), getSentiment(), getRates(),
+  ]);
   console.log(`[zrocrypto] ${prices.length} prices, ${raw.length} raw news items` +
-    (sentiment ? `, F&G ${sentiment.value}` : ''));
+    (sentiment ? `, F&G ${sentiment.value}` : '') +
+    `, ${rates.fiat.length} fiat, ${rates.metals.length} metals`);
 
   // Curate via Gemini; on failure, fall back to a price-only digest.
   let items = [];
@@ -30,7 +34,7 @@ const run = async () => {
     process.exit(1);
   }
 
-  const text = formatDigest({ prices, items, overview, sentiment });
+  const text = formatDigest({ prices, items, overview, sentiment, rates });
 
   if (config.dry) {
     if (config.print) {

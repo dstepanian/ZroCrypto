@@ -151,8 +151,8 @@
         <div class="arrow"></div>
         <div class="node" data-step="1">
           <div class="ic">💰</div>
-          <div class="meta"><div class="t">CoinGecko snapshot</div>
-            <div class="s">BTC / ETH price + 24h change</div></div>
+          <div class="meta"><div class="t">Market snapshot</div>
+            <div class="s">crypto, Fear &amp; Greed, AMD rates, metals</div></div>
           <div class="badge">step 2</div>
         </div>
         <div class="arrow"></div>
@@ -220,9 +220,23 @@ const HY_MONTHS = ['հունվարի','փետրվարի','մարտի','ապրի�
   'հուլիսի','օգոստոսի','սեպտեմբերի','հոկտեմբերի','նոյեմբերի','դեկտեմբերի'];
 const fmtUsd = n => '$' + Math.round(n).toLocaleString('en-US');
 const fmtChg = c => (c >= 0 ? '+' : '') + c.toFixed(1) + '%';
+const fmtAmd = n => (n >= 10 ? n.toFixed(1) : n.toFixed(2));
 
 let LIVE = null; // { btc:{price,change}, eth:{price,change} }
 let FNG = null;  // { value, hy, dot }
+let RATES = null; // { fiat:[{code,flag,amd}], metals:[{label,emoji,usd}] }
+
+const SAMPLE_RATES = {
+  fiat: [
+    { code: 'USD', flag: '🇺🇸', amd: 368.1 },
+    { code: 'EUR', flag: '🇪🇺', amd: 419.2 },
+    { code: 'RUB', flag: '🇷🇺', amd: 4.69 },
+  ],
+  metals: [
+    { label: 'Ոսկի', emoji: '🥇', usd: 4066 },
+    { label: 'Արծաթ', emoji: '🥈', usd: 59 },
+  ],
+};
 
 const FNG_MAP = {
   'Extreme Fear': { hy: 'Ծայրահեղ վախ', dot: '🔴' },
@@ -266,6 +280,26 @@ async function loadFng() {
     FNG = { value: Number(row.value), hy: m.hy, dot: m.dot };
   } catch (e) { FNG = null; }
 }
+async function loadRates() {
+  try {
+    const r = await (await fetch('https://open.er-api.com/v6/latest/USD')).json();
+    const fiat = [];
+    if (r.rates?.AMD) {
+      const amd = r.rates.AMD;
+      fiat.push({ code: 'USD', flag: '🇺🇸', amd });
+      if (r.rates.EUR) fiat.push({ code: 'EUR', flag: '🇪🇺', amd: amd / r.rates.EUR });
+      if (r.rates.RUB) fiat.push({ code: 'RUB', flag: '🇷🇺', amd: amd / r.rates.RUB });
+    }
+    const [xau, xag] = await Promise.all([
+      fetch('https://api.gold-api.com/price/XAU').then(x => x.json()),
+      fetch('https://api.gold-api.com/price/XAG').then(x => x.json()),
+    ]);
+    const metals = [];
+    if (xau?.price) metals.push({ label: 'Ոսկի', emoji: '🥇', usd: xau.price });
+    if (xag?.price) metals.push({ label: 'Արծաթ', emoji: '🥈', usd: xag.price });
+    RATES = { fiat, metals };
+  } catch (e) { RATES = null; }
+}
 function setTicker(idP, idC, v) {
   document.getElementById(idP).textContent = fmtUsd(v.price);
   const c = document.getElementById(idC);
@@ -288,9 +322,14 @@ function digestHtml() {
   const overviewBlock =
     `<div class="ov"><div class="gauge">🧭 <b>Տրամադրություն՝</b> ${fng.dot} ${fng.hy} — ${fng.value}/100</div>` +
     `<div class="take">🧠 ${SAMPLE_OVERVIEW}</div></div>`;
+  const rt = RATES || SAMPLE_RATES;
+  const fiatRows = rt.fiat.map(f =>
+    `<div class="row">${f.flag} <b>${f.code}</b> — ${fmtAmd(f.amd)} ֏</div>`).join('');
+  const metalRows = rt.metals.map(m =>
+    `<div class="row">${m.emoji} <b>${m.label}</b> — ${fmtUsd(m.usd)} <span class="muted24">/ունց</span></div>`).join('');
   const pricesBlock =
-    `<div class="hl prices-h">💱 Փոխարժեքներ <span class="muted24">24 ժ</span></div>` +
-    priceRow('Bitcoin', p.btc) + priceRow('Ethereum', p.eth);
+    `<div class="hl prices-h">💱 Փոխարժեքներ</div>` +
+    priceRow('Bitcoin', p.btc) + priceRow('Ethereum', p.eth) + fiatRows + metalRows;
   return `<div class="hl">📊 Կրիպտո օրվա ամփոփում — ${date}</div>` +
     overviewBlock +
     `<div class="hl">📰 Գլխավոր նորություններ</div>` + news +
@@ -302,7 +341,7 @@ function digestHtml() {
 const steps = [...document.querySelectorAll('.node')];
 const STEP_MSGS = [
   'Fetching RSS… 38 items in the last 24h',
-'CoinGecko + Fear & Greed… mood loaded',
+'Prices, mood, AMD rates & metals… loaded',
   'Gemini Flash… picking 4–6, writing Armenian',
   'Formatting digest message…',
   'Posting to Telegram… ✓ sent',
@@ -334,6 +373,7 @@ async function runDemo() {
 document.getElementById('run').addEventListener('click', runDemo);
 loadPrices();
 loadFng();
+loadRates();
 </script>
 </body>
 </html>

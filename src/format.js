@@ -38,6 +38,7 @@ const esc = (s = '') =>
 
 const fmtPrice = (n) => '$' + Math.round(n).toLocaleString('en-US');
 const fmtChange = (c) => `${c >= 0 ? '+' : ''}${c.toFixed(1)}%`;
+const fmtAmd = (n) => (n >= 10 ? n.toFixed(1) : n.toFixed(2)); // dram: 368.1 vs 4.69
 // Directional change with an arrow instead of a sign, e.g. "↑0.6%" / "↓0.0%".
 const fmtArrow = (c) => `${c >= 0 ? '↑' : '↓'}${Math.abs(c).toFixed(1)}%`;
 
@@ -46,7 +47,7 @@ const coinEmoji = (label) => COIN_EMOJI[label] || '🔹';
 
 // Build the Telegram digest message (HTML parse mode).
 // Airy layout: blank lines between blocks, 🔸 markers, bold labels.
-export const formatDigest = ({ prices = [], items = [], overview = '', sentiment = null }, { date } = {}) => {
+export const formatDigest = ({ prices = [], items = [], overview = '', sentiment = null, rates = null }, { date } = {}) => {
   const out = [];
 
   out.push(`📊 <b>Կրիպտո օրվա ամփոփում — ${date || yerevanDate()}</b>`);
@@ -72,11 +73,18 @@ export const formatDigest = ({ prices = [], items = [], overview = '', sentiment
     });
   }
 
-  // ...prices as a reference block at the bottom.
-  if (prices.length) {
-    out.push('💱 <b>Փոխարժեքներ</b>  <i>24 ժ</i>');
+  // ...prices/rates as a reference block at the bottom.
+  const hasRates = rates && (rates.fiat?.length || rates.metals?.length);
+  if (prices.length || hasRates) {
+    out.push('💱 <b>Փոխարժեքներ</b>');
     prices.forEach((p) => {
       out.push(`${coinEmoji(p.label)} <b>${esc(p.label)}</b> — ${fmtPrice(p.price)} (${fmtArrow(p.change24h)})`);
+    });
+    (rates?.fiat || []).forEach((f) => {
+      out.push(`${f.flag} <b>${esc(f.code)}</b> — ${fmtAmd(f.amd)} ֏`);
+    });
+    (rates?.metals || []).forEach((m) => {
+      out.push(`${m.emoji} <b>${esc(m.label)}</b> — ${fmtPrice(m.usd)} <i>/ունց</i>`);
     });
     out.push('');
   }
