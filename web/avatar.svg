@@ -1,0 +1,35 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ZroCrypto channel avatar">
+  <title>ZroCrypto</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4F8CFF"/>
+      <stop offset="1" stop-color="#7C5CFF"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.42" r="0.75">
+      <stop offset="0.55" stop-color="#0B0E14" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0B0E14" stop-opacity="0.45"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="512" height="512" fill="url(#bg)"/>
+
+  <g stroke="#FFFFFF" stroke-width="2" fill="none" opacity="0.10">
+    <circle cx="256" cy="256" r="150"/>
+    <circle cx="256" cy="256" r="205"/>
+    <path d="M60 150 L150 150 L185 115"/>
+    <path d="M452 360 L360 360 L325 396"/>
+  </g>
+  <g fill="#FFFFFF" opacity="0.14">
+    <circle cx="150" cy="150" r="6"/>
+    <circle cx="185" cy="115" r="6"/>
+    <circle cx="360" cy="360" r="6"/>
+    <circle cx="325" cy="396" r="6"/>
+  </g>
+
+  <rect width="512" height="512" fill="url(#vig)"/>
+
+  <polygon points="300,70 170,280 250,280 212,442 350,232 272,232"
+           fill="#FFFFFF"/>
+  <polygon points="300,70 272,232 350,232"
+           fill="#FFFFFF" opacity="0.78"/>
+</svg>
