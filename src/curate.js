@@ -1,7 +1,5 @@
 import config from './config.js';
-
-const endpoint = (model, key) =>
-  `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${key}`;
+import { generateJson } from './gemini.js';
 
 const buildPrompt = (rawItems, min, max) => `
 You are a crypto news editor for an Armenian-speaking audience.
@@ -23,7 +21,7 @@ Raw items:
 ${rawItems.map((it, n) => `${n + 1}. ${it.title}: ${it.text}`).join('\n')}
 `.trim();
 
-const responseSchema = {
+const dailySchema = {
   type: 'object',
   properties: {
     overview: { type: 'string' },
@@ -42,39 +40,48 @@ const responseSchema = {
   required: ['overview', 'items'],
 };
 
-// Calls Gemini Flash. Returns { items: [{ headline, summary }] }.
+// Daily digest. Returns { overview, items: [{ headline, summary }] }.
 // Throws on failure so the caller can decide on a price-only fallback.
 export const curate = async (rawItems) => {
-  if (!config.geminiKey) throw new Error('GEMINI_API_KEY missing');
-  if (!rawItems.length) return { items: [] };
-
-  const body = {
-    contents: [
-      { role: 'user', parts: [{ text: buildPrompt(rawItems, config.digestMin, config.digestMax) }] },
-    ],
-    generationConfig: {
-      temperature: 0.3,
-      responseMimeType: 'application/json',
-      responseSchema,
-    },
-  };
-
-  const res = await fetch(endpoint(config.geminiModel, config.geminiKey), {
-    method: 'POST',
-    headers: { 'content-type': 'application/json' },
-    body: JSON.stringify(body),
-  });
-
-  if (!res.ok) {
-    const detail = await res.text().catch(() => '');
-    throw new Error(`Gemini ${res.status}: ${detail.slice(0, 200)}`);
-  }
-
-  const data = await res.json();
-  const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
-  if (!text) throw new Error('Gemini returned no text');
-
-  const parsed = JSON.parse(text);
+  if (!rawItems.length) return { overview: '', items: [] };
+  const parsed = await generateJson(buildPrompt(rawItems, config.digestMin, config.digestMax), dailySchema);
   const items = Array.isArray(parsed.items) ? parsed.items : [];
   return { overview: (parsed.overview || '').trim(), items: items.slice(0, config.digestMax) };
+};
+
+const buildWeeklyPrompt = (days) => `
+You are a crypto news editor for an Armenian-speaking audience writing a WEEKLY recap.
+Below are daily summaries from the past ${days.length} days (oldest first). Each day has its
+market mood (Fear & Greed value), the day's overview, and the day's headlines.
+
+Your job:
+1. "overview" = 2-3 sentences in fluent Eastern Armenian capturing the week's big arc —
+   the dominant themes and how the mood/market evolved across the week.
+2. "highlights" = the 4-6 most important developments of the WEEK as single Armenian
+   sentences. Deduplicate stories that repeated across days, and focus on what mattered for
+   the whole week rather than one-off daily noise. Keep tickers/company names original.
+
+Return ONLY JSON matching the schema. No markdown, no commentary.
+
+Daily data:
+${days.map((d) => `## ${d.date} (Fear&Greed ${d.fng?.value ?? 'n/a'})
+Overview: ${d.overview || '—'}
+Headlines:
+${(d.items || []).map((i) => `- ${i.headline}: ${i.summary}`).join('\n')}`).join('\n\n')}
+`.trim();
+
+const weeklySchema = {
+  type: 'object',
+  properties: {
+    overview: { type: 'string' },
+    highlights: { type: 'array', items: { type: 'string' } },
+  },
+  required: ['overview', 'highlights'],
+};
+
+// Weekly recap. Returns { overview, highlights: [string] }.
+export const curateWeekly = async (days) => {
+  const parsed = await generateJson(buildWeeklyPrompt(days), weeklySchema);
+  const highlights = Array.isArray(parsed.highlights) ? parsed.highlights : [];
+  return { overview: (parsed.overview || '').trim(), highlights: highlights.slice(0, 6) };
 };

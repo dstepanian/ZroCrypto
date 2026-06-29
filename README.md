@@ -24,7 +24,10 @@ CoinGecko ─┘   (last 24h)   (pick 4-6, hy)
 ```bash
 npm run preview   # dry run, prints the digest to console (no posting)
 npm run dry       # dry run, no console print
-npm start         # builds AND posts to the channel
+npm start         # builds AND posts the daily digest, then records the day in history.json
+
+node src/weekly.js --dry --print   # preview the weekly recap (needs >=2 days of history)
+node src/weekly.js                 # post the weekly recap
 ```
 
 ## Scheduling (free)
@@ -36,6 +39,15 @@ Add the secrets in the repo: **Settings → Secrets and variables → Actions**
 on the Actions tab to fire a manual test.
 
 To change times, edit the `cron:` line (it's in UTC; subtract 4h from Yerevan).
+
+### Weekly recap
+
+Each daily run appends a trimmed snapshot (date, mood, prices, overview, headlines) to
+`history.json` and the Actions workflow commits it back to the repo (one entry per day,
+last 60 kept). `weekly.yml` runs **Sundays 17:00 UTC = 21:00 Yerevan**, reads the last 7
+days, and posts a "📅 Շաբաթվա ամփոփում" — mood trend, week themes, and week-over-week
+price moves. It self-skips until at least 2 days of history exist. The daily workflow needs
+`contents: write` permission for the commit-back (already set).
 
 ## Demo site
 
@@ -52,7 +64,10 @@ statically (GitHub Pages, Netlify, the zromek.de server).
 | `src/aggregate.js` | merge, last-24h filter, dedupe, strip HTML |
 | `src/prices.js` | CoinGecko BTC/ETH snapshot |
 | `src/sentiment.js` | Crypto Fear & Greed index (daily mood gauge) |
-| `src/curate.js` | Gemini Flash — pick + translate + day overview (JSON) |
-| `src/format.js` | build the digest message (Armenian date, prices, news) |
+| `src/gemini.js` | shared Gemini JSON call (used by daily + weekly) |
+| `src/curate.js` | Gemini prompts — daily digest + weekly recap |
+| `src/format.js` | build the daily and weekly messages |
 | `src/post.js` | Telegram Bot API send |
-| `src/index.js` | orchestrate the run |
+| `src/history.js` | append/load `history.json` (one entry per day) |
+| `src/index.js` | orchestrate the daily run |
+| `src/weekly.js` | orchestrate the Sunday weekly recap |

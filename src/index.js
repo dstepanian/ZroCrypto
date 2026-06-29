@@ -3,8 +3,9 @@ import { aggregate } from './aggregate.js';
 import { getPrices } from './prices.js';
 import { getSentiment } from './sentiment.js';
 import { curate } from './curate.js';
-import { formatDigest } from './format.js';
+import { formatDigest, yerevanISO } from './format.js';
 import { postToTelegram } from './post.js';
+import { appendHistory } from './history.js';
 
 const run = async () => {
   console.log(`[zrocrypto] starting${config.dry ? ' (dry run)' : ''}`);
@@ -43,6 +44,17 @@ const run = async () => {
 
   const result = await postToTelegram(text);
   console.log(`[zrocrypto] posted message ${result.message_id} to ${config.channel}`);
+
+  // Record this day's snapshot for the weekly recap (one entry per day).
+  const count = appendHistory({
+    date: yerevanISO(),
+    ts: Date.now(),
+    fng: sentiment,
+    prices,
+    overview,
+    items,
+  });
+  console.log(`[zrocrypto] history now holds ${count} day(s)`);
 };
 
 run()
