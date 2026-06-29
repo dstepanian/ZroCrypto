@@ -30,6 +30,4 @@
 
   <polygon points="300,70 170,280 250,280 212,442 350,232 272,232"
            fill="#FFFFFF"/>
-  <polygon points="300,70 272,232 350,232"
-           fill="#FFFFFF" opacity="0.78"/>
 </svg>
