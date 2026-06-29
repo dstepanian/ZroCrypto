@@ -34,14 +34,20 @@
   }
   .wrap { max-width: 1080px; margin: 0 auto; padding: 28px 20px 60px; }
 
-  /* ---- top ticker ---- */
-  .ticker {
-    display: flex; gap: 18px; align-items: center; flex-wrap: wrap;
-    font-size: 13px; color: var(--muted);
-    border: 1px solid var(--line); background: var(--panel);
-    border-radius: 999px; padding: 8px 16px; width: fit-content; margin-bottom: 30px;
+  /* ---- top ticker (infinite marquee) ---- */
+  .ticker-wrap {
+    overflow: hidden; border: 1px solid var(--line); background: var(--panel);
+    border-radius: 999px; padding: 9px 0; margin-bottom: 30px;
+    -webkit-mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent);
+    mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent);
   }
-  .ticker b { color: var(--txt); font-weight: 600; }
+  .ticker-track { display: flex; width: max-content; animation: tickerscroll 45s linear infinite; }
+  .ticker-wrap:hover .ticker-track { animation-play-state: paused; }
+  .ticker-group { display: flex; }
+  .ti { display: inline-flex; align-items: center; gap: 7px; padding: 0 20px;
+    font-size: 13px; color: var(--muted); white-space: nowrap; }
+  .ti b { color: var(--txt); font-weight: 600; }
+  @keyframes tickerscroll { to { transform: translateX(-50%); } }
   .chg.up { color: var(--green); } .chg.down { color: var(--red); }
   .live-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green);
     box-shadow: 0 0 0 0 rgba(46,204,113,.6); animation: pulse 1.8s infinite; display: inline-block; }
@@ -131,11 +137,7 @@
 <body>
 <div class="wrap">
 
-  <div class="ticker" id="ticker">
-    <span><span class="live-dot"></span> Live</span>
-    <span>BTC <b id="btc">…</b> <span id="btcc" class="chg"></span></span>
-    <span>ETH <b id="eth">…</b> <span id="ethc" class="chg"></span></span>
-  </div>
+  <div class="ticker-wrap"><div class="ticker-track" id="ticker-track"></div></div>
 
   <div class="brand">
     <div class="logo"><img src="avatar.svg" alt="ZroCrypto logo" /></div>
@@ -277,12 +279,28 @@ async function loadPrices() {
       btc: { price: d.bitcoin.usd, change: d.bitcoin.usd_24h_change },
       eth: { price: d.ethereum.usd, change: d.ethereum.usd_24h_change },
     };
-    setTicker('btc', 'btcc', LIVE.btc);
-    setTicker('eth', 'ethc', LIVE.eth);
-  } catch (e) {
-    document.getElementById('btc').textContent = 'n/a';
-    document.getElementById('eth').textContent = 'n/a';
-  }
+  } catch (e) { LIVE = null; }
+}
+
+function tickerItems() {
+  const p = LIVE || { btc: { price: 60061, change: 0.1 }, eth: { price: 1578, change: 0.4 } };
+  const fng = FNG || { value: 18, hy: 'Ծայրահեղ վախ', dot: '🔴' };
+  const rt = RATES || SAMPLE_RATES;
+  const chg = c => `<span class="chg ${c >= 0 ? 'up' : 'down'}">${fmtChg(c)}</span>`;
+  const out = [
+    `<span class="ti"><span class="live-dot"></span> Live</span>`,
+    `<span class="ti">BTC <b>${fmtUsd(p.btc.price)}</b> ${chg(p.btc.change)}</span>`,
+    `<span class="ti">ETH <b>${fmtUsd(p.eth.price)}</b> ${chg(p.eth.change)}</span>`,
+    `<span class="ti">${fng.dot} F&amp;G <b>${fng.value}</b></span>`,
+  ];
+  rt.fiat.forEach(f => out.push(`<span class="ti">${f.code} <b>${fmtAmd(f.amd)} ֏</b></span>`));
+  rt.metals.forEach(m => out.push(`<span class="ti">${m.emoji} <b>${fmtDram(m.amdPerGram)} ֏/գ</b></span>`));
+  return out.join('');
+}
+function buildTicker() {
+  const g = tickerItems();
+  document.getElementById('ticker-track').innerHTML =
+    `<div class="ticker-group">${g}</div><div class="ticker-group">${g}</div>`;
 }
 async function loadFng() {
   try {
@@ -313,13 +331,6 @@ async function loadRates() {
     RATES = { fiat, metals };
   } catch (e) { RATES = null; }
 }
-function setTicker(idP, idC, v) {
-  document.getElementById(idP).textContent = fmtUsd(v.price);
-  const c = document.getElementById(idC);
-  c.textContent = fmtChg(v.change);
-  c.className = 'chg ' + (v.change >= 0 ? 'up' : 'down');
-}
-
 function digestHtml() {
   const today = new Date();
   const date = today.getDate() + ' ' + HY_MONTHS[today.getMonth()];
@@ -384,9 +395,8 @@ async function runDemo() {
 }
 
 document.getElementById('run').addEventListener('click', runDemo);
-loadPrices();
-loadFng();
-loadRates();
+buildTicker();
+Promise.all([loadPrices(), loadFng(), loadRates()]).then(buildTicker);
 </script>
 </body>
 </html>
