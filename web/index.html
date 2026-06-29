@@ -4,6 +4,11 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>ZroCrypto — Կրիպտո օրվա ամփոփում</title>
+<meta name="description" content="Armenian crypto news digest bot — RSS + CoinGecko + Gemini Flash, posted to Telegram twice a day." />
+<link rel="icon" type="image/svg+xml" href="avatar.svg" />
+<meta property="og:title" content="ZroCrypto — Կրիպտո օրվա ամփոփում" />
+<meta property="og:description" content="Crypto news → noise filter → Armenian digest, twice a day on Telegram." />
+<meta property="og:image" content="avatar.svg" />
 <style>
   :root {
     --bg: #0b0e14;
@@ -44,9 +49,8 @@
 
   /* ---- hero ---- */
   .brand { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
-  .logo { width: 40px; height: 40px; border-radius: 12px;
-    background: linear-gradient(135deg, var(--accent), var(--accent-2));
-    display: grid; place-items: center; font-size: 20px; }
+  .logo { width: 44px; height: 44px; border-radius: 50%; overflow: hidden; flex: none; }
+  .logo img { width: 100%; height: 100%; display: block; }
   h1 { font-size: 30px; margin: 0; letter-spacing: -.5px; }
   .tag { color: var(--muted); margin: 6px 0 0; max-width: 620px; }
   .tag b { color: var(--txt); font-weight: 600; }
@@ -129,7 +133,7 @@
   </div>
 
   <div class="brand">
-    <div class="logo">⚡</div>
+    <div class="logo"><img src="avatar.svg" alt="ZroCrypto logo" /></div>
     <div>
       <h1>ZroCrypto</h1>
     </div>

@@ -52,8 +52,9 @@ price moves. It self-skips until at least 2 days of history exist. The daily wor
 ## Demo site
 
 `web/index.html` — a self-contained page that visualizes the pipeline with **live**
-BTC/ETH prices and a Telegram-style digest preview. Open it directly or host it
-statically (GitHub Pages, Netlify, the zromek.de server).
+BTC/ETH prices and a Telegram-style digest preview. Deployed to GitHub Pages via
+`pages.yml`: **https://dstepanian.github.io/ZroCrypto/** (one-time: Settings → Pages →
+Source → "GitHub Actions").
 
 ## Structure
 
