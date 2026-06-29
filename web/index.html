@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="hy">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>ZroCrypto — Կրիպտո օրվա ամփոփում</title>
+<style>
+  :root {
+    --bg: #0b0e14;
+    --panel: #131826;
+    --panel-2: #1a2033;
+    --line: #232a3d;
+    --txt: #e7ecf5;
+    --muted: #8b97b0;
+    --accent: #4f8cff;
+    --accent-2: #7c5cff;
+    --green: #2ecc71;
+    --red: #ff5b6e;
+    --radius: 16px;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, "Segoe UI", system-ui, "Noto Sans Armenian", sans-serif;
+    background: radial-gradient(1100px 500px at 85% -15%, #19213a 0%, transparent 55%), var(--bg);
+    color: var(--txt);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 28px 20px 60px; }
+
+  /* ---- top ticker ---- */
+  .ticker {
+    display: flex; gap: 18px; align-items: center; flex-wrap: wrap;
+    font-size: 13px; color: var(--muted);
+    border: 1px solid var(--line); background: var(--panel);
+    border-radius: 999px; padding: 8px 16px; width: fit-content; margin-bottom: 30px;
+  }
+  .ticker b { color: var(--txt); font-weight: 600; }
+  .chg.up { color: var(--green); } .chg.down { color: var(--red); }
+  .live-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green);
+    box-shadow: 0 0 0 0 rgba(46,204,113,.6); animation: pulse 1.8s infinite; display: inline-block; }
+  @keyframes pulse { 0%{box-shadow:0 0 0 0 rgba(46,204,113,.5)} 70%{box-shadow:0 0 0 7px rgba(46,204,113,0)} 100%{box-shadow:0 0 0 0 rgba(46,204,113,0)} }
+
+  /* ---- hero ---- */
+  .brand { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
+  .logo { width: 40px; height: 40px; border-radius: 12px;
+    background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    display: grid; place-items: center; font-size: 20px; }
+  h1 { font-size: 30px; margin: 0; letter-spacing: -.5px; }
+  .tag { color: var(--muted); margin: 6px 0 0; max-width: 620px; }
+  .tag b { color: var(--txt); font-weight: 600; }
+
+  .grid { display: grid; grid-template-columns: 1.15fr .85fr; gap: 22px; margin-top: 34px; }
+  @media (max-width: 860px){ .grid { grid-template-columns: 1fr; } }
+
+  .panel { background: var(--panel); border: 1px solid var(--line);
+    border-radius: var(--radius); padding: 20px; }
+  .panel h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .12em;
+    color: var(--muted); margin: 0 0 16px; font-weight: 600; }
+
+  /* ---- pipeline ---- */
+  .pipe { display: flex; flex-direction: column; gap: 10px; }
+  .node { display: flex; align-items: center; gap: 14px;
+    background: var(--panel-2); border: 1px solid var(--line);
+    border-radius: 12px; padding: 12px 14px; transition: .35s; opacity: .55; }
+  .node .ic { width: 34px; height: 34px; border-radius: 9px; display: grid; place-items: center;
+    background: #0e1422; font-size: 17px; flex: none; }
+  .node .meta { flex: 1; min-width: 0; }
+  .node .t { font-weight: 600; font-size: 14px; }
+  .node .s { font-size: 12.5px; color: var(--muted); }
+  .node .badge { font-size: 11px; color: var(--muted); border: 1px solid var(--line);
+    padding: 2px 8px; border-radius: 999px; }
+  .node.active { opacity: 1; border-color: var(--accent);
+    box-shadow: 0 0 0 1px var(--accent), 0 8px 30px -12px var(--accent); }
+  .node.done { opacity: 1; }
+  .node.done .badge { color: var(--green); border-color: rgba(46,204,113,.4); }
+  .arrow { height: 14px; width: 2px; background: var(--line); margin-left: 30px; }
+
+  .runbar { display: flex; align-items: center; gap: 12px; margin-top: 18px; }
+  button.run { background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    color: #fff; border: 0; padding: 11px 20px; font-size: 14px; font-weight: 600;
+    border-radius: 11px; cursor: pointer; transition: .2s; }
+  button.run:hover { filter: brightness(1.08); transform: translateY(-1px); }
+  button.run:disabled { opacity: .5; cursor: default; transform: none; }
+  .status { font-size: 13px; color: var(--muted); }
+
+  /* ---- telegram digest card ---- */
+  .phone { background: var(--panel-2); border: 1px solid var(--line);
+    border-radius: var(--radius); padding: 16px; }
+  .tg-head { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+  .tg-ava { width: 36px; height: 36px; border-radius: 50%;
+    background: linear-gradient(135deg,#4f8cff,#7c5cff); display: grid; place-items: center; font-size: 16px; }
+  .tg-name { font-weight: 600; font-size: 14px; }
+  .tg-name span { display: block; font-size: 11.5px; color: var(--muted); font-weight: 400; }
+  .bubble { background: #0e1422; border: 1px solid var(--line); border-radius: 14px 14px 14px 4px;
+    padding: 14px 15px; font-size: 14px; white-space: pre-wrap; word-break: break-word; }
+  .bubble .hl { font-weight: 700; }
+  .bubble .row { display: flex; gap: 7px; align-items: baseline; }
+  .price-up { color: var(--green); } .price-down { color: var(--red); }
+  .bubble .ov { margin: 12px 0; padding: 11px 12px; border-radius: 10px;
+    background: #0a0f1a; border: 1px solid var(--line); }
+  .bubble .gauge { font-size: 13.5px; }
+  .bubble .take { font-size: 13px; color: #c7d0e0; margin-top: 6px; }
+  .bubble .news { margin-top: 12px; }
+  .bubble .sep { color: var(--line); letter-spacing: 1px; margin-top: 14px; overflow: hidden; }
+  .bubble .foot { color: var(--muted); font-size: 12.5px; margin-top: 6px; }
+  .skeleton { color: var(--muted); }
+  .tg-time { font-size: 11px; color: var(--muted); text-align: right; margin-top: 6px; }
+
+  /* ---- footer chips ---- */
+  .chips { display: flex; gap: 9px; flex-wrap: wrap; margin-top: 28px; }
+  .chip { font-size: 12.5px; color: var(--muted); border: 1px solid var(--line);
+    background: var(--panel); border-radius: 999px; padding: 6px 13px; }
+  footer { margin-top: 30px; color: var(--muted); font-size: 13px; }
+  footer a { color: var(--accent); text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="ticker" id="ticker">
+    <span><span class="live-dot"></span> Live</span>
+    <span>BTC <b id="btc">…</b> <span id="btcc" class="chg"></span></span>
+    <span>ETH <b id="eth">…</b> <span id="ethc" class="chg"></span></span>
+  </div>
+
+  <div class="brand">
+    <div class="logo">⚡</div>
+    <div>
+      <h1>ZroCrypto</h1>
+    </div>
+  </div>
+  <p class="tag">Crypto news → noise filter → <b>Armenian digest</b>, posted to Telegram twice a day.
+     RSS aggregation + CoinGecko prices + Gemini Flash curation. Runs free on a GitHub Actions cron.</p>
+
+  <div class="grid">
+    <!-- LEFT: pipeline -->
+    <div class="panel">
+      <h2>How a digest is built</h2>
+      <div class="pipe" id="pipe">
+        <div class="node" data-step="0">
+          <div class="ic">📡</div>
+          <div class="meta"><div class="t">RSS aggregator</div>
+            <div class="s">6 sources · last 24h · dedupe</div></div>
+          <div class="badge">step 1</div>
+        </div>
+        <div class="arrow"></div>
+        <div class="node" data-step="1">
+          <div class="ic">💰</div>
+          <div class="meta"><div class="t">CoinGecko snapshot</div>
+            <div class="s">BTC / ETH price + 24h change</div></div>
+          <div class="badge">step 2</div>
+        </div>
+        <div class="arrow"></div>
+        <div class="node" data-step="2">
+          <div class="ic">🧠</div>
+          <div class="meta"><div class="t">Gemini Flash curation</div>
+            <div class="s">pick 4–6, translate to Armenian</div></div>
+          <div class="badge">step 3</div>
+        </div>
+        <div class="arrow"></div>
+        <div class="node" data-step="3">
+          <div class="ic">🧩</div>
+          <div class="meta"><div class="t">Formatter</div>
+            <div class="s">build the digest message</div></div>
+          <div class="badge">step 4</div>
+        </div>
+        <div class="arrow"></div>
+        <div class="node" data-step="4">
+          <div class="ic">✈️</div>
+          <div class="meta"><div class="t">Telegram post</div>
+            <div class="s">one clean message to @channel</div></div>
+          <div class="badge">step 5</div>
+        </div>
+      </div>
+      <div class="runbar">
+        <button class="run" id="run">▶ Run demo</button>
+        <span class="status" id="status">Idle — press run to watch the pipeline.</span>
+      </div>
+    </div>
+
+    <!-- RIGHT: telegram preview -->
+    <div class="panel">
+      <h2>Output preview</h2>
+      <div class="phone">
+        <div class="tg-head">
+          <div class="tg-ava">⚡</div>
+          <div class="tg-name">ZroCrypto<span id="tg-handle">@yourchannel</span></div>
+        </div>
+        <div class="bubble" id="bubble">
+          <span class="skeleton">Press “Run demo” to generate today’s digest…</span>
+        </div>
+        <div class="tg-time" id="tg-time"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="chips">
+    <span class="chip">Node.js</span>
+    <span class="chip">rss-parser</span>
+    <span class="chip">CoinGecko API</span>
+    <span class="chip">Gemini Flash</span>
+    <span class="chip">Telegram Bot API</span>
+    <span class="chip">GitHub Actions · cron</span>
+    <span class="chip">$0 / month</span>
+  </div>
+
+  <footer>
+    Demo for <a href="https://zromek.de" target="_blank" rel="noopener">zromek.de</a> ·
+    prices are live from CoinGecko · news shown is a sample of Gemini output.
+  </footer>
+</div>
+
+<script>
+const HY_MONTHS = ['հունվարի','փետրվարի','մարտի','ապրիլի','մայիսի','հունիսի',
+  'հուլիսի','օգոստոսի','սեպտեմբերի','հոկտեմբերի','նոյեմբերի','դեկտեմբերի'];
+const fmtUsd = n => '$' + Math.round(n).toLocaleString('en-US');
+const fmtChg = c => (c >= 0 ? '+' : '') + c.toFixed(1) + '%';
+
+let LIVE = null; // { btc:{price,change}, eth:{price,change} }
+let FNG = null;  // { value, hy, dot }
+
+const FNG_MAP = {
+  'Extreme Fear': { hy: 'Ծայրահեղ վախ', dot: '🔴' },
+  'Fear': { hy: 'Վախ', dot: '🟠' },
+  'Neutral': { hy: 'Չեզոք', dot: '🟡' },
+  'Greed': { hy: 'Ագահություն', dot: '🟢' },
+  'Extreme Greed': { hy: 'Ծայրահեղ ագահություն', dot: '🟢' },
+};
+
+// Sample AI overview (what Gemini's "overview" field returns) — Armenian.
+const SAMPLE_OVERVIEW = 'Օրն անցավ զգուշավոր տրամադրությամբ՝ կարգավորող ճնշումների և Bitcoin ETF-ներից արտահոսքերի ֆոնին, մինչդեռ առանձին ընկերություններ ընդլայնում են ներդրումները։';
+
+// Sample curated news (what Gemini returns) — Armenian.
+const SAMPLE_NEWS = [
+  'BlackRock-ը ավելացրել է իր Bitcoin ETF-ի ծավալը՝ նոր ռեկորդային ներհոսքով։',
+  'SEC-ը կրկին հետաձգել է Solana-ի սպոթ ETF-ի վերաբերյալ որոշումը։',
+  'Binance-ը ներկայացրել է staking-ի նոր արտադրանք՝ բարձր եկամտաբերությամբ։',
+  'Ethereum-ի ցանցում gas-ի վճարները նվազել են վերջին թարմացումից հետո։',
+];
+
+async function loadPrices() {
+  try {
+    const r = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true');
+    const d = await r.json();
+    LIVE = {
+      btc: { price: d.bitcoin.usd, change: d.bitcoin.usd_24h_change },
+      eth: { price: d.ethereum.usd, change: d.ethereum.usd_24h_change },
+    };
+    setTicker('btc', 'btcc', LIVE.btc);
+    setTicker('eth', 'ethc', LIVE.eth);
+  } catch (e) {
+    document.getElementById('btc').textContent = 'n/a';
+    document.getElementById('eth').textContent = 'n/a';
+  }
+}
+async function loadFng() {
+  try {
+    const r = await fetch('https://api.alternative.me/fng/?limit=1');
+    const row = (await r.json()).data[0];
+    const m = FNG_MAP[row.value_classification] || { hy: row.value_classification, dot: '⚪' };
+    FNG = { value: Number(row.value), hy: m.hy, dot: m.dot };
+  } catch (e) { FNG = null; }
+}
+function setTicker(idP, idC, v) {
+  document.getElementById(idP).textContent = fmtUsd(v.price);
+  const c = document.getElementById(idC);
+  c.textContent = fmtChg(v.change);
+  c.className = 'chg ' + (v.change >= 0 ? 'up' : 'down');
+}
+
+function digestHtml() {
+  const today = new Date();
+  const date = today.getDate() + ' ' + HY_MONTHS[today.getMonth()];
+  const p = LIVE || { btc:{price:62400,change:-2.1}, eth:{price:3410,change:1.4} };
+  const priceRow = (label, v, withSuffix) => {
+    const up = v.change >= 0;
+    return `<div class="row">${up ? '🟢' : '🔴'} <b>${label}</b>&nbsp;&nbsp;${fmtUsd(v.price)}&nbsp;&nbsp;•&nbsp;&nbsp;` +
+      `<span class="${up ? 'price-up' : 'price-down'}">${fmtChg(v.change)}</span>` +
+      `${withSuffix ? '<span style="color:var(--muted)">&nbsp;վերջին 24 ժ</span>' : ''}</div>`;
+  };
+  const news = SAMPLE_NEWS.map(n => `<div class="news">🔸 ${n}</div>`).join('');
+  const handle = document.getElementById('tg-handle').textContent;
+  const fng = FNG || { value: 18, hy: 'Ծայրահեղ վախ', dot: '🔴' };
+  const overviewBlock =
+    `<div class="ov"><div class="gauge">🧭 <b>Տրամադրություն՝</b> ${fng.dot} ${fng.hy} — ${fng.value}/100</div>` +
+    `<div class="take">🧠 ${SAMPLE_OVERVIEW}</div></div>`;
+  return `<div class="hl">📊 Կրիպտո օրվա ամփոփում — ${date}</div>` +
+    overviewBlock +
+    priceRow('Bitcoin', p.btc, true) +
+    priceRow('Ethereum', p.eth, false) +
+    `<br><div class="hl">📰 Գլխավոր նորություններ</div>` + news +
+    `<div class="sep">➖➖➖➖➖➖➖➖</div>` +
+    `<div class="foot">⚡ <b>zromek.de</b>&nbsp;&nbsp;|&nbsp;&nbsp;${handle}</div>`;
+}
+
+const steps = [...document.querySelectorAll('.node')];
+const STEP_MSGS = [
+  'Fetching RSS… 38 items in the last 24h',
+'CoinGecko + Fear & Greed… mood loaded',
+  'Gemini Flash… picking 4–6, writing Armenian',
+  'Formatting digest message…',
+  'Posting to Telegram… ✓ sent',
+];
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+async function runDemo() {
+  const btn = document.getElementById('run');
+  const status = document.getElementById('status');
+  const bubble = document.getElementById('bubble');
+  btn.disabled = true;
+  steps.forEach(s => s.classList.remove('active', 'done'));
+  bubble.innerHTML = '<span class="skeleton">Generating…</span>';
+
+  for (let i = 0; i < steps.length; i++) {
+    steps[i].classList.add('active');
+    status.textContent = STEP_MSGS[i];
+    await sleep(820);
+    steps[i].classList.remove('active');
+    steps[i].classList.add('done');
+  }
+  bubble.innerHTML = digestHtml();
+  const t = new Date().toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
+  document.getElementById('tg-time').textContent = t + ' ✓✓';
+  status.textContent = 'Done — digest posted to the channel.';
+  btn.disabled = false;
+}
+
+document.getElementById('run').addEventListener('click', runDemo);
+loadPrices();
+loadFng();
+</script>
+</body>
+</html>

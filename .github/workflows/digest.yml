@@ -1,0 +1,31 @@
+name: Crypto Digest
+
+on:
+  schedule:
+    # Yerevan is UTC+4 (no DST). 06:00 UTC = 10:00, 16:00 UTC = 20:00 Yerevan.
+    - cron: '0 6,16 * * *'
+  workflow_dispatch: {} # allow manual "Run workflow" from the Actions tab
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Post digest
+        run: npm start
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
+          SITE_URL: ${{ vars.SITE_URL || 'zromek.de' }}
+          CHANNEL_HANDLE: ${{ vars.CHANNEL_HANDLE }}
