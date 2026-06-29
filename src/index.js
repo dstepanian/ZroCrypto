@@ -45,7 +45,9 @@ const run = async () => {
   console.log(`[zrocrypto] posted message ${result.message_id} to ${config.channel}`);
 };
 
-run().catch((e) => {
-  console.error('[zrocrypto] fatal:', e);
-  process.exit(1);
-});
+run()
+  .then(() => process.exit(0)) // fetch keep-alive sockets would otherwise hang the process
+  .catch((e) => {
+    console.error('[zrocrypto] fatal:', e);
+    process.exit(1);
+  });
