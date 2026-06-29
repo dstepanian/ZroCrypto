@@ -38,6 +38,11 @@ const esc = (s = '') =>
 
 const fmtPrice = (n) => '$' + Math.round(n).toLocaleString('en-US');
 const fmtChange = (c) => `${c >= 0 ? '+' : ''}${c.toFixed(1)}%`;
+// Directional change with an arrow instead of a sign, e.g. "↑0.6%" / "↓0.0%".
+const fmtArrow = (c) => `${c >= 0 ? '↑' : '↓'}${Math.abs(c).toFixed(1)}%`;
+
+const COIN_EMOJI = { Bitcoin: '🟠', Ethereum: '🔷' };
+const coinEmoji = (label) => COIN_EMOJI[label] || '🔹';
 
 // Build the Telegram digest message (HTML parse mode).
 // Airy layout: blank lines between blocks, 🔸 markers, bold labels.
@@ -47,33 +52,35 @@ export const formatDigest = ({ prices = [], items = [], overview = '', sentiment
   out.push(`📊 <b>Կրիպտո օրվա ամփոփում — ${date || yerevanDate()}</b>`);
   out.push('');
 
-  // Day overview: mood gauge + AI big-picture line.
+  // Day overview: mood gauge, then a blank line, then the AI big-picture line.
   if (sentiment) {
     out.push(`🧭 <b>Տրամադրություն՝</b> ${sentiment.dot} ${esc(sentiment.hy)} — ${sentiment.value}/100`);
+    out.push('');
   }
   if (overview) {
     out.push(`🧠 ${esc(overview)}`);
-  }
-  if (sentiment || overview) out.push('');
-
-  prices.forEach((p, i) => {
-    const dot = p.change24h >= 0 ? '🟢' : '🔴';
-    const suffix = i === 0 ? ' <i>վերջին 24 ժ</i>' : '';
-    out.push(`${dot} <b>${esc(p.label)}</b>  ${fmtPrice(p.price)}  •  ${fmtChange(p.change24h)}${suffix}`);
-  });
-
-  if (items.length) {
     out.push('');
+  }
+
+  // News first...
+  if (items.length) {
     out.push('📰 <b>Գլխավոր նորություններ</b>');
     out.push('');
     items.forEach((it) => {
       out.push(`🔸 ${esc(it.summary || it.headline)}`);
-      out.push(''); // breathing room between stories
+      out.push(''); // breathing room between stories (and before the prices block)
     });
-    out.pop(); // drop the trailing blank line
   }
 
-  out.push('');
+  // ...prices as a reference block at the bottom.
+  if (prices.length) {
+    out.push('💱 <b>Փոխարժեքներ</b>  <i>24 ժ</i>');
+    prices.forEach((p) => {
+      out.push(`${coinEmoji(p.label)} <b>${esc(p.label)}</b> — ${fmtPrice(p.price)} (${fmtArrow(p.change24h)})`);
+    });
+    out.push('');
+  }
+
   out.push('➖➖➖➖➖➖➖➖➖➖');
   const handle = config.channelHandle ? `  |  ${esc(config.channelHandle)}` : '';
   out.push(`⚡ <b>${esc(config.siteUrl)}</b>${handle}`);
@@ -125,8 +132,7 @@ export const formatWeekly = (history, { overview = '', highlights = [] }) => {
     out.push('');
     out.push('💰 <b>Շաբաթվա ընթացքում</b>');
     moves.forEach(([label, w]) => {
-      const dot = w.pct >= 0 ? '🟢' : '🔴';
-      out.push(`${dot} <b>${esc(label)}</b>  ${fmtPrice(w.from)} → ${fmtPrice(w.to)}  •  ${fmtChange(w.pct)}`);
+      out.push(`${coinEmoji(label)} <b>${esc(label)}</b>  ${fmtPrice(w.from)} → ${fmtPrice(w.to)} (${fmtArrow(w.pct)})`);
     });
   }
 

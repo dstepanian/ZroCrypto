@@ -103,6 +103,9 @@
   .bubble .gauge { font-size: 13.5px; }
   .bubble .take { font-size: 13px; color: #c7d0e0; margin-top: 6px; }
   .bubble .news { margin-top: 12px; }
+  .bubble .prices-h { margin-top: 16px; }
+  .bubble .muted24 { color: var(--muted); font-size: 12px; font-weight: 400; font-style: italic; }
+  .bubble .row { margin-top: 4px; }
   .bubble .sep { color: var(--line); letter-spacing: 1px; margin-top: 14px; overflow: hidden; }
   .bubble .foot { color: var(--muted); font-size: 12.5px; margin-top: 6px; }
   .skeleton { color: var(--muted); }
@@ -274,23 +277,24 @@ function digestHtml() {
   const today = new Date();
   const date = today.getDate() + ' ' + HY_MONTHS[today.getMonth()];
   const p = LIVE || { btc:{price:62400,change:-2.1}, eth:{price:3410,change:1.4} };
-  const priceRow = (label, v, withSuffix) => {
-    const up = v.change >= 0;
-    return `<div class="row">${up ? '🟢' : '🔴'} <b>${label}</b>&nbsp;&nbsp;${fmtUsd(v.price)}&nbsp;&nbsp;•&nbsp;&nbsp;` +
-      `<span class="${up ? 'price-up' : 'price-down'}">${fmtChg(v.change)}</span>` +
-      `${withSuffix ? '<span style="color:var(--muted)">&nbsp;վերջին 24 ժ</span>' : ''}</div>`;
-  };
+  const COIN = { Bitcoin: '🟠', Ethereum: '🔷' };
+  const arrow = c => (c >= 0 ? '↑' : '↓') + Math.abs(c).toFixed(1) + '%';
+  const priceRow = (label, v) =>
+    `<div class="row">${COIN[label] || '🔹'} <b>${label}</b> — ${fmtUsd(v.price)} ` +
+    `<span class="${v.change >= 0 ? 'price-up' : 'price-down'}">(${arrow(v.change)})</span></div>`;
   const news = SAMPLE_NEWS.map(n => `<div class="news">🔸 ${n}</div>`).join('');
   const handle = document.getElementById('tg-handle').textContent;
   const fng = FNG || { value: 18, hy: 'Ծայրահեղ վախ', dot: '🔴' };
   const overviewBlock =
     `<div class="ov"><div class="gauge">🧭 <b>Տրամադրություն՝</b> ${fng.dot} ${fng.hy} — ${fng.value}/100</div>` +
     `<div class="take">🧠 ${SAMPLE_OVERVIEW}</div></div>`;
+  const pricesBlock =
+    `<div class="hl prices-h">💱 Փոխարժեքներ <span class="muted24">24 ժ</span></div>` +
+    priceRow('Bitcoin', p.btc) + priceRow('Ethereum', p.eth);
   return `<div class="hl">📊 Կրիպտո օրվա ամփոփում — ${date}</div>` +
     overviewBlock +
-    priceRow('Bitcoin', p.btc, true) +
-    priceRow('Ethereum', p.eth, false) +
-    `<br><div class="hl">📰 Գլխավոր նորություններ</div>` + news +
+    `<div class="hl">📰 Գլխավոր նորություններ</div>` + news +
+    pricesBlock +
     `<div class="sep">➖➖➖➖➖➖➖➖</div>` +
     `<div class="foot">⚡ <b>zromek.de</b>&nbsp;&nbsp;|&nbsp;&nbsp;${handle}</div>`;
 }

@@ -35,7 +35,7 @@ const run = async () => {
   if (config.dry) {
     if (config.print) {
       console.log('\n----- DIGEST PREVIEW -----\n');
-      console.log(text.replace(/<\/?b>/g, ''));
+      console.log(text.replace(/<\/?[bi]>/g, ''));
       console.log('\n--------------------------\n');
     }
     console.log('[zrocrypto] dry run — not posting');
