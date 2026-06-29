@@ -101,11 +101,17 @@
   @keyframes flowDown { 0% { top: -3px; opacity: 0; } 20% { opacity: 1; } 80% { opacity: 1; } 100% { top: 22px; opacity: 0; } }
 
   .runbar { display: flex; align-items: center; gap: 12px; margin-top: 18px; }
-  button.run { background: linear-gradient(135deg, var(--accent), var(--accent-2));
-    color: #fff; border: 0; padding: 11px 20px; font-size: 14px; font-weight: 600;
-    border-radius: 11px; cursor: pointer; transition: .2s; min-width: 112px; }
-  button.run:hover { filter: brightness(1.08); transform: translateY(-1px); }
+  button.run { display: inline-flex; align-items: center; justify-content: center; gap: 9px;
+    min-width: 126px; background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    color: #fff; border: 1px solid rgba(255,255,255,.14); padding: 10px 17px;
+    font-size: 14px; font-weight: 700; border-radius: 999px; cursor: pointer;
+    box-shadow: 0 10px 26px -16px var(--accent); transition: .2s; }
+  button.run:hover { filter: brightness(1.08); transform: translateY(-1px); box-shadow: 0 14px 30px -16px var(--accent); }
   button.run:disabled { opacity: .5; cursor: default; transform: none; }
+  button.run.is-paused { background: #20283c; color: #d7deec; box-shadow: none; }
+  .run-icon { width: 24px; height: 24px; display: grid; place-items: center;
+    background: rgba(255,255,255,.16); border-radius: 50%; line-height: 1; font-size: 12px; }
+  button.run.is-paused .run-icon { background: rgba(79,140,255,.18); color: #9fbcff; }
   .status { font-size: 13px; color: var(--muted); }
 
   /* ---- telegram digest card ---- */
@@ -198,7 +204,7 @@
         </div>
       </div>
       <div class="runbar">
-        <button class="run" id="run">⏸ Pause</button>
+        <button class="run" id="run"><span class="run-icon">⏸</span><span class="run-label">Pause</span></button>
         <span class="status" id="status">Running — building digests on a loop…</span>
       </div>
     </div>
@@ -415,7 +421,9 @@ async function machineLoop() {
 
 btn.addEventListener('click', () => {
   running = !running;
-  btn.textContent = running ? '⏸ Pause' : '▶ Resume';
+  btn.querySelector('.run-icon').textContent = running ? '⏸' : '▶';
+  btn.querySelector('.run-label').textContent = running ? 'Pause' : 'Resume';
+  btn.classList.toggle('is-paused', !running);
   pipe.classList.toggle('paused', !running);
   if (!running) status.textContent = 'Paused — press resume to keep the machine running.';
 });
