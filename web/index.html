@@ -90,7 +90,15 @@
     box-shadow: 0 0 0 1px var(--accent), 0 8px 30px -12px var(--accent); }
   .node.done { opacity: 1; }
   .node.done .badge { color: var(--green); border-color: rgba(46,204,113,.4); }
-  .arrow { height: 14px; width: 2px; background: var(--line); margin-left: 30px; }
+  .arrow { position: relative; height: 22px; width: 2px; background: var(--line); margin-left: 30px; }
+  .arrow::after { content: ''; position: absolute; left: 50%; transform: translateX(-50%); top: 0;
+    width: 7px; height: 7px; border-radius: 50%; background: var(--accent);
+    box-shadow: 0 0 10px 1px var(--accent); animation: flowDown 1.5s linear infinite; }
+  .pipe > .arrow:nth-child(4)::after { animation-delay: .15s; }
+  .pipe > .arrow:nth-child(6)::after { animation-delay: .30s; }
+  .pipe > .arrow:nth-child(8)::after { animation-delay: .45s; }
+  .pipe.paused .arrow::after { animation-play-state: paused; }
+  @keyframes flowDown { 0% { top: -3px; opacity: 0; } 20% { opacity: 1; } 80% { opacity: 1; } 100% { top: 22px; opacity: 0; } }
 
   .runbar { display: flex; align-items: center; gap: 12px; margin-top: 18px; }
   button.run { background: linear-gradient(135deg, var(--accent), var(--accent-2));
@@ -190,8 +198,8 @@
         </div>
       </div>
       <div class="runbar">
-        <button class="run" id="run">▶ Run demo</button>
-        <span class="status" id="status">Idle — press run to watch the pipeline.</span>
+        <button class="run" id="run">⏸ Pause</button>
+        <span class="status" id="status">Running — building digests on a loop…</span>
       </div>
     </div>
 
@@ -204,7 +212,7 @@
           <div class="tg-name">ZroCrypto<span id="tg-handle">@yourchannel</span></div>
         </div>
         <div class="bubble" id="bubble">
-          <span class="skeleton">Press “Run demo” to generate today’s digest…</span>
+          <span class="skeleton">Starting the machine…</span>
         </div>
         <div class="tg-time" id="tg-time"></div>
       </div>
@@ -372,31 +380,49 @@ const STEP_MSGS = [
 ];
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
-async function runDemo() {
-  const btn = document.getElementById('run');
-  const status = document.getElementById('status');
-  const bubble = document.getElementById('bubble');
-  btn.disabled = true;
-  steps.forEach(s => s.classList.remove('active', 'done'));
-  bubble.innerHTML = '<span class="skeleton">Generating…</span>';
+let running = true;
+const pipe = document.getElementById('pipe');
+const btn = document.getElementById('run');
+const status = document.getElementById('status');
+const bubble = document.getElementById('bubble');
+const waitWhilePaused = async () => { while (!running) await sleep(150); };
 
-  for (let i = 0; i < steps.length; i++) {
-    steps[i].classList.add('active');
-    status.textContent = STEP_MSGS[i];
-    await sleep(820);
-    steps[i].classList.remove('active');
-    steps[i].classList.add('done');
-  }
+function renderDigest() {
   bubble.innerHTML = digestHtml();
   const t = new Date().toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
   document.getElementById('tg-time').textContent = t + ' ✓✓';
-  status.textContent = 'Done — digest posted to the channel.';
-  btn.disabled = false;
 }
 
-document.getElementById('run').addEventListener('click', runDemo);
+async function machineLoop() {
+  while (true) {
+    await waitWhilePaused();
+    steps.forEach(s => s.classList.remove('active', 'done'));
+    bubble.innerHTML = '<span class="skeleton">Assembling digest…</span>';
+    document.getElementById('tg-time').textContent = '';
+    for (let i = 0; i < steps.length; i++) {
+      await waitWhilePaused();
+      steps[i].classList.add('active');
+      status.textContent = STEP_MSGS[i];
+      await sleep(820);
+      steps[i].classList.remove('active');
+      steps[i].classList.add('done');
+    }
+    renderDigest();
+    status.textContent = 'Digest posted ✓ — next cycle…';
+    await sleep(2600);
+  }
+}
+
+btn.addEventListener('click', () => {
+  running = !running;
+  btn.textContent = running ? '⏸ Pause' : '▶ Resume';
+  pipe.classList.toggle('paused', !running);
+  if (!running) status.textContent = 'Paused — press resume to keep the machine running.';
+});
+
 buildTicker();
 Promise.all([loadPrices(), loadFng(), loadRates()]).then(buildTicker);
+machineLoop();
 </script>
 </body>
 </html>
