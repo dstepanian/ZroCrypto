@@ -109,8 +109,16 @@
   button.run:hover { filter: brightness(1.08); transform: translateY(-1px); box-shadow: 0 14px 30px -16px var(--accent); }
   button.run:disabled { opacity: .5; cursor: default; transform: none; }
   button.run.is-paused { background: #20283c; color: #d7deec; box-shadow: none; }
-  .run-icon { width: 24px; height: 24px; display: grid; place-items: center;
-    background: rgba(255,255,255,.16); border-radius: 50%; line-height: 1; font-size: 12px; }
+  .run-icon { position: relative; width: 24px; height: 24px; flex: none;
+    background: rgba(255,255,255,.16); border-radius: 50%; }
+  .run-icon::before, .run-icon::after { content: ''; position: absolute; top: 7px;
+    width: 3px; height: 10px; border-radius: 2px; background: currentColor; }
+  .run-icon::before { left: 8px; }
+  .run-icon::after { right: 8px; }
+  button.run.is-paused .run-icon::before { top: 7px; left: 9px; width: 0; height: 0;
+    border-top: 5px solid transparent; border-bottom: 5px solid transparent;
+    border-left: 8px solid currentColor; border-radius: 0; background: transparent; }
+  button.run.is-paused .run-icon::after { display: none; }
   button.run.is-paused .run-icon { background: rgba(79,140,255,.18); color: #9fbcff; }
   .status { font-size: 13px; color: var(--muted); }
 
@@ -204,7 +212,7 @@
         </div>
       </div>
       <div class="runbar">
-        <button class="run" id="run"><span class="run-icon">⏸</span><span class="run-label">Pause</span></button>
+        <button class="run" id="run"><span class="run-icon" aria-hidden="true"></span><span class="run-label">Pause</span></button>
         <span class="status" id="status">Running — building digests on a loop…</span>
       </div>
     </div>
@@ -421,7 +429,6 @@ async function machineLoop() {
 
 btn.addEventListener('click', () => {
   running = !running;
-  btn.querySelector('.run-icon').textContent = running ? '⏸' : '▶';
   btn.querySelector('.run-label').textContent = running ? 'Pause' : 'Resume';
   btn.classList.toggle('is-paused', !running);
   pipe.classList.toggle('paused', !running);
