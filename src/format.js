@@ -39,6 +39,7 @@ const esc = (s = '') =>
 const fmtPrice = (n) => '$' + Math.round(n).toLocaleString('en-US');
 const fmtChange = (c) => `${c >= 0 ? '+' : ''}${c.toFixed(1)}%`;
 const fmtAmd = (n) => (n >= 10 ? n.toFixed(1) : n.toFixed(2)); // dram: 368.1 vs 4.69
+const fmtDram = (n) => Math.round(n).toLocaleString('en-US'); // large dram amounts: 48,128
 // Directional change with an arrow instead of a sign, e.g. "↑0.6%" / "↓0.0%".
 const fmtArrow = (c) => `${c >= 0 ? '↑' : '↓'}${Math.abs(c).toFixed(1)}%`;
 
@@ -84,7 +85,10 @@ export const formatDigest = ({ prices = [], items = [], overview = '', sentiment
       out.push(`${f.flag} <b>${esc(f.code)}</b> — ${fmtAmd(f.amd)} ֏`);
     });
     (rates?.metals || []).forEach((m) => {
-      out.push(`${m.emoji} <b>${esc(m.label)}</b> — ${fmtPrice(m.usd)} <i>/ունց</i>`);
+      const val = m.amdPerGram != null
+        ? `${fmtDram(m.amdPerGram)} ֏<i>/գ</i>`
+        : `${fmtPrice(m.usdPerOz)} <i>/ունց</i>`;
+      out.push(`${m.emoji} <b>${esc(m.label)}</b> — ${val}`);
     });
     out.push('');
   }
