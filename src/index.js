@@ -10,6 +10,9 @@ import { postToTelegram, postPhotoToTelegram, postPhotoUrlToTelegram } from './p
 import { buildDailyCard } from './chart.js';
 import { appendHistory } from './history.js';
 
+// Telegram caps photo captions at 1024 characters.
+const CAPTION_LIMIT = 1024;
+
 const run = async () => {
   console.log(`[zrocrypto] starting${config.dry ? ' (dry run)' : ''}`);
 
@@ -51,37 +54,51 @@ const run = async () => {
     return;
   }
 
-  const result = await postToTelegram(text);
+  // Pick an illustration once, reused for both the channel post and the admin DM:
+  // a real lead image from the top story, falling back to a generated chart.
+  const newsImage = items.find((it) => it.image)?.image || '';
+  let chartBuffer = null;
+  const getChart = async () => {
+    if (chartBuffer) return chartBuffer;
+    try {
+      chartBuffer = await buildDailyCard(prices, { date: englishDate() });
+    } catch (e) {
+      console.warn('[zrocrypto] daily card skipped:', e.message);
+    }
+    return chartBuffer;
+  };
+
+  // Post `caption` (HTML) to `chatId`, illustrated with the lead news image
+  // (preferred) or a generated chart; degrades to text-only if both are unavailable.
+  // If the caption is too long for a photo caption, the image is sent with a short
+  // caption and the full text follows as a separate message.
+  const postIllustrated = async (caption, chatId = config.channel) => {
+    const sendWith = async (photoFn) => {
+      if (caption.length <= CAPTION_LIMIT) return photoFn(caption);
+      await photoFn('📊 ZroCrypto');
+      return postToTelegram(caption, chatId);
+    };
+
+    if (newsImage) {
+      try {
+        return await sendWith((c) => postPhotoUrlToTelegram(newsImage, c, chatId));
+      } catch (e) {
+        console.warn('[zrocrypto] news image post failed, falling back to chart:', e.message);
+      }
+    }
+    const chart = await getChart();
+    if (chart) return sendWith((c) => postPhotoToTelegram(chart, c, chatId));
+    return postToTelegram(caption, chatId);
+  };
+
+  const result = await postIllustrated(text);
   console.log(`[zrocrypto] posted message ${result.message_id} to ${config.channel}`);
 
   // DM the admin a ready-to-paste tweet + image, so X posting stays a manual,
   // human-voiced action (auto-posting to X needs paid API tiers; this doesn't).
-  // Prefer a real lead image from the top story; fall back to a generated chart,
-  // then to text-only if both fail.
   if (config.adminChatId) {
     try {
-      const newsImage = items.find((it) => it.image)?.image || '';
-      let sent = false;
-
-      if (newsImage) {
-        try {
-          await postPhotoUrlToTelegram(newsImage, tweet, config.adminChatId);
-          sent = true;
-        } catch (e) {
-          console.warn('[zrocrypto] news image send failed, falling back to chart:', e.message);
-        }
-      }
-
-      if (!sent) {
-        let card = null;
-        try {
-          card = await buildDailyCard(prices, { date: englishDate() });
-        } catch (e) {
-          console.warn('[zrocrypto] daily card skipped:', e.message);
-        }
-        if (card) await postPhotoToTelegram(card, tweet, config.adminChatId);
-        else await postToTelegram(tweet, config.adminChatId);
-      }
+      await postIllustrated(tweet, config.adminChatId);
       console.log('[zrocrypto] sent tweet draft to admin chat');
     } catch (e) {
       console.warn('[zrocrypto] admin DM failed:', e.message);

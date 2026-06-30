@@ -115,16 +115,22 @@ export const formatDigest = ({ prices = [], items = [], overview = '', sentiment
 export const englishDate = (d = new Date()) =>
   new Intl.DateTimeFormat('en-US', { timeZone: 'Asia/Yerevan', month: 'long', day: 'numeric' }).format(d);
 
+// Normalize whatever channel identifier we have (e.g. "@zrocry", "zrocry",
+// "https://t.me/zrocry") down to the exact "t.me/zrocry" form.
+const telegramLink = () => {
+  const raw = config.channel || config.channelHandle || '';
+  const slug = raw.replace(/^(https?:\/\/)?t\.me\//i, '').replace(/^@/, '');
+  return slug ? `t.me/${slug}` : '';
+};
+
 // X (Twitter) hard character cap.
 const TWEET_LIMIT = 280;
 
 // Build a short, plain-text, English, X-ready version of the daily digest for manual
 // posting. No HTML — X doesn't support it. Hashtags go last so a truncation (rare,
 // since this comfortably fits in 280 chars) drops them before anything that matters.
-export const formatTweet = ({ prices = [], items = [], sentiment = null }, { date } = {}) => {
+export const formatTweet = ({ prices = [], items = [], sentiment = null }) => {
   const lines = [];
-  lines.push(`📊 Daily Crypto Digest — ${date || englishDate()}`);
-  lines.push('');
 
   if (sentiment) lines.push(`${sentiment.dot} Fear & Greed: ${sentiment.value}/100 (${sentiment.label})`);
 
@@ -139,7 +145,7 @@ export const formatTweet = ({ prices = [], items = [], sentiment = null }, { dat
     lines.push('');
   }
 
-  const handle = config.channelHandle || (config.channel ? `t.me/${config.channel.replace(/^@/, '')}` : '');
+  const handle = telegramLink();
   if (handle) lines.push(`📲 Join: ${handle}`);
   lines.push('#Bitcoin #Crypto #Ethereum');
 
