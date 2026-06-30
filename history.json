@@ -50,7 +50,7 @@
   },
   {
     "date": "2026-06-30",
-    "ts": 1782841650347,
+    "ts": 1782849576250,
     "fng": {
       "value": 15,
       "label": "Extreme Fear",
@@ -60,52 +60,52 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 58281,
-        "change24h": -3.636894083906302
+        "price": 58691,
+        "change24h": -2.774937880603873
       },
       {
         "label": "Ethereum",
-        "price": 1568.14,
-        "change24h": -3.7966321646353283
+        "price": 1577.11,
+        "change24h": -2.8510844950770817
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է stablecoin-ների ոլորտում նորարարություններով և կարգավորող մարմինների զարգացումներով, ինչպես նաև ինստիտուցիոնալ ներդրումների աճով։ Չնայած Bitcoin ETF-ների արտահոսքին, նոր ապրանքների և կարգավորումների շուրջ դրական տեղաշարժեր կան։",
+    "overview": "Օրվա նորությունները գերակշտրում են ստաբիլքոյնների շուկայի զգալի զարգացումներով, որտեղ հայտնվել է նոր խոշոր խաղացող, ինչպես նաև կարևոր կարգավորող թարմացումներով և թոքենացված ակտիվների ինստիտուցիոնալ ընդունման աճով։",
     "items": [
       {
-        "headline": "Նոր Open USD stablecoin-ի մեկնարկը",
-        "summary": "Ավելի քան 140 ընկերություններ, ներառյալ Coinbase-ը, Visa-ն և Stripe-ը, գործարկում են Open USD անունով նոր stablecoin՝ նպատակ ունենալով հեշտացնել միջսահմանային փոխանցումները։",
+        "headline": "Նոր Open USD ստաբիլքոյնի գործարկում",
+        "summary": "Ավելի քան 140 ընկերություններ, ներառյալ Visa-ն, Coinbase-ը և Stripe-ը, գործարկում են Open USD անունով նոր ստաբիլքոյն՝ նպատակ ունենալով մրցակցել Circle-ի USDC-ի հետ։",
         "link": "https://news.bitcoin.com/140-firms-including-coinbase-and-ripple-launch-the-new-open-usd-stablecoin/",
         "source": "Bitcoin News"
       },
       {
-        "headline": "Bitcoin ETF-ների շարունակական արտահոսք",
-        "summary": "BlackRock-ի IBIT-ից 300 միլիոն դոլարի արտահոսքը երկարացրել է Bitcoin ETF-ների արտահոսքի շարքը մինչև ութ օր։",
-        "link": "https://news.bitcoin.com/blackrocks-300m-ibit-exit-extends-bitcoin-etf-outflow-streak-to-8-days/",
-        "source": "Bitcoin News"
-      },
-      {
-        "headline": "Մեծ Բրիտանիայի FCA-ն ամփոփում է կրիպտո կանոնները",
-        "summary": "Մեծ Բրիտանիայի Ֆինանսական վարքագծի մարմինը (FCA) վերջնականացրել է կրիպտոարժույթների նոր կանոնները, որոնք պահանջում են ընկերություններից մինչև 2027 թվականը ստանալ FSMA թույլտվություն՝ Մեծ Բրիտանիայում գործելու համար։",
-        "link": "https://cryptoslate.com/fca-finalizes-uk-crypto-rules-as-firms-face-2027-access-deadline/",
-        "source": "CryptoSlate"
+        "headline": "SEC-ը վերանայում է ETF-ների կանոնները",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) վերանայում է փոխանակվող ֆոնդերի (ETF) կանոնները՝ հաշվի առնելով կրիպտո հատվածի աճը։",
+        "link": "https://www.coindesk.com/policy/2026/06/30/sec-giving-novel-etfs-a-rethink-as-it-opens-comment-period-on-overhauling-u-s-rules",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
       },
       {
         "headline": "Centrifuge-ը համագործակցում է New York Life-ի հետ",
-        "summary": "Centrifuge-ը համագործակցում է 807 միլիարդ դոլարի ակտիվներ կառավարող New York Life Investment Management-ի հետ՝ գործարկելու իր առաջին թոքենիզացված պարտատոմսային արտադրանքը։",
+        "summary": "Centrifuge-ը համագործակցում է 807 միլիարդ դոլարի ակտիվներ կառավարող New York Life Investment Management-ի հետ՝ գործարկելու իր առաջին թոքենացված պարտատոմսային արտադրանքը։",
         "link": "https://news.bitcoin.com/centrifuge-signs-807b-asset-giant-new-york-life-for-first-tokenized-bond-product/",
         "source": "Bitcoin News"
       },
       {
         "headline": "MetaMask-ը գործարկում է Money Account",
-        "summary": "MetaMask-ը գործարկել է Money Account, որը մեկ դրամապանակում առաջարկում է stablecoin-ի եկամտաբերություն և ծախսեր՝ մինչև 4% փոփոխական APY mUSD մնացորդների վրա։",
-        "link": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+        "summary": "MetaMask-ը գործարկում է նոր Money Account, որը մեկ ինքնապահովման հաշվի մեջ է միավորում ստաբիլքոյնի եկամտաբերությունը, վճարումները և առևտուրը։",
+        "link": "https://decrypt.co/372298/crypto-wallet-metamask-yield-paying-money-accounts-monad",
+        "source": "Decrypt"
       },
       {
-        "headline": "SEC-ը վերանայում է ETF-ի կանոնները",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) նորից քննարկում է, թե ինչպես պետք է կարգավորվեն կանխատեսումների շուկաներին կապված ETF-ների արագ աճող նոր դասը։",
-        "link": "https://www.theblock.co/post/406750/sec-opens-etf-rule-review-following-crypto-fund-surge-prediction-markets-push?utm_source=rss&utm_medium=rss",
-        "source": "The Block"
+        "headline": "Մեծ Բրիտանիայի FCA-ն հաստատում է կրիպտո կանոնները",
+        "summary": "Մեծ Բրիտանիայի Ֆինանսական վարքագծի մարմինը (FCA) վերջնականացրել է կրիպտոարժույթների նոր կանոնները՝ սահմանելով 2027 թվականի մուտքի վերջնաժամկետ ընկերությունների համար։",
+        "link": "https://cryptoslate.com/fca-finalizes-uk-crypto-rules-as-firms-face-2027-access-deadline/",
+        "source": "CryptoSlate"
+      },
+      {
+        "headline": "Nasdaq-ի տվյալները Pyth-ի միջոցով բլոկչեյնում",
+        "summary": "Nasdaq-ը Pyth-ի հետ համագործակցության շնորհիվ իր սեփական շուկայական տվյալները հասանելի է դարձնում բլոկչեյն հավելվածներին։",
+        "link": "https://cointelegraph.com/news/nasdaq-brings-proprietary-market-data-onchain-through-pyth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
       }
     ]
   }
