@@ -108,5 +108,60 @@
         "source": "Cointelegraph.com News"
       }
     ]
+  },
+  {
+    "date": "2026-07-01",
+    "ts": 1782849797880,
+    "fng": {
+      "value": 15,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 58680,
+        "change24h": -2.8888017764591054
+      },
+      {
+        "label": "Ethereum",
+        "price": 1576.6,
+        "change24h": -2.8236480657122422
+      }
+    ],
+    "overview": "Օրվա նորությունները գերակշռում են stablecoin շուկայի, կարգավորող վերանայումների և ավանդական ֆինանսների ու բլոկչեյն տեխնոլոգիայի աճող ինտեգրման զարգացումներով։",
+    "items": [
+      {
+        "headline": "Նոր Open USD stablecoin-ի մեկնարկը",
+        "summary": "Ավելի քան 140 ընկերություն, ներառյալ Coinbase-ը, Visa-ն և Mastercard-ը, գործարկել են Open USD անունով նոր stablecoin, որը թույլ է տալիս գործընկերներին պահպանել պահուստային եկամուտները և մարտահրավեր է նետում Circle-ի USDC-ին։",
+        "link": "https://news.bitcoin.com/140-firms-including-coinbase-and-ripple-launch-the-new-open-usd-stablecoin/",
+        "source": "Bitcoin News"
+      },
+      {
+        "headline": "SEC-ը վերանայում է ETF կանոնները",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) սկսել է նոր ETF-ների, այդ թվում՝ կրիպտո ֆոնդերի կանոնների վերանայման գործընթացը՝ քննարկելով կարգավորման մոտեցումները։",
+        "link": "https://www.coindesk.com/policy/2026/06/30/sec-giving-novel-etfs-a-rethink-as-it-opens-comment-period-on-overhauling-u-s-rules",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+      },
+      {
+        "headline": "Bitcoin ETF-ներից արտահոսքերը շարունակվում են",
+        "summary": "BlackRock-ի IBIT-ից 300 միլիոն դոլարի արտահոսքը երկարացրել է Bitcoin ETF-ների արտահոսքի շարքը մինչև ութ օր՝ ցույց տալով շուկայի ճնշումը։",
+        "link": "https://news.bitcoin.com/blackrocks-300m-ibit-exit-extends-bitcoin-etf-outflow-streak-to-8-days/",
+        "source": "Bitcoin News"
+      },
+      {
+        "headline": "Centrifuge-ը համագործակցում է New York Life-ի հետ",
+        "summary": "Centrifuge-ը համագործակցել է 807 միլիարդ դոլարի ակտիվներ կառավարող New York Life Investment Management-ի հետ՝ գործարկելու իր առաջին թոքենիզացված պարտատոմսային արտադրանքը։",
+        "link": "https://news.bitcoin.com/centrifuge-signs-807b-asset-giant-new-york-life-for-first-tokenized-bond-product/",
+        "source": "Bitcoin News"
+      },
+      {
+        "headline": "MetaMask-ը գործարկում է Money Account",
+        "summary": "MetaMask-ը գործարկել է Money Account, որն առաջարկում է stablecoin-ի եկամտաբերություն և ծախսման հնարավորություններ մեկ դրամապանակում՝ բարձրացնելով stablecoin-ների օգտակարությունը։",
+        "link": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+      }
+    ]
   }
 ]
