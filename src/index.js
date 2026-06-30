@@ -5,8 +5,8 @@ import { getSentiment } from './sentiment.js';
 import { getRates } from './rates.js';
 import { getTrending } from './trending.js';
 import { curate } from './curate.js';
-import { formatDigest, formatTweet, yerevanISO, yerevanDate } from './format.js';
-import { postToTelegram, postPhotoToTelegram } from './post.js';
+import { formatDigest, formatTweet, yerevanISO, englishDate } from './format.js';
+import { postToTelegram, postPhotoToTelegram, postPhotoUrlToTelegram } from './post.js';
 import { buildDailyCard } from './chart.js';
 import { appendHistory } from './history.js';
 
@@ -54,20 +54,33 @@ const run = async () => {
   const result = await postToTelegram(text);
   console.log(`[zrocrypto] posted message ${result.message_id} to ${config.channel}`);
 
-  // DM the admin a ready-to-paste tweet + share card, so X posting stays a manual,
+  // DM the admin a ready-to-paste tweet + image, so X posting stays a manual,
   // human-voiced action (auto-posting to X needs paid API tiers; this doesn't).
+  // Prefer a real lead image from the top story; fall back to a generated chart,
+  // then to text-only if both fail.
   if (config.adminChatId) {
     try {
-      let card = null;
-      try {
-        card = await buildDailyCard(prices, { date: yerevanDate() });
-      } catch (e) {
-        console.warn('[zrocrypto] daily card skipped:', e.message);
+      const newsImage = items.find((it) => it.image)?.image || '';
+      let sent = false;
+
+      if (newsImage) {
+        try {
+          await postPhotoUrlToTelegram(newsImage, tweet, config.adminChatId);
+          sent = true;
+        } catch (e) {
+          console.warn('[zrocrypto] news image send failed, falling back to chart:', e.message);
+        }
       }
-      if (card) {
-        await postPhotoToTelegram(card, tweet, config.adminChatId);
-      } else {
-        await postToTelegram(tweet, config.adminChatId);
+
+      if (!sent) {
+        let card = null;
+        try {
+          card = await buildDailyCard(prices, { date: englishDate() });
+        } catch (e) {
+          console.warn('[zrocrypto] daily card skipped:', e.message);
+        }
+        if (card) await postPhotoToTelegram(card, tweet, config.adminChatId);
+        else await postToTelegram(tweet, config.adminChatId);
       }
       console.log('[zrocrypto] sent tweet draft to admin chat');
     } catch (e) {

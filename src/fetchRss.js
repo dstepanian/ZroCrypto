@@ -3,6 +3,12 @@ import RSSParser from 'rss-parser';
 const parser = new RSSParser({
   timeout: 15000,
   headers: { 'User-Agent': 'zrocrypto/1.0 (+https://zromek.de)' },
+  customFields: {
+    item: [
+      ['media:content', 'mediaContent'],
+      ['media:thumbnail', 'mediaThumbnail'],
+    ],
+  },
 });
 
 const fetchFeed = async (url) => {

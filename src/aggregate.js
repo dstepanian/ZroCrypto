@@ -9,6 +9,24 @@ const stripHtml = (s = '') =>
 
 const WINDOW_MS = 24 * 60 * 60 * 1000;
 
+// Best-effort lead image for an RSS item: enclosure, then media:content/thumbnail,
+// then the first <img> found in the raw HTML content. Empty string if none found.
+const extractImage = (item) => {
+  if (item.enclosure?.url && (!item.enclosure.type || /^image\//.test(item.enclosure.type))) {
+    return item.enclosure.url;
+  }
+  const fromMedia = (field) => {
+    const v = item[field];
+    const entry = Array.isArray(v) ? v[0] : v;
+    return entry?.$?.url || entry?.url || '';
+  };
+  const media = fromMedia('mediaContent') || fromMedia('mediaThumbnail');
+  if (media) return media;
+  const html = item.content || item['content:encoded'] || '';
+  const match = /<img[^>]+src=["']([^"']+)["']/i.exec(html);
+  return match ? match[1] : '';
+};
+
 // Pull all feeds, keep items from the last 24h, dedupe by link, cap the list.
 export const aggregate = async ({ windowMs = WINDOW_MS, cap = 40 } = {}) => {
   const feeds = await fetchFeeds(FEEDS);
@@ -32,6 +50,7 @@ export const aggregate = async ({ windowMs = WINDOW_MS, cap = 40 } = {}) => {
         link,
         source,
         date: ts,
+        image: extractImage(item),
       });
     }
   }

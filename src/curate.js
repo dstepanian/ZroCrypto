@@ -53,7 +53,14 @@ export const curate = async (rawItems) => {
     .map(({ headline, summary, source }) => {
       // Gemini returns a 1-based index into the numbered raw list; map it to the article.
       const raw = rawItems[source - 1];
-      return { headline, summary, link: raw?.link || '', source: raw?.source || '' };
+      return {
+        headline,
+        summary,
+        link: raw?.link || '',
+        source: raw?.source || '',
+        enTitle: raw?.title || '',
+        image: raw?.image || '',
+      };
     });
   return { overview: (parsed.overview || '').trim(), items };
 };

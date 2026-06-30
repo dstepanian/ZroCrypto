@@ -111,26 +111,37 @@ export const formatDigest = ({ prices = [], items = [], overview = '', sentiment
   return out.join('\n');
 };
 
+// Today's date in English, e.g. "July 1" (Yerevan calendar day).
+export const englishDate = (d = new Date()) =>
+  new Intl.DateTimeFormat('en-US', { timeZone: 'Asia/Yerevan', month: 'long', day: 'numeric' }).format(d);
+
 // X (Twitter) hard character cap.
 const TWEET_LIMIT = 280;
 
-// Build a short, plain-text, X-ready version of the daily digest for manual posting.
-// No HTML — X doesn't support it. Truncated with an ellipsis if it overflows.
+// Build a short, plain-text, English, X-ready version of the daily digest for manual
+// posting. No HTML — X doesn't support it. Hashtags go last so a truncation (rare,
+// since this comfortably fits in 280 chars) drops them before anything that matters.
 export const formatTweet = ({ prices = [], items = [], sentiment = null }, { date } = {}) => {
   const lines = [];
-  lines.push(`📊 Կրիպտո օրվա ամփոփում — ${date || yerevanDate()}`);
+  lines.push(`📊 Daily Crypto Digest — ${date || englishDate()}`);
+  lines.push('');
 
-  if (sentiment) lines.push(`${sentiment.dot} ${sentiment.hy} (${sentiment.value}/100)`);
+  if (sentiment) lines.push(`${sentiment.dot} Fear & Greed: ${sentiment.value}/100 (${sentiment.label})`);
 
   prices.forEach((p) => {
-    lines.push(`${coinEmoji(p.label)} ${p.label} ${fmtPrice(p.price)} (${fmtArrow(p.change24h)})`);
+    lines.push(`${coinEmoji(p.label)} ${p.label}: ${fmtPrice(p.price)} (${fmtArrow(p.change24h)})`);
   });
+  lines.push('');
 
   const top = items[0];
-  if (top) lines.push(`🔸 ${esc(top.summary || top.headline)}`);
+  if (top) {
+    lines.push(`🔸 ${esc(top.enTitle || top.headline)}`);
+    lines.push('');
+  }
 
   const handle = config.channelHandle || (config.channel ? `t.me/${config.channel.replace(/^@/, '')}` : '');
-  if (handle) lines.push(`📲 ${handle}`);
+  if (handle) lines.push(`📲 Join: ${handle}`);
+  lines.push('#Bitcoin #Crypto #Ethereum');
 
   let text = lines.join('\n');
   if (text.length > TWEET_LIMIT) text = `${text.slice(0, TWEET_LIMIT - 1)}…`;
