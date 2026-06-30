@@ -1,5 +1,25 @@
 import config from './config.js';
 
+export const postPhotoToTelegram = async (photoBuffer, caption) => {
+  if (!config.token || !config.channel) {
+    throw new Error('TELEGRAM_BOT_TOKEN or TELEGRAM_CHANNEL missing');
+  }
+
+  const form = new FormData();
+  form.append('chat_id', config.channel);
+  form.append('caption', caption);
+  form.append('parse_mode', 'HTML');
+  form.append('photo', new Blob([photoBuffer], { type: 'image/png' }), 'weekly-chart.png');
+
+  const res = await fetch(`https://api.telegram.org/bot${config.token}/sendPhoto`, {
+    method: 'POST',
+    body: form,
+  });
+  const data = await res.json();
+  if (!data.ok) throw new Error(`Telegram error: ${data.description}`);
+  return data.result;
+};
+
 // Post the digest to the Telegram channel via the Bot API (no deps).
 export const postToTelegram = async (text) => {
   if (!config.token || !config.channel) {

@@ -48,15 +48,24 @@ const coinEmoji = (label) => COIN_EMOJI[label] || '🔹';
 
 // Build the Telegram digest message (HTML parse mode).
 // Airy layout: blank lines between blocks, 🔸 markers, bold labels.
-export const formatDigest = ({ prices = [], items = [], overview = '', sentiment = null, rates = null }, { date } = {}) => {
+export const formatDigest = ({ prices = [], items = [], overview = '', sentiment = null, rates = null, trending = [] }, { date } = {}) => {
   const out = [];
 
   out.push(`📊 <b>Կրիպտո օրվա ամփոփում — ${date || yerevanDate()}</b>`);
   out.push('');
 
-  // Day overview: mood gauge, then a blank line, then the AI big-picture line.
+  // Day overview: mood gauge, then the trending line, then the AI big-picture line.
   if (sentiment) {
     out.push(`🧭 <b>Տրամադրություն՝</b> ${sentiment.dot} ${esc(sentiment.hy)} — ${sentiment.value}/100`);
+    out.push('');
+  }
+  // Compact "trending now" line — most-searched coins with a 24h arrow.
+  if (trending.length) {
+    const parts = trending.map((t) => {
+      const arrow = t.change24h != null ? ` ${fmtArrow(t.change24h)}` : '';
+      return `${esc(t.name)} (${esc(t.symbol)})${arrow}`;
+    });
+    out.push(`🔥 <b>Թրենդում՝</b> ${parts.join(' · ')}`);
     out.push('');
   }
   if (overview) {
@@ -69,7 +78,9 @@ export const formatDigest = ({ prices = [], items = [], overview = '', sentiment
     out.push('📰 <b>Գլխավոր նորություններ</b>');
     out.push('');
     items.forEach((it) => {
-      out.push(`🔸 ${esc(it.summary || it.headline)}`);
+      // Append a subtle link arrow to the original article when we have the URL.
+      const src = it.link ? ` <a href="${esc(it.link)}">↗</a>` : '';
+      out.push(`🔸 ${esc(it.summary || it.headline)}${src}`);
       out.push(''); // breathing room between stories (and before the prices block)
     });
   }

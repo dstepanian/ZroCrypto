@@ -3,7 +3,14 @@ import config from './config.js';
 const endpoint = (model, key) =>
   `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${key}`;
 
-const FALLBACK_MODEL = 'gemini-2.5-flash-lite'; // separate quota bucket if the primary drains
+// Fallback chain, tried in order after the configured primary. Mixing the 2.5 and
+// 2.0 generations matters: when all of 2.5 is overloaded (503), the 2.0 models run
+// on separate infrastructure and are rarely congested at the same moment.
+const FALLBACK_MODELS = [
+  'gemini-2.5-flash-lite',
+  'gemini-2.0-flash',
+  'gemini-2.0-flash-lite',
+];
 const TRANSIENT = new Set([500, 502, 503]); // momentary overload — retry same model
 const MAX_ATTEMPTS = 3;
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -37,11 +44,12 @@ export const generateJson = async (prompt, responseSchema) => {
     generationConfig: { temperature: 0.3, responseMimeType: 'application/json', responseSchema },
   };
 
-  const models = [config.geminiModel];
-  if (FALLBACK_MODEL !== config.geminiModel) models.push(FALLBACK_MODEL);
+  // Primary first, then each fallback that isn't already the primary.
+  const models = [config.geminiModel, ...FALLBACK_MODELS.filter((m) => m !== config.geminiModel)];
 
   let lastErr;
-  for (const model of models) {
+  for (let m = 0; m < models.length; m++) {
+    const model = models[m];
     for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
       try {
         return await callOnce(model, body);
@@ -58,7 +66,10 @@ export const generateJson = async (prompt, responseSchema) => {
         }
       }
     }
-    if (models.length > 1) console.error(`[gemini] ${model} exhausted — trying ${FALLBACK_MODEL}`);
+    // Only announce a fallback when there's actually a different model left to try.
+    const next = models[m + 1];
+    if (next) console.error(`[gemini] ${model} exhausted — trying ${next}`);
+    else console.error(`[gemini] ${model} exhausted — no models left`);
   }
   throw lastErr;
 };

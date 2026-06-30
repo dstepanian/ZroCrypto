@@ -12,7 +12,9 @@ Your job:
 3. Keep crypto tickers, company names and product names in their original form
    (e.g. Bitcoin, ETF, SEC, BlackRock, Solana) — do not transliterate them.
 4. "headline" = a short Armenian title (max ~7 words). "summary" = one Armenian sentence.
-5. "overview" = ONE or TWO sentences in Armenian capturing the OVERALL picture / mood of
+5. "source" = the NUMBER of the raw item (from the numbered list below) this story is based on.
+   This is required so we can link back to the original article.
+6. "overview" = ONE or TWO sentences in Armenian capturing the OVERALL picture / mood of
    the day across all the items (the big theme, not a single story). Neutral, editorial tone.
 
 Return ONLY JSON matching the schema. No markdown, no commentary.
@@ -32,8 +34,9 @@ const dailySchema = {
         properties: {
           headline: { type: 'string' },
           summary: { type: 'string' },
+          source: { type: 'integer' },
         },
-        required: ['headline', 'summary'],
+        required: ['headline', 'summary', 'source'],
       },
     },
   },
@@ -45,8 +48,14 @@ const dailySchema = {
 export const curate = async (rawItems) => {
   if (!rawItems.length) return { overview: '', items: [] };
   const parsed = await generateJson(buildPrompt(rawItems, config.digestMin, config.digestMax), dailySchema);
-  const items = Array.isArray(parsed.items) ? parsed.items : [];
-  return { overview: (parsed.overview || '').trim(), items: items.slice(0, config.digestMax) };
+  const items = (Array.isArray(parsed.items) ? parsed.items : [])
+    .slice(0, config.digestMax)
+    .map(({ headline, summary, source }) => {
+      // Gemini returns a 1-based index into the numbered raw list; map it to the article.
+      const raw = rawItems[source - 1];
+      return { headline, summary, link: raw?.link || '', source: raw?.source || '' };
+    });
+  return { overview: (parsed.overview || '').trim(), items };
 };
 
 const buildWeeklyPrompt = (days) => `
