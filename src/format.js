@@ -111,6 +111,32 @@ export const formatDigest = ({ prices = [], items = [], overview = '', sentiment
   return out.join('\n');
 };
 
+// X (Twitter) hard character cap.
+const TWEET_LIMIT = 280;
+
+// Build a short, plain-text, X-ready version of the daily digest for manual posting.
+// No HTML — X doesn't support it. Truncated with an ellipsis if it overflows.
+export const formatTweet = ({ prices = [], items = [], sentiment = null }, { date } = {}) => {
+  const lines = [];
+  lines.push(`📊 Կրիպտո օրվա ամփոփում — ${date || yerevanDate()}`);
+
+  if (sentiment) lines.push(`${sentiment.dot} ${sentiment.hy} (${sentiment.value}/100)`);
+
+  prices.forEach((p) => {
+    lines.push(`${coinEmoji(p.label)} ${p.label} ${fmtPrice(p.price)} (${fmtArrow(p.change24h)})`);
+  });
+
+  const top = items[0];
+  if (top) lines.push(`🔸 ${esc(top.summary || top.headline)}`);
+
+  const handle = config.channelHandle || (config.channel ? `t.me/${config.channel.replace(/^@/, '')}` : '');
+  if (handle) lines.push(`📲 ${handle}`);
+
+  let text = lines.join('\n');
+  if (text.length > TWEET_LIMIT) text = `${text.slice(0, TWEET_LIMIT - 1)}…`;
+  return text;
+};
+
 // Find a coin's first and last recorded price across the week.
 const weekChange = (history, label) => {
   const first = history.find((e) => e.prices?.some((p) => p.label === label));

@@ -1,12 +1,12 @@
 import config from './config.js';
 
-export const postPhotoToTelegram = async (photoBuffer, caption) => {
-  if (!config.token || !config.channel) {
-    throw new Error('TELEGRAM_BOT_TOKEN or TELEGRAM_CHANNEL missing');
+export const postPhotoToTelegram = async (photoBuffer, caption, chatId = config.channel) => {
+  if (!config.token || !chatId) {
+    throw new Error('TELEGRAM_BOT_TOKEN or chat id missing');
   }
 
   const form = new FormData();
-  form.append('chat_id', config.channel);
+  form.append('chat_id', chatId);
   form.append('caption', caption);
   form.append('parse_mode', 'HTML');
   form.append('photo', new Blob([photoBuffer], { type: 'image/png' }), 'weekly-chart.png');
@@ -21,16 +21,16 @@ export const postPhotoToTelegram = async (photoBuffer, caption) => {
 };
 
 // Post the digest to the Telegram channel via the Bot API (no deps).
-export const postToTelegram = async (text) => {
-  if (!config.token || !config.channel) {
-    throw new Error('TELEGRAM_BOT_TOKEN or TELEGRAM_CHANNEL missing');
+export const postToTelegram = async (text, chatId = config.channel) => {
+  if (!config.token || !chatId) {
+    throw new Error('TELEGRAM_BOT_TOKEN or chat id missing');
   }
 
   const res = await fetch(`https://api.telegram.org/bot${config.token}/sendMessage`, {
     method: 'POST',
     headers: { 'content-type': 'application/json' },
     body: JSON.stringify({
-      chat_id: config.channel,
+      chat_id: chatId,
       text,
       parse_mode: 'HTML',
       disable_web_page_preview: true,

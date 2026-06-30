@@ -5,8 +5,9 @@ import { getSentiment } from './sentiment.js';
 import { getRates } from './rates.js';
 import { getTrending } from './trending.js';
 import { curate } from './curate.js';
-import { formatDigest, yerevanISO } from './format.js';
-import { postToTelegram } from './post.js';
+import { formatDigest, formatTweet, yerevanISO, yerevanDate } from './format.js';
+import { postToTelegram, postPhotoToTelegram } from './post.js';
+import { buildDailyCard } from './chart.js';
 import { appendHistory } from './history.js';
 
 const run = async () => {
@@ -36,11 +37,14 @@ const run = async () => {
   }
 
   const text = formatDigest({ prices, items, overview, sentiment, rates, trending });
+  const tweet = formatTweet({ prices, items, sentiment });
 
   if (config.dry) {
     if (config.print) {
       console.log('\n----- DIGEST PREVIEW -----\n');
       console.log(text.replace(/<\/?[bi]>/g, ''));
+      console.log('\n----- TWEET PREVIEW -----\n');
+      console.log(tweet);
       console.log('\n--------------------------\n');
     }
     console.log('[zrocrypto] dry run — not posting');
@@ -49,6 +53,27 @@ const run = async () => {
 
   const result = await postToTelegram(text);
   console.log(`[zrocrypto] posted message ${result.message_id} to ${config.channel}`);
+
+  // DM the admin a ready-to-paste tweet + share card, so X posting stays a manual,
+  // human-voiced action (auto-posting to X needs paid API tiers; this doesn't).
+  if (config.adminChatId) {
+    try {
+      let card = null;
+      try {
+        card = await buildDailyCard(prices, { date: yerevanDate() });
+      } catch (e) {
+        console.warn('[zrocrypto] daily card skipped:', e.message);
+      }
+      if (card) {
+        await postPhotoToTelegram(card, tweet, config.adminChatId);
+      } else {
+        await postToTelegram(tweet, config.adminChatId);
+      }
+      console.log('[zrocrypto] sent tweet draft to admin chat');
+    } catch (e) {
+      console.warn('[zrocrypto] admin DM failed:', e.message);
+    }
+  }
 
   // Record this day's snapshot for the weekly recap (one entry per day).
   const count = appendHistory({

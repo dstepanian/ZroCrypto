@@ -49,6 +49,21 @@ days, and posts a "📅 Շաբաթվա ամփոփում" — mood trend, week th
 price moves. It self-skips until at least 2 days of history exist. The daily workflow needs
 `contents: write` permission for the commit-back (already set).
 
+## X / Twitter
+
+X's API requires a paid tier for automated posting, so instead the daily run can DM
+**you** a ready-to-paste tweet plus a small share-card image (24h % change bars, via
+the same free QuickChart setup as the weekly chart) — you copy-paste it into X
+yourself, which also performs better there than an obviously-automated post.
+
+To enable it, set `TELEGRAM_ADMIN_CHAT_ID` (as a repo secret too):
+1. Send any message to your bot in a private chat.
+2. Open `https://api.telegram.org/bot<TOKEN>/getUpdates` and read your `chat_id`
+   from the response.
+3. Set `TELEGRAM_ADMIN_CHAT_ID` to that value.
+
+Leave it unset to skip this step entirely — the daily channel post is unaffected.
+
 ## Demo site
 
 `web/index.html` — a self-contained page that visualizes the pipeline with **live**
