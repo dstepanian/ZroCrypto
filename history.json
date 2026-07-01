@@ -111,9 +111,9 @@
   },
   {
     "date": "2026-07-01",
-    "ts": 1782850881529,
+    "ts": 1782898249041,
     "fng": {
-      "value": 15,
+      "value": 11,
       "label": "Extreme Fear",
       "hy": "Ծայրահեղ վախ",
       "dot": "🔴"
@@ -121,16 +121,65 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 58720,
-        "change24h": -2.6718819292202096
+        "price": 58803,
+        "change24h": -0.70714311283718
       },
       {
         "label": "Ethereum",
-        "price": 1577.56,
-        "change24h": -2.7038756227752514
+        "price": 1577.63,
+        "change24h": -0.2675896935824594
       }
     ],
-    "overview": "",
-    "items": []
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է զգալի արտահոսքերով ԱՄՆ-ի Bitcoin ETF-ներից, մինչդեռ կարգավորող մարմինները շարունակում են ակտիվորեն գործել՝ ընդունելով նոր օրենքներ և պայքարելով խարդախությունների դեմ։",
+    "items": [
+      {
+        "headline": "ԱՄՆ-ի Bitcoin ETF-ները ռեկորդային արտահոսք են գրանցել",
+        "summary": "Հունիսին ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են իրենց ամենավատ ամիսը՝ կորցնելով 4.5 միլիարդ դոլար։",
+        "link": "https://www.coindesk.com/tech/2026/07/01/live-markets-u-s-spot-bitcoin-etfs-had-their-worst-month-ever-in-june-shedding-usd4-5-billion",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Live markets: U.S. spot bitcoin ETFs had their worst month ever in June, shedding $4.5 billion",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5cd3bf36d1eac21a178cc65ec243a52a29b099a-1280x854.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Թայվանը ընդունել է կրիպտոարժույթների նոր օրենք",
+        "summary": "Թայվանի օրենսդիր մարմինն ընդունել է երկրի առաջին կրիպտոարժույթների և stablecoin-ների կանոնակարգերը՝ ուղղված համաշխարհային շուկային ինտեգրվելուն։",
+        "link": "https://cointelegraph.com/news/taiwans-legislature-passes-crypto-regulation-licensing-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Taiwan’s legislature passes crypto, stablecoin regulations",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/taiwan-coin.jpg"
+      },
+      {
+        "headline": "Թրամփը հայտնել է ավելի քան $1 միլիարդ կրիպտո եկամուտ",
+        "summary": "Նախագահ Դոնալդ Թրամփի ֆինանսական հայտարարագրերը ցույց են տվել ավելի քան 1 միլիարդ դոլարի եկամուտ կրիպտոարժույթների հետ կապված գործարքներից։",
+        "link": "https://www.coindesk.com/policy/2026/06/30/trump-pocketed-more-than-usd1-billion-from-crypto-ties-as-industry-headed-toward-slump",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Trump pocketed more than $1 billion from crypto ties as industry headed toward slump",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/324f66ef45b1f8dcae21e5dede1ffe1b4cea6e85-5696x3797.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Goliath Ventures-ի նախկին CEO-ն մեղավոր է ճանաչվել Ponzi սխեմայում",
+        "summary": "Goliath Ventures-ի նախկին գործադիր տնօրեն Քրիստոֆեր Դելգադոն մեղավոր է ճանաչվել 250 միլիոն դոլարի կրիպտո Ponzi սխեմայի համար։",
+        "link": "https://decrypt.co/372502/goliath-ventures-ceo-pleads-guilty-to-250m-crypto-ponzi-scheme",
+        "source": "Decrypt",
+        "enTitle": "Goliath Ventures CEO Pleads Guilty to $250M Crypto Ponzi Scheme",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png"
+      },
+      {
+        "headline": "Strategy-ն թույլատրել է մինչև $1.25 միլիարդ Bitcoin վաճառել",
+        "summary": "Strategy-ի կողմից մինչև 1.25 միլիարդ դոլարի Bitcoin վաճառելու թույլտվությունը նվազեցնում է հարկադիր վաճառքի ռիսկը և ազդարարում ակտիվ գանձապետական կառավարման անցում։",
+        "link": "https://news.bitcoin.com/strategys-bitcoin-sale-authorization-reduces-risk-of-forced-btc-selling-analysts-say/",
+        "source": "Bitcoin News",
+        "enTitle": "Strategy’s Bitcoin Sale Authorization Reduces Risk of Forced BTC Selling, Analysts Say",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/strategy-bitcoin-sale-authorization-768x432.jpg"
+      },
+      {
+        "headline": "Binance-ը և CZ-ն դատի են տրվել Մեծ Բրիտանիայում",
+        "summary": "Միացյալ Թագավորության ներդրողները դատի են տվել կրիպտո փոխանակման Binance-ին և նրա հիմնադիր Չանգպենգ Ժաոյին՝ մոտ 200 միլիոն դոլարի համար։",
+        "link": "https://decrypt.co/372452/binance-changpeng-zhao-sued-200-million-british-investors-reuters",
+        "source": "Decrypt",
+        "enTitle": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Binanace-CZ-decrypt-style-02-gID_7.jpg@png"
+      }
+    ]
   }
 ]
