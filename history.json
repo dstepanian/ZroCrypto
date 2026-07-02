@@ -181,5 +181,78 @@
         "image": "https://s3-images.ctmedia.io/media/article-covers/digital-bank-south-korea.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-02",
+    "ts": 1782981789390,
+    "fng": {
+      "value": 19,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 60379,
+        "change24h": 2.9643541879363955
+      },
+      {
+        "label": "Ethereum",
+        "price": 1621.67,
+        "change24h": 3.1135870627999647
+      }
+    ],
+    "overview": "Կրիպտոարժույթների շուկան շարունակում է զարգանալ՝ նոր հարթակների գործարկումներով, ինստիտուցիոնալ ներգրավվածությամբ և կարգավորող մարմինների պահանջներին հարմարվելով։ Այսօրվա նորությունները նաև ընդգծում են AI տեխնոլոգիաների աճող ինտեգրումը կրիպտո ոլորտում։",
+    "items": [
+      {
+        "headline": "Robinhood-ը գործարկում է իր բլոկչեյնը",
+        "summary": "Robinhood-ը գործարկել է իր Robinhood Chain հանրային բլոկչեյնի հիմնական ցանցը՝ նպատակ ունենալով կամուրջ ստեղծել ավանդական ֆինանսների և ապակենտրոնացված ֆինանսների միջև։",
+        "link": "https://news.bitcoin.com/robinhood-chain-mainnet-launch-marks-most-ambitious-global-expansion-and-product-vision-to-date/",
+        "source": "Bitcoin News",
+        "enTitle": "Robinhood Chain Mainnet Launch Marks Most Ambitious Global Expansion and Product Vision to Date",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/robinhood-chain-768x432.jpg"
+      },
+      {
+        "headline": "Coinbase-ը աջակցում է Open USD-ին",
+        "summary": "Coinbase-ը, որը նախկինում աջակցում էր USDC-ին, այժմ աջակցում է Open USD (OUSD) նոր ստաբիլքոինին՝ ձգտելով ավելի մեծ մասնակցություն ունենալ թվային դոլարների շուկայում։",
+        "link": "https://cryptoslate.com/coinbase-helped-build-usdc-why-its-now-backing-the-stablecoin-trying-to-replace-it-open-usd/",
+        "source": "CryptoSlate",
+        "enTitle": "Coinbase helped build USDC – Why is it now backing the stablecoin trying to replace it, Open USD?",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/coinbase-ousd-challenges-usdc-stablecoin-power-shift.jpg"
+      },
+      {
+        "headline": "Առաջին թոքենիզացված գործարքը Canton Network-ում",
+        "summary": "Tradeweb-ը, Franklin Templeton-ը և Virtu Financial-ը Canton Network-ի վրա իրականացրել են ԱՄՆ գանձապետական արժեթղթերի առաջին իրական ժամանակի թոքենիզացված գործարքը՝ օգտագործելով USDCx։",
+        "link": "https://cointelegraph.com/news/tradeweb-executes-real-time-tokenized-us-treasury-transaction-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Tradeweb executes real-time tokenized US Treasury transaction on Canton Network",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit.png"
+      },
+      {
+        "headline": "Binance-ը հարմարվում է ԵՄ MiCA կանոններին",
+        "summary": "Binance-ը հայտարարել է, որ աջակցում է օգտատերերին և իրականացնում է անհրաժեշտ ճշգրտումներ՝ Եվրոպական միությունում MiCA կանոնների ուժի մեջ մտնելու կապակցությամբ։",
+        "link": "https://news.bitcoin.com/binance-addresses-mica-transition-as-eu-regulatory-changes-take-effect/",
+        "source": "Bitcoin News",
+        "enTitle": "Binance Addresses MiCA Transition as EU Regulatory Changes Take Effect",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/binance-mica-europe-eu-license-768x432.jpg"
+      },
+      {
+        "headline": "Bitcoin-ի երկարաժամկետ սեփականատերերը կուտակում են",
+        "summary": "Glassnode-ի տվյալներով՝ Bitcoin-ի երկարաժամկետ սեփականատերերի դրամապանակները վերադարձել են զուտ կուտակման փուլ՝ դադարեցնելով զուտ բաշխումը։",
+        "link": "https://www.coindesk.com/markets/2026/07/02/bitcoin-long-term-holders-have-returned-to-accumulation",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bitcoin's long-term holders have returned to accumulation",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6bf17f8f2e2eb7316461507d8232c640232a045b-6750x4680.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Ionic Digital-ը հավաքում է $400 մլն և անցնում AI-ի",
+        "summary": "Ionic Digital Bitcoin մայնինգ ընկերությունը $400 մլն է հավաքել և պատրաստվում է Nasdaq-ում ցուցակագրվել, քանի որ AI ենթակառուցվածքի վարձակալությունից ստացված եկամուտները գերազանցում են Bitcoin մայնինգից ստացված եկամուտները։",
+        "link": "https://news.bitcoin.com/ionic-raises-400m-as-ai-revenue-tops-bitcoin-mining-ahead-of-nasdaq-listing/",
+        "source": "Bitcoin News",
+        "enTitle": "Ionic Raises $400M as AI Revenue Tops Bitcoin Mining Ahead of Nasdaq Listing",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/theenergymagionicdigital-768x432.jpg"
+      }
+    ]
   }
 ]
