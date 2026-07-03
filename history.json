@@ -246,5 +246,78 @@
         "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-crime-investigation-regulation-police-cybercrime-criminal-detective-bybit.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-03",
+    "ts": 1783068629671,
+    "fng": {
+      "value": 21,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 61725,
+        "change24h": 2.1261508913786065
+      },
+      {
+        "label": "Ethereum",
+        "price": 1726.67,
+        "change24h": 6.419960399277872
+      }
+    ],
+    "overview": "Կրիպտո շուկաներում նկատվում է վերականգնում, քանի որ ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են զգալի ներհոսքեր՝ դադարեցնելով բացասական շարքը։ Միաժամանակ, ինստիտուցիոնալ ընդունումը շարունակվում է թոքենիզացված բաժնետոմսերի նորարարությունների և կարգավորող մարմինների ակտիվության ֆոնին։",
+    "items": [
+      {
+        "headline": "ԱՄՆ-ի Bitcoin ETF-ները գրանցել են զգալի ներհոսքեր",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են 221.7 միլիոն դոլարի ներհոսք՝ դադարեցնելով տասնօրյա բացասական շարքը և նշելով ամենաուժեղ օրը մայիսից ի վեր։",
+        "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-222-million-daily-inflow-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US spot Bitcoin ETFs top $200M in daily inflows for first time since May",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-etf-is-now-superior-over-dollar-2.jpg"
+      },
+      {
+        "headline": "Securitize-ը թողարկում է թոքենիզացված բաժնետոմսեր NYSE-ում և բլոկչեյնում",
+        "summary": "Securitize-ը դարձել է առաջին նոր հրապարակային ընկերությունը, որը թողարկել է իր բաժնետոմսերի թոքենիզացված տարբերակները Solana-ի և Avalanche-ի վրա՝ իր NYSE դեբյուտի հետ մեկտեղ։",
+        "link": "https://cointelegraph.com/news/securitize-gains-on-nyse-debut-with-tokenized-stock-live-on-solana-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sponsored-story-illustration-for-decoin1.jpg"
+      },
+      {
+        "headline": "Բրազիլիան կկարգավորի կրիպտո VASPs-ը որպես արժեթղթեր",
+        "summary": "Բրազիլիայի կենտրոնական բանկը կրիպտո ակտիվների ծառայություններ մատուցողներին (VASPs) դասակարգել է որպես ավանդական արժեթղթերի բրոքերային ընկերություններ՝ նույն կարգավորող պահանջներով։",
+        "link": "https://news.bitcoin.com/same-risk-same-rules-brazil-to-regulate-crypto-vasps-like-traditional-securities-brokerages/",
+        "source": "Bitcoin News",
+        "enTitle": "Same Risk, Same Rules: Brazil to Regulate Crypto VASPs Like Traditional Securities Brokerages",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/brazilscentralbank-768x432.jpg"
+      },
+      {
+        "headline": "Ռուսաստանը պատրաստ է թվային ռուբլու լայն կիրառմանը",
+        "summary": "Ռուսաստանի Կենտրոնական բանկի կառավարիչը հայտարարել է, որ խոշոր բանկերն ու մանրածախ առևտրականները պատրաստ են սեպտեմբերի 1-ից ընդունել թվային ռուբլին։",
+        "link": "https://decrypt.co/372698/russia-is-ready-for-widespread-use-of-digital-ruble-by-september-says-bank-governor",
+        "source": "Decrypt",
+        "enTitle": "Russia Is Ready for 'Widespread Use' of Digital Ruble by September, Says Bank Governor",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/Putin-gID_7.jpg@png"
+      },
+      {
+        "headline": "ԱՄՀ-ն նշում է թոքենիզացիայի ներուժը և ռիսկերը",
+        "summary": "Արժույթի միջազգային հիմնադրամը հայտարարել է, որ բլոկչեյնի վրա հիմնված ֆինանսները կարող են պարզեցնել շուկաները, սակայն զգուշացրել է հատվածական ստանդարտների և կանոնակարգերի հնարավոր նոր համակարգային ռիսկերի մասին։",
+        "link": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "IMF says tokenization could transform settlement and financial stability",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-imf-and-blockchain.jpg"
+      },
+      {
+        "headline": "ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել ISIS-ի հետ կապված դրամապանակների նկատմամբ",
+        "summary": "ԱՄՆ կառավարությունը պատժամիջոցներ է կիրառել Tron-ի վրա ISIS-ի հետ կապված ավելի քան 130 կրիպտո դրամապանակների նկատմամբ, որոնց միջոցները սառեցվել են Tether-ի կողմից։",
+        "link": "https://decrypt.co/372697/treasury-department-sanctions-130-isis-affiliated-crypto-wallets-tron",
+        "source": "Decrypt",
+        "enTitle": "Treasury Department Sanctions Over 130 ISIS-Affiliated Crypto Wallets on Tron",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Tron-token3-gID_7.jpg@png"
+      }
+    ]
   }
 ]
