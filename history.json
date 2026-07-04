@@ -322,7 +322,7 @@
   },
   {
     "date": "2026-07-04",
-    "ts": 1783153527364,
+    "ts": 1783184068263,
     "fng": {
       "value": 22,
       "label": "Extreme Fear",
@@ -332,64 +332,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 62517,
-        "change24h": 1.3959252642054922
+        "price": 62882,
+        "change24h": 1.404940243892971
       },
       {
         "label": "Ethereum",
-        "price": 1758.74,
-        "change24h": 2.5420984971044907
+        "price": 1787.09,
+        "change24h": 3.1944777396134016
       }
     ],
-    "overview": "Bitcoin-ը վերականգնվում է ETF-ների ներհոսքերի շնորհիվ, մինչդեռ stablecoin-ները և խոշոր բորսաները բախվում են կարգավորող մարմինների ուշադրությանը և նոր կիրառություններ են գտնում: Քաղաքական գործիչների կողմից meme coin-ների թողարկման շուրջ բանավեճերը շարունակվում են:",
+    "overview": "Շուկան խառը ազդանշաններ է ցույց տալիս. համաշխարհային մակարդակով տեղի են ունենում կարգավորող զարգացումներ, մինչդեռ որոշ DeFi արձանագրություններ ուժեղ աճ են գրանցում, և Bitcoin ETF-ների նկատմամբ ինստիտուցիոնալ հետաքրքրությունը շարունակվում է։",
     "items": [
       {
-        "headline": "Binance-ը վերադառնում է Ֆիլիպիններ",
-        "summary": "Binance-ը վերադառնում է Ֆիլիպիններ՝ SEC-ի կողմից հաստատված տեղական գործընկերության միջոցով՝ սկսելով 90-օրյա փորձնական ծրագիր։",
-        "link": "https://news.bitcoin.com/binance-returns-to-the-philippines-through-regulated-local-partnership/",
+        "headline": "Aave-ի Monad շուկան գերազանցել է $100 միլիոնը",
+        "summary": "Aave-ի նոր Monad շուկան գործարկումից երկու օր անց գերազանցել է 100 միլիոն դոլարի ավանդները՝ ցույց տալով DeFi արձանագրության ուժեղ աճ։",
+        "link": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Aave’s new Monad market tops $100 million in deposits two days after launch",
+        "image": "https://www.tbstat.com/wp/uploads/2024/08/20240819_Aave_News-800x450.jpg"
+      },
+      {
+        "headline": "Zcash-ը պատրաստվում է Ironwood թարմացմանը",
+        "summary": "Zcash ցանցը պատրաստվում է Ironwood թարմացմանը, որը նախատեսված է հուլիսի 21-ին և թույլ կտա ցանկացած հանգույցի օպերատորի ստուգել մետաղադրամի շրջանառվող մատակարարումը։",
+        "link": "https://news.bitcoin.com/zcash-price-climbs-13-in-a-week-as-network-preps-ironwood-upgrade/",
         "source": "Bitcoin News",
-        "enTitle": "Binance Returns to the Philippines Through Regulated Local Partnership",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/binance-returns-to-philippines-768x432.jpg"
+        "enTitle": "Zcash Price Climbs 13% in a Week as Network Preps Ironwood Upgrade",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/zcash-price-climbs-13-in-a-week-as-network-preps-ironwood-upgrade-768x432.png"
       },
       {
-        "headline": "Բրազիլիան stablecoin-ները կդասակարգի որպես դրամական գործիք",
-        "summary": "Բրազիլիայի Կենտրոնական բանկը ցանկանում է stablecoin-ները դասակարգել որպես էլեկտրոնային դրամական գործիքներ՝ դրանց առանձնահատուկ հատկությունների պատճառով։",
-        "link": "https://news.bitcoin.com/why-brazils-central-bank-wants-to-classify-stablecoins-as-electronic-monetary-instruments/",
+        "headline": "Bitcoin-ի $293 միլիարդ դոլարի հայցը փորձության տակ",
+        "summary": "3.8 միլիոն BTC-ի սեփականության վերաբերյալ Նյու Յորքի դատական հայցը լուրջ փորձության է ենթարկվում, քանի որ առաջին դրամապանակի սեփականատերը միջնորդություն է ներկայացրել այն մերժելու համար։",
+        "link": "https://news.bitcoin.com/293b-bitcoin-noah-doe-lawsuit-faces-major-test-after-first-wallet-holder-files-motion-to-dismiss/",
         "source": "Bitcoin News",
-        "enTitle": "Why Brazil’s Central Bank Wants to Classify Stablecoins as Electronic Monetary Instruments",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/brazilian-deputy-chamber-768x432.jpg"
+        "enTitle": "$293B Bitcoin ‘Noah Doe’ Lawsuit Faces Major Test After First Wallet Holder Files Motion to Dismiss",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/293b-bitcoin-noah-doe-lawsuit-faces-major-test-after-first-wallet-holder-files-motion-to-dismiss-768x432.png"
       },
       {
-        "headline": "Visa-ն stablecoin-ների փորձնական ծրագիր է սկսում",
-        "summary": "Visa-ն, M-Pesa-ն և Onafriq-ը Կոնգոյի Դեմոկրատական Հանրապետությունում սկսել են stablecoin-ների փորձնական ծրագիր՝ անդրսահմանային բջջային գործարքների համար։",
-        "link": "https://news.bitcoin.com/visa-launches-stablecoin-pilot-with-m-pesa-in-drc-to-test-cross-border-transfers/",
-        "source": "Bitcoin News",
-        "enTitle": "Visa Launches Stablecoin Pilot With M-Pesa in DRC to Test Cross-Border Transfers",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/visa-launches-stablecoin-pilot-with-m-pesa-p2-768x432.jpg"
+        "headline": "ԵՄ-ն արգելում է մանրածախ ներդրողներին կանխատեսումների շուկաներում",
+        "summary": "Եվրոպական Միությունը քայլեր է ձեռնարկում՝ արգելելու մանրածախ ներդրողներին բազմամիլիարդանոց կանխատեսումների շուկաներում մասնակցությունից՝ կարգավորող մտահոգությունների պատճառով։",
+        "link": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4b2b0c4fb42c84e87e79191a60ccfaa14114efd5-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Bitcoin ETF-ները մայիսից ի վեր ամենամեծ ներհոսքն են գրանցել",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները մայիսից ի վեր ամենամեծ օրական ներհոսքն են գրանցել՝ 223 միլիոն դոլար, ինչը նպաստել է BTC-ի գնի վերականգնմանը։",
-        "link": "https://cryptoslate.com/bitcoin-etfs-see-biggest-inflow-since-may-after-weak-us-jobs-report-sparks-btc-price-rebound/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitcoin ETFs see biggest inflow since May after weak US jobs report sparks BTC price rebound",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/itcoin-etf-inflow-revives-btc-after-weak-jobs-report.jpg"
-      },
-      {
-        "headline": "Սենատորը կոչ է անում արգելել պաշտոնյաների meme coin-ները",
-        "summary": "ԱՄՆ սենատոր Քիրսթեն Գիլիբրանդը կոչ է անում արգելել ընտրված պաշտոնյաներին և նրանց ամուսիններին թողարկել կամ հովանավորել իրենց թվային ակտիվները։",
-        "link": "https://cointelegraph.com/news/us-senator-ban-elected-officials-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Revolut-ը կհանի USDT-ն օգոստոսին",
+        "summary": "Revolut-ը որոշ հաճախորդների տեղեկացրել է, որ օգոստոսի 31-ից հետո կհանի USDT-ն՝ պատճառաբանելով կարգավորող և ռիսկային մտահոգությունները։",
+        "link": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "US senator calls for ban on elected officials issuing memecoins",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/trump-memecoin-1.jpg"
+        "enTitle": "Revolut to delist USDT in August, citing regulatory and risk concerns",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-kraken-to-delist-tether-usdt.png"
       },
       {
-        "headline": "ԵՄ MiCA կանոնակարգը բախվում է կիրարկման մարտահրավերների",
-        "summary": "Փորձագետները ակնկալում են, որ ԵՄ կարգավորող մարմինները MiCA-ն տարբեր կերպ կկիրառեն, քանի որ չարտոնված կրիպտո ընկերությունները պետք է դադարեցնեն իրենց գործունեությունը։",
-        "link": "https://cointelegraph.com/news/eu-crypto-rulebook-enforcement-challenge-mica-transition-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Bitcoin-ի և Ether-ի աճը ETF գնումներով",
+        "summary": "Bitcoin-ը և Ether-ը վերականգնվել են բազմամյա նվազագույններից, քանի որ ներդրողները սկսել են գնել, և spot BTC ETF-ները հուլիսի 2-ին գրանցել են 221 միլիոն դոլարի ներհոսք։",
+        "link": "https://cointelegraph.com/markets/bitcoin-ether-extend-relief-rallies-as-extreme-fear-meets-renewed-etf-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "EU crypto rulebook faces enforcement challenge as MiCA transition ends",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-european-mica-regulation-on-digital-euro-where-do-we-stand.jpg"
+        "enTitle": "Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-etf-is-now-superior-over-dollar-2.jpg"
       }
     ]
   }
