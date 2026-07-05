@@ -395,7 +395,7 @@
   },
   {
     "date": "2026-07-05",
-    "ts": 1783240904306,
+    "ts": 1783270642024,
     "fng": {
       "value": 23,
       "label": "Extreme Fear",
@@ -405,56 +405,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 62887,
-        "change24h": 0.5500338190184859
+        "price": 62566,
+        "change24h": -0.49290780974190396
       },
       {
         "label": "Ethereum",
-        "price": 1765.94,
-        "change24h": 0.36531805853762855
+        "price": 1770.35,
+        "change24h": -0.8682706167745219
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների ակտիվությամբ և զգալի շուկայական իրադարձություններով։ Մի քանի երկրներում նոր կանոնակարգեր են ներդրվում, մինչդեռ Binance-ը գրանցել է զգալի արտահոսքեր։",
+    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս ոլորտի աճող ինտեգրումը ավանդական ֆինանսների հետ և կարգավորող մարմինների ուշադրությունը։ Կարևոր են նաև կրիպտոարժույթների շուկայի դինամիկայի փոփոխությունները և անօրինական գործունեության դեմ պայքարը։",
     "items": [
       {
-        "headline": "Binance-ի արտահոսքերը եռապատկվել են",
-        "summary": "Binance կրիպտո փոխանակումը գրանցել է շաբաթական $1.23 միլիարդի զուտ արտահոսք, ինչը 207%-ով ավելի է նախորդ շաբաթվա համեմատ, քանի որ Ethereum-ի դուրսբերումները հասել են երեք տարվա առավելագույնին։",
-        "link": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-assess-the-value-of-binance.jpg"
+        "headline": "Michael Saylor-ը Bitcoin-ի ցիկլի փոփոխության մասին",
+        "summary": "Michael Saylor-ը պնդում է, որ Bitcoin-ի քառամյա ցիկլը կորցնում է իր գերակայությունը, քանի որ ակտիվն ավելի ու ավելի է ինտեգրվում համաշխարհային ֆինանսներին։",
+        "link": "https://news.bitcoin.com/michael-saylor-says-bitcoins-four-year-cycle-is-losing-power-what-matters-more/",
+        "source": "Bitcoin News",
+        "enTitle": "Michael Saylor Says Bitcoin’s Four-Year Cycle Is Losing Power: What Matters More",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/michael-saylor-bitcoin-4-year-cycle-768x432.jpg"
       },
       {
-        "headline": "Բրազիլիայում $2 միլիարդի կրիպտո լվացման ցանց է բացահայտվել",
-        "summary": "Բրազիլիայի դաշնային ոստիկանությունը ապամոնտաժել է $2 միլիարդ արժողությամբ կրիպտոարժույթի փողերի լվացման ցանց, որը կապված է PCC կարտելի հետ։",
+        "headline": "Հիմնադրամները գնում են կրիպտո բաժնետոմսեր",
+        "summary": "Cathie Wood-ի ARK Invest-ը հունիսին գնել է մոտ 77 միլիոն դոլարի կրիպտո բաժնետոմսեր, ներառյալ Coinbase-ի, Circle-ի և Bullish-ի բաժնետոմսերը։",
+        "link": "https://cryptoslate.com/funds-are-buying-crypto-stocks-are-they-getting-less-risk-or-more/",
+        "source": "CryptoSlate",
+        "enTitle": "Funds are buying crypto stocks. Are they exposed to less risk — or more?",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/crypto-stocks-vs-bitcoin-volatility-risk-comparison-ark-invest-buying.jpg"
+      },
+      {
+        "headline": "Բանկերը քննարկում են stablecoin-ների ինտեգրումը",
+        "summary": "Ֆինանսական հաստատությունները ձգտում են դառնալ stablecoin-ների անվտանգ դարպասներ, քանի որ թվային ակտիվների ծավալը կանխատեսվում է, որ կտրուկ կաճի մինչև 2030 թվականը։",
+        "link": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/126370357bab503bb185dc1c4df52756ebf449e2-1280x960.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Հարավային Աֆրիկան առաջարկում է կրիպտո հարկային ուղեցույց",
+        "summary": "Հարավային Աֆրիկայի հարկային մարմինն առաջարկել է նախագիծ՝ պարզաբանելու, թե ինչպես են կրիպտո ակտիվները հարկվում գոյություն ունեցող եկամտահարկի և կապիտալի շահույթի հարկի կանոնների համաձայն։",
+        "link": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "South Africa proposes crypto tax guidance under existing framework",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/booksouth-africa.png"
+      },
+      {
+        "headline": "Բրազիլիայի ոստիկանությունը բացահայտել է կրիպտո լվացման ցանց",
+        "summary": "Բրազիլիայի դաշնային ոստիկանությունը ոչնչացրել է 2 միլիարդ դոլար արժողությամբ կրիպտոարժույթների փողերի լվացման ցանց, որը կապված է PCC կարտելի հետ։",
         "link": "https://news.bitcoin.com/brazilian-federal-police-dismantle-2-billion-crypto-money-laundering-ring-linked-to-the-pcc-cartel/",
         "source": "Bitcoin News",
         "enTitle": "Brazilian Federal Police Dismantle $2 Billion Crypto Money Laundering Ring Linked to the PCC Cartel",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/brazilian-federal-police-768x432.jpg"
       },
       {
-        "headline": "Ռուսաստանը պատրաստ է թվային ռուբլու ներդրմանը",
-        "summary": "Ռուսաստանի Կենտրոնական բանկի կառավարիչ Էլվիրա Նաբիուլինան հայտարարել է, որ հիմնական բանկերն ու խոշոր մանրածախ բիզնեսները պատրաստ են թվային ռուբլու լայնածավալ օգտագործմանը։",
+        "headline": "Ռուսաստանը պատրաստ է CBDC-ի ներդրմանը",
+        "summary": "Ռուսաստանի Կենտրոնական բանկի կառավարիչ Էլվիրա Նաբիուլինան հայտարարել է, որ հիմնական բանկերը և խոշոր մանրածախ բիզնեսները պատրաստ են թվային ռուբլու լայնածավալ օգտագործմանը։",
         "link": "https://news.bitcoin.com/everything-is-ready-russia-finalizes-preparations-for-nationwide-cbdc-rollout/",
         "source": "Bitcoin News",
         "enTitle": "“Everything is Ready”: Russia Finalizes Preparations for Nationwide CBDC Rollout",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/bankofrussia-768x432.jpg"
-      },
-      {
-        "headline": "ԱՄԷ Կենտրոնական բանկը հաստատել է DDSC stablecoin-ը",
-        "summary": "ԱՄԷ Կենտրոնական բանկը տրամադրել է DDSC դիրհամով ապահովված stablecoin-ին առարկություն չունենալու վկայագիր՝ թույլ տալով այն ցուցակագրել կարգավորվող փոխանակման հարթակներում։",
-        "link": "https://news.bitcoin.com/uae-central-bank-clears-ddsc-for-vara-platforms-bringing-dirham-stablecoin-to-consumers/",
-        "source": "Bitcoin News",
-        "enTitle": "UAE Central Bank Clears DDSC for VARA Platforms, Bringing Dirham Stablecoin to Consumers",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/central-bank-clears-ddsc-for-vara-platforms-768x432.jpg"
-      },
-      {
-        "headline": "Մեծ Բրիտանիայի նոր կրիպտո կանոնները խոստանում են բացել համաշխարհային առևտուրը",
-        "summary": "Մեծ Բրիտանիայի FCA-ի կրիպտո շրջանակը գովաբանվել է համաշխարհային իրացվելիությունը և ինստիտուցիոնալ որդեգրումը առաջնահերթություն դարձնելու համար, սակայն լուրջ համապատասխանության խոչընդոտները դեռ սպառնում են դրա ներդրմանը։",
-        "link": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0513d0a4817ed047117319c2338d720ea07bb82-1920x1439.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
