@@ -465,5 +465,78 @@
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/bankofrussia-768x432.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-06",
+    "ts": 1783331860422,
+    "fng": {
+      "value": 24,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 62603,
+        "change24h": 0.05892409696220805
+      },
+      {
+        "label": "Ethereum",
+        "price": 1757.1,
+        "change24h": 0.0350073415939075
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների զգալի առաջընթացներով և հիմնական բլոկչեյնների տեխնիկական նորամուծություններով։ Միաժամանակ, stablecoin-ների ծավալի աճը վկայում է շուկայի ընդլայնման մասին, թեև DeFi հատվածում անվտանգության հետ կապված մարտահրավերներ են առաջացել։",
+    "items": [
+      {
+        "headline": "Ripple-ը ստացել է MiCA լիազորություն Եվրոպայում",
+        "summary": "Ripple-ը Լյուքսեմբուրգից ստացել է MiCA CASP ամբողջական լիազորություն՝ 30 Եվրոպական տնտեսական տարածքի երկրներում կարգավորվող կրիպտո ծառայություններ մատուցելու համար։",
+        "link": "https://www.theblock.co/post/407207/ripple-secures-full-mica-casp-authorization-for-crypto-services-across-30-eea-countries?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Ripple secures full MiCA CASP authorization for crypto services across 30 EEA countries",
+        "image": "https://www.tbstat.com/wp/uploads/2025/06/ripple-xrp-payment-800x450.jpg"
+      },
+      {
+        "headline": "Summer Finance DeFi արձանագրության շահագործում",
+        "summary": "Summer Finance DeFi արձանագրությունը շահագործվել է 6 միլիոն դոլարի չափով, ինչը վերլուծաբանները կապում են flash loan հարձակման հետ։",
+        "link": "https://www.theblock.co/post/407198/summer-finance-exploited?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "DeFi protocol Summer Finance exploited for $6 million; analysts point to flash loan attack",
+        "image": "https://www.tbstat.com/wp/uploads/2021/12/20211102_Hacker_General1-800x450.jpg"
+      },
+      {
+        "headline": "Հարավային Կորեան մշակում է կրիպտո ակտիվների բռնագրավման կարգ",
+        "summary": "Հարավային Կորեան մշակում է կրիպտոարժույթների բռնագրավման և լուծարման հատուկ ընթացակարգեր՝ դատարանների կողմից քաղաքացիական դատավճիռների կատարումը պաշտոնականացնելու համար։",
+        "link": "https://www.theblock.co/post/407183/south-korea-crypto-specific-procedure?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "South Korea develops crypto-specific procedures for asset seizures and liquidation: report",
+        "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News5-800x450.jpg"
+      },
+      {
+        "headline": "Vitalik Buterin-ը հայտարարում է Ethereum-ի վերակառուցման մասին",
+        "summary": "Vitalik Buterin-ը հայտարարել է, որ Ethereum-ը պատրաստվում է իր «ամենամեծ վերակառուցմանը»՝ Merge-ից ի վեր, որը կտևի երեքից չորս տարի։",
+        "link": "https://www.coindesk.com/tech/2026/07/06/vitalik-buterin-says-ethereum-is-preparing-its-biggest-rebuild-since-the-merge",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d36b4d555058a50f2056e7f58d881601b0021d4-3840x2160.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Stablecoin-ների գործարքների ծավալը ռեկորդային է",
+        "summary": "Հունիսին stablecoin-ների գործարքների ծավալը հասել է ռեկորդային 1.79 տրիլիոն դոլարի, ինչը ցույց է տալիս շուկայի հասունացումը։",
+        "link": "https://cointelegraph.com/news/stablecoin-transaction-volume-hits-record-179-trillion-in-june-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Stablecoin transaction volume hits record $1.79T in June",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/analitycs2021-up.jpg"
+      },
+      {
+        "headline": "Դուբայը և Թայվանը՝ Ասիայի կրիպտո կենտրոններ",
+        "summary": "Դուբայը դարձել է Ասիայի առաջատար կրիպտո կենտրոններից մեկը, մինչդեռ Թայվանը ընդունել է կրիպտոարժույթների մասին նոր օրենքներ։",
+        "link": "https://cointelegraph.com/features/asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Dubai tops Asian crypto hubs, Taiwan passes crypto laws: Asia Express",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-3.jpg"
+      }
+    ]
   }
 ]
