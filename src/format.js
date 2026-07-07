@@ -48,8 +48,9 @@ const coinEmoji = (label) => COIN_EMOJI[label] || '🔹';
 
 // Build the Telegram digest message (HTML parse mode).
 // Airy layout: blank lines between blocks, 🔸 markers, bold labels.
-// `omitHeader` drops the title/mood/trending blocks — used for the follow-up
-// message under an illustrated post, whose photo caption already carries them.
+// `omitHeader` drops the title/mood blocks — used for the follow-up message
+// under an illustrated post, whose photo caption already carries them. The
+// detailed trending list stays (the caption only shows compact symbols).
 export const formatDigest = ({ prices = [], items = [], overview = '', sentiment = null, rates = null, trending = [] }, { date, omitHeader = false } = {}) => {
   const out = [];
 
@@ -57,20 +58,20 @@ export const formatDigest = ({ prices = [], items = [], overview = '', sentiment
     out.push(`📊 <b>Կրիպտո օրվա ամփոփում — ${date || yerevanDate()}</b>`);
     out.push('');
 
-    // Day overview: mood gauge, then the trending line, then the AI big-picture line.
+    // Mood gauge — the caption teaser already carries a compact version.
     if (sentiment) {
       out.push(`🧭 <b>Տրամադրություն՝</b> ${sentiment.dot} ${esc(sentiment.hy)} — ${sentiment.value}/100`);
       out.push('');
     }
-    // Compact "trending now" line — most-searched coins with a 24h arrow.
-    if (trending.length) {
-      const parts = trending.map((t) => {
-        const arrow = t.change24h != null ? ` ${fmtArrow(t.change24h)}` : '';
-        return `${esc(t.name)} (${esc(t.symbol)})${arrow}`;
-      });
-      out.push(`🔥 <b>Թրենդում՝</b> ${parts.join(' · ')}`);
-      out.push('');
-    }
+  }
+  // "Trending now" — most-searched coins, one per line with a 24h arrow.
+  if (trending.length) {
+    out.push('🔥 <b>Թրենդում՝</b>');
+    trending.forEach((t) => {
+      const arrow = t.change24h != null ? ` ${fmtArrow(t.change24h)}` : '';
+      out.push(`🔸 ${esc(t.name)} (${esc(t.symbol)})${arrow}`);
+    });
+    out.push('');
   }
   if (overview) {
     out.push(`🧠 ${esc(overview)}`);
@@ -130,10 +131,10 @@ export const formatCaption = ({ sentiment = null, trending = [], movers = null }
   out.push('');
   if (glance.length) out.push(glance.join('  ·  '));
 
-  // Day's biggest gainer/loser among the top coins by market cap.
+  // Day's biggest gainer/loser among the top coins by market cap, one per line.
   if (movers?.topGainer && movers?.topLoser) {
-    out.push(`🚀 Օրվա աճ՝ ${esc(movers.topGainer.symbol)} ${fmtChange(movers.topGainer.change24h)}  ·  ` +
-      `📉 Անկում՝ ${esc(movers.topLoser.symbol)} ${fmtChange(movers.topLoser.change24h)}`);
+    out.push(`🚀 Օրվա աճ՝ ${esc(movers.topGainer.symbol)} ${fmtChange(movers.topGainer.change24h)}`);
+    out.push(`📉 Անկում՝ ${esc(movers.topLoser.symbol)} ${fmtChange(movers.topLoser.change24h)}`);
   }
 
   out.push('👇 Մանրամասները՝ ներքևում');
