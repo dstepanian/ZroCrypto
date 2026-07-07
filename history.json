@@ -541,7 +541,7 @@
   },
   {
     "date": "2026-07-07",
-    "ts": 1783416310964,
+    "ts": 1783445790608,
     "fng": {
       "value": 27,
       "label": "Fear",
@@ -551,64 +551,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63134,
-        "change24h": 0.6546690526395539
+        "price": 64077,
+        "change24h": 0.5802754541235128
       },
       {
         "label": "Ethereum",
-        "price": 1770.97,
-        "change24h": 0.5565471698458303
+        "price": 1803.42,
+        "change24h": 0.7753390286406582
       }
     ],
-    "overview": "Շուկան այսօր մարսում է կարևոր նորություններ՝ սկսած քաղաքական գործիչների կողմից կրիպտոյի աջակցությունից մինչև անվտանգության խոշոր միջադեպեր և ինստիտուցիոնալ քայլեր: Կարգավորման քննարկումները և ԱՄՆ կառավարության մոտեցումը Bitcoin-ի պահուստին նույնպես մնում են հիմնական թեմաներ:",
+    "overview": "Շուկան ցույց է տալիս ինստիտուցիոնալ հետաքրքրության և կարգավորող զարգացումների նշաններ։ Խոշոր ֆինանսական խաղացողները ընդլայնվում են դեպի թվային ակտիվներ, մինչդեռ կարգավորողները նոր կանոններ են պատրաստում։",
     "items": [
       {
-        "headline": "Tether-ի նախկին CIO-ն իր բաժնեմասի վաճառքի որոնումներում",
-        "summary": "Bloomberg-ի փոխանցմամբ՝ Tether-ի նախկին CIO Richard Heathcote-ը փնտրում է գնորդներ ընկերությունում իր 1.26% բաժնեմասի մի մասի համար։",
-        "link": "https://www.theblock.co/post/407394/tethers-former-cio-seeks-buyers-for-part-of-his-stake-in-the-firm-bloomberg?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Tether’s former CIO seeks buyers for part of his stake in the firm: Bloomberg",
-        "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Tether_News_2-800x450.jpg"
-      },
-      {
-        "headline": "Upbit-ի և Naver-ի գործարքը հետաձգվում է կրիպտո օրենքի պատճառով",
-        "summary": "Upbit-ի և Naver-ի բաժնետոմսերի փոխանակման գործարքը երկրորդ անգամ հետաձգվել է՝ կապված առաջարկվող կրիպտո օրենսդրության շուրջ բանավեճերի հետ։",
-        "link": "https://www.theblock.co/post/407389/upbit-naver-stock-swap-deal-delay?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Upbit, Naver stock-swap deal faces second delay amid proposed crypto law debate",
-        "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-800x450.jpg"
-      },
-      {
-        "headline": "Trump-ը հայտարարում է, որ ինքը «մեծ կրիպտո մարդ է»",
-        "summary": "Նախագահ Donald Trump-ը հայտարարել է, որ ինքը «մեծ կրիպտո մարդ է»՝ պատասխանելով Bitcoin-ը նոր գործարկված Trump Accounts-ին ավելացնելու հարցին։",
-        "link": "https://news.bitcoin.com/trump-accounts-live-bitcoin-big-crypto-guy/",
-        "source": "Bitcoin News",
-        "enTitle": "‘I’m a Big Crypto Guy’: Trump Fields Bitcoin Question as $1,000 Trump Accounts Go Live",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/09/trump_nato-768x432.jpg"
-      },
-      {
-        "headline": "Grayscale-ը՝ Strategy-ի Bitcoin վաճառքը նվազեցնում է ռիսկերը",
-        "summary": "Grayscale Research-ը հայտարարում է, որ Strategy-ի 216 միլիոն դոլարի Bitcoin վաճառքը կարող է նվազեցնել ֆինանսավորման ռիսկը և աջակցել գների կայունությանը։",
-        "link": "https://news.bitcoin.com/grayscale-strategy-bitcoin-sale-reduces-tail-risk/",
-        "source": "Bitcoin News",
-        "enTitle": "Grayscale: Strategy’s $216M Bitcoin Sale ‘Reduces Tail Risk’ and Could Help BTC Find a Durable Bottom",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/09/michael-saylors-strategy-may-enter-the-sp-500-as-early-as-friday-768x432.jpg"
-      },
-      {
-        "headline": "BONK-ի գանձարանից գողացվել է 20 միլիոն դոլար",
-        "summary": "BONK memecoin-ը բախվել է 20 միլիոն դոլարի գանձարանի արտահոսքի՝ չարամիտ առաջարկությունն անցկացնելու համար հարձակվողի կողմից 4 միլիոն դոլար ծախսելուց հետո։",
-        "link": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
+        "headline": "ԱՄՆ SEC-ը կառաջարկի նոր կրիպտո կանոն",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) նախատեսում է այս ամիս առաջարկել նոր կանոններ՝ կրիպտո ստարտափների և դրամահավաքի համար։",
+        "link": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d3f84468a4e42bb27360b0d6331ee564af05aad-5184x2916.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/82c63d25c774161ab6ecc7ce74e066578a78b0c5-1955x1100.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "ԱՄՆ-ի Bitcoin պահուստը բախվում է խոչընդոտների",
-        "summary": "Bloomberg-ը հայտնում է, որ ԱՄՆ-ի Bitcoin պահուստի ստեղծումը բախվում է դժվարությունների, քանի որ դաշնային գործակալությունները վիճում են դրա վերահսկողության շուրջ։",
-        "link": "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Vanguard-ը փնտրում է կրիպտո ղեկավար",
+        "summary": "Բազմատրիլիոնանոց ակտիվներ կառավարող Vanguard-ը փնտրում է կրիպտո գործադիրի՝ շուկայի վրա ազդելու համար։",
+        "link": "https://www.theblock.co/post/407441/vanguard-hiring-crypto-exec-to-help-influence-market?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Multi-trillion-dollar asset manager Vanguard hiring crypto exec to help influence market",
+        "image": "https://www.tbstat.com/wp/uploads/2026/04/20260409_Tokens_News-800x450.jpg"
+      },
+      {
+        "headline": "EDX Markets-ը ստացել է $76 միլիոն ներդրում",
+        "summary": "Ինստիտուցիոնալ կրիպտո պլատֆորմ EDX Markets-ը փակել է $76 միլիոն Series C ֆինանսավորման փուլը՝ ճապոնական SBI Holdings-ի միակ ներդրմամբ։",
+        "link": "https://www.theblock.co/post/407489/crypto-platform-edx-markets-series-c-funding-sbi-sole-investor?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "SBI Holdings is sole investor in crypto platform EDX Markets’ $76 million Series C",
+        "image": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Funding_News_3-800x450.jpg"
+      },
+      {
+        "headline": "Coinbase-ը Մեծ Բրիտանիայում լիցենզիա է ստացել",
+        "summary": "Coinbase-ը Մեծ Բրիտանիայում ստացել է լիցենզիա՝ բաժնետոմսեր և դերիվատիվներ առաջարկելու կրիպտոյի հետ մեկտեղ։",
+        "link": "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto",
+        "source": "Decrypt",
+        "enTitle": "Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png"
+      },
+      {
+        "headline": "Tether-ը ներդրում է կատարել Mercado Bitcoin-ում",
+        "summary": "Tether-ը ներդրում է կատարել Mercado Bitcoin-ում, քանի որ բլոկչեյն ֆինանսները ընդլայնվում են Լատինական Ամերիկայում։",
+        "link": "https://cointelegraph.com/news/tether-invests-20m-in-mercado-bitcoin-to-expand-tokenized-finance-in-latin-america?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-storage-us.jpg"
+        "enTitle": "Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/canada-tether.png"
       }
     ]
   }
