@@ -4,7 +4,6 @@ import { getPrices } from './prices.js';
 import { getSentiment } from './sentiment.js';
 import { getRates } from './rates.js';
 import { getTrending } from './trending.js';
-import { getMovers } from './movers.js';
 import { curate } from './curate.js';
 import { formatDigest, formatCaption, formatTweet, yerevanISO, englishDate } from './format.js';
 import { postToTelegram, postPhotoToTelegram, postPhotoUrlToTelegram } from './post.js';
@@ -17,9 +16,9 @@ const CAPTION_LIMIT = 1024;
 const run = async () => {
   console.log(`[zrocrypto] starting${config.dry ? ' (dry run)' : ''}`);
 
-  // Prices, raw news, sentiment, fiat/metal rates, trending coins and day movers in parallel.
-  const [prices, raw, sentiment, rates, trending, movers] = await Promise.all([
-    getPrices(), aggregate(), getSentiment(), getRates(), getTrending(), getMovers(),
+  // Prices, raw news, market sentiment, fiat/metal rates and trending coins in parallel.
+  const [prices, raw, sentiment, rates, trending] = await Promise.all([
+    getPrices(), aggregate(), getSentiment(), getRates(), getTrending(),
   ]);
   console.log(`[zrocrypto] ${prices.length} prices, ${raw.length} raw news items` +
     (sentiment ? `, F&G ${sentiment.value}` : '') +
@@ -45,7 +44,7 @@ const run = async () => {
   // caption already carries the title/mood/trending, so repeating them reads as
   // a duplicate. Only used when the full digest overflows the caption cap.
   const bodyText = formatDigest({ prices, items, overview, sentiment, rates, trending }, { omitHeader: true });
-  const photoCaption = formatCaption({ sentiment, trending, movers });
+  const photoCaption = formatCaption({ sentiment, trending, overview });
   const tweet = formatTweet({ prices, items, sentiment });
 
   if (config.dry) {

@@ -36,8 +36,11 @@ const yerevanRange = (startISO, endISO) => {
 const esc = (s = '') =>
   s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
+// Wrap already-escaped link text in an <a> to `link` (a coin's CoinGecko page);
+// falls back to plain text when no link is available.
+const linked = (text, link) => (link ? `<a href="${esc(link)}">${text}</a>` : text);
+
 const fmtPrice = (n) => '$' + Math.round(n).toLocaleString('en-US');
-const fmtChange = (c) => `${c >= 0 ? '+' : ''}${c.toFixed(1)}%`;
 const fmtAmd = (n) => (n >= 10 ? n.toFixed(1) : n.toFixed(2)); // dram: 368.1 vs 4.69
 const fmtDram = (n) => Math.round(n).toLocaleString('en-US'); // large dram amounts: 48,128
 // Directional change with an arrow instead of a sign, e.g. "↑0.6%" / "↓0.0%".
@@ -48,9 +51,9 @@ const coinEmoji = (label) => COIN_EMOJI[label] || '🔹';
 
 // Build the Telegram digest message (HTML parse mode).
 // Airy layout: blank lines between blocks, 🔸 markers, bold labels.
-// `omitHeader` drops the title/mood blocks — used for the follow-up message
-// under an illustrated post, whose photo caption already carries them. The
-// detailed trending list stays (the caption only shows compact symbols).
+// `omitHeader` drops the title/mood/trending/overview blocks — used for the
+// follow-up message under an illustrated post, whose photo caption already
+// carries them; the body is then just news + rates.
 export const formatDigest = ({ prices = [], items = [], overview = '', sentiment = null, rates = null, trending = [] }, { date, omitHeader = false } = {}) => {
   const out = [];
 
@@ -63,19 +66,19 @@ export const formatDigest = ({ prices = [], items = [], overview = '', sentiment
       out.push(`🧭 <b>Տրամադրություն՝</b> ${sentiment.dot} ${esc(sentiment.hy)} — ${sentiment.value}/100`);
       out.push('');
     }
-  }
-  // "Trending now" — most-searched coins, one per line with a 24h arrow.
-  if (trending.length) {
-    out.push('🔥 <b>Թրենդում՝</b>');
-    trending.forEach((t) => {
-      const arrow = t.change24h != null ? ` ${fmtArrow(t.change24h)}` : '';
-      out.push(`🔸 ${esc(t.name)} (${esc(t.symbol)})${arrow}`);
-    });
-    out.push('');
-  }
-  if (overview) {
-    out.push(`🧠 ${esc(overview)}`);
-    out.push('');
+    // "Trending now" — most-searched coins, one per line with a 24h arrow.
+    if (trending.length) {
+      out.push('🔥 <b>Թրենդում՝</b>');
+      trending.forEach((t) => {
+        const arrow = t.change24h != null ? ` ${fmtArrow(t.change24h)}` : '';
+        out.push(`🔸 ${linked(esc(t.name), t.link)} (${esc(t.symbol)})${arrow}`);
+      });
+      out.push('');
+    }
+    if (overview) {
+      out.push(`🧠 ${esc(overview)}`);
+      out.push('');
+    }
   }
 
   // News first...
@@ -116,27 +119,38 @@ export const formatDigest = ({ prices = [], items = [], overview = '', sentiment
   return out.join('\n');
 };
 
-// Build the short photo caption — a teaser cover line for the illustrated post
-// when the full digest overflows Telegram's 1024-char caption cap. Dated title,
-// a one-line mood + trending glance, and a pointer to the full digest below.
-export const formatCaption = ({ sentiment = null, trending = [], movers = null }, { date } = {}) => {
+// Build the photo caption for the illustrated post — everything except the news
+// and rates, which follow in the body message. Dated title, a one-line mood +
+// trending glance, the detailed trending list, the AI overview, then a pointer.
+export const formatCaption = ({ sentiment = null, trending = [], overview = '' }, { date } = {}) => {
   const out = [`📊 <b>Կրիպտո օրվա ամփոփում — ${date || yerevanDate()}</b>`];
 
-  // One-line glance: mood, then the trending symbols, joined by " · ".
+  // One-line glance: mood, then the trending symbols (linked), joined by " · ".
   const glance = [];
   if (sentiment) glance.push(`🧭 ${esc(sentiment.hy)} ${sentiment.value}/100`);
   if (trending.length) {
-    glance.push(`🔥 ${trending.map((t) => esc(t.symbol)).join(' · ')}`);
+    glance.push(`🔥 ${trending.map((t) => linked(esc(t.symbol), t.link)).join(' · ')}`);
   }
+  if (glance.length) {
+    out.push('');
+    out.push(glance.join('  ·  '));
+  }
+
+  // Detailed trending list — one coin per line, name linked, with its 24h arrow.
+  if (trending.length) {
+    out.push('');
+    trending.forEach((t) => {
+      const arrow = t.change24h != null ? ` ${fmtArrow(t.change24h)}` : '';
+      out.push(`🔸 ${linked(esc(t.name), t.link)} (${esc(t.symbol)})${arrow}`);
+    });
+  }
+
+  if (overview) {
+    out.push('');
+    out.push(`🧠 ${esc(overview)}`);
+  }
+
   out.push('');
-  if (glance.length) out.push(glance.join('  ·  '));
-
-  // Day's biggest gainer/loser among the top coins by market cap, one per line.
-  if (movers?.topGainer && movers?.topLoser) {
-    out.push(`🚀 Օրվա աճ՝ ${esc(movers.topGainer.symbol)} ${fmtChange(movers.topGainer.change24h)}`);
-    out.push(`📉 Անկում՝ ${esc(movers.topLoser.symbol)} ${fmtChange(movers.topLoser.change24h)}`);
-  }
-
   out.push('👇 Մանրամասները՝ ներքևում');
   return out.join('\n');
 };
