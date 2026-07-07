@@ -111,6 +111,24 @@ export const formatDigest = ({ prices = [], items = [], overview = '', sentiment
   return out.join('\n');
 };
 
+// Build the short photo caption — a teaser cover line for the illustrated post
+// when the full digest overflows Telegram's 1024-char caption cap. Dated title,
+// a one-line mood + trending glance, and a pointer to the full digest below.
+export const formatCaption = ({ sentiment = null, trending = [] }, { date } = {}) => {
+  const out = [`📊 <b>Կրիպտո օրվա ամփոփում — ${date || yerevanDate()}</b>`];
+
+  // One-line glance: mood, then the trending symbols, joined by " · ".
+  const glance = [];
+  if (sentiment) glance.push(`🧭 ${esc(sentiment.hy)} ${sentiment.value}/100`);
+  if (trending.length) {
+    glance.push(`🔥 ${trending.map((t) => esc(t.symbol)).join(' · ')}`);
+  }
+  out.push('');
+  if (glance.length) out.push(glance.join('  ·  '));
+  out.push('👇 Մանրամասները՝ ներքևում');
+  return out.join('\n');
+};
+
 // Today's date in English, e.g. "July 1" (Yerevan calendar day).
 export const englishDate = (d = new Date()) =>
   new Intl.DateTimeFormat('en-US', { timeZone: 'Asia/Yerevan', month: 'long', day: 'numeric' }).format(d);

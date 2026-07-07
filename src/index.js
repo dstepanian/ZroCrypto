@@ -5,7 +5,7 @@ import { getSentiment } from './sentiment.js';
 import { getRates } from './rates.js';
 import { getTrending } from './trending.js';
 import { curate } from './curate.js';
-import { formatDigest, formatTweet, yerevanISO, englishDate } from './format.js';
+import { formatDigest, formatCaption, formatTweet, yerevanISO, englishDate } from './format.js';
 import { postToTelegram, postPhotoToTelegram, postPhotoUrlToTelegram } from './post.js';
 import { buildDailyCard } from './chart.js';
 import { appendHistory } from './history.js';
@@ -40,6 +40,7 @@ const run = async () => {
   }
 
   const text = formatDigest({ prices, items, overview, sentiment, rates, trending });
+  const photoCaption = formatCaption({ sentiment, trending });
   const tweet = formatTweet({ prices, items, sentiment });
 
   if (config.dry) {
@@ -68,28 +69,15 @@ const run = async () => {
     return chartBuffer;
   };
 
-  // Split an HTML digest at the last block boundary that still fits the caption
-  // cap, so the photo leads with the real header (title/mood/trending) instead of
-  // a bare channel name. Cutting on blank-line boundaries keeps every <b>/<a> tag
-  // intact, since each opens and closes within a single line of the digest.
-  const splitForCaption = (text) => {
-    if (text.length <= CAPTION_LIMIT) return [text, ''];
-    let cut = text.lastIndexOf('\n\n', CAPTION_LIMIT);
-    if (cut < 1) cut = text.lastIndexOf('\n', CAPTION_LIMIT); // fallback: any line break
-    if (cut < 1) cut = CAPTION_LIMIT;                          // last resort: hard cut
-    return [text.slice(0, cut).trimEnd(), text.slice(cut).trimStart()];
-  };
-
   // Post `caption` (HTML) to `chatId`, illustrated with the lead news image
   // (preferred) or a generated chart; degrades to text-only if both are unavailable.
-  // If the caption is too long for a photo caption, the image leads with as much of
-  // the digest header as fits and the remainder follows as a separate message.
-  const postIllustrated = async (caption, chatId = config.channel) => {
+  // If the caption is too long for a photo caption, the image carries a short teaser
+  // (`shortCaption`) and the full text follows as a separate message.
+  const postIllustrated = async (caption, chatId = config.channel, shortCaption = '📊 ZroCrypto') => {
     const sendWith = async (photoFn) => {
-      const [head, tail] = splitForCaption(caption);
-      const result = await photoFn(head);
-      if (tail) await postToTelegram(tail, chatId);
-      return result;
+      if (caption.length <= CAPTION_LIMIT) return photoFn(caption);
+      await photoFn(shortCaption);
+      return postToTelegram(caption, chatId);
     };
 
     if (newsImage) {
@@ -104,7 +92,7 @@ const run = async () => {
     return postToTelegram(caption, chatId);
   };
 
-  const result = await postIllustrated(text);
+  const result = await postIllustrated(text, config.channel, photoCaption);
   console.log(`[zrocrypto] posted message ${result.message_id} to ${config.channel}`);
 
   // DM the admin a ready-to-paste tweet + image, so X posting stays a manual,
