@@ -4,6 +4,7 @@ import { getPrices } from './prices.js';
 import { getSentiment } from './sentiment.js';
 import { getRates } from './rates.js';
 import { getTrending } from './trending.js';
+import { getMovers } from './movers.js';
 import { curate } from './curate.js';
 import { formatDigest, formatCaption, formatTweet, yerevanISO, englishDate } from './format.js';
 import { postToTelegram, postPhotoToTelegram, postPhotoUrlToTelegram } from './post.js';
@@ -16,9 +17,9 @@ const CAPTION_LIMIT = 1024;
 const run = async () => {
   console.log(`[zrocrypto] starting${config.dry ? ' (dry run)' : ''}`);
 
-  // Prices, raw news, market sentiment, fiat/metal rates and trending coins in parallel.
-  const [prices, raw, sentiment, rates, trending] = await Promise.all([
-    getPrices(), aggregate(), getSentiment(), getRates(), getTrending(),
+  // Prices, raw news, sentiment, fiat/metal rates, trending coins and day movers in parallel.
+  const [prices, raw, sentiment, rates, trending, movers] = await Promise.all([
+    getPrices(), aggregate(), getSentiment(), getRates(), getTrending(), getMovers(),
   ]);
   console.log(`[zrocrypto] ${prices.length} prices, ${raw.length} raw news items` +
     (sentiment ? `, F&G ${sentiment.value}` : '') +
@@ -40,7 +41,11 @@ const run = async () => {
   }
 
   const text = formatDigest({ prices, items, overview, sentiment, rates, trending });
-  const photoCaption = formatCaption({ sentiment, trending });
+  // Header-less variant for the message under an illustrated post — its photo
+  // caption already carries the title/mood/trending, so repeating them reads as
+  // a duplicate. Only used when the full digest overflows the caption cap.
+  const bodyText = formatDigest({ prices, items, overview, sentiment, rates, trending }, { omitHeader: true });
+  const photoCaption = formatCaption({ sentiment, trending, movers });
   const tweet = formatTweet({ prices, items, sentiment });
 
   if (config.dry) {
@@ -72,12 +77,12 @@ const run = async () => {
   // Post `caption` (HTML) to `chatId`, illustrated with the lead news image
   // (preferred) or a generated chart; degrades to text-only if both are unavailable.
   // If the caption is too long for a photo caption, the image carries a short teaser
-  // (`shortCaption`) and the full text follows as a separate message.
-  const postIllustrated = async (caption, chatId = config.channel, shortCaption = '📊 ZroCrypto') => {
+  // (`shortCaption`) and `body` (defaults to the full caption) follows as a message.
+  const postIllustrated = async (caption, chatId = config.channel, shortCaption = '📊 ZroCrypto', body = caption) => {
     const sendWith = async (photoFn) => {
       if (caption.length <= CAPTION_LIMIT) return photoFn(caption);
       await photoFn(shortCaption);
-      return postToTelegram(caption, chatId);
+      return postToTelegram(body, chatId);
     };
 
     if (newsImage) {
@@ -92,7 +97,7 @@ const run = async () => {
     return postToTelegram(caption, chatId);
   };
 
-  const result = await postIllustrated(text, config.channel, photoCaption);
+  const result = await postIllustrated(text, config.channel, photoCaption, bodyText);
   console.log(`[zrocrypto] posted message ${result.message_id} to ${config.channel}`);
 
   // DM the admin a ready-to-paste tweet + image, so X posting stays a manual,
