@@ -541,7 +541,7 @@
   },
   {
     "date": "2026-07-07",
-    "ts": 1783445790608,
+    "ts": 1783446772940,
     "fng": {
       "value": 27,
       "label": "Fear",
@@ -551,44 +551,44 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 64077,
-        "change24h": 0.5802754541235128
+        "price": 64082,
+        "change24h": 0.7769925932065648
       },
       {
         "label": "Ethereum",
-        "price": 1803.42,
-        "change24h": 0.7753390286406582
+        "price": 1804.03,
+        "change24h": 0.9462179255618508
       }
     ],
-    "overview": "Շուկան ցույց է տալիս ինստիտուցիոնալ հետաքրքրության և կարգավորող զարգացումների նշաններ։ Խոշոր ֆինանսական խաղացողները ընդլայնվում են դեպի թվային ակտիվներ, մինչդեռ կարգավորողները նոր կանոններ են պատրաստում։",
+    "overview": "Ընդհանուր տրամադրությունը շարունակական ինստիտուցիոնալ հետաքրքրության և կարգավորող զարգացումների խառնուրդ է: Խոշոր ֆինանսական խաղացողներն ավելացնում են իրենց ներգրավվածությունը, մինչդեռ ԱՄՆ-ի և ԵՄ-ի կարգավորող մարմիններն ակտիվորեն ձևավորում են թվային ակտիվների ապագան:",
     "items": [
       {
-        "headline": "ԱՄՆ SEC-ը կառաջարկի նոր կրիպտո կանոն",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) նախատեսում է այս ամիս առաջարկել նոր կանոններ՝ կրիպտո ստարտափների և դրամահավաքի համար։",
-        "link": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
+        "headline": "ԱՄՆ SEC-ը նախատեսում է կրիպտո կանոնների փոփոխություններ",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) նախատեսում է մինչև տարեվերջ առաջարկել կրիպտոարժույթների կանոնների փոփոխություններ՝ բորսաների և բրոքեր-դիլերների համար:",
+        "link": "https://www.theblock.co/post/407468/sec-plans-crypto-rule-changes-for-exchanges-broker-dealers-2026-regulatory-agenda?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "SEC plans crypto rule changes for exchanges and broker dealers in 2026 regulatory agenda",
+        "image": "https://www.tbstat.com/wp/uploads/2025/01/20250109_Paul-Atkins_News-800x450.jpg"
+      },
+      {
+        "headline": "EDX Markets-ը $76 միլիոն է հավաքել SBI Holdings-ից",
+        "summary": "Ինստիտուցիոնալ կրիպտո փոխանակման հարթակ EDX Markets-ը ավարտել է $76 միլիոնի Series C ֆինանսավորման փուլը՝ ճապոնական SBI Holdings-ի միակ ներդրմամբ:",
+        "link": "https://cointelegraph.com/news/institutional-crypto-exchange-edx-lands-76m-from-sbi-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Institutional crypto exchange EDX lands $76M from SBI Holdings",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-edx.png"
+      },
+      {
+        "headline": "Vanguard-ը փնտրում է թվային ակտիվների ղեկավար",
+        "summary": "Բազմատրիլիոնանոց ակտիվներ կառավարող Vanguard-ը փնտրում է թվային ակտիվների ղեկավար՝ ազդարարելով կրիպտո ռազմավարության զարգացման մասին:",
+        "link": "https://www.coindesk.com/markets/2026/07/07/vanguard-opens-search-for-digital-assets-leader-in-sign-of-evolving-crypto-strategy",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/82c63d25c774161ab6ecc7ce74e066578a78b0c5-1955x1100.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Vanguard-ը փնտրում է կրիպտո ղեկավար",
-        "summary": "Բազմատրիլիոնանոց ակտիվներ կառավարող Vanguard-ը փնտրում է կրիպտո գործադիրի՝ շուկայի վրա ազդելու համար։",
-        "link": "https://www.theblock.co/post/407441/vanguard-hiring-crypto-exec-to-help-influence-market?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Multi-trillion-dollar asset manager Vanguard hiring crypto exec to help influence market",
-        "image": "https://www.tbstat.com/wp/uploads/2026/04/20260409_Tokens_News-800x450.jpg"
-      },
-      {
-        "headline": "EDX Markets-ը ստացել է $76 միլիոն ներդրում",
-        "summary": "Ինստիտուցիոնալ կրիպտո պլատֆորմ EDX Markets-ը փակել է $76 միլիոն Series C ֆինանսավորման փուլը՝ ճապոնական SBI Holdings-ի միակ ներդրմամբ։",
-        "link": "https://www.theblock.co/post/407489/crypto-platform-edx-markets-series-c-funding-sbi-sole-investor?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "SBI Holdings is sole investor in crypto platform EDX Markets’ $76 million Series C",
-        "image": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Funding_News_3-800x450.jpg"
+        "enTitle": "Vanguard opens search for digital assets leader in sign of evolving crypto strategy",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/bab22288f6f49ac88c31fef527a24710bf6ee3fa-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
         "headline": "Coinbase-ը Մեծ Բրիտանիայում լիցենզիա է ստացել",
-        "summary": "Coinbase-ը Մեծ Բրիտանիայում ստացել է լիցենզիա՝ բաժնետոմսեր և դերիվատիվներ առաջարկելու կրիպտոյի հետ մեկտեղ։",
+        "summary": "Coinbase-ը Մեծ Բրիտանիայում ստացել է Ֆինանսական վարքագծի մարմնի (FCA) լիազորություն՝ առաջարկելու բաժնետոմսեր և դերիվատիվներ կրիպտոարժույթների կողքին:",
         "link": "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto",
         "source": "Decrypt",
         "enTitle": "Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto",
@@ -596,11 +596,19 @@
       },
       {
         "headline": "Tether-ը ներդրում է կատարել Mercado Bitcoin-ում",
-        "summary": "Tether-ը ներդրում է կատարել Mercado Bitcoin-ում, քանի որ բլոկչեյն ֆինանսները ընդլայնվում են Լատինական Ամերիկայում։",
-        "link": "https://cointelegraph.com/news/tether-invests-20m-in-mercado-bitcoin-to-expand-tokenized-finance-in-latin-america?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "summary": "Tether-ը $20 միլիոն է ներդրել Mercado Bitcoin-ում՝ Լատինական Ամերիկայում թոքենիզացիայի զարգացման ֆոնին:",
+        "link": "https://www.theblock.co/post/407463/tether-20-million-behind-mercado-bitcoin-latin-america-tokenization-boom?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Tether puts $20 million behind Mercado Bitcoin amid Latin America’s tokenization boom",
+        "image": "https://www.tbstat.com/wp/uploads/2022/05/20220523-Brazil-News-1-800x450.png"
+      },
+      {
+        "headline": "ԵՄ օրենսդիրները ընդունել են թվային ակտիվների քաղաքականություն",
+        "summary": "Եվրոպական խորհրդարանը ընդունել է թվային ակտիվների զեկույց՝ կոչ անելով հետագա գնահատումներ կատարել DeFi-ի, staking-ի, կրիպտո վարկավորման և NFT-ների վերաբերյալ MiCA-ի անցումային շրջանի ավարտից հետո:",
+        "link": "https://cointelegraph.com/news/eu-parliament-digital-assets-policy-mica-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/canada-tether.png"
+        "enTitle": "EU lawmakers adopt digital assets policy stance after MiCA transition ends",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-european-blockchain-partnership-24-countries-story.jpg"
       }
     ]
   }
