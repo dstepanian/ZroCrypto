@@ -68,15 +68,28 @@ const run = async () => {
     return chartBuffer;
   };
 
+  // Split an HTML digest at the last block boundary that still fits the caption
+  // cap, so the photo leads with the real header (title/mood/trending) instead of
+  // a bare channel name. Cutting on blank-line boundaries keeps every <b>/<a> tag
+  // intact, since each opens and closes within a single line of the digest.
+  const splitForCaption = (text) => {
+    if (text.length <= CAPTION_LIMIT) return [text, ''];
+    let cut = text.lastIndexOf('\n\n', CAPTION_LIMIT);
+    if (cut < 1) cut = text.lastIndexOf('\n', CAPTION_LIMIT); // fallback: any line break
+    if (cut < 1) cut = CAPTION_LIMIT;                          // last resort: hard cut
+    return [text.slice(0, cut).trimEnd(), text.slice(cut).trimStart()];
+  };
+
   // Post `caption` (HTML) to `chatId`, illustrated with the lead news image
   // (preferred) or a generated chart; degrades to text-only if both are unavailable.
-  // If the caption is too long for a photo caption, the image is sent with a short
-  // caption and the full text follows as a separate message.
+  // If the caption is too long for a photo caption, the image leads with as much of
+  // the digest header as fits and the remainder follows as a separate message.
   const postIllustrated = async (caption, chatId = config.channel) => {
     const sendWith = async (photoFn) => {
-      if (caption.length <= CAPTION_LIMIT) return photoFn(caption);
-      await photoFn('📊 ZroCrypto');
-      return postToTelegram(caption, chatId);
+      const [head, tail] = splitForCaption(caption);
+      const result = await photoFn(head);
+      if (tail) await postToTelegram(tail, chatId);
+      return result;
     };
 
     if (newsImage) {
