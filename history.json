@@ -541,7 +541,7 @@
   },
   {
     "date": "2026-07-07",
-    "ts": 1783451147105,
+    "ts": 1783453710912,
     "fng": {
       "value": 27,
       "label": "Fear",
@@ -551,20 +551,52 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63646,
-        "change24h": 0.015541264197864344
+        "price": 63795,
+        "change24h": -0.04937608238270507
       },
       {
         "label": "Ethereum",
-        "price": 1785.18,
-        "change24h": -0.32662023487308073
+        "price": 1788.86,
+        "change24h": -0.39246769311834173
       }
     ],
-    "overview": "Կրիպտո շուկան շարունակում է ինստիտուցիոնալացվել՝ նոր ներդրումների և կարգավորող մարմինների ակտիվության ֆոնին։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների ակտիվությամբ և ավանդական ֆինանսական հաստատությունների կողմից թվային ակտիվների նկատմամբ աճող հետաքրքրությամբ: Կարգավորման նորություններ կան Ռուսաստանից և ԱՄՆ SEC-ից, մինչդեռ խոշոր ընկերությունները, ինչպիսիք են Kraken-ը և Vanguard-ը, ընդլայնում են իրենց ներկայությունը կրիպտո ոլորտում:",
     "items": [
       {
-        "headline": "SEC-ը նախատեսում է կրիպտո կանոններ",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) նախատեսում է առաջարկել նոր կանոններ կրիպտոարժույթների համար՝ հեշտացնելու ստարտափների և դրամահավաքի գործընթացները։",
+        "headline": "Ռուսաստանը կգործարկի պետական կրիպտո հարթակ",
+        "summary": "Ռուսաստանը նախատեսում է դեկտեմբերին գործարկել կրիպտոարժույթների օրինական մուտքի հարթակ՝ պետական բանկի միջոցով, ինչը կներառի պահպանման, սահմանափակումների և համապատասխանության պահանջներ։",
+        "link": "https://cryptoslate.com/sberbanks-crypto-wallet-plan-could-pull-russian-users-into-a-bank-controlled-on-ramp/",
+        "source": "CryptoSlate",
+        "enTitle": "Russia’s legal crypto on-ramp to arrive with a state-owned bank holding the keys",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/sberbank-crypto-wallet-bank-controlled-onramp-russia.jpg"
+      },
+      {
+        "headline": "Kraken-ը շահել է $22M արբիտրաժային գործ",
+        "summary": "Կրիպտո փոխանակման Kraken-ի մայր ընկերությունը շահել է $22 միլիոն դոլարի արբիտրաժային գործ իր նախկին աուդիտոր Mazars-ի դեմ՝ 2022 թվականի աուդիտից նրանց դուրս գալու պատճառով։",
+        "link": "https://cointelegraph.com/news/kraken-wins-22m-arbitration-against-former-auditor-mazars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Kraken wins $22M arbitration against former auditor Mazars",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-breaking-news.png"
+      },
+      {
+        "headline": "Kraken-ը ձգտում է բանկ դառնալ Եվրոպայում",
+        "summary": "Կրիպտո փոխանակման Kraken-ը ձգտում է բանկային լիցենզիա ստանալ Եվրոպայում, ընդ որում Լիտվան դիտարկվում է որպես հնարավոր իրավասություն։",
+        "link": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Crypto exchange Kraken is trying to become a bank in Europe",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "BonkDAO-ի $20M կորուստը բացահայտում է խոցելիություն",
+        "summary": "BonkDAO-ի գանձարանից մոտ $20 միլիոնի արտահոսքը ցույց է տալիս, թե ինչպես memecoin-ների գանձարանները կարող են թալանվել պարզ քվեարկության միջոցով, երբ DAO-ի վերահսկողությունը թույլ է։",
+        "link": "https://cryptoslate.com/bonkdaos-estimated-20m-drain-exposes-a-serious-security-fault-line-for-memecoin-treasuries/",
+        "source": "CryptoSlate",
+        "enTitle": "BonkDAO’s estimated $20M drain exposes how memecoin treasuries can be raided by a simple vote",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bonkdao-governance-exploit-treasury-vault-drain.jpg"
+      },
+      {
+        "headline": "ԱՄՆ SEC-ը կառաջարկի կրիպտո կանոններ",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) նախատեսում է այս ամիս առաջարկել նոր կրիպտո կանոններ՝ ստարտափների և դրամահավաքի գործընթացները հեշտացնելու համար։",
         "link": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
         "enTitle": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
@@ -572,43 +604,11 @@
       },
       {
         "headline": "Vanguard-ը փնտրում է թվային ակտիվների ղեկավար",
-        "summary": "Բազմատրիլիոնանոց ակտիվներ կառավարող Vanguard ընկերությունը փնտրում է թվային ակտիվների ղեկավար՝ իր կրիպտո ռազմավարությունը զարգացնելու համար։",
-        "link": "https://www.theblock.co/post/407441/vanguard-hiring-crypto-exec-to-help-influence-market?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Multi-trillion-dollar asset manager Vanguard hiring crypto exec to help influence market",
-        "image": "https://www.tbstat.com/wp/uploads/2026/04/20260409_Tokens_News-800x450.jpg"
-      },
-      {
-        "headline": "Coinbase-ը UK լիցենզիա ստացավ",
-        "summary": "Coinbase-ը Մեծ Բրիտանիայում լիցենզիա է ստացել՝ իր օգտատերերին բաժնետոմսեր և դերիվատիվներ առաջարկելու համար՝ ընդլայնելով իր ծառայությունները։",
-        "link": "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto",
-        "source": "Decrypt",
-        "enTitle": "Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png"
-      },
-      {
-        "headline": "EDX Markets-ը $76M ֆինանսավորում ստացավ",
-        "summary": "Ինստիտուցիոնալ կրիպտո հարթակ EDX Markets-ը $76 միլիոն ֆինանսավորում է ստացել SBI Holdings-ի կողմից՝ Series C փուլում։",
-        "link": "https://cointelegraph.com/news/institutional-crypto-exchange-edx-lands-76m-from-sbi-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Institutional crypto exchange EDX lands $76M from SBI Holdings",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-edx.png"
-      },
-      {
-        "headline": "Tether-ը ներդրում է կատարել Mercado Bitcoin-ում",
-        "summary": "Tether-ը $20 միլիոն է ներդրել Mercado Bitcoin-ում՝ աջակցելով բլոկչեյն ֆինանսների ընդլայնմանը Լատինական Ամերիկայում։",
-        "link": "https://cointelegraph.com/news/tether-invests-20m-in-mercado-bitcoin-to-expand-tokenized-finance-in-latin-america?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/canada-tether.png"
-      },
-      {
-        "headline": "BlackRock ETF-ի Bitcoin ներհոսքեր",
-        "summary": "BlackRock-ի IBIT Bitcoin ETF-ը մոտ $209 միլիոն ներհոսք է գրանցել՝ նպաստելով Bitcoin-ի վերականգնմանը։",
-        "link": "https://cryptoslate.com/blackrock-put-209m-behind-bitcoins-rebound-but-can-it-last/",
-        "source": "CryptoSlate",
-        "enTitle": "BlackRock put $209M behind Bitcoin’s rebound but can it last?",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bitcoin-etf-support-faces-market-test.jpg"
+        "summary": "Multi-trillion-dollar ակտիվներ կառավարող Vanguard-ը փնտրում է թվային ակտիվների ղեկավար՝ ազդելու շուկայի վրա և վերանայելու իր կրիպտո ռազմավարությունը։",
+        "link": "https://www.coindesk.com/markets/2026/07/07/vanguard-opens-search-for-digital-assets-leader-in-sign-of-evolving-crypto-strategy",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Vanguard opens search for digital assets leader in sign of evolving crypto strategy",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/bab22288f6f49ac88c31fef527a24710bf6ee3fa-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
