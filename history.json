@@ -538,5 +538,78 @@
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/bitcoin-etfs-post-first-negative-half-with-5-4-billion-in-outflows-dwf-labs-says-768x432.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-07",
+    "ts": 1783416310964,
+    "fng": {
+      "value": 27,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 63134,
+        "change24h": 0.6546690526395539
+      },
+      {
+        "label": "Ethereum",
+        "price": 1770.97,
+        "change24h": 0.5565471698458303
+      }
+    ],
+    "overview": "Շուկան այսօր մարսում է կարևոր նորություններ՝ սկսած քաղաքական գործիչների կողմից կրիպտոյի աջակցությունից մինչև անվտանգության խոշոր միջադեպեր և ինստիտուցիոնալ քայլեր: Կարգավորման քննարկումները և ԱՄՆ կառավարության մոտեցումը Bitcoin-ի պահուստին նույնպես մնում են հիմնական թեմաներ:",
+    "items": [
+      {
+        "headline": "Tether-ի նախկին CIO-ն իր բաժնեմասի վաճառքի որոնումներում",
+        "summary": "Bloomberg-ի փոխանցմամբ՝ Tether-ի նախկին CIO Richard Heathcote-ը փնտրում է գնորդներ ընկերությունում իր 1.26% բաժնեմասի մի մասի համար։",
+        "link": "https://www.theblock.co/post/407394/tethers-former-cio-seeks-buyers-for-part-of-his-stake-in-the-firm-bloomberg?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Tether’s former CIO seeks buyers for part of his stake in the firm: Bloomberg",
+        "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Tether_News_2-800x450.jpg"
+      },
+      {
+        "headline": "Upbit-ի և Naver-ի գործարքը հետաձգվում է կրիպտո օրենքի պատճառով",
+        "summary": "Upbit-ի և Naver-ի բաժնետոմսերի փոխանակման գործարքը երկրորդ անգամ հետաձգվել է՝ կապված առաջարկվող կրիպտո օրենսդրության շուրջ բանավեճերի հետ։",
+        "link": "https://www.theblock.co/post/407389/upbit-naver-stock-swap-deal-delay?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Upbit, Naver stock-swap deal faces second delay amid proposed crypto law debate",
+        "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-800x450.jpg"
+      },
+      {
+        "headline": "Trump-ը հայտարարում է, որ ինքը «մեծ կրիպտո մարդ է»",
+        "summary": "Նախագահ Donald Trump-ը հայտարարել է, որ ինքը «մեծ կրիպտո մարդ է»՝ պատասխանելով Bitcoin-ը նոր գործարկված Trump Accounts-ին ավելացնելու հարցին։",
+        "link": "https://news.bitcoin.com/trump-accounts-live-bitcoin-big-crypto-guy/",
+        "source": "Bitcoin News",
+        "enTitle": "‘I’m a Big Crypto Guy’: Trump Fields Bitcoin Question as $1,000 Trump Accounts Go Live",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/09/trump_nato-768x432.jpg"
+      },
+      {
+        "headline": "Grayscale-ը՝ Strategy-ի Bitcoin վաճառքը նվազեցնում է ռիսկերը",
+        "summary": "Grayscale Research-ը հայտարարում է, որ Strategy-ի 216 միլիոն դոլարի Bitcoin վաճառքը կարող է նվազեցնել ֆինանսավորման ռիսկը և աջակցել գների կայունությանը։",
+        "link": "https://news.bitcoin.com/grayscale-strategy-bitcoin-sale-reduces-tail-risk/",
+        "source": "Bitcoin News",
+        "enTitle": "Grayscale: Strategy’s $216M Bitcoin Sale ‘Reduces Tail Risk’ and Could Help BTC Find a Durable Bottom",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/09/michael-saylors-strategy-may-enter-the-sp-500-as-early-as-friday-768x432.jpg"
+      },
+      {
+        "headline": "BONK-ի գանձարանից գողացվել է 20 միլիոն դոլար",
+        "summary": "BONK memecoin-ը բախվել է 20 միլիոն դոլարի գանձարանի արտահոսքի՝ չարամիտ առաջարկությունն անցկացնելու համար հարձակվողի կողմից 4 միլիոն դոլար ծախսելուց հետո։",
+        "link": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d3f84468a4e42bb27360b0d6331ee564af05aad-5184x2916.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "ԱՄՆ-ի Bitcoin պահուստը բախվում է խոչընդոտների",
+        "summary": "Bloomberg-ը հայտնում է, որ ԱՄՆ-ի Bitcoin պահուստի ստեղծումը բախվում է դժվարությունների, քանի որ դաշնային գործակալությունները վիճում են դրա վերահսկողության շուրջ։",
+        "link": "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-storage-us.jpg"
+      }
+    ]
   }
 ]
