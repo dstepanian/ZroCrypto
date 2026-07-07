@@ -541,7 +541,7 @@
   },
   {
     "date": "2026-07-07",
-    "ts": 1783449758030,
+    "ts": 1783450639580,
     "fng": {
       "value": 27,
       "label": "Fear",
@@ -551,60 +551,60 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63994,
-        "change24h": 0.38751355647909924
+        "price": 63710,
+        "change24h": 0.05589004978123819
       },
       {
         "label": "Ethereum",
-        "price": 1801.46,
-        "change24h": 0.4712754989746864
+        "price": 1787.9,
+        "change24h": -0.1954082426046401
       }
     ],
-    "overview": "Շուկայում նկատվում է ինստիտուցիոնալ ընդունման և կարգավորման հստակության աճող միտում։ Խոշոր ընկերությունները շարունակում են ներդրումներ կատարել և ընդլայնել իրենց գործունեությունը, մինչդեռ կարգավորող մարմինները ակտիվորեն ձևավորում են ոլորտի ապագան։",
+    "overview": "Շուկաներում նկատվում է ինստիտուցիոնալ հետաքրքրության աճ և կարգավորող մարմինների ակտիվություն, մինչդեռ խոշոր կրիպտո ընկերությունները շարունակում են ընդլայնել իրենց գործունեությունը։",
     "items": [
       {
         "headline": "BlackRock-ի ներդրումը Bitcoin ETF-ում",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները ստացել են մոտ 266 միլիոն դոլարի ներհոսք, որից մոտ 209 միլիոնը կազմել է BlackRock-ի IBIT-ը՝ աջակցելով Bitcoin-ի վերականգնմանը։",
+        "summary": "BlackRock-ի IBIT Bitcoin ETF-ը հուլիսի 6-ին ներգրավել է մոտ 209 միլիոն դոլար՝ նպաստելով Bitcoin-ի վերականգնմանը։",
         "link": "https://cryptoslate.com/blackrock-put-209m-behind-bitcoins-rebound-but-can-it-last/",
         "source": "CryptoSlate",
         "enTitle": "BlackRock put $209M behind Bitcoin’s rebound but can it last?",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bitcoin-etf-support-faces-market-test.jpg"
       },
       {
-        "headline": "Kraken-ը ձգտում է բանկային լիցենզիա ստանալ Եվրոպայում",
-        "summary": "Կրիպտոարժույթների բորսա Kraken-ը փորձում է բանկային լիցենզիա ստանալ Եվրոպայում՝ կենտրոնանալով Լիտվայի վրա։",
+        "headline": "Kraken-ը ձգտում է բանկ դառնալ Եվրոպայում",
+        "summary": "Կրիպտո փոխանակման հարթակ Kraken-ը ձգտում է բանկային լիցենզիա ստանալ Եվրոպայում՝ կենտրոնանալով Լիտվայի վրա։",
         "link": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
         "enTitle": "Crypto exchange Kraken is trying to become a bank in Europe",
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "EDX Markets-ը 76 միլիոն դոլար է հավաքել",
-        "summary": "Ինստիտուցիոնալ կրիպտո հարթակ EDX Markets-ը փակել է 76 միլիոն դոլարի Series C ֆինանսավորման փուլը, որի միակ ներդրողը ճապոնական SBI Holdings-ն է։",
+        "headline": "EDX Markets-ը 76 միլիոն դոլարի ֆինանսավորում է ստացել",
+        "summary": "Ինստիտուցիոնալ կրիպտո հարթակ EDX Markets-ը 76 միլիոն դոլարի Series C ֆինանսավորման փուլ է փակել՝ ճապոնական SBI Holdings-ի միակ ներդրմամբ։",
         "link": "https://www.theblock.co/post/407489/crypto-platform-edx-markets-series-c-funding-sbi-sole-investor?utm_source=rss&utm_medium=rss",
         "source": "The Block",
         "enTitle": "SBI Holdings is sole investor in crypto platform EDX Markets’ $76 million Series C",
         "image": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Funding_News_3-800x450.jpg"
       },
       {
+        "headline": "Tether-ը ներդրում է կատարում Mercado Bitcoin-ում",
+        "summary": "Tether-ը ներդրում է կատարել Mercado Bitcoin-ում՝ նպատակ ունենալով ընդլայնել թոքենիզացված ֆինանսները Լատինական Ամերիկայում։",
+        "link": "https://cointelegraph.com/news/tether-invests-20m-in-mercado-bitcoin-to-expand-tokenized-finance-in-latin-america?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/canada-tether.png"
+      },
+      {
         "headline": "ԱՄՆ SEC-ը կառաջարկի կրիպտո կանոններ",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) նախատեսում է այս ամիս առաջարկել նոր կրիպտո կանոններ՝ նպատակ ունենալով հեշտացնել ստարտափների և դրամահավաքի գործընթացները։",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) նախատեսում է այս ամիս առաջարկել նոր կրիպտո կանոններ՝ ստարտափների և դրամահավաքի համար։",
         "link": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
         "enTitle": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/82c63d25c774161ab6ecc7ce74e066578a78b0c5-1955x1100.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Vanguard-ը փնտրում է թվային ակտիվների ղեկավար",
-        "summary": "Բազմատրիլիոնանոց ակտիվներ կառավարող Vanguard ընկերությունը փնտրում է թվային ակտիվների ղեկավար՝ շուկայի վրա ազդելու և անձնական հարստության հաճախորդների համար կրիպտո ռազմավարությունը մշակելու համար։",
-        "link": "https://www.theblock.co/post/407441/vanguard-hiring-crypto-exec-to-help-influence-market?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Multi-trillion-dollar asset manager Vanguard hiring crypto exec to help influence market",
-        "image": "https://www.tbstat.com/wp/uploads/2026/04/20260409_Tokens_News-800x450.jpg"
-      },
-      {
         "headline": "Coinbase-ը լիցենզիա է ստացել Մեծ Բրիտանիայում",
-        "summary": "Coinbase-ը Մեծ Բրիտանիայում ստացել է FCA-ի թույլտվություն՝ իր օգտատերերին առաջարկելու բաժնետոմսեր և դերիվատիվներ՝ կրիպտոարժույթների հետ մեկտեղ։",
+        "summary": "Coinbase-ը Մեծ Բրիտանիայում ստացել է լիցենզիա՝ առաջարկելու բաժնետոմսեր և դերիվատիվներ կրիպտոարժույթների հետ մեկտեղ։",
         "link": "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto",
         "source": "Decrypt",
         "enTitle": "Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto",
