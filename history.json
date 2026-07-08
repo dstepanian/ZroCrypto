@@ -611,5 +611,70 @@
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/bab22288f6f49ac88c31fef527a24710bf6ee3fa-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
+  },
+  {
+    "date": "2026-07-08",
+    "ts": 1783498148804,
+    "fng": {
+      "value": 20,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 62848,
+        "change24h": -0.2307010721152084
+      },
+      {
+        "label": "Ethereum",
+        "price": 1755.59,
+        "change24h": -0.7184594081048944
+      }
+    ],
+    "overview": "Այսօրվա նորությունները ցույց են տալիս աճող ինստիտուցիոնալ հետաքրքրություն կրիպտո շուկայի նկատմամբ, կարգավորող մարմինների կողմից հստակեցումների ակնկալիքներ, ինչպես նաև թվային ակտիվների տարածքի ընդլայնում դեպի նոր ոլորտներ, ինչպիսիք են AI ենթակառուցվածքները և RWA-ները։",
+    "items": [
+      {
+        "headline": "Vanguard-ը փնտրում է թվային ակտիվների ղեկավար",
+        "summary": "12 տրիլիոն դոլար կառավարող Vanguard-ը փնտրում է թվային ակտիվների բաժնի ղեկավար՝ ազդարարելով կրիպտո տարածք մուտք գործելու խորը մտադրություն։",
+        "link": "https://news.bitcoin.com/12-trillion-vanguard-signals-deeper-crypto-push-with-new-head-of-digital-assets-position/",
+        "source": "Bitcoin News",
+        "enTitle": "$12 Trillion Vanguard Signals Deeper Crypto Push With New Head of Digital Assets Position",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/vanguard-job-posting-for-head-of-digital-assets-768x432.jpg"
+      },
+      {
+        "headline": "SEC-ը կներկայացնի կրիպտո «անվտանգ նավահանգիստ»",
+        "summary": "SEC-ը նախատեսում է այս ամիս հանրային քննարկման ներկայացնել կրիպտոարժույթների համար «անվտանգ նավահանգիստ» կանոնակարգի առաջարկը։",
+        "link": "https://decrypt.co/372980/sec-crypto-safe-harbor-introduced-soon-this-month",
+        "source": "Decrypt",
+        "enTitle": "SEC's Long-Promised Crypto Safe Harbor to Be Introduced as Soon as This Month",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg@png"
+      },
+      {
+        "headline": "Tether-ը ներդրում է կատարում Mercado Bitcoin-ում",
+        "summary": "USDT stablecoin-ի թողարկող Tether-ը 20 միլիոն դոլար է ներդրել բրազիլական Mercado Bitcoin կրիպտո փոխանակման հարթակում՝ Լատինական Ամերիկայում ընդլայնվելու համար։",
+        "link": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america",
+        "source": "Decrypt",
+        "enTitle": "Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Tether-decrypt-style-02-gID_7.png@png"
+      },
+      {
+        "headline": "Solana-ի RWA ծավալը կտրուկ աճել է",
+        "summary": "Solana-ի վրա RWA (իրական աշխարհի ակտիվներ) փոխանցումների ծավալը կրկնապատկվել է 30 օրվա ընթացքում՝ ցույց տալով թոքենիզացված ակտիվների աճող ընդունումը։",
+        "link": "https://cryptoslate.com/solana-rwa-transfers-show-tokenized-assets-are-starting-to-move/",
+        "source": "CryptoSlate",
+        "enTitle": "Solana’s $8.7B RWA surge shows tokenized assets are finally starting to move",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/solana-rwa-circulation-mechanical-token-loop.jpg"
+      },
+      {
+        "headline": "Terawulf-ը 19 միլիարդ դոլարի AI գործարք է կնքել",
+        "summary": "Terawulf-ը Anthropic-ի հետ կնքել է 20-ամյա AI տվյալների կենտրոնի վարձակալության պայմանագիր՝ մոտ 19 միլիարդ դոլարի պայմանագրային եկամուտի ակնկալիքով։",
+        "link": "https://news.bitcoin.com/terawulf-and-anthropic-sign-20-year-ai-data-center-lease-worth-19-billion/",
+        "source": "Bitcoin News",
+        "enTitle": "Terawulf and Anthropic Sign 20-Year AI Data Center Lease Worth $19 Billion",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/terawulf-and-anthropic-sign-20-year-ai-data-center-lease-worth-19-billion-768x432.jpg"
+      }
+    ]
   }
 ]
