@@ -684,5 +684,78 @@
         "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bitcoin-clarity-act-senate-deadline-countdown.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-09",
+    "ts": 1783589243697,
+    "fng": {
+      "value": 22,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 62797,
+        "change24h": 1.5207524593058646
+      },
+      {
+        "label": "Ethereum",
+        "price": 1750.1,
+        "change24h": 1.0223625819343254
+      }
+    ],
+    "overview": "Կրիպտո շուկան նկատում է զգալի ինստիտուցիոնալ ներգրավվածություն և կարգավորողական զարգացումներ։ Խոշոր ֆինանսական խաղացողները ուսումնասիրում են բլոկչեյն տեխնոլոգիան և stablecoin-ները, մինչդեռ առաջատար բորսաներն ընդլայնում են իրենց գլոբալ կարգավորողական ներկայությունը։ Բացի այդ, վենչուրային կապիտալը հոսում է ոլորտ՝ աճող ուշադրություն դարձնելով AI-ի ինտեգրմանը։",
+    "items": [
+      {
+        "headline": "SWIFT-ը գործարկում է բլոկչեյն լեջեր",
+        "summary": "SWIFT-ը գործարկել է իր նոր բլոկչեյն լեջերը, որը կհյուրընկալի 17 խոշոր բանկերի թոքենիզացված ավանդների փորձնական ծրագիր՝ ավելի արագ անդրսահմանային վճարումների համար։",
+        "link": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "SWIFT launches blockchain ledger with 17-bank tokenized deposit pilot",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-time-to-challenge-swift.jpg"
+      },
+      {
+        "headline": "Sony Bank-ը կթողարկի դոլարային stablecoin",
+        "summary": "Sony Bank-ը ստացել է OCC-ի պայմանական հավանությունը՝ ԱՄՆ-ում վստահության բանկ ստեղծելու համար, որը կթողարկի դոլարով ապահովված stablecoin։",
+        "link": "https://www.theblock.co/post/407670/sony-bank-conditional-occ-approval?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Sony Bank gets conditional OCC approval for US trust bank to issue dollar-backed stablecoin",
+        "image": "https://www.tbstat.com/wp/uploads/2024/08/428678315_65eaec2b34_k-e1736818128388-800x450.jpg"
+      },
+      {
+        "headline": "Binance-ը նոր լիցենզիաներ է փնտրում",
+        "summary": "Binance-ը նոր լիցենզիաներ է ուսումնասիրում Եվրոպայում՝ MiCA-ի հետ կապված խնդիրներից հետո՝ շարունակելով ընդլայնել իր կարգավորողական ներկայությունը Ասիայում։",
+        "link": "https://cointelegraph.com/news/regulators-invite-binance-seek-new-license-mica-setback-teng?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Regulators invited Binance to seek new licenses after MiCA setback, co-CEO says",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-emergence-of-bnb-as-a-global-defi-infrastructure-1.jpg"
+      },
+      {
+        "headline": "Coinbase-ը Մեծ Բրիտանիայի լիցենզիա ստացավ",
+        "summary": "Coinbase-ը Մեծ Բրիտանիայում լիազորություն է ստացել ներդրումային ծառայություններ մատուցելու համար՝ թույլ տալով առաջարկել բաժնետոմսեր և ածանցյալ գործիքներ կրիպտոյի հետ մեկ հարթակում։",
+        "link": "https://news.bitcoin.com/coinbase-uk-license-marks-major-step-toward-bringing-everything-exchange-to-life/",
+        "source": "Bitcoin News",
+        "enTitle": "Coinbase UK License Marks Major Step Toward Bringing ‘Everything Exchange’ to Life",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/coinbase-uk-authorization-768x432.jpg"
+      },
+      {
+        "headline": "Paradigm-ը $1.2B է հավաքել AI-ի համար",
+        "summary": "Crypto վենչուրային ընկերություն Paradigm-ը 1.2 միլիարդ դոլար է հավաքել իր վերջին հիմնադրամի համար՝ ընդլայնելով իր ներդրումային ուղղությունը դեպի AI և այլ առաջատար ոլորտներ։",
+        "link": "https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Crypto VC Paradigm raises $1.2B to push into AI",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-the-eus-massive-investment-into-blockchain-ai-rd-save-us-from-the-tech-oligopoly1.jpg"
+      },
+      {
+        "headline": "Թոքենիզացված բաժնետոմսերի աճ",
+        "summary": "Թոքենիզացված բաժնետոմսերի փոխանցումները մեկ ամսում աճել են 105%-ով՝ հասնելով 8.4 միլիարդ դոլարի, քանի որ կրիպտո ընկերությունները և ավանդական ֆինանսական հաստատություններն ընդլայնում են նախաձեռնությունները։",
+        "link": "https://cointelegraph.com/news/tokenized-stock-transfers-surge-105-in-a-month-to-84b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Tokenized stock transfers surge 105% in a month to $8.4B",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-biggest-challenge-for-crypto-exchanges-is-global-price-fragmentation-2.png"
+      }
+    ]
   }
 ]
