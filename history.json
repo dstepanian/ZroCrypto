@@ -687,7 +687,7 @@
   },
   {
     "date": "2026-07-09",
-    "ts": 1783589243697,
+    "ts": 1783619298382,
     "fng": {
       "value": 22,
       "label": "Extreme Fear",
@@ -697,64 +697,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 62797,
-        "change24h": 1.5207524593058646
+        "price": 62977,
+        "change24h": 1.2600884365851068
       },
       {
         "label": "Ethereum",
-        "price": 1750.1,
-        "change24h": 1.0223625819343254
+        "price": 1748.09,
+        "change24h": 0.5692417844373945
       }
     ],
-    "overview": "Կրիպտո շուկան նկատում է զգալի ինստիտուցիոնալ ներգրավվածություն և կարգավորողական զարգացումներ։ Խոշոր ֆինանսական խաղացողները ուսումնասիրում են բլոկչեյն տեխնոլոգիան և stablecoin-ները, մինչդեռ առաջատար բորսաներն ընդլայնում են իրենց գլոբալ կարգավորողական ներկայությունը։ Բացի այդ, վենչուրային կապիտալը հոսում է ոլորտ՝ աճող ուշադրություն դարձնելով AI-ի ինտեգրմանը։",
+    "overview": "Այսօրվա նորությունները ցույց են տալիս կրիպտո շուկայի աճող ինտեգրումը ավանդական ֆինանսների հետ, ինչպես նաև կարգավորող մարմինների կողմից ակտիվ քայլերը։ Կարևոր է նաև Bitcoin մայնինգ ընկերությունների շարունակական անցումը դեպի AI ոլորտ։",
     "items": [
       {
-        "headline": "SWIFT-ը գործարկում է բլոկչեյն լեջեր",
-        "summary": "SWIFT-ը գործարկել է իր նոր բլոկչեյն լեջերը, որը կհյուրընկալի 17 խոշոր բանկերի թոքենիզացված ավանդների փորձնական ծրագիր՝ ավելի արագ անդրսահմանային վճարումների համար։",
-        "link": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "SWIFT launches blockchain ledger with 17-bank tokenized deposit pilot",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-time-to-challenge-swift.jpg"
-      },
-      {
-        "headline": "Sony Bank-ը կթողարկի դոլարային stablecoin",
-        "summary": "Sony Bank-ը ստացել է OCC-ի պայմանական հավանությունը՝ ԱՄՆ-ում վստահության բանկ ստեղծելու համար, որը կթողարկի դոլարով ապահովված stablecoin։",
-        "link": "https://www.theblock.co/post/407670/sony-bank-conditional-occ-approval?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Sony Bank gets conditional OCC approval for US trust bank to issue dollar-backed stablecoin",
-        "image": "https://www.tbstat.com/wp/uploads/2024/08/428678315_65eaec2b34_k-e1736818128388-800x450.jpg"
-      },
-      {
-        "headline": "Binance-ը նոր լիցենզիաներ է փնտրում",
-        "summary": "Binance-ը նոր լիցենզիաներ է ուսումնասիրում Եվրոպայում՝ MiCA-ի հետ կապված խնդիրներից հետո՝ շարունակելով ընդլայնել իր կարգավորողական ներկայությունը Ասիայում։",
-        "link": "https://cointelegraph.com/news/regulators-invite-binance-seek-new-license-mica-setback-teng?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Regulators invited Binance to seek new licenses after MiCA setback, co-CEO says",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-emergence-of-bnb-as-a-global-defi-infrastructure-1.jpg"
-      },
-      {
-        "headline": "Coinbase-ը Մեծ Բրիտանիայի լիցենզիա ստացավ",
-        "summary": "Coinbase-ը Մեծ Բրիտանիայում լիազորություն է ստացել ներդրումային ծառայություններ մատուցելու համար՝ թույլ տալով առաջարկել բաժնետոմսեր և ածանցյալ գործիքներ կրիպտոյի հետ մեկ հարթակում։",
-        "link": "https://news.bitcoin.com/coinbase-uk-license-marks-major-step-toward-bringing-everything-exchange-to-life/",
+        "headline": "Sony Bank-ը մտնում է stablecoin շուկա",
+        "summary": "Sony Bank-ը ստացել է ԱՄՆ Արժույթի Վերահսկիչի Գրասենյակի (OCC) պայմանական հավանությունը՝ stablecoin բիզնեսի համար ազգային վստահության բանկ բացելու համար։",
+        "link": "https://news.bitcoin.com/occ-clears-sony-bank-to-open-connectia-trust-for-usd-stablecoin-business/",
         "source": "Bitcoin News",
-        "enTitle": "Coinbase UK License Marks Major Step Toward Bringing ‘Everything Exchange’ to Life",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/coinbase-uk-authorization-768x432.jpg"
+        "enTitle": "OCC Clears Sony Bank to Open Connectia Trust for USD Stablecoin Business",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2200496233-768x432.jpg"
       },
       {
-        "headline": "Paradigm-ը $1.2B է հավաքել AI-ի համար",
-        "summary": "Crypto վենչուրային ընկերություն Paradigm-ը 1.2 միլիարդ դոլար է հավաքել իր վերջին հիմնադրամի համար՝ ընդլայնելով իր ներդրումային ուղղությունը դեպի AI և այլ առաջատար ոլորտներ։",
-        "link": "https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "MARA-ն ընդլայնում է AI հավակնությունները",
+        "summary": "Bitcoin մայնինգ ընկերության բաժնետոմսերն աճել են մոտ 15%-ով՝ Տեխասում մինչև 2 ԳՎտ հզորությամբ տարածք ձեռք բերելու մասին հայտարարելուց հետո՝ իր AI և թվային ենթակառուցվածքների ռազմավարությունն ընդլայնելու համար։",
+        "link": "https://cointelegraph.com/news/mara-shares-jump-10-after-2-gw-texas-infrastructure-deal-expands-ai-ambitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Crypto VC Paradigm raises $1.2B to push into AI",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-the-eus-massive-investment-into-blockchain-ai-rd-save-us-from-the-tech-oligopoly1.jpg"
+        "enTitle": "MARA shares surge after 2 GW Texas infrastructure deal expands AI ambitions",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-eu-vote-on-bitcoin-mining-ai.png"
       },
       {
-        "headline": "Թոքենիզացված բաժնետոմսերի աճ",
-        "summary": "Թոքենիզացված բաժնետոմսերի փոխանցումները մեկ ամսում աճել են 105%-ով՝ հասնելով 8.4 միլիարդ դոլարի, քանի որ կրիպտո ընկերությունները և ավանդական ֆինանսական հաստատություններն ընդլայնում են նախաձեռնությունները։",
-        "link": "https://cointelegraph.com/news/tokenized-stock-transfers-surge-105-in-a-month-to-84b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Tokenized stock transfers surge 105% in a month to $8.4B",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-biggest-challenge-for-crypto-exchanges-is-global-price-fragmentation-2.png"
+        "headline": "Robinhood-ը գործարկում է Layer 2",
+        "summary": "Robinhood-ը այս ամիս գործարկել է Robinhood Chain-ի հանրային հիմնական ցանցը՝ այն նկարագրելով որպես Arbitrum-ի վրա կառուցված թույլտվություն չպահանջող Layer 2՝ թոքենիզացված բաժնետոմսերի, իրական ակտիվների, DeFi վարկավորման և AI-native ֆինանսների համար։",
+        "link": "https://cryptoslate.com/robinhood-launched-a-wall-street-layer-2-chain-and-the-market-crowned-a-150m-cat-coin-first/",
+        "source": "CryptoSlate",
+        "enTitle": "Robinhood launched a Wall Street layer 2 chain and the market crowned a $150M cat coin first",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/cashcat-robinhood-chain-liquidity-gateway.jpg"
+      },
+      {
+        "headline": "Swift-ը փորձարկում է թոքենի փոխանցումներ",
+        "summary": "Swift-ի փորձնական ծրագիրը թույլ է տալիս 17 գլոբալ բանկերին հանգստյան օրերին թոքենիզացված ավանդներ փոխանցել, սակայն վերջնական հաշվարկը դեռևս հիմնված է հին համակարգերի վրա։",
+        "link": "https://decrypt.co/373147/swift-readies-ledger-f24-7-token-transfers-settlement-old-rails",
+        "source": "Decrypt",
+        "enTitle": "Swift Readies Ledger for 24/7 Token Transfers—Though True Settlement Is Stuck on Old Rails",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/swift-decrypt-style-01-gID_7.jpg@png"
+      },
+      {
+        "headline": "PayPal-ը ընդլայնում է PYUSD-ի հասանելիությունը",
+        "summary": "Ընկերությունը հայտարարել է, որ իր stablecoin-ն այժմ բնիկ կերպով կթողարկվի Polygon-ում, ի լրումն Polygon-ի Open Money Stack-ի միջոցով հասանելի դառնալու։",
+        "link": "https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon",
+        "image": "https://www.tbstat.com/wp/uploads/2022/11/20221104_PayPal-800x450.jpg"
+      },
+      {
+        "headline": "ԵՄ-ն կվերանայի MiCA կանոնակարգը",
+        "summary": "ԵՄ դիվանագետները նշում են, որ Թրամփի կողմից stablecoin-ների ընդունումը Բրյուսելին դրդում է ընդլայնել իր կրիպտո օրենքը՝ ներառելով ոչ ԵՄ թողարկողներին և թոքենիզացված վճարումները։",
+        "link": "https://decrypt.co/373113/eu-set-to-revise-mica-in-2027-to-cover-foreign-stablecoin-issuers",
+        "source": "Decrypt",
+        "enTitle": "EU Set to Revise MiCA in 2027 to Cover Foreign Stablecoin Issuers",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/eu-flag-gID_7.jpg@png"
       }
     ]
   }
