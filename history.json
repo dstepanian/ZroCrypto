@@ -760,7 +760,7 @@
   },
   {
     "date": "2026-07-10",
-    "ts": 1783675203652,
+    "ts": 1783705288351,
     "fng": {
       "value": 23,
       "label": "Extreme Fear",
@@ -770,64 +770,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 64237,
-        "change24h": 2.215844334120747
+        "price": 63834,
+        "change24h": 1.4002744728822842
       },
       {
         "label": "Ethereum",
-        "price": 1783.57,
-        "change24h": 1.816750656737406
+        "price": 1789.73,
+        "change24h": 2.409274831207896
       }
     ],
-    "overview": "Այսօրվա կրիպտոարժույթների շուկան բնութագրվում է կարգավորող մարմինների զարգացումներով և ավանդական ֆինանսների կողմից բլոկչեյն տեխնոլոգիաների աճող ընդունմամբ։ Կարևոր իրադարձությունները ներառում են ԱՄՆ-ում նոր օրենսդրական նախագծերի քննարկումները և խոշոր ֆինանսական հաստատությունների կողմից բլոկչեյնի ինտեգրումը։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող զարգացումներով ԱՄՆ-ում և Հոնկոնգում, ինչպես նաև stablecoin-ների ընդունման և նոր ֆինանսական ապրանքների առաջընթացներով։",
     "items": [
       {
-        "headline": "ԱՄՆ Սենատը կքննարկի CLARITY օրենքի նախագիծը",
-        "summary": "ԱՄՆ Սենատը հաջորդ շաբաթ կարող է քննարկել Digital Asset Market Clarity (CLARITY) օրենքի միավորված նախագիծը, որը կարող է փոփոխել թվային ակտիվների կարգավորումը։",
-        "link": "https://news.bitcoin.com/clarity-act-new-draft-senate-60-vote-test/",
+        "headline": "AscendEX-ը դադարեցնում է գործունեությունը",
+        "summary": "Կրիպտո փոխանակման AscendEX հարթակը դադարեցրել է իր գործունեությունը՝ նախազգուշացնելով, որ որոշ դուրսբերումներ կարող են չմշակվել MiCA-ի պահանջները չկատարելու պատճառով։",
+        "link": "https://cryptoslate.com/ascendex-shuts-down-after-mica-miss-and-warns-some-withdrawals-may-not-be-processed/",
+        "source": "CryptoSlate",
+        "enTitle": "AscendEX shuts down after MiCA miss and warns some withdrawals may not be processed",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/ascendex-platform-shutdown-withdrawal-timeline.jpg"
+      },
+      {
+        "headline": "ԱՄՆ-ում CBDC-ի արգելքը ուժի մեջ է մտնում",
+        "summary": "Նախագահ Թրամփի կողմից բնակարանային օրինագիծը չստորագրելու դեպքում այն ուժի մեջ կմտնի կեսգիշերին՝ արգելելով Դաշնային պահուստային համակարգին մինչև 2031 թվականը CBDC մշակել։",
+        "link": "https://decrypt.co/373230/trump-wont-sign-housing-bill-cbdc-ban-become-law-anyway",
+        "source": "Decrypt",
+        "enTitle": "Trump Won't Sign Housing Bill With CBDC Ban—Will It Become Law Tonight Anyway?",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png"
+      },
+      {
+        "headline": "Circle-ը ստացել է OCC-ի հաստատումը",
+        "summary": "Stablecoin-ի թողարկող Circle-ը ստացել է OCC-ի վերջնական հաստատումը՝ ստեղծելու ազգային վստահության բանկ, որը կամրապնդի USDC-ի ենթակառուցվածքը։",
+        "link": "https://news.bitcoin.com/circle-wins-occ-approval-for-national-trust-bank-to-strengthen-usdc-infrastructure/",
         "source": "Bitcoin News",
-        "enTitle": "New CLARITY Act Draft Could Land Next Week as Senate Faces 60-Vote Test",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/congress-70000-law-enforcement-professionals-urges-clarity-act-768x432.jpg"
+        "enTitle": "Circle Wins OCC Approval for National Trust Bank to Strengthen USDC Infrastructure",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/circle-wins-occ-approval-for-national-trust-bank-to-strengthen-usdc-infrastructure-768x432.jpg"
       },
       {
-        "headline": "Circle-ը մեղադրվում է խարդախության զոհերին խոչընդոտելու մեջ",
-        "summary": "Նյու Յորքի և Վիսկոնսինի դատախազները մեղադրում են Circle-ին՝ USDC-ի թողարկողին, խարդախության զոհերին գողացված թվային ակտիվները վերադարձնելու դատարանի որոշումները կատարելը հետաձգելու կամ մերժելու մեջ։",
-        "link": "https://news.bitcoin.com/circle-accused-by-new-york-and-wisconsin-prosecutors-of-hindering-usdc-recovery-for-scam-victims/",
-        "source": "Bitcoin News",
-        "enTitle": "Circle Accused by New York and Wisconsin Prosecutors of Hindering USDC Recovery for Scam Victims",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/circle-deploys-cirbtc-on-ethereum-letting-btc-holders-tap-defi-without-selling_nwmk-768x432.png"
+        "headline": "Հոնկոնգը խստացնում է կրիպտո հարթակների կանոնները",
+        "summary": "Հոնկոնգի SFC-ն կրիպտո հարթակներին մեկ տարի ժամանակ է տվել՝ հրաժարվելու միանվագ գաղտնաբառերից կամ ծածկելու օգտատերերի կորուստները՝ անվտանգությունն ուժեղացնելու համար։",
+        "link": "https://cryptoslate.com/hong-kong-gives-crypto-platforms-one-year-to-ditch-one-time-passwords-or-cover-user-losses/",
+        "source": "CryptoSlate",
+        "enTitle": "Hong Kong gives crypto platforms one year to ditch one-time passwords or cover user losses",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/hong-kong-golden-yuan-financial-route.jpg"
       },
       {
-        "headline": "Swift-ը գործարկում է բլոկչեյն՝ միջազգային վճարումների համար",
-        "summary": "Swift-ը գործարկել է բլոկչեյնի վրա հիմնված գրանցամատյան՝ 24/7 միջսահմանային վճարումներն ապահովելու համաշխարհային բանկային համակարգում՝ 17 բանկերի մասնակցությամբ։",
-        "link": "https://news.bitcoin.com/swift-launches-a-blockchain-ledger-to-bring-24-7-cross-border-payments-to-the-global-banking-system/",
-        "source": "Bitcoin News",
-        "enTitle": "Swift Launches a Blockchain Ledger to Bring 24/7 Cross-Border Payments to the Global Banking System",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/swiftheadquarters-768x432.jpg"
-      },
-      {
-        "headline": "Metaplanet-ը ուսումնասիրում է Bitcoin-ով ապահովված վարկերը Ճապոնիայում",
-        "summary": "Metaplanet-ը JPYC-ի և Progmat-ի հետ համատեղ ուսումնասիրում է Bitcoin-ով ապահովված թվայնացված վարկային ապրանքներ՝ նպատակ ունենալով ստեղծել արդյունավետ, 24/7 վարկային շուկաներ Ճապոնիայում։",
-        "link": "https://www.coindesk.com/markets/2026/07/10/metaplanet-explores-bringing-bitcoin-backed-digital-credit-to-japan",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Metaplanet explores bringing bitcoin-backed digital credit to Japan",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ea648cf946f0b6bd658d99f67a6767d04b5becd-1200x800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Coinbase-ի իրավական բաժնի ղեկավարը հեռանում է",
-        "summary": "Coinbase-ի գլխավոր իրավական տնօրենը հուլիսի 31-ից կանցնի խորհրդատվական դերի՝ շարունակելով համագործակցել Coinbase National Trust Company-ի խորհրդի հետ։",
-        "link": "https://cointelegraph.com/news/coinbase-chief-legal-officer-stepping-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Ճապոնական վարկատուն առաջարկում է Bitcoin-ով ապահովված վարկեր",
+        "summary": "Ճապոնական CRYL վարկատուն սկսել է առաջարկել Bitcoin-ով ապահովված վարկեր մինչև $6.2 միլիոն անհատներին և ձեռնարկություններին։",
+        "link": "https://cointelegraph.com/news/japan-cryl-bitcoin-backed-loans-6-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Coinbase chief legal officer to transition to advisory role on July 31",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-coinbase-vs-us-court-follow-up.jpg"
-      },
-      {
-        "headline": "USDT-ի շրջանառությունը TRON-ում գերազանցել է $90 միլիարդը",
-        "summary": "TRON բլոկչեյնի վրա USDT-ի ընդհանուր շրջանառությունը գերազանցել է 90 միլիարդ դոլարը՝ ամրապնդելով TRON-ի դիրքը որպես USDT-ի առաջատար ցանց։",
-        "link": "https://news.bitcoin.com/usdt-on-tron-exceeds-90-billion-as-tron-leads-usdt-transfer-volume-with-4-2-trillion-ytd/",
-        "source": "Bitcoin News",
-        "enTitle": "USDT on TRON Exceeds $90 Billion as TRON Leads USDT Transfer Volume With $4.2 Trillion YTD",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/tron_nwmk-1-768x432.jpg"
+        "enTitle": "Japanese lender launches Bitcoin-backed loans of up to $6.2M",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/loan-cash-bitcoin-yen.jpg"
       }
     ]
   }
