@@ -825,7 +825,7 @@
   },
   {
     "date": "2026-07-11",
-    "ts": 1783755678389,
+    "ts": 1783788263950,
     "fng": {
       "value": 26,
       "label": "Fear",
@@ -835,64 +835,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 64158,
-        "change24h": 0.3940493247090622
+        "price": 64074,
+        "change24h": 0.25903616440725247
       },
       {
         "label": "Ethereum",
-        "price": 1799.23,
-        "change24h": 1.579500530792384
+        "price": 1816.16,
+        "change24h": 1.4877877989974846
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների զարգացումներով, ինչպես ԱՄՆ-ում CBDC-ի արգելքի օրենքի ընդունումը և Եվրոպայում թվային եվրոյի առաջընթացը։ Միաժամանակ, նկատվում է ինստիտուցիոնալ հետաքրքրության աճ՝ Morgan Stanley-ի կողմից Ethereum և Solana ETF-ների թիրախավորմամբ, ինչպես նաև տեխնոլոգիական նորարարություններ՝ AI-ի ինտեգրումը առևտրային հարթակներում և stablecoin-ների կորպորատիվ կիրառումը։",
+    "overview": "Շուկան վերականգնման նշաններ է ցույց տալիս՝ Bitcoin և Ether ETF-ների զգալի ներհոսքերով, ինչը վկայում է ներդրողների նոր հետաքրքրության մասին։ Այնուամենայնիվ, կան նաև նշանավոր իրադարձություններ, ինչպիսիք են Hedera ցանցի վրա տեղի ունեցած խոշոր շահագործումը և Nasdaq-ում ցուցակված ընկերության կողմից իր Bitcoin պահուստների մեծ մասի վաճառքը, ինչպես նաև նոր կարգավորող զարգացումներ, օրինակ՝ ԱՄՆ-ում CBDC-ի արգելքի օրենք դառնալը։",
     "items": [
       {
-        "headline": "ԱՄՆ-ում CBDC-ի արգելքը դարձավ օրենք",
-        "summary": "ԱՄՆ Ներկայացուցիչների պալատի կողմից ընդունված բնակարանային օրինագիծը, որը ներառում է Կենտրոնական բանկի թվային արժույթի (CBDC) արգելք մինչև 2030 թվականը, ուժի մեջ է մտել առանց նախագահ Թրամփի ստորագրության։",
-        "link": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Housing bill that includes a CBDC ban passed into law without Trump’s signature",
-        "image": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Trump_News_3-800x450.jpg"
-      },
-      {
-        "headline": "Թվային եվրոն առաջ է շարժվում",
-        "summary": "Եվրոպական խորհրդարանը հավանություն է տվել թվային եվրոյի ներդրման հաջորդ փուլին՝ բացելով ճանապարհը անդամ պետությունների հետ բանակցությունների համար։",
-        "link": "https://news.bitcoin.com/the-digital-euro-moves-forward-eu-parliament-clears-path-for-key-interinstitutional-negotiations/",
+        "headline": "Bitcoin և Ether ETF-ների զգալի ներհոսքեր",
+        "summary": "ԱՄՆ-ի spot Bitcoin և Ether ETF-ները գրանցել են զգալի ներհոսքեր՝ ավարտելով ութշաբաթյա արտահոսքի շրջանը և նշելով Bitcoin ETF-ների առաջին դրական շաբաթը մայիսից ի վեր։",
+        "link": "https://news.bitcoin.com/blackrock-vaneck-90-million-bitcoin-etf-inflow-first-green-week/",
         "source": "Bitcoin News",
-        "enTitle": "The Digital Euro Moves Forward: EU Parliament Clears Path for Key Interinstitutional Negotiations",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/europeanparliament-768x432.jpg"
+        "enTitle": "Blackrock and Vaneck Lead $90 Million Bitcoin ETF Inflow as Funds Notch First Green Week Since May",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/bitcoin-and-ether-etfs-attract-286-million-as-blackrock-funds-spark-broad-recovery-768x432.jpg"
       },
       {
-        "headline": "Morgan Stanley-ը թիրախավորում է Ethereum և Solana ETF շուկան",
-        "summary": "Morgan Stanley-ն իր առաջարկվող Ethereum և Solana ETF-ներով նպատակ ունի գրավել շուկայի մասնաբաժինը՝ ուժեղացնելով մրցակցությունը և առաջարկելով ուղղակի թոքենների ազդեցություն, staking պարգևներ և ինստիտուցիոնալ պահպանում։",
-        "link": "https://news.bitcoin.com/morgan-stanley-targets-ethereum-and-solana-etf-market-share-amid-intensifying-fee-competition/",
+        "headline": "Hedera ցանցում խոշոր շահագործում",
+        "summary": "Hedera ցանցում ենթադրյալ շահագործման հետևանքով Bonzo Lend-ից գողացվել է մոտ 9 միլիոն դոլար, որի մի մասը փոխանցվել է Ethereum։",
+        "link": "https://news.bitcoin.com/peckshield-hedera-exploit-5-25-million-bridged-ethereum/",
         "source": "Bitcoin News",
-        "enTitle": "Morgan Stanley Targets Ethereum and Solana ETF Market Share Amid Intensifying Fee Competition",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/morgan-stanley-building-768x432.jpg"
+        "enTitle": "Peckshield: $5.25 Million Drained From Hedera and Bridged to Ethereum in Suspected Exploit",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/peckshield-5-25-million-drained-from-hedera-and-bridged-to-ethereum-in-suspected-exploit2_nwmk-768x432.jpg"
       },
       {
-        "headline": "Bitfinex-ը զգուշացնում է Bitcoin-ի մակրո ռիսկի մասին",
-        "summary": "Bitfinex-ի վերլուծաբանները զգուշացնում են, որ ճապոնական իենի ներկայիս պայմանների փոփոխությունը կարող է հանգեցնել ներդրողների կողմից ռիսկային դիրքերի փակմանը՝ հիմնականում ազդելով տեխնոլոգիական բաժնետոմսերի և Bitcoin շուկաների վրա։",
-        "link": "https://news.bitcoin.com/the-clearest-macro-risk-to-bitcoin-why-bitfinex-is-warning-investors-about-the-yen-carry-trade/",
-        "source": "Bitcoin News",
-        "enTitle": "‘The Clearest Macro Risk to Bitcoin’: Why Bitfinex Is Warning Investors About the Yen Carry Trade",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/japaneseyen-768x432.jpg"
-      },
-      {
-        "headline": "Kraken-ը և Robinhood-ը ներդնում են AI օգնականներ",
-        "summary": "Kraken-ը և Robinhood-ը նախատեսում են իրենց հավելվածներում ներդնել AI-ի վրա հիմնված գործակալներ և օգնականներ, որոնք կօգնեն օգտատերերին առևտրի առաջարկություններով և ներդրումային գործիքներով։",
-        "link": "https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "ԱՄՆ-ում CBDC արգելքը դարձավ օրենք",
+        "summary": "21st Century ROAD to Housing Act օրինագիծը, որը ներառում է ԱՄՆ-ում կենտրոնական բանկի թվային արժույթի (CBDC) արգելքի դրույթ, դարձել է օրենք՝ առանց նախագահի ստորագրության։",
+        "link": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/robinhood-us.jpg"
+        "enTitle": "US CBDC ban to go into effect without Trump signoff on housing bill",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/top-10-congresspeople-involved-in-crypto-cbdc.png"
       },
       {
-        "headline": "Hyundai-ը ներդնում է ներքին stablecoin փոխանցումներ",
-        "summary": "Hyundai-ը դարձել է Հարավային Կորեայի առաջին խոշոր ընկերությունը, որը ներդրել է ներքին stablecoin փոխանցումներ՝ միջազգային գործառնությունների միջև գումարների ավելի արդյունավետ տեղաշարժի համար։",
-        "link": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc1a4a08a209cc97dd1f7ba339f320d900f67507-5175x3514.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "headline": "Metaplanet-ը ուսումնասիրում է Bitcoin-ով ապահովված պարտատոմսեր",
+        "summary": "Ճապոնական Metaplanet ընկերությունը կուսումնասիրի Bitcoin-ով ապահովված թվային վարկային ապրանքներ, ներառյալ թվային կորպորատիվ պարտատոմսեր, որոնք կկարգավորվեն իեն stablecoin-ի միջոցով։",
+        "link": "https://news.bitcoin.com/metaplanet-to-research-bitcoin-collateral-for-round-the-clock-bond-settlement/",
+        "source": "Bitcoin News",
+        "enTitle": "Metaplanet to Research Bitcoin Collateral for Round-the-Clock Bond Settlement",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/metaplanet-to-research-bitcoin-collateral-for-round-the-clock-bond-settlement-768x432.png"
+      },
+      {
+        "headline": "Empery Digital-ը վաճառել է իր Bitcoin-ի կեսը",
+        "summary": "Nasdaq-ում ցուցակված Empery Digital ընկերությունը վաճառել է իր Bitcoin-ի պահուստների գրեթե կեսը՝ 1400 BTC՝ 87 միլիոն դոլարով, AI տվյալների կենտրոնի գործարքը ֆինանսավորելու համար։",
+        "link": "https://decrypt.co/373278/bitcoin-firm-empery-digital-dumps-half-btc-holdings-87-million",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-25-gID_7.png@png"
       }
     ]
   }
