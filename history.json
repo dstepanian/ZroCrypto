@@ -822,5 +822,78 @@
         "image": "https://s3-images.ctmedia.io/media/article-covers/loan-cash-bitcoin-yen.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-11",
+    "ts": 1783755678389,
+    "fng": {
+      "value": 26,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 64158,
+        "change24h": 0.3940493247090622
+      },
+      {
+        "label": "Ethereum",
+        "price": 1799.23,
+        "change24h": 1.579500530792384
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների զարգացումներով, ինչպես ԱՄՆ-ում CBDC-ի արգելքի օրենքի ընդունումը և Եվրոպայում թվային եվրոյի առաջընթացը։ Միաժամանակ, նկատվում է ինստիտուցիոնալ հետաքրքրության աճ՝ Morgan Stanley-ի կողմից Ethereum և Solana ETF-ների թիրախավորմամբ, ինչպես նաև տեխնոլոգիական նորարարություններ՝ AI-ի ինտեգրումը առևտրային հարթակներում և stablecoin-ների կորպորատիվ կիրառումը։",
+    "items": [
+      {
+        "headline": "ԱՄՆ-ում CBDC-ի արգելքը դարձավ օրենք",
+        "summary": "ԱՄՆ Ներկայացուցիչների պալատի կողմից ընդունված բնակարանային օրինագիծը, որը ներառում է Կենտրոնական բանկի թվային արժույթի (CBDC) արգելք մինչև 2030 թվականը, ուժի մեջ է մտել առանց նախագահ Թրամփի ստորագրության։",
+        "link": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Housing bill that includes a CBDC ban passed into law without Trump’s signature",
+        "image": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Trump_News_3-800x450.jpg"
+      },
+      {
+        "headline": "Թվային եվրոն առաջ է շարժվում",
+        "summary": "Եվրոպական խորհրդարանը հավանություն է տվել թվային եվրոյի ներդրման հաջորդ փուլին՝ բացելով ճանապարհը անդամ պետությունների հետ բանակցությունների համար։",
+        "link": "https://news.bitcoin.com/the-digital-euro-moves-forward-eu-parliament-clears-path-for-key-interinstitutional-negotiations/",
+        "source": "Bitcoin News",
+        "enTitle": "The Digital Euro Moves Forward: EU Parliament Clears Path for Key Interinstitutional Negotiations",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/europeanparliament-768x432.jpg"
+      },
+      {
+        "headline": "Morgan Stanley-ը թիրախավորում է Ethereum և Solana ETF շուկան",
+        "summary": "Morgan Stanley-ն իր առաջարկվող Ethereum և Solana ETF-ներով նպատակ ունի գրավել շուկայի մասնաբաժինը՝ ուժեղացնելով մրցակցությունը և առաջարկելով ուղղակի թոքենների ազդեցություն, staking պարգևներ և ինստիտուցիոնալ պահպանում։",
+        "link": "https://news.bitcoin.com/morgan-stanley-targets-ethereum-and-solana-etf-market-share-amid-intensifying-fee-competition/",
+        "source": "Bitcoin News",
+        "enTitle": "Morgan Stanley Targets Ethereum and Solana ETF Market Share Amid Intensifying Fee Competition",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/morgan-stanley-building-768x432.jpg"
+      },
+      {
+        "headline": "Bitfinex-ը զգուշացնում է Bitcoin-ի մակրո ռիսկի մասին",
+        "summary": "Bitfinex-ի վերլուծաբանները զգուշացնում են, որ ճապոնական իենի ներկայիս պայմանների փոփոխությունը կարող է հանգեցնել ներդրողների կողմից ռիսկային դիրքերի փակմանը՝ հիմնականում ազդելով տեխնոլոգիական բաժնետոմսերի և Bitcoin շուկաների վրա։",
+        "link": "https://news.bitcoin.com/the-clearest-macro-risk-to-bitcoin-why-bitfinex-is-warning-investors-about-the-yen-carry-trade/",
+        "source": "Bitcoin News",
+        "enTitle": "‘The Clearest Macro Risk to Bitcoin’: Why Bitfinex Is Warning Investors About the Yen Carry Trade",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/japaneseyen-768x432.jpg"
+      },
+      {
+        "headline": "Kraken-ը և Robinhood-ը ներդնում են AI օգնականներ",
+        "summary": "Kraken-ը և Robinhood-ը նախատեսում են իրենց հավելվածներում ներդնել AI-ի վրա հիմնված գործակալներ և օգնականներ, որոնք կօգնեն օգտատերերին առևտրի առաջարկություններով և ներդրումային գործիքներով։",
+        "link": "https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/robinhood-us.jpg"
+      },
+      {
+        "headline": "Hyundai-ը ներդնում է ներքին stablecoin փոխանցումներ",
+        "summary": "Hyundai-ը դարձել է Հարավային Կորեայի առաջին խոշոր ընկերությունը, որը ներդրել է ներքին stablecoin փոխանցումներ՝ միջազգային գործառնությունների միջև գումարների ավելի արդյունավետ տեղաշարժի համար։",
+        "link": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc1a4a08a209cc97dd1f7ba339f320d900f67507-5175x3514.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
   }
 ]
