@@ -890,7 +890,7 @@
   },
   {
     "date": "2026-07-12",
-    "ts": 1783843259316,
+    "ts": 1783874858764,
     "fng": {
       "value": 26,
       "label": "Fear",
@@ -900,64 +900,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63845,
-        "change24h": -0.4245654049716597
+        "price": 64076,
+        "change24h": -0.022008665315072628
       },
       {
         "label": "Ethereum",
-        "price": 1797.39,
-        "change24h": -0.07643764203909816
+        "price": 1818.58,
+        "change24h": 0.11446496518106405
       }
     ],
-    "overview": "Շուկան այսօր խառը ազդանշաններ է ցույց տալիս։ Մինչ որոշ ինստիտուցիոնալ կապիտալ տեղափոխվում է դեպի AI, կան նաև դրական նշաններ ETF-ների ներհոսքերից և կարգավորող հստակության շուրջ շարունակվող ջանքերից։",
+    "overview": "Շուկան այսօր ցույց է տալիս խառը ազդանշաններ։ Մինչ Bitcoin ETF-ները նոր ներհոսքեր են գրանցել, stablecoin-ների ընդհանուր շուկայական կապիտալիզացիան նվազել է։ Կարգավորող մարմինների բանավեճերը շարունակվում են, և տեղի է ունեցել DeFi-ի զգալի շահագործում՝ ընդգծելով անվտանգության շարունակական մտահոգությունները։",
     "items": [
       {
-        "headline": "Coinbase-ի դեմ դատավճիռը Բրազիլիայում",
-        "summary": "Սան Պաուլոյի դատարանը վճիռ է կայացրել Coinbase-ի դեմ՝ 100,000 դոլարի ինքնապահպանման հաքի գործով, ինչը կարող է նախադեպ ստեղծել նմանատիպ դեպքերի համար։",
-        "link": "https://news.bitcoin.com/sao-paulo-court-rules-against-coinbase-in-landmark-case-over-100k-self-custody-hack/",
+        "headline": "Coinbase-ը պատասխանում է սենատոր Ուորենին",
+        "summary": "Coinbase-ի քաղաքականության գլխավոր տնօրենը հերքել է սենատոր Էլիզաբեթ Ուորենի քննադատությունը CLARITY Act-ի վերաբերյալ՝ պնդելով, որ կրիպտո օրինագիծը ամրապնդում է ազգային անվտանգության պաշտպանությունը։",
+        "link": "https://news.bitcoin.com/coinbase-fires-back-at-senator-warren-over-clarity-act-sanctions-warning/",
         "source": "Bitcoin News",
-        "enTitle": "São Paulo Court Rules Against Coinbase in Landmark Case Over $100K Self-Custody Hack",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/court-of-sao-paolo-768x432.jpg"
+        "enTitle": "Coinbase Fires Back at Senator Warren Over CLARITY Act Sanctions Warning",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/clarity-act-congress-building-768x432.jpg"
       },
       {
-        "headline": "Custodia-ն դիմում է Գերագույն դատարան",
-        "summary": "Custodia բանկը դիմել է ԱՄՆ Գերագույն դատարան՝ պարզելու, թե արդյոք Դաշնային պահուստային համակարգի տարածաշրջանային նախագահներն իրավունք ունեն մերժելու ծառայությունները նորարարական հաստատություններին։",
-        "link": "https://news.bitcoin.com/the-ultimate-banking-battle-custodia-petitions-the-supreme-court-in-6-year-fight-against-the-fed/",
-        "source": "Bitcoin News",
-        "enTitle": "The Ultimate Banking Battle: Custodia Petitions the Supreme Court in 6-Year Fight Against the Fed",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/supremecourt-768x432.jpg"
+        "headline": "Bitcoin ETF-ների ներհոսքեր և վերականգնում",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են ավելի քան երկու ամսվա ընթացքում իրենց առաջին շաբաթական զուտ ներհոսքը՝ ներգրավելով $197 միլիոն, սակայն Bitcoin-ի գինը ավելի արագ է վերականգնվում։",
+        "link": "https://cryptoslate.com/bitcoins-64000-rebound-is-outrunning-etf-demand-despite-a-197-million-inflow/",
+        "source": "CryptoSlate",
+        "enTitle": "Bitcoin’s $64,000 rebound is outrunning ETF demand despite a $197 million inflow",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bitcoin-etf-inflows-end-eight-week-slide.jpg"
       },
       {
-        "headline": "CLARITY Act-ի վերջին հնարավորությունը",
-        "summary": "ԱՄՆ սենատոր Սինթիա Լումիսը զգուշացնում է, որ CLARITY Act-ը կարող է լինել Կոնգրեսի վերջին հնարավորությունը՝ մինչև 2030 թվականը թվային ակտիվների օրենք ընդունելու համար։",
-        "link": "https://news.bitcoin.com/clarity-act-may-be-congress-last-chance-for-digital-asset-law-before-2030-senator-warns/",
+        "headline": "Մայքլ Սեյլորը վաճառել է Bitcoin",
+        "summary": "Մայքլ Սեյլորը հրապարակել է իր Bitcoin-ի գծապատկերը այն բանից հետո, երբ Strategy-ն վաճառել է 3,588 BTC՝ $216 միլիոնով, ինչը կասկածներ է առաջացրել նրա ապագա գնումների վերաբերյալ։",
+        "link": "https://news.bitcoin.com/saylors-bitcoin-chart-returns-after-strategy-sold-btc-but-he-says-orange-dots-tell-only-part-of-the-story/",
         "source": "Bitcoin News",
-        "enTitle": "CLARITY Act May Be Congress’ Last Chance for Digital Asset Law Before 2030, Senator Warns",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/congress-clarity-act-lummis-768x432.jpg"
+        "enTitle": "Saylor’s Bitcoin Chart Returns After Strategy Sold BTC, but He Says Orange Dots Tell Only Part of the Story",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/strategy-new-orange-dot-chart-1-768x432.jpg"
       },
       {
-        "headline": "Bonzo Lend-ի 9 միլիոն դոլարի շահագործում",
-        "summary": "Hedera-ի Bonzo Lend վարկավորման արձանագրությունը տուժել է 9 միլիոն դոլարի շահագործումից՝ Supra verifier-ի կողմից մանիպուլյացիայի ենթարկված գների թարմացումն ընդունելու պատճառով։",
+        "headline": "Stablecoin-ների շուկայական կապիտալիզացիայի նվազում",
+        "summary": "Stablecoin-ների շուկայական կապիտալիզացիան մայիսից ի վեր կրճատվել է $10 միլիարդով, սակայն վերլուծաբանները խուճապի պատճառ չեն տեսնում։",
+        "link": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/62ae8ce6306c7fdf4b52e0a884495d92c7e20a82-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Wall Street-ը կառուցում է կրիպտոյի գրավի շերտը",
+        "summary": "407 միլիոն դոլար արժողությամբ գանձապետական հիմնադրամը ցույց է տալիս, թե ինչպես է Wall Street-ը կառուցում կրիպտոյի բացակայող գրավի շերտը՝ օգտագործելով թոքենացված պետական պարտքը։",
+        "link": "https://cryptoslate.com/a-407-million-treasury-fund-reveals-how-wall-street-is-building-cryptos-missing-collateral-layer/",
+        "source": "CryptoSlate",
+        "enTitle": "A $407 million Treasury fund reveals how Wall Street is building crypto’s missing collateral layer",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/treasury-certificate-tokenized-onchain-settlement.jpg"
+      },
+      {
+        "headline": "Hedera-ի Bonzo Lend-ի շահագործում",
+        "summary": "Hedera ցանցի Bonzo Lend վարկավորման արձանագրությունը կորցրել է մոտ $9 միլիոն՝ Supra oracle-ի խոցելիության շահագործման հետևանքով։",
         "link": "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&utm_medium=rss",
         "source": "The Block",
         "enTitle": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
         "image": "https://www.tbstat.com/wp/uploads/2019/09/20190917_Hedera-Hashgraph-Coins-Genesis-800x450.jpg"
-      },
-      {
-        "headline": "ETF-ների ներհոսքերը վերադառնում են",
-        "summary": "Bitcoin և ether ETF-ները դադարեցրել են ութշաբաթյա արտահոսքերը՝ գրանցելով 282 միլիոն դոլարի համակցված ներհոսք։",
-        "link": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
-        "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_6-800x450.jpg"
-      },
-      {
-        "headline": "Empery Digital-ը վաճառում է BTC",
-        "summary": "Empery Digital ընկերությունը վաճառել է իր Bitcoin պահուստի մոտ կեսը՝ AI տվյալների կենտրոնի նախագիծ ֆինանսավորելու համար։",
-        "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f4c321fb46fab8f95fc281073bbf1a2544f78eb7-2328x1492.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
