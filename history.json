@@ -887,5 +887,78 @@
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-25-gID_7.png@png"
       }
     ]
+  },
+  {
+    "date": "2026-07-12",
+    "ts": 1783843259316,
+    "fng": {
+      "value": 26,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 63845,
+        "change24h": -0.4245654049716597
+      },
+      {
+        "label": "Ethereum",
+        "price": 1797.39,
+        "change24h": -0.07643764203909816
+      }
+    ],
+    "overview": "Շուկան այսօր խառը ազդանշաններ է ցույց տալիս։ Մինչ որոշ ինստիտուցիոնալ կապիտալ տեղափոխվում է դեպի AI, կան նաև դրական նշաններ ETF-ների ներհոսքերից և կարգավորող հստակության շուրջ շարունակվող ջանքերից։",
+    "items": [
+      {
+        "headline": "Coinbase-ի դեմ դատավճիռը Բրազիլիայում",
+        "summary": "Սան Պաուլոյի դատարանը վճիռ է կայացրել Coinbase-ի դեմ՝ 100,000 դոլարի ինքնապահպանման հաքի գործով, ինչը կարող է նախադեպ ստեղծել նմանատիպ դեպքերի համար։",
+        "link": "https://news.bitcoin.com/sao-paulo-court-rules-against-coinbase-in-landmark-case-over-100k-self-custody-hack/",
+        "source": "Bitcoin News",
+        "enTitle": "São Paulo Court Rules Against Coinbase in Landmark Case Over $100K Self-Custody Hack",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/court-of-sao-paolo-768x432.jpg"
+      },
+      {
+        "headline": "Custodia-ն դիմում է Գերագույն դատարան",
+        "summary": "Custodia բանկը դիմել է ԱՄՆ Գերագույն դատարան՝ պարզելու, թե արդյոք Դաշնային պահուստային համակարգի տարածաշրջանային նախագահներն իրավունք ունեն մերժելու ծառայությունները նորարարական հաստատություններին։",
+        "link": "https://news.bitcoin.com/the-ultimate-banking-battle-custodia-petitions-the-supreme-court-in-6-year-fight-against-the-fed/",
+        "source": "Bitcoin News",
+        "enTitle": "The Ultimate Banking Battle: Custodia Petitions the Supreme Court in 6-Year Fight Against the Fed",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/supremecourt-768x432.jpg"
+      },
+      {
+        "headline": "CLARITY Act-ի վերջին հնարավորությունը",
+        "summary": "ԱՄՆ սենատոր Սինթիա Լումիսը զգուշացնում է, որ CLARITY Act-ը կարող է լինել Կոնգրեսի վերջին հնարավորությունը՝ մինչև 2030 թվականը թվային ակտիվների օրենք ընդունելու համար։",
+        "link": "https://news.bitcoin.com/clarity-act-may-be-congress-last-chance-for-digital-asset-law-before-2030-senator-warns/",
+        "source": "Bitcoin News",
+        "enTitle": "CLARITY Act May Be Congress’ Last Chance for Digital Asset Law Before 2030, Senator Warns",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/congress-clarity-act-lummis-768x432.jpg"
+      },
+      {
+        "headline": "Bonzo Lend-ի 9 միլիոն դոլարի շահագործում",
+        "summary": "Hedera-ի Bonzo Lend վարկավորման արձանագրությունը տուժել է 9 միլիոն դոլարի շահագործումից՝ Supra verifier-ի կողմից մանիպուլյացիայի ենթարկված գների թարմացումն ընդունելու պատճառով։",
+        "link": "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
+        "image": "https://www.tbstat.com/wp/uploads/2019/09/20190917_Hedera-Hashgraph-Coins-Genesis-800x450.jpg"
+      },
+      {
+        "headline": "ETF-ների ներհոսքերը վերադառնում են",
+        "summary": "Bitcoin և ether ETF-ները դադարեցրել են ութշաբաթյա արտահոսքերը՝ գրանցելով 282 միլիոն դոլարի համակցված ներհոսք։",
+        "link": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
+        "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_6-800x450.jpg"
+      },
+      {
+        "headline": "Empery Digital-ը վաճառում է BTC",
+        "summary": "Empery Digital ընկերությունը վաճառել է իր Bitcoin պահուստի մոտ կեսը՝ AI տվյալների կենտրոնի նախագիծ ֆինանսավորելու համար։",
+        "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f4c321fb46fab8f95fc281073bbf1a2544f78eb7-2328x1492.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
   }
 ]
