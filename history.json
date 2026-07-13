@@ -960,5 +960,78 @@
         "image": "https://www.tbstat.com/wp/uploads/2019/09/20190917_Hedera-Hashgraph-Coins-Genesis-800x450.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-13",
+    "ts": 1783932631465,
+    "fng": {
+      "value": 28,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 63115,
+        "change24h": -1.2498891356573107
+      },
+      {
+        "label": "Ethereum",
+        "price": 1789.65,
+        "change24h": -0.7229777693249473
+      }
+    ],
+    "overview": "Կրիպտո շուկան այսօր ցույց է տվել խառը տրամադրություններ՝ ինստիտուցիոնալ ներգրավվածության աճով և կարգավորող մարմինների ուշադրության կենտրոնում։",
+    "items": [
+      {
+        "headline": "BlackRock-ի թոքենացված ֆոնդերը հասել են $2.93 միլիարդի",
+        "summary": "BlackRock-ի թոքենացված ակտիվները շղթայի վրա հասել են $2.93 միլիարդի, որտեղ Ethereum-ը առաջատարն է $1.1 միլիարդով։",
+        "link": "https://news.bitcoin.com/blackrock-tokenized-funds-2-93-billion-onchain/",
+        "source": "Bitcoin News",
+        "enTitle": "Blackrock’s Tokenized Funds Hit $2.93B Onchain as Ethereum Leads With $1.1B",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/blackrocks-tokenized-funds-hit-2-93b-onchain-as-ethereum-leads-with-1-1b_nwmk-768x432.jpg"
+      },
+      {
+        "headline": "Թաիլանդի Կենտրոնական բանկը ստուգում է stablecoin-ի գործարքները",
+        "summary": "Թաիլանդի Կենտրոնական բանկը և SEC-ը սկսել են վերլուծական գործիքներ օգտագործել՝ ուսումնասիրելու stablecoin-ի աննորմալ գործարքները՝ կենտրոնանալով USDT-ի վրա։",
+        "link": "https://www.theblock.co/post/407998/bank-of-thailand-audits-stablecoin?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Bank of Thailand audits high-volume stablecoin trades to crack down on illicit finance: report",
+        "image": "https://www.tbstat.com/wp/uploads/2024/08/thai-800x450.jpg"
+      },
+      {
+        "headline": "Ճապոնիայի SBI Group-ը կգործարկի JPYSC վարկավորման ծառայություն",
+        "summary": "Ճապոնիայի SBI Group-ը այս ամիս կգործարկի JPYSC stablecoin-ի վարկավորման ծառայություն՝ առաջարկելով տարեկան 3% եկամտաբերություն։",
+        "link": "https://www.theblock.co/post/407988/sbi-jpysc-stablecoin-lending?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Japan’s SBI Group to launch JPYSC stablecoin lending service this month",
+        "image": "https://www.tbstat.com/wp/uploads/2020/05/20200506_Japan-Daily-800x450.jpg"
+      },
+      {
+        "headline": "Ethereum-ի էներգիայի սպառումը նվազել է Merge-ից հետո",
+        "summary": "Քեմբրիջի զեկույցը ցույց է տվել, որ Ethereum-ի էներգիայի սպառումը Merge-ից հետո նվազել է 99.98%-ով։",
+        "link": "https://news.bitcoin.com/cambridge-report-reveals-ethereums-energy-consumption-dropped-99-98-post-merge/",
+        "source": "Bitcoin News",
+        "enTitle": "Cambridge Report Reveals Ethereum’s Energy Consumption Dropped 99.98% Post-Merge",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/mahalo-768x432.jpg"
+      },
+      {
+        "headline": "Bitcoin ETF-ները գրավել են $197 միլիոն ներհոսք",
+        "summary": "Bitcoin ETF-ները գրավել են $197 միլիոն ներհոսք՝ դադարեցնելով ութշաբաթյա արտահոսքի շարքը։",
+        "link": "https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin ETFs draw $197M, snap 8-week outflow streak",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-gold-etfs-or-shares-which-investment-makes-more-sense.jpg"
+      },
+      {
+        "headline": "Ripple-ը մոտ էր փակմանը SEC-ի հայցից հետո",
+        "summary": "Ripple-ի գործադիր տնօրենը բացահայտել է, որ ընկերությունը մոտ էր փակմանը և XRP-ի բաշխմանը SEC-ի հայցից հետո։",
+        "link": "https://news.bitcoin.com/ripple-almost-shut-down-and-distributed-xrp-after-sec-lawsuit-ceo-reveals/",
+        "source": "Bitcoin News",
+        "enTitle": "Ripple Almost Shut Down and Distributed XRP After SEC Lawsuit, CEO Reveals",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/sec-building-768x432.jpg"
+      }
+    ]
   }
 ]
