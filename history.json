@@ -963,7 +963,7 @@
   },
   {
     "date": "2026-07-13",
-    "ts": 1783932631465,
+    "ts": 1783964941580,
     "fng": {
       "value": 28,
       "label": "Fear",
@@ -973,64 +973,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63115,
-        "change24h": -1.2498891356573107
+        "price": 62054,
+        "change24h": -3.21997215648618
       },
       {
         "label": "Ethereum",
-        "price": 1789.65,
-        "change24h": -0.7229777693249473
+        "price": 1765.95,
+        "change24h": -2.97938422504763
       }
     ],
-    "overview": "Կրիպտո շուկան այսօր ցույց է տվել խառը տրամադրություններ՝ ինստիտուցիոնալ ներգրավվածության աճով և կարգավորող մարմինների ուշադրության կենտրոնում։",
+    "overview": "Այսօրվա կրիպտո շուկան նշանավորվեց կայուն մետաղադրամների ընդունման աճով և կարգավորող մարմինների ու խոշոր ընկերությունների կողմից թոքենացման նկատմամբ հետաքրքրությամբ։ Բացի այդ, նկատվեց ինստիտուցիոնալ ներդրումների վերականգնում և նոր պլատֆորմների զարգացում։",
     "items": [
       {
-        "headline": "BlackRock-ի թոքենացված ֆոնդերը հասել են $2.93 միլիարդի",
-        "summary": "BlackRock-ի թոքենացված ակտիվները շղթայի վրա հասել են $2.93 միլիարդի, որտեղ Ethereum-ը առաջատարն է $1.1 միլիարդով։",
-        "link": "https://news.bitcoin.com/blackrock-tokenized-funds-2-93-billion-onchain/",
-        "source": "Bitcoin News",
-        "enTitle": "Blackrock’s Tokenized Funds Hit $2.93B Onchain as Ethereum Leads With $1.1B",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/blackrocks-tokenized-funds-hit-2-93b-onchain-as-ethereum-leads-with-1-1b_nwmk-768x432.jpg"
-      },
-      {
-        "headline": "Թաիլանդի Կենտրոնական բանկը ստուգում է stablecoin-ի գործարքները",
-        "summary": "Թաիլանդի Կենտրոնական բանկը և SEC-ը սկսել են վերլուծական գործիքներ օգտագործել՝ ուսումնասիրելու stablecoin-ի աննորմալ գործարքները՝ կենտրոնանալով USDT-ի վրա։",
-        "link": "https://www.theblock.co/post/407998/bank-of-thailand-audits-stablecoin?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Bank of Thailand audits high-volume stablecoin trades to crack down on illicit finance: report",
-        "image": "https://www.tbstat.com/wp/uploads/2024/08/thai-800x450.jpg"
-      },
-      {
-        "headline": "Ճապոնիայի SBI Group-ը կգործարկի JPYSC վարկավորման ծառայություն",
-        "summary": "Ճապոնիայի SBI Group-ը այս ամիս կգործարկի JPYSC stablecoin-ի վարկավորման ծառայություն՝ առաջարկելով տարեկան 3% եկամտաբերություն։",
-        "link": "https://www.theblock.co/post/407988/sbi-jpysc-stablecoin-lending?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Japan’s SBI Group to launch JPYSC stablecoin lending service this month",
-        "image": "https://www.tbstat.com/wp/uploads/2020/05/20200506_Japan-Daily-800x450.jpg"
-      },
-      {
-        "headline": "Ethereum-ի էներգիայի սպառումը նվազել է Merge-ից հետո",
-        "summary": "Քեմբրիջի զեկույցը ցույց է տվել, որ Ethereum-ի էներգիայի սպառումը Merge-ից հետո նվազել է 99.98%-ով։",
-        "link": "https://news.bitcoin.com/cambridge-report-reveals-ethereums-energy-consumption-dropped-99-98-post-merge/",
-        "source": "Bitcoin News",
-        "enTitle": "Cambridge Report Reveals Ethereum’s Energy Consumption Dropped 99.98% Post-Merge",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/mahalo-768x432.jpg"
-      },
-      {
-        "headline": "Bitcoin ETF-ները գրավել են $197 միլիոն ներհոսք",
-        "summary": "Bitcoin ETF-ները գրավել են $197 միլիոն ներհոսք՝ դադարեցնելով ութշաբաթյա արտահոսքի շարքը։",
-        "link": "https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "USDT-ի ընդունման աճ",
+        "summary": "Բոլիվիան դիտարկում է USDT-ն որպես վճարային արժույթ ճանաչելու հնարավորությունը, մինչդեռ Hyundai-ը փորձարկել է USDT-ով անդրսահմանային գանձապետական հաշվարկները։",
+        "link": "https://cointelegraph.com/news/bolivia-weighs-usdt-payment-currency-amid-dollar-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin ETFs draw $197M, snap 8-week outflow streak",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-gold-etfs-or-shares-which-investment-makes-more-sense.jpg"
+        "enTitle": "Bolivia mulls recognizing USDT as payment currency amid dollar shortage",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-157300-bolivia-banco-bisa-usdt-custody.jpg"
       },
       {
-        "headline": "Ripple-ը մոտ էր փակմանը SEC-ի հայցից հետո",
-        "summary": "Ripple-ի գործադիր տնօրենը բացահայտել է, որ ընկերությունը մոտ էր փակմանը և XRP-ի բաշխմանը SEC-ի հայցից հետո։",
-        "link": "https://news.bitcoin.com/ripple-almost-shut-down-and-distributed-xrp-after-sec-lawsuit-ceo-reveals/",
+        "headline": "Robinhood Chain-ի մեմ մետաղադրամների գերակայությունը",
+        "summary": "Robinhood Chain-ի վրա առևտրի ծավալի մեծ մասը բաժին է ընկնում մեմ մետաղադրամներին, այլ ոչ թե թոքենացված բաժնետոմսերին, որոնց համար այն ստեղծվել էր։",
+        "link": "https://news.bitcoin.com/robinhood-chain-surges-l2-posts-more-than-3-billion-in-dex-volume-with-7-million-daily-transfers/",
         "source": "Bitcoin News",
-        "enTitle": "Ripple Almost Shut Down and Distributed XRP After SEC Lawsuit, CEO Reveals",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/sec-building-768x432.jpg"
+        "enTitle": "Robinhood Chain Surges: L2 Posts More Than $3 Billion in DEX Volume With 7 Million Daily Transfers",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/robinhood-chain-surges-l2-posts-more-than-3-billion-in-dex-volume-with-7-million-daily-transfers-768x432.png"
+      },
+      {
+        "headline": "ԱՄՆ-ում կրիպտո կանոնակարգման մղում",
+        "summary": "Նախագահ Թրամփը և Սպիտակ տունը ճնշում են Սենատին՝ առաջ մղելու CLARITY Act-ը՝ զգուշացնելով ԱՄՆ-ի կրիպտո առաջատար դիրքի վրա Չինաստանի սպառնալիքի մասին։",
+        "link": "https://news.bitcoin.com/trump-escalates-clarity-act-push-as-china-threatens-us-crypto-lead/",
+        "source": "Bitcoin News",
+        "enTitle": "Trump Escalates CLARITY Act Push as China Threatens US Crypto Lead",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/donald-trump-768x432.jpg"
+      },
+      {
+        "headline": "Bitcoin և Ether ETF-ների ներհոսքեր",
+        "summary": "Bitcoin և Ether ETF-ները դադարեցրել են ութշաբաթյա արտահոսքերը՝ գրանցելով 282 միլիոն դոլարի համակցված ներհոսքեր։",
+        "link": "https://news.bitcoin.com/bitcoin-and-ether-etfs-snap-8-week-outflow-run-with-combined-inflows-of-282-million/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin and Ether ETFs Snap 8-Week Outflow Run With Combined Inflows of $282 Million",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/bitcoin-and-ether-etfs-snap-8-week-outflow-run-with-combined-inflows-of-282-million-768x432.jpg"
+      },
+      {
+        "headline": "SBI Holdings-ը և Solana Foundation-ը համագործակցում են",
+        "summary": "SBI Holdings-ը և Solana Foundation-ը համագործակցում են Ճապոնիայի on-chain ֆինանսական շուկաները գործարկելու համար՝ կենտրոնանալով վճարումների և RWA-ների վրա։",
+        "link": "https://news.bitcoin.com/sbi-holdings-and-solana-foundation-partner-to-launch-japans-on-chain-financial-markets/",
+        "source": "Bitcoin News",
+        "enTitle": "SBI Holdings and Solana Foundation Partner to Launch Japan’s On-Chain Financial Markets",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/sbi-holdings-768x432.jpg"
+      },
+      {
+        "headline": "Tether-ի ոսկու պահուստները վարկավորման համար",
+        "summary": "Tether-ի 20 միլիարդ դոլար արժողությամբ ոսկու պահուստները, որոնք հավասար են ազգային պահուստին, կօգտագործվեն վարկավորման համար։",
+        "link": "https://cryptoslate.com/tethers-23-billion-mountain-of-gold-equivalent-to-a-top-20-nation-state-reserve-to-be-used-for-lending/",
+        "source": "CryptoSlate",
+        "enTitle": "Tether’s $20 billion mountain of gold – equal to a national reserve – to be used for lending",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/tether-gold-reserves-xaut-vault-stablecoin-strategy.jpg"
       }
     ]
   }
