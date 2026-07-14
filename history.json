@@ -1036,7 +1036,7 @@
   },
   {
     "date": "2026-07-14",
-    "ts": 1784015294476,
+    "ts": 1784048653173,
     "fng": {
       "value": 22,
       "label": "Extreme Fear",
@@ -1046,64 +1046,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 62456,
-        "change24h": -0.8150012880973287
+        "price": 64645,
+        "change24h": 3.850536958144745
       },
       {
         "label": "Ethereum",
-        "price": 1777.41,
-        "change24h": -0.4942828157885607
+        "price": 1869.72,
+        "change24h": 5.530727832742722
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ԱՄՆ կառավարության կողմից զգալի քանակությամբ Bitcoin-ի տեղաշարժով և կարգավորող նորությունների ակտիվությամբ։ Ուշադրության կենտրոնում են նաև նոր stablecoin-ի թողարկումը և երկրների կողմից կրիպտոարժույթների ընդունման քննարկումները։",
+    "overview": "ԱՄՆ-ում գնաճի դանդաղումը դրականորեն է անդրադարձել Bitcoin-ի գնի վրա, սակայն Bitcoin ETF-ներից զգալի արտահոսքեր են գրանցվել։ Կարգավորող մարմինները շարունակում են աշխատել թոքենիզացված ակտիվների շրջանակի վրա, մինչդեռ Կենտրոնական բանկը հստակեցրել է, որ չի միջամտի կրիպտո հատվածի փրկությանը։",
     "items": [
       {
-        "headline": "ԱՄՆ կառավարությունը տեղափոխում է Bitcoin",
-        "summary": "ԱՄՆ կառավարությունը մոտ 4,000 Bitcoin է տեղափոխել Coinbase Prime՝ առաջացնելով հարցեր պահառության կամ հնարավոր վաճառքի վերաբերյալ։",
-        "link": "https://news.bitcoin.com/us-government-moves-nearly-4000-btc-to-coinbase-prime-onchain-data-shows/",
-        "source": "Bitcoin News",
-        "enTitle": "US Government Moves Nearly 4,000 BTC to Coinbase Prime, Onchain Data Shows",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/us-government-moves-btc-to-coinbase-768x432.jpg"
-      },
-      {
-        "headline": "Ripple-ը թողարկում է նոր stablecoin՝ RLUSD",
-        "summary": "Ripple Labs-ը թողարկել է RLUSD անունով կարգավորվող stablecoin, որը նախատեսված է XRP բլոկչեյնի վրա մեկ ԱՄՆ դոլարի կայուն արժեք պահպանելու համար։",
-        "link": "https://www.theblock.co/learn/408170/what-is-rlusd?utm_source=rss&utm_medium=rss",
+        "headline": "Bitcoin-ը բարձրանում է 64,000 դոլար",
+        "summary": "Հունիսին ԱՄՆ-ի սպառողական գների ինդեքսի (CPI) 0.4% անկումից հետո Bitcoin-ի գինը մոտեցել է 64,000 դոլարին՝ նշելով 2020 թվականից ի վեր ամենամեծ ամսական անկումը։",
+        "link": "https://www.theblock.co/post/408263/soft-print-hard-regime-bitcoin-climbs-64000-june-cpi-falls-largest-monthly-drop-since-2020?utm_source=rss&utm_medium=rss",
         "source": "The Block",
-        "enTitle": "What Is RLUSD? Ripple’s XRP-Native Stablecoin Explained",
-        "image": "https://www.tbstat.com/wp/uploads/2026/01/20260108_Ripple_News_2-800x450.jpg"
+        "enTitle": "‘Soft print, hard regime’: Bitcoin climbs toward $64,000 as June CPI falls 0.4% in largest monthly drop since 2020",
+        "image": "https://www.tbstat.com/wp/uploads/2025/06/20250603_Bitcoin_News-800x450.jpg"
       },
       {
-        "headline": "Բոլիվիան քննարկում է USDT-ի ինտեգրումը",
-        "summary": "Բոլիվիան գնահատում է USDT stablecoin-ի ներառումը իր ազգային վճարային համակարգում՝ թույլ տալով այն օգտագործել պարտքերը մարելու համար։",
-        "link": "https://news.bitcoin.com/bolivia-evaluates-integrating-usdt-into-its-national-financial-system-following-crypto-ban-reversal/",
+        "headline": "Կենտրոնական բանկը չի փրկի կրիպտո հատվածը",
+        "summary": "Կենտրոնական բանկի նախագահ Քևին Ուորշը հայտարարել է, որ Կենտրոնական բանկը շահագրգռված չէ կրիպտոարժույթների կամ stablecoin-ների փրկությամբ, եթե ոլորտը բախվի խնդիրների։",
+        "link": "https://news.bitcoin.com/we-do-not-want-to-be-in-the-bailout-business-fed-chair-warns-crypto-is-on-its-own/",
         "source": "Bitcoin News",
-        "enTitle": "Bolivia Evaluates Integrating USDT Into Its National Financial System Following Crypto Ban Reversal",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/bolivia-usdt-768x432.jpg"
+        "enTitle": "‘We Do Not Want to Be in the Bailout Business’: Fed Chair Warns Crypto Is on Its Own",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/we-do-not-want-to-be-in-the-bailout-business-warsh-warns-crypto-is-on-its-own-768x432.png"
       },
       {
-        "headline": "CLARITY Act-ը մոտենում է վերջնաժամկետին",
-        "summary": "CLARITY Act կրիպտո օրենքն ունի մոտ երեք շաբաթ՝ Սենատում 60 ձայնի շեմը հաղթահարելու համար, մինչև օգոստոսի 7-ի ամառային արձակուրդը։",
-        "link": "https://news.bitcoin.com/the-crypto-law-that-could-change-everything-has-three-weeks-to-pass-or-die-49201/",
+        "headline": "ԱՄՆ-ն և Մեծ Բրիտանիան համաձայնեցնում են կանոնները",
+        "summary": "ԱՄՆ-ն և Մեծ Բրիտանիան համատեղ ճանապարհային քարտեզ են մշակում՝ համաձայնեցնելու թոքենիզացված ֆինանսների կանոնները՝ նվազեցնելու կարգավորող խոչընդոտները և ամրապնդելու կապերը։",
+        "link": "https://www.coindesk.com/policy/2026/07/14/u-s-uk-move-to-align-rules-for-tokenized-finance-across-world-s-largest-financial-markets",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "U.S., UK move to align rules for tokenized finance across world's largest financial markets",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4997e8344864d8af680c8573fe456675d3db41fd-3965x2230.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Bitcoin ETF-ները կորցրել են 425 միլիոն դոլար",
+        "summary": "Bitcoin ETF-ներից արտահոսքերը հասել են 424.66 միլիոն դոլարի, ընդ որում Fidelity-ն և Blackrock-ը նպաստել են նոր ալիքին՝ չեղարկելով նախորդ շաբաթվա ձեռքբերումները։",
+        "link": "https://news.bitcoin.com/bitcoin-etfs-lose-425m-as-fidelity-and-blackrock-drive-fresh-wave-of-outflows/",
         "source": "Bitcoin News",
-        "enTitle": "The Crypto Law That Could Change Everything Has Three Weeks to Pass, or Die",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/the-crypto-law-that-could-change-everything-has-three-weeks-to-pass-or-die-768x432.png"
+        "enTitle": "Bitcoin ETFs Lose $425M as Fidelity and Blackrock Drive Fresh Wave of Outflows",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/bitcoin-etfs-lose-425m-as-fidelity-and-blackrock-drive-fresh-wave-of-outflows-768x432.jpg"
       },
       {
-        "headline": "Ջիբրալթարը կարգավորում է կանխատեսումների շուկաները",
-        "summary": "Ջիբրալթարը դարձել է առաջին իրավասությունը, որն ընդունել է կանխատեսումների շուկաների համար նախատեսված կարգավորող շրջանակ՝ առանձնացնելով այն ընդհանուր մոլախաղերի օրենքից։",
-        "link": "https://news.bitcoin.com/gibraltar-launches-the-worlds-first-dedicated-prediction-market-regulatory-regime/",
-        "source": "Bitcoin News",
-        "enTitle": "Gibraltar Launches the World’s First Dedicated Prediction-Market Regulatory Regime",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/gibraltar-launches-the-worlds-first-dedicated-prediction-market-regulatory-regime-768x432.jpg"
+        "headline": "CleanSpark-ի բաժնետոմսերը աճել են 22%-ով",
+        "summary": "Bitcoin մայնինգային CleanSpark ընկերության բաժնետոմսերը 22%-ով աճել են՝ Ջորջիայում 6.6 միլիարդ դոլար արժողությամբ տվյալների կենտրոնի վարձակալության պայմանագիր կնքելուց հետո, ինչը ընդլայնում է նրա ներկայությունը AI և բարձր արդյունավետության հաշվարկների ոլորտում։",
+        "link": "https://cointelegraph.com/news/cleanspark-shares-jump-after-georgia-data-center-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "CleanSpark shares jump 22% after $6.6B Georgia data center lease",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark.jpg"
       },
       {
-        "headline": "Նյու Հեմփշիրը ստորագրում է բլոկչեյն օրենքներ",
-        "summary": "Նյու Հեմփշիրի նոր ստորագրված կրիպտո օրենքը պաշտպանություն է ներմուծում օգտատերերի, մայնինգով զբաղվողների և staker-ների համար իր սահմաններում։",
-        "link": "https://decrypt.co/373424/new-hampshire-bitcoin-reserve-blockchain-basic-laws-signing",
-        "source": "Decrypt",
-        "enTitle": "New Hampshire Follows Bitcoin Reserve With 'Blockchain Basic Laws' Signing",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png@png"
+        "headline": "Mizuho-ն իջեցնում է Circle-ի վարկանիշը",
+        "summary": "Mizuho-ն իջեցրել է Circle-ի վարկանիշը՝ Open USD-ի մրցակցության սպառնալիքի պատճառով, քանի որ Open USD-ի եկամտաբերության մոդելը կարող է ճնշում գործադրել Circle-ի մարժաների վրա։",
+        "link": "https://www.coindesk.com/business/2026/07/14/mizuho-downgrades-circle-to-underperform-cuts-price-target-to-usd50-on-open-usd-threat",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Mizuho downgrades Circle to underperform, cuts price target to $50 on Open USD threat",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
