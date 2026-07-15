@@ -1106,5 +1106,78 @@
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
+  },
+  {
+    "date": "2026-07-15",
+    "ts": 1784101899061,
+    "fng": {
+      "value": 25,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 64553,
+        "change24h": 3.281576116606091
+      },
+      {
+        "label": "Ethereum",
+        "price": 1869.15,
+        "change24h": 5.054729249746413
+      }
+    ],
+    "overview": "Այսօրվա նորությունները ցույց են տալիս կրիպտոարժույթների ոլորտում ինստիտուցիոնալ ներգրավվածության և կարգավորման աճող միտումը։ Կենտրոնում են ETF-ները, կենտրոնական բանկերի թվային արժույթները և stablecoin-ների ընդունումը համաշխարհային ֆինանսական համակարգում։",
+    "items": [
+      {
+        "headline": "Morgan Stanley-ն թարմացնում է Ethereum և Solana ETF-ների հայտերը",
+        "summary": "Morgan Stanley-ն թարմացրել է իր spot Ethereum և Solana ETF-ների հայտերը՝ նշելով Coinbase-ին որպես պահառու և staking-ի մատակարար։",
+        "link": "https://news.bitcoin.com/morgan-stanley-ether-solana-etf-coinbase-custody/",
+        "source": "Bitcoin News",
+        "enTitle": "Morgan Stanley Updates Ethereum and Solana ETF Filings as Coinbase Takes Custody and Staking Role",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/morgan-stanley-and-galaxy-launch-crypto-lending-access-for-bitcoin-etps_nwmk-768x432.jpg"
+      },
+      {
+        "headline": "Հարավային Կորեան կրիպտոն կներառի նոր օրենքի տակ",
+        "summary": "Հարավային Կորեան նախատեսում է կրիպտոարժույթները ներառել պետական ակտիվների կառավարման նոր օրենքի շրջանակներում։",
+        "link": "https://www.theblock.co/post/408350/south-korea-crypto-asset-management-law?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "South Korea to bring crypto under new state asset management law",
+        "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-800x450.jpg"
+      },
+      {
+        "headline": "ԵԿԲ-ն ընտրել է 36 ընկերություն թվային եվրոյի համար",
+        "summary": "Եվրոպական Կենտրոնական Բանկը 36 ընկերություն է ընտրել 2027 թվականին մեկնարկելիք թվային եվրոյի վճարումների փորձնական ծրագրի համար։",
+        "link": "https://news.bitcoin.com/european-central-bank-picks-36-firms-for-2027-digital-euro-payments-pilot/",
+        "source": "Bitcoin News",
+        "enTitle": "European Central Bank Picks 36 Firms for 2027 Digital Euro Payments Pilot",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/european-central-bank-picks-36-firms-for-2027-digital-euro-payments-pilot-768x432.jpg"
+      },
+      {
+        "headline": "Ripple-ը միանում է x402 հիմնադրամին AI վճարումների համար",
+        "summary": "Ripple-ը միացել է x402 հիմնադրամին՝ նպատակ ունենալով զարգացնել ինտերնետային վճարումներ AI գործակալների և հավելվածների համար՝ օգտագործելով XRP-ն։",
+        "link": "https://news.bitcoin.com/xrp-enters-ai-agent-payments-push-as-ripple-joins-x402-foundation/",
+        "source": "Bitcoin News",
+        "enTitle": "XRP Enters AI Agent Payments Push as Ripple Joins x402 Foundation",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/linux-foundation-ripple-xrp-768x432.jpg"
+      },
+      {
+        "headline": "ԱՄՆ-ն և Մեծ Բրիտանիան համաձայնեցնում են կանոնները",
+        "summary": "ԱՄՆ-ի և Մեծ Բրիտանիայի գանձապետարանները համաձայնեցնում են անդրատլանտյան կանոնները tokenization-ի և stablecoin-ների վերաբերյալ։",
+        "link": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-regulation-considerations-in-the-united-states-and-united-kingdom.jpg"
+      },
+      {
+        "headline": "JCB-ն Circle-ի հետ կփորձարկի stablecoin վճարումներ",
+        "summary": "Ճապոնական վճարային հսկա JCB-ն Circle-ի հետ փոխըմբռնման հուշագիր է ստորագրել՝ Ճապոնիայում stablecoin վճարումները փորձարկելու համար։",
+        "link": "https://cointelegraph.com/news/japans-jcb-signs-mou-with-circle-to-explore-usdc-payments-and-cross-border-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "JCB signs Circle MOU to test stablecoin payments in Japan",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-swift.png"
+      }
+    ]
   }
 ]
