@@ -1109,7 +1109,7 @@
   },
   {
     "date": "2026-07-15",
-    "ts": 1784101899061,
+    "ts": 1784135212034,
     "fng": {
       "value": 25,
       "label": "Extreme Fear",
@@ -1119,64 +1119,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 64553,
-        "change24h": 3.281576116606091
+        "price": 65074,
+        "change24h": 0.7952225626426868
       },
       {
         "label": "Ethereum",
-        "price": 1869.15,
-        "change24h": 5.054729249746413
+        "price": 1920.99,
+        "change24h": 2.95819223028462
       }
     ],
-    "overview": "Այսօրվա նորությունները ցույց են տալիս կրիպտոարժույթների ոլորտում ինստիտուցիոնալ ներգրավվածության և կարգավորման աճող միտումը։ Կենտրոնում են ETF-ները, կենտրոնական բանկերի թվային արժույթները և stablecoin-ների ընդունումը համաշխարհային ֆինանսական համակարգում։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ավանդական ֆինանսների հետ բլոկչեյնի ինտեգրման զգալի առաջընթացով, հատկապես թոքենիզացված արժեթղթերի ոլորտում։ Միաժամանակ, շարունակվում են DeFi տարածքի անվտանգության մարտահրավերները, ինչպես նաև դրական հոսքեր են նկատվում Bitcoin և Ether ETF-ներում։",
     "items": [
       {
-        "headline": "Morgan Stanley-ն թարմացնում է Ethereum և Solana ETF-ների հայտերը",
-        "summary": "Morgan Stanley-ն թարմացրել է իր spot Ethereum և Solana ETF-ների հայտերը՝ նշելով Coinbase-ին որպես պահառու և staking-ի մատակարար։",
-        "link": "https://news.bitcoin.com/morgan-stanley-ether-solana-etf-coinbase-custody/",
-        "source": "Bitcoin News",
-        "enTitle": "Morgan Stanley Updates Ethereum and Solana ETF Filings as Coinbase Takes Custody and Staking Role",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/morgan-stanley-and-galaxy-launch-crypto-lending-access-for-bitcoin-etps_nwmk-768x432.jpg"
+        "headline": "DTCC-ն սկսում է թոքենիզացված արժեթղթերի առևտուրը",
+        "summary": "DTCC-ն իրականացրել է թոքենիզացված արժեթղթերի առաջին արտադրական առևտուրը՝ նշանավորելով բլոկչեյնի ներուժը Wall Street-ի ենթակառուցվածքը վերափոխելու համար։",
+        "link": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/017c04b0a6f702fccd76ffd5aa923321e5b66146-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Հարավային Կորեան կրիպտոն կներառի նոր օրենքի տակ",
-        "summary": "Հարավային Կորեան նախատեսում է կրիպտոարժույթները ներառել պետական ակտիվների կառավարման նոր օրենքի շրջանակներում։",
-        "link": "https://www.theblock.co/post/408350/south-korea-crypto-asset-management-law?utm_source=rss&utm_medium=rss",
+        "headline": "BlackRock-ը ներկայացնում է կրիպտո-TradFi միաձուլման տեսլականը",
+        "summary": "BlackRock-ը նպատակ ունի առաջարկել թոքենիզացված երկարաժամկետ ներդրումներ, ինչպիսիք են գանձապետական ֆոնդերը, iShares ETF-ները և նույնիսկ մասնավոր շուկաները։",
+        "link": "https://www.theblock.co/post/408436/blackrock-outlines-vision-crypto-tradfi-convergence-product-pipeline-grows?utm_source=rss&utm_medium=rss",
         "source": "The Block",
-        "enTitle": "South Korea to bring crypto under new state asset management law",
-        "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-800x450.jpg"
+        "enTitle": "BlackRock outlines vision for crypto-TradFi convergence as product pipeline grows",
+        "image": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Blackrock2-800x450.jpg"
       },
       {
-        "headline": "ԵԿԲ-ն ընտրել է 36 ընկերություն թվային եվրոյի համար",
-        "summary": "Եվրոպական Կենտրոնական Բանկը 36 ընկերություն է ընտրել 2027 թվականին մեկնարկելիք թվային եվրոյի վճարումների փորձնական ծրագրի համար։",
-        "link": "https://news.bitcoin.com/european-central-bank-picks-36-firms-for-2027-digital-euro-payments-pilot/",
+        "headline": "Ostium-ը կորցրել է $18 միլիոն oracle հարձակման հետևանքով",
+        "summary": "Հաքերները շահարկել են Ostium-ի գների հոսքը՝ վտանգելով oracle ստորագրողի բանալին, ինչը թույլ է տվել նրանց մոտ 18 միլիոն դոլար հանել Arbitrum-ի վրա հիմնված բորսայից։",
+        "link": "https://decrypt.co/373566/defi-exploit-ostium-oracle-hack",
+        "source": "Decrypt",
+        "enTitle": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png"
+      },
+      {
+        "headline": "Bitcoin և Ether ETF-ները դրական հոսքեր են գրանցել",
+        "summary": "Կրիպտո ETF-ների հոսքերը հուլիսի 14-ին դրական են դարձել, քանի որ Bitcoin ֆոնդերը ներգրավել են $181.08 միլիոն, իսկ Ether ETF-ները՝ $58.34 միլիոն։",
+        "link": "https://news.bitcoin.com/bitcoin-and-ether-etfs-turn-green-with-239m-in-inflows-as-japan-moves-toward-crypto-etfs/",
         "source": "Bitcoin News",
-        "enTitle": "European Central Bank Picks 36 Firms for 2027 Digital Euro Payments Pilot",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/european-central-bank-picks-36-firms-for-2027-digital-euro-payments-pilot-768x432.jpg"
+        "enTitle": "Bitcoin and Ether ETFs Turn Green With $239M in Inflows as Japan Moves Toward Crypto ETFs",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/bitcoin-and-ether-etfs-turn-green-with-239m-in-inflows-as-japan-moves-toward-crypto-etfs-768x432.jpg"
       },
       {
-        "headline": "Ripple-ը միանում է x402 հիմնադրամին AI վճարումների համար",
-        "summary": "Ripple-ը միացել է x402 հիմնադրամին՝ նպատակ ունենալով զարգացնել ինտերնետային վճարումներ AI գործակալների և հավելվածների համար՝ օգտագործելով XRP-ն։",
-        "link": "https://news.bitcoin.com/xrp-enters-ai-agent-payments-push-as-ripple-joins-x402-foundation/",
-        "source": "Bitcoin News",
-        "enTitle": "XRP Enters AI Agent Payments Push as Ripple Joins x402 Foundation",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/linux-foundation-ripple-xrp-768x432.jpg"
+        "headline": "Հարավային Կորեան կրիպտոարժույթները կդասակարգի որպես ազգային ակտիվներ",
+        "summary": "Հարավային Կորեայի կառավարությունը կփոփոխի 76-ամյա օրենքը՝ կրիպտոարժույթները որպես ազգային ակտիվներ դասակարգելու համար և կփորձարկի թոքենիզացված պետական պարտատոմսեր։",
+        "link": "https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "South Korea to modify 76-year-old law to classify cryptocurrencies as national assets",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/5341695125430c39d79f4aad26f660a9eb8122af-6240x4160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "ԱՄՆ-ն և Մեծ Բրիտանիան համաձայնեցնում են կանոնները",
-        "summary": "ԱՄՆ-ի և Մեծ Բրիտանիայի գանձապետարանները համաձայնեցնում են անդրատլանտյան կանոնները tokenization-ի և stablecoin-ների վերաբերյալ։",
-        "link": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Aave V4-ը գործարկվել է Avalanche-ում",
+        "summary": "Aave V4-ի տեղակայումը Avalanche-ում նշանավորում է նրա առաջին ընդլայնումը Ethereum-ից դուրս և ներկայացնում է վարկավորման ենթակառուցվածք՝ ապագա թոքենիզացված իրական ակտիվների շուկաներին աջակցելու համար։",
+        "link": "https://cointelegraph.com/news/aave-brings-v4-to-avalanche-laying-groundwork-for-tokenized-asset-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-regulation-considerations-in-the-united-states-and-united-kingdom.jpg"
-      },
-      {
-        "headline": "JCB-ն Circle-ի հետ կփորձարկի stablecoin վճարումներ",
-        "summary": "Ճապոնական վճարային հսկա JCB-ն Circle-ի հետ փոխըմբռնման հուշագիր է ստորագրել՝ Ճապոնիայում stablecoin վճարումները փորձարկելու համար։",
-        "link": "https://cointelegraph.com/news/japans-jcb-signs-mou-with-circle-to-explore-usdc-payments-and-cross-border-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "JCB signs Circle MOU to test stablecoin payments in Japan",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-swift.png"
+        "enTitle": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-credit-1.png"
       }
     ]
   }
