@@ -1179,5 +1179,78 @@
         "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-credit-1.png"
       }
     ]
+  },
+  {
+    "date": "2026-07-16",
+    "ts": 1784188642665,
+    "fng": {
+      "value": 25,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 64079,
+        "change24h": -0.6743177254876191
+      },
+      {
+        "label": "Ethereum",
+        "price": 1905.78,
+        "change24h": 1.9846935474803575
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ավանդական ֆինանսական հաստատությունների կողմից բլոկչեյն տեխնոլոգիաների և թվային ակտիվների աճող ընդունմամբ, ինչպես նաև կարգավորող և իրավական զարգացումներով ԱՄՆ-ում։",
+    "items": [
+      {
+        "headline": "Խոշոր բանկերը փորձարկում են թոքենիզացված արժեթղթեր",
+        "summary": "BlackRock-ը, Goldman Sachs-ը և JP Morgan-ը, Depository Trust & Clearing Corporation-ի հետ համատեղ, փորձնական ծրագիր են իրականացնում թոքենիզացված բաժնետոմսերի և ԱՄՆ գանձապետական պարտատոմսերի համար։",
+        "link": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
+        "source": "Decrypt",
+        "enTitle": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png"
+      },
+      {
+        "headline": "Morgan Stanley-ն կներդնի կրիպտո ծառայություններ",
+        "summary": "Morgan Stanley-ն նախնական հավանություն է ստացել OCC-ից՝ ներքին կրիպտո ակտիվների պահպանման, staking-ի և վարկավորման ծառայություններ մատուցելու համար։",
+        "link": "https://cryptoslate.com/morgan-stanleys-crypto-trust-bank-could-pull-custody-staking-and-lending-support-in-house/",
+        "source": "CryptoSlate",
+        "enTitle": "How Morgan Stanley plans to bring crypto custody, staking and lending support in-house",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/morgan-stanley-crypto-trust-bank-vault.jpg"
+      },
+      {
+        "headline": "Թրամփը կհանդիպի սենատորների հետ CLARITY Act-ի շուրջ",
+        "summary": "ԱՄՆ նախագահ Դոնալդ Թրամփը հինգշաբթի օրը կհանդիպի սենատորների հետ՝ քննարկելու CLARITY Act օրինագիծը, որը նպատակ ունի կարգավորել կրիպտո ակտիվները։",
+        "link": "https://cointelegraph.com/news/trump-to-meet-with-senators-over-clarity-act-on-thursday-politico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Trump to meet with senators over CLARITY Act on Thursday: Politico",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/trump-signing-papers.jpg"
+      },
+      {
+        "headline": "MicroStrategy-ն կուտակում է 3 միլիարդ դոլար կանխիկ",
+        "summary": "MicroStrategy-ն, որը Bitcoin-ի խոշորագույն կորպորատիվ սեփականատերն է, այժմ պահում է 3 միլիարդ ԱՄՆ դոլարի կանխիկ պահուստ՝ իր Bitcoin ներդրումների կողքին։",
+        "link": "https://news.bitcoin.com/saylor-strategy-barbell-3-billion-cash-55-billion-bitcoin/",
+        "source": "Bitcoin News",
+        "enTitle": "Saylor Hoards $3 Billion in Cash as Strategy’s $55 Billion Bitcoin Bet Sinks $9.9 Billion Underwater",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/michael-saylor-bitcoin-strategy-inc-2-768x432.jpg"
+      },
+      {
+        "headline": "Emirates NBD-ն գործարկում է բլոկչեյն վճարումներ",
+        "summary": "Emirates NBD բանկը գործարկել է իրական ժամանակի USD բլոկչեյն վճարումներ Partior ցանցի միջոցով՝ նվազեցնելով միջսահմանային ուշացումները։",
+        "link": "https://news.bitcoin.com/emirates-nbd-launches-real-time-usd-blockchain-payments-cutting-cross-border-delays/",
+        "source": "Bitcoin News",
+        "enTitle": "Emirates NBD Launches Real-Time USD Blockchain Payments, Cutting Cross-Border Delays",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/j-p--morgan-powers-emirates-nbds-live-usd-blockchain-768x432.jpg"
+      },
+      {
+        "headline": "ԱՄՆ Սենատը դեմ է SBF-ի ներմանը",
+        "summary": "ԱՄՆ Սենատը միաձայն դեմ է արտահայտվել FTX-ի հիմնադիր Սեմ Բենքման-Ֆրիդի ներմանը՝ ընդունելով ոչ պարտադիր բանաձև։",
+        "link": "https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/51a62814bc17d19cbfe90f63c3a01e035093d234-3210x2408.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
   }
 ]
