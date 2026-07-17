@@ -1255,7 +1255,7 @@
   },
   {
     "date": "2026-07-17",
-    "ts": 1784274788880,
+    "ts": 1784307684882,
     "fng": {
       "value": 27,
       "label": "Fear",
@@ -1265,64 +1265,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 62881,
-        "change24h": -1.8607430285960413
+        "price": 63544,
+        "change24h": -1.2372690492999945
       },
       {
         "label": "Ethereum",
-        "price": 1828.47,
-        "change24h": -4.0376892119728955
+        "price": 1834.47,
+        "change24h": -2.1717219039020375
       }
     ],
-    "overview": "Օրը նշանավորվեց կրիպտոարժույթների ոլորտում զգալի ինստիտուցիոնալ որդեգրմամբ և կարգավորող զարգացումներով։ Խոշոր ֆինանսական խաղացողներն ընդլայնում են իրենց կրիպտո առաջարկները, մինչդեռ կարգավորող մարմինները պարզաբանումներ են տրամադրում և գործողություններ են ձեռնարկում տարբեր իրավասություններում։",
+    "overview": "Շուկաներում նկատվում է անկայունություն, քանի որ Bitcoin-ի գինը նվազում է, սակայն կրիպտոարժույթների ոլորտում շարունակվում են կարևոր զարգացումները՝ կապված կարգավորումների և ավանդական ֆինանսների ինտեգրման հետ։",
     "items": [
       {
-        "headline": "Արգենտինայում Libra-ի հետ կապված դրամապանակների սառեցում",
-        "summary": "Արգենտինայի դաշնային դատավորը հրամայել է շտապ սառեցնել Libra թոքենի հետ կապված կրիպտո դրամապանակները՝ դրանց սեփականատերերի ինքնությունը պարզելու համար։",
-        "link": "https://news.bitcoin.com/argentine-judge-orders-urgent-freeze-of-crypto-wallets-tied-to-controversial-libra-token/",
-        "source": "Bitcoin News",
-        "enTitle": "Argentine Judge Orders Urgent Freeze of Crypto Wallets Tied to Controversial Libra Token",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/librawebpage-768x432.jpg"
-      },
-      {
-        "headline": "Bitcoin ETF-ները գրանցել են զգալի ներհոսք",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները երեք օրվա ընթացքում ներգրավել են մոտ 368 միլիոն դոլարի ներհոսք, քանի որ Bitcoin-ը փորձում է վերականգնել իր գինը։",
-        "link": "https://cointelegraph.com/news/bitcoin-etfs-368-million-three-day-buying-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "OKX Europe-ը MiCA-ին համապատասխան USDC է առաջարկում",
+        "summary": "OKX Europe-ը հնարավորություն է տալիս եվրոպացի օգտատերերին փոխարկել USDT-ն MiCA-ի կանոնակարգերին համապատասխան USDC-ի։",
+        "link": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin ETFs add $368M in three-day buying streak",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-etf-3.jpg"
+        "enTitle": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-decentralized-exchanges-101-2.png"
       },
       {
-        "headline": "Մեծ Բրիտանիայում կրիպտո վարկավորման հարկային պարզաբանում",
-        "summary": "Մեծ Բրիտանիայի HMRC-ն հայտարարել է, որ կրիպտո վարկավորման և լիկվիդայնության փուլերի գործարքները չեն ենթարկվի կապիտալի շահույթի հարկի մինչև 2027 թվականը։",
-        "link": "https://news.bitcoin.com/uk-hmrc-says-crypto-lending-will-trigger-no-capital-gains-tax-until-economic-disposal/",
-        "source": "Bitcoin News",
-        "enTitle": "UK HMRC Says Crypto Lending Will Trigger No Capital Gains Tax Until Economic Disposal",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/uk-hmrc-says-crypto-lending-will-trigger-no-capital-gains-tax-until-economic-disposal-768x432.jpg"
-      },
-      {
-        "headline": "Visa-ն գործարկում է ինստիտուցիոնալ stablecoin հարթակ",
-        "summary": "Visa-ն ներկայացրել է նոր ձեռնարկատիրական հարթակ, որը բանկերին և ֆինտեխ ընկերություններին հնարավորություն է տալիս օգտագործել stablecoin-ներ ինստիտուցիոնալ վճարումների համար։",
-        "link": "https://news.bitcoin.com/visa-stablecoin-platform-pushes-institutional-payments-onchain-with-open-usd/",
-        "source": "Bitcoin News",
-        "enTitle": "Visa Stablecoin Platform Pushes Institutional Payments Onchain With Open USD",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/visa-stablecoin-768x432.jpg"
-      },
-      {
-        "headline": "Morgan Stanley-ն ավելացնում է կրիպտո առևտուրը E*Trade-ում",
-        "summary": "Morgan Stanley-ն E*Trade հարթակում իր իրավասու հաճախորդներին հնարավորություն է տալիս գնել, վաճառել և պահել Bitcoin, Ethereum և Solana։",
-        "link": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
-        "source": "Decrypt",
-        "enTitle": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-morgan-stanley-gID_7.png@png"
-      },
-      {
-        "headline": "T. Rowe Price-ը գործարկում է բազմաթիվ թոքեններով կրիպտո ETF",
-        "summary": "T. Rowe Price ակտիվների կառավարիչը գործարկել է արդյունաբերության առաջին ակտիվորեն կառավարվող բազմաթիվ թոքեններով spot կրիպտո ETF-ը։",
-        "link": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
+        "headline": "Cardano-ն ապակենտրոնացնում է հիմնական մշակումը",
+        "summary": "Cardano-ն իր հիմնական մշակումը փոխանցում է արտաքին թիմերին՝ որպես ցանցի ապակենտրոնացմանն ուղղված քայլ։",
+        "link": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4558fe33f280cde6e4df3eb29acb93a4b771c07f-3000x1791.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "Cardano hands core development to outside teams in decentralization push",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/9466d917b25b934e5b30836d6b9ce6c812da4cac-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Հոլանդական կրիպտո բորսան սնանկ է ճանաչվել",
+        "summary": "Հոլանդական Knaken կրիպտո բորսան սնանկ է ճանաչվել՝ բացահայտելով հաճախորդների միջոցների բազմամիլիոնանոց պակասորդ։",
+        "link": "https://cryptoslate.com/dutch-crypto-exchange-collapses-exposing-customer-balances-true-value-amid-multi-million-euro-hole/",
+        "source": "CryptoSlate",
+        "enTitle": "Dutch crypto exchange collapses exposing customer balances’ true value amid multi-million-euro hole",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/knaken-bankruptcy-vault-7-million-claim.jpg"
+      },
+      {
+        "headline": "Bitcoin ETF-ները ներհոսք են գրանցում, Ether-ը՝ արտահոսք",
+        "summary": "Ներդրողները $79 միլիոն են ներդրել Bitcoin ETF-ներում, մինչդեռ Ether ֆոնդերը կորցրել են $28 միլիոն։",
+        "link": "https://news.bitcoin.com/investors-push-79m-into-bitcoin-etfs-as-ether-funds-lose-28m/",
+        "source": "Bitcoin News",
+        "enTitle": "Investors Push $79M Into Bitcoin ETFs as Ether Funds Lose $28M",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/investors-push-79m-into-bitcoin-etfs-as-ether-funds-lose-28m-768x432.jpg"
+      },
+      {
+        "headline": "SBI-ը ձեռք է բերում սինգապուրյան Coinhako-ն",
+        "summary": "SBI Holdings-ը MAS-ի հավանությունից հետո ձեռք է բերել սինգապուրյան Coinhako կրիպտո հարթակը՝ ընդլայնելով իր թվային ակտիվների ցանցը։",
+        "link": "https://cointelegraph.com/news/sbi-receives-mas-approval-to-acquire-singaporean-coinhako?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "SBI acquires Singaporean crypto platform Coinhako after MAS approval",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sbi-virtual-currencies-the-bank-backed-japanese-exchange-with-big-plans.jpg"
+      },
+      {
+        "headline": "Morgan Stanley-ն ավարտում է E*Trade կրիպտո գործարկումը",
+        "summary": "Morgan Stanley-ի E*Trade-ը ավարտել է Bitcoin-ի, Ether-ի և Solana-ի սփոթ առևտրի ներդրումը ԱՄՆ հաճախորդների համար՝ առաջարկելով 50 բազիսային կետի վճարներ։",
+        "link": "https://news.bitcoin.com/morgan-stanley-etrade-crypto-rollout-complete/",
+        "source": "Bitcoin News",
+        "enTitle": "Morgan Stanley Completes E*Trade Crypto Rollout With 50 Basis Point Fees: Here’s What Clients Get",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/morgan-stanley-building-768x432.jpg"
       }
     ]
   }
