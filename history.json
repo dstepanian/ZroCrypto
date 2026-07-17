@@ -1252,5 +1252,78 @@
         "image": "https://s3-images.ctmedia.io/media/article-covers/interrogation-lamp-stablecoin-1.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-17",
+    "ts": 1784274788880,
+    "fng": {
+      "value": 27,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 62881,
+        "change24h": -1.8607430285960413
+      },
+      {
+        "label": "Ethereum",
+        "price": 1828.47,
+        "change24h": -4.0376892119728955
+      }
+    ],
+    "overview": "Օրը նշանավորվեց կրիպտոարժույթների ոլորտում զգալի ինստիտուցիոնալ որդեգրմամբ և կարգավորող զարգացումներով։ Խոշոր ֆինանսական խաղացողներն ընդլայնում են իրենց կրիպտո առաջարկները, մինչդեռ կարգավորող մարմինները պարզաբանումներ են տրամադրում և գործողություններ են ձեռնարկում տարբեր իրավասություններում։",
+    "items": [
+      {
+        "headline": "Արգենտինայում Libra-ի հետ կապված դրամապանակների սառեցում",
+        "summary": "Արգենտինայի դաշնային դատավորը հրամայել է շտապ սառեցնել Libra թոքենի հետ կապված կրիպտո դրամապանակները՝ դրանց սեփականատերերի ինքնությունը պարզելու համար։",
+        "link": "https://news.bitcoin.com/argentine-judge-orders-urgent-freeze-of-crypto-wallets-tied-to-controversial-libra-token/",
+        "source": "Bitcoin News",
+        "enTitle": "Argentine Judge Orders Urgent Freeze of Crypto Wallets Tied to Controversial Libra Token",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/librawebpage-768x432.jpg"
+      },
+      {
+        "headline": "Bitcoin ETF-ները գրանցել են զգալի ներհոսք",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները երեք օրվա ընթացքում ներգրավել են մոտ 368 միլիոն դոլարի ներհոսք, քանի որ Bitcoin-ը փորձում է վերականգնել իր գինը։",
+        "link": "https://cointelegraph.com/news/bitcoin-etfs-368-million-three-day-buying-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin ETFs add $368M in three-day buying streak",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-etf-3.jpg"
+      },
+      {
+        "headline": "Մեծ Բրիտանիայում կրիպտո վարկավորման հարկային պարզաբանում",
+        "summary": "Մեծ Բրիտանիայի HMRC-ն հայտարարել է, որ կրիպտո վարկավորման և լիկվիդայնության փուլերի գործարքները չեն ենթարկվի կապիտալի շահույթի հարկի մինչև 2027 թվականը։",
+        "link": "https://news.bitcoin.com/uk-hmrc-says-crypto-lending-will-trigger-no-capital-gains-tax-until-economic-disposal/",
+        "source": "Bitcoin News",
+        "enTitle": "UK HMRC Says Crypto Lending Will Trigger No Capital Gains Tax Until Economic Disposal",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/uk-hmrc-says-crypto-lending-will-trigger-no-capital-gains-tax-until-economic-disposal-768x432.jpg"
+      },
+      {
+        "headline": "Visa-ն գործարկում է ինստիտուցիոնալ stablecoin հարթակ",
+        "summary": "Visa-ն ներկայացրել է նոր ձեռնարկատիրական հարթակ, որը բանկերին և ֆինտեխ ընկերություններին հնարավորություն է տալիս օգտագործել stablecoin-ներ ինստիտուցիոնալ վճարումների համար։",
+        "link": "https://news.bitcoin.com/visa-stablecoin-platform-pushes-institutional-payments-onchain-with-open-usd/",
+        "source": "Bitcoin News",
+        "enTitle": "Visa Stablecoin Platform Pushes Institutional Payments Onchain With Open USD",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/visa-stablecoin-768x432.jpg"
+      },
+      {
+        "headline": "Morgan Stanley-ն ավելացնում է կրիպտո առևտուրը E*Trade-ում",
+        "summary": "Morgan Stanley-ն E*Trade հարթակում իր իրավասու հաճախորդներին հնարավորություն է տալիս գնել, վաճառել և պահել Bitcoin, Ethereum և Solana։",
+        "link": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
+        "source": "Decrypt",
+        "enTitle": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-morgan-stanley-gID_7.png@png"
+      },
+      {
+        "headline": "T. Rowe Price-ը գործարկում է բազմաթիվ թոքեններով կրիպտո ETF",
+        "summary": "T. Rowe Price ակտիվների կառավարիչը գործարկել է արդյունաբերության առաջին ակտիվորեն կառավարվող բազմաթիվ թոքեններով spot կրիպտո ETF-ը։",
+        "link": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4558fe33f280cde6e4df3eb29acb93a4b771c07f-3000x1791.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
   }
 ]
