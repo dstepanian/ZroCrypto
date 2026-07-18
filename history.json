@@ -1328,7 +1328,7 @@
   },
   {
     "date": "2026-07-18",
-    "ts": 1784359706660,
+    "ts": 1784393100938,
     "fng": {
       "value": 25,
       "label": "Extreme Fear",
@@ -1338,56 +1338,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63971,
-        "change24h": 1.7465294212455365
+        "price": 64090,
+        "change24h": 0.9990827711527857
       },
       {
         "label": "Ethereum",
-        "price": 1843.89,
-        "change24h": 0.7612204548062637
+        "price": 1841.82,
+        "change24h": 0.36151436630353034
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկայի հիմնական թեմաներն են ինստիտուցիոնալ ընդունումը և կարգավորող մարմինների ուշադրության աճը։ Մինչ խոշոր ֆինանսական ընկերությունները նոր ապրանքներ են գործարկում, կենտրոնական բանկերը և կառավարությունները ակտիվորեն քննարկում են վիրտուալ ակտիվների և stablecoin-ների ազդեցությունը։",
+    "overview": "Օրվա կրիպտո նորությունները ընդգծում են ինստիտուցիոնալ ներգրավվածության աճը և stablecoin-ների կարգավորման զարգացումները, ինչպես նաև Bitcoin-ի շուկայական զգալի տրամադրությունները։",
     "items": [
       {
-        "headline": "T. Rowe Price-ը գործարկում է նոր կրիպտո ETF",
-        "summary": "$1.89 տրիլիոն կառավարող T. Rowe Price ընկերությունը գործարկել է TKNZ անվանումով ակտիվորեն կառավարվող բազմաթիվ թոքեններով ETF, որը ներառում է Bitcoin, Ether և XRP։",
+        "headline": "Circle-ը դարձել է դաշնային վստահության բանկ",
+        "summary": "Circle-ը ստացել է դաշնային վստահության բանկ բացելու վերջնական հավանություն, մինչդեռ ԵԿԲ-ն զգուշացնում է, որ stablecoin-ները կարող են դատարկել բանկային ավանդները։",
+        "link": "https://cryptoslate.com/circle-became-a-federal-trust-bank-now-lenders-warn-stablecoins-is-projected-to-drain-500-billion/",
+        "source": "CryptoSlate",
+        "enTitle": "Circle became a federal trust bank – now lenders warn stablecoins is projected to drain $500 billion",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/circle-usdc-federal-trust-bank-washington-charter.jpg"
+      },
+      {
+        "headline": "T. Rowe Price-ը գործարկել է Spot Crypto ETF",
+        "summary": "T. Rowe Price-ը, որը կառավարում է 1.89 տրիլիոն դոլարի ակտիվներ, գործարկել է TKNZ անվանումով ակտիվորեն կառավարվող բազմաթիվ թոքեններով Spot ETF՝ առաջարկելով մուտք դեպի Bitcoin, Ether և XRP։",
         "link": "https://news.bitcoin.com/t-rowe-price-launches-active-spot-crypto-etf-with-btc-eth-xrp-among-top-holdings/",
         "source": "Bitcoin News",
         "enTitle": "T. Rowe Price Launches Active Spot Crypto ETF With BTC, ETH, XRP Among Top Holdings",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/t-rowe-price-crypto-etf-768x432.jpg"
       },
       {
-        "headline": "Նիգերիան կարգավորում է կրիպտո հատվածը",
-        "summary": "Նիգերիայի նախագահ Բոլա Թինուբուն ստորագրել է գործադիր հրաման՝ կարգավորելու երկրի վիրտուալ ակտիվների հատվածը և պաշտպանելու քաղաքացիներին խարդախություններից։",
-        "link": "https://news.bitcoin.com/nigerian-president-tinubu-signs-executive-order-to-regulate-countrys-crypto-sector/",
-        "source": "Bitcoin News",
-        "enTitle": "Nigerian President Tinubu Signs Executive Order to Regulate Country’s Crypto Sector",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/president-tinubu-signs-executive-order-to-regulate-nigerian-crypto-sector-768x432.jpg"
+        "headline": "Ֆինանսական ընկերությունները առաջնահերթություն են տալիս թոքենիզացիային",
+        "summary": "Broadridge-ի հարցումը ցույց է տվել, որ ֆինանսական ընկերությունների 84%-ը թոքենիզացիան համարում է ռազմավարական առաջնահերթություն՝ արագացնելով իրենց ջանքերը։",
+        "link": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Tokenization has become a strategic priority for 84% of financial firms",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d57549b03e21590f600945be64a4c0c6ed82f901-3000x1842.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "ԵԿԲ-ն զգուշացնում է stablecoin-ների մասին",
-        "summary": "Եվրոպական Կենտրոնական Բանկը (ECB) զգուշացրել է, որ stablecoin-ները կարող են նվազեցնել բանկային ավանդները՝ առաջարկելով թվային եվրոն որպես լուծում։",
-        "link": "https://decrypt.co/373767/ecb-warns-stablecoins-drain-bank-deposits",
-        "source": "Decrypt",
-        "enTitle": "ECB Warns Stablecoins May Drain Bank Deposits—Here's What That Means",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png"
+        "headline": "Խոշոր թրեյդերները թիրախավորում են Bitcoin-ի $72,000 գինը",
+        "summary": "Օպցիոնների շուկայի վերջին տվյալները ցույց են տալիս, որ խոշոր թրեյդերները խաղադրույք են կատարում Bitcoin-ի գնի բարձրացման վրա մինչև $72,000 մինչև ամսվա վերջ։",
+        "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/03792fc9d1555286ba718334a78aecdfd1914d58-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "USDT-ի օգտատերերի թիվը շարունակում է աճել",
-        "summary": "Tether-ի գործադիր տնօրեն Պաոլո Արդոինոն հայտարարել է, որ USDT-ի օգտատերերի բազան եռամսյակում աճում է ավելի քան 30 միլիոն դրամապանակով։",
-        "link": "https://news.bitcoin.com/tether-usdt-30-million-wallets-quarter-ardoino/",
-        "source": "Bitcoin News",
-        "enTitle": "Tether’s USDT Is Adding Over 30 Million Wallets Every Quarter, CEO Paolo Ardoino Says",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/tether-phases-out-ausdt-stablecoin-refocuses-on-xaut-gold-token-768x432.jpg"
-      },
-      {
-        "headline": "OKX Europe-ը MiCA-ին համապատասխանեցնում է stablecoin-ները",
-        "summary": "OKX Europe-ը թույլ է տալիս օգտատերերին փոխարկել USDT-ն MiCA-ին համապատասխան USDC-ի՝ Եվրոպայում stablecoin-ների շուկան վերաձևավորող կանոնների ֆոնին։",
-        "link": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "FTX-ը 900 միլիոն դոլար կբաշխի պարտատերերին",
+        "summary": "FTX Recovery Trust-ը և ընկերությունը նախատեսում են բաշխել մոտ 900 միլիոն դոլար պարտատերերին՝ որպես վճարումների հինգերորդ փուլ։",
+        "link": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-decentralized-exchanges-101-2.png"
+        "enTitle": "FTX to distribute $900M to creditors in fifth payment round",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ftx-distribution.png"
+      },
+      {
+        "headline": "Stablecoin-ները տարածվում են Լատինական Ամերիկայում",
+        "summary": "Բրազիլիայում դոլարային stablecoin-ները գերազանցում են երկրի վճարումները, իսկ Բոլիվիան ճանաչում է USDT-ն՝ դոլարի պակասի պայմաններում։",
+        "link": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/65bd684b67415bb4f57438bede69bae09f26621d-5031x3354.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
