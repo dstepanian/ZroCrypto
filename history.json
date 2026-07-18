@@ -1325,5 +1325,70 @@
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/morgan-stanley-building-768x432.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-18",
+    "ts": 1784359706660,
+    "fng": {
+      "value": 25,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 63971,
+        "change24h": 1.7465294212455365
+      },
+      {
+        "label": "Ethereum",
+        "price": 1843.89,
+        "change24h": 0.7612204548062637
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկայի հիմնական թեմաներն են ինստիտուցիոնալ ընդունումը և կարգավորող մարմինների ուշադրության աճը։ Մինչ խոշոր ֆինանսական ընկերությունները նոր ապրանքներ են գործարկում, կենտրոնական բանկերը և կառավարությունները ակտիվորեն քննարկում են վիրտուալ ակտիվների և stablecoin-ների ազդեցությունը։",
+    "items": [
+      {
+        "headline": "T. Rowe Price-ը գործարկում է նոր կրիպտո ETF",
+        "summary": "$1.89 տրիլիոն կառավարող T. Rowe Price ընկերությունը գործարկել է TKNZ անվանումով ակտիվորեն կառավարվող բազմաթիվ թոքեններով ETF, որը ներառում է Bitcoin, Ether և XRP։",
+        "link": "https://news.bitcoin.com/t-rowe-price-launches-active-spot-crypto-etf-with-btc-eth-xrp-among-top-holdings/",
+        "source": "Bitcoin News",
+        "enTitle": "T. Rowe Price Launches Active Spot Crypto ETF With BTC, ETH, XRP Among Top Holdings",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/t-rowe-price-crypto-etf-768x432.jpg"
+      },
+      {
+        "headline": "Նիգերիան կարգավորում է կրիպտո հատվածը",
+        "summary": "Նիգերիայի նախագահ Բոլա Թինուբուն ստորագրել է գործադիր հրաման՝ կարգավորելու երկրի վիրտուալ ակտիվների հատվածը և պաշտպանելու քաղաքացիներին խարդախություններից։",
+        "link": "https://news.bitcoin.com/nigerian-president-tinubu-signs-executive-order-to-regulate-countrys-crypto-sector/",
+        "source": "Bitcoin News",
+        "enTitle": "Nigerian President Tinubu Signs Executive Order to Regulate Country’s Crypto Sector",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/president-tinubu-signs-executive-order-to-regulate-nigerian-crypto-sector-768x432.jpg"
+      },
+      {
+        "headline": "ԵԿԲ-ն զգուշացնում է stablecoin-ների մասին",
+        "summary": "Եվրոպական Կենտրոնական Բանկը (ECB) զգուշացրել է, որ stablecoin-ները կարող են նվազեցնել բանկային ավանդները՝ առաջարկելով թվային եվրոն որպես լուծում։",
+        "link": "https://decrypt.co/373767/ecb-warns-stablecoins-drain-bank-deposits",
+        "source": "Decrypt",
+        "enTitle": "ECB Warns Stablecoins May Drain Bank Deposits—Here's What That Means",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png"
+      },
+      {
+        "headline": "USDT-ի օգտատերերի թիվը շարունակում է աճել",
+        "summary": "Tether-ի գործադիր տնօրեն Պաոլո Արդոինոն հայտարարել է, որ USDT-ի օգտատերերի բազան եռամսյակում աճում է ավելի քան 30 միլիոն դրամապանակով։",
+        "link": "https://news.bitcoin.com/tether-usdt-30-million-wallets-quarter-ardoino/",
+        "source": "Bitcoin News",
+        "enTitle": "Tether’s USDT Is Adding Over 30 Million Wallets Every Quarter, CEO Paolo Ardoino Says",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/tether-phases-out-ausdt-stablecoin-refocuses-on-xaut-gold-token-768x432.jpg"
+      },
+      {
+        "headline": "OKX Europe-ը MiCA-ին համապատասխանեցնում է stablecoin-ները",
+        "summary": "OKX Europe-ը թույլ է տալիս օգտատերերին փոխարկել USDT-ն MiCA-ին համապատասխան USDC-ի՝ Եվրոպայում stablecoin-ների շուկան վերաձևավորող կանոնների ֆոնին։",
+        "link": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-decentralized-exchanges-101-2.png"
+      }
+    ]
   }
 ]
