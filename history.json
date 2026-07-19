@@ -1398,5 +1398,78 @@
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/65bd684b67415bb4f57438bede69bae09f26621d-5031x3354.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
+  },
+  {
+    "date": "2026-07-19",
+    "ts": 1784448050715,
+    "fng": {
+      "value": 28,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 64639,
+        "change24h": 1.106324503913598
+      },
+      {
+        "label": "Ethereum",
+        "price": 1868.12,
+        "change24h": 1.3651609065691837
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների շարունակական ջանքերով տարբեր երկրներում, ինչպես նաև խոշոր կրիպտո ընկերությունների զարգացումներով և թոքենիզացիայի աճող միտումով։",
+    "items": [
+      {
+        "headline": "Բրազիլիան կկարգավորի արժեթղթերի թոքենիզացիան",
+        "summary": "Բրազիլիայի արժեթղթերի կարգավորող մարմինը (CVM) ստեղծել է աշխատանքային խումբ՝ առաջարկելու արժեթղթերի թոքենիզացիայի կարգավորման կանոններ և կանոնակարգեր։",
+        "link": "https://news.bitcoin.com/brazils-cvm-launches-strategic-working-group-to-regulate-securities-tokenization/",
+        "source": "Bitcoin News",
+        "enTitle": "Brazil’s CVM Launches Strategic Working Group to Regulate Securities Tokenization",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/brazilian-cvm-768x432.jpg"
+      },
+      {
+        "headline": "CLARITY Act-ը մնում է Սենատում",
+        "summary": "CLARITY Act օրինագիծը, որն արդեն մեկ տարի է անցել է Ներկայացուցիչների պալատը, դեռևս մնում է Սենատում՝ խոչընդոտելով ԱՄՆ-ում կրիպտո կանոնների ստեղծմանը։",
+        "link": "https://news.bitcoin.com/one-year-later-clarity-act-remains-stuck-in-senate-as-crypto-rules-stall/",
+        "source": "Bitcoin News",
+        "enTitle": "One Year Later, CLARITY Act Remains Stuck in Senate as Crypto Rules Stall",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/congress-building-1-768x432.jpg"
+      },
+      {
+        "headline": "Ֆրանսիան արգելափակում է Polymarket-ը",
+        "summary": "Ֆրանսիայի ազգային խաղային կարգավորող մարմինը հրամայել է ինտերնետ ծառայություններ մատուցողներին ամբողջությամբ արգելափակել Polymarket կրիպտո-հիմնված կանխատեսումների կայքի մուտքը։",
+        "link": "https://news.bitcoin.com/france-orders-isps-to-block-polymarket-after-french-traffic-surges-to-578000-visits/",
+        "source": "Bitcoin News",
+        "enTitle": "France Orders ISPs to Block Polymarket After French Traffic Surges to 578,000 Visits",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/polymarket-staged-900k-in-fake-winnings-to-court-banned-us-users-wsj-finds-768x432.jpg"
+      },
+      {
+        "headline": "FTX-ը կվճարի պարտատերերին $900 միլիոն",
+        "summary": "FTX Trading Ltd.-ն և FTX Recovery Trust-ը հուլիսի 31-ից կսկսեն մոտ 900 միլիոն դոլար բաշխել պարտատերերին՝ նշանավորելով բորսայի փլուզումից հետո հինգերորդ խոշոր բաշխումը։",
+        "link": "https://news.bitcoin.com/ftx-plans-to-pay-creditors-900-million-as-fifth-distribution-starts-on-july-31/",
+        "source": "Bitcoin News",
+        "enTitle": "FTX Plans to Pay Creditors $900 Million as Fifth Distribution Starts on July 31",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2024/03/hop907890-768x432.jpg"
+      },
+      {
+        "headline": "Թոքենիզացիան՝ ֆինանսական ընկերությունների առաջնահերթություն",
+        "summary": "Broadridge-ի հարցումը ցույց է տվել, որ ֆինանսական ընկերությունների 84%-ի համար թոքենիզացիան դարձել է ռազմավարական առաջնահերթություն։",
+        "link": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Tokenization has become a strategic priority for 84% of financial firms",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d57549b03e21590f600945be64a4c0c6ed82f901-3000x1842.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Circle-ը դարձավ դաշնային բանկ",
+        "summary": "Circle-ը ստացել է վերջնական հավանություն՝ բացելու ազգային վստահության բանկ դաշնային վերահսկողության ներքո, մինչդեռ վարկատուները զգուշացնում են, որ stablecoin-ները կարող են 500 միլիարդ դոլարի արտահոսք առաջացնել։",
+        "link": "https://cryptoslate.com/circle-became-a-federal-trust-bank-now-lenders-warn-stablecoins-is-projected-to-drain-500-billion/",
+        "source": "CryptoSlate",
+        "enTitle": "Circle became a federal trust bank – now lenders warn stablecoins is projected to drain $500 billion",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/circle-usdc-federal-trust-bank-washington-charter.jpg"
+      }
+    ]
   }
 ]
