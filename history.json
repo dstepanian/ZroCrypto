@@ -1463,5 +1463,78 @@
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/this-group-of-four-now-dominates-over-70-of-a-key-blockchain-resource-768x432.png"
       }
     ]
+  },
+  {
+    "date": "2026-07-20",
+    "ts": 1784536917211,
+    "fng": {
+      "value": 29,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 63903,
+        "change24h": -1.0994161071555888
+      },
+      {
+        "label": "Ethereum",
+        "price": 1855.61,
+        "change24h": -0.7432392113826336
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան ներկայացնում է խառը պատկեր՝ նշանակալի տեխնոլոգիական առաջընթացներով և կորպորատիվ ընդունմամբ, սակայն նաև կարգավորող մարտահրավերներով և անվտանգության միջադեպերով։",
+    "items": [
+      {
+        "headline": "Ճապոնական ընկերությունը կընդունի JPYC վճարումներ",
+        "summary": "Ճապոնական լոգիստիկ ընկերություն AZ-Com Maruwa-ն նախատեսում է օգտագործել JPYC ստաբիլքոյնը՝ 2300 գործընկերների, ներառյալ բեռնատարների վարորդների վճարումների համար։",
+        "link": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/e43bdf02a1b30cc551411cee8ea219ec79a11f74-5851x3901.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Հարավային Կորեան կսկսի CBDC փորձնական ծրագրի երկրորդ փուլը",
+        "summary": "Հարավային Կորեայի Կենտրոնական բանկը սեպտեմբերին կսկսի իր CBDC փորձնական ծրագրի երկրորդ փուլը՝ ներառելով երկու տարածաշրջանային բանկ և նոր վճարային գործառույթներ։",
+        "link": "https://cointelegraph.com/news/south-korea-september-second-phase-cbdc-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "South Korea eyes September launch for second phase of CBDC pilot: Report",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-lifts-9-year-corporate-crypto-ban-what-the-policy-change-means-1.jpg"
+      },
+      {
+        "headline": "Cardano-ն ակտիվացրել է van Rossem hard fork-ը",
+        "summary": "Cardano ցանցն ակտիվացրել է van Rossem hard fork-ը, որը նվազեցնում է խելացի պայմանագրերի կատարման ծախսերը և հիմք է դնում Ouroboros Leios մասշտաբայնության արդիականացման համար։",
+        "link": "https://cointelegraph.com/news/cardano-activates-van-rossem-hard-fork-paving-way-for-leios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Cardano activates van Rossem hard fork",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/cardano.jpg"
+      },
+      {
+        "headline": "Allbridge-ը դադարեցրել է աշխատանքը $1.65 մլն շահագործումից հետո",
+        "summary": "Allbridge Core-ը դադարեցրել է իր արձանագրության աշխատանքը՝ $1.65 միլիոն դոլարի flash loan շահագործումից հետո, որի ընթացքում հարձակվողը գողացված միջոցները տեղափոխել է Solana-ից Ethereum։",
+        "link": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
+        "image": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-800x450.jpg"
+      },
+      {
+        "headline": "Saylor-ը կոչ է անում մերժել Bitcoin-ի BIP-110-ը",
+        "summary": "Michael Saylor-ը կոչ է արել մերժել BIP-110 առաջարկը՝ պնդելով, որ այն կխաթարի Bitcoin ցանցի չեզոքությունը և կստեղծի գրաքննության վտանգավոր նախադեպ։",
+        "link": "https://www.theblock.co/post/408850/saylor-urges-bitcoin-to-reject-bip-110-in-110-point-essay-as-soft-forks-august-showdown-approaches?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork’s August showdown approaches",
+        "image": "https://www.tbstat.com/wp/uploads/2025/06/20250603_MichaelSaylor_News-800x450.jpg"
+      },
+      {
+        "headline": "Մեծ Բրիտանիան խստացնում է կրիպտո կարգավորումները",
+        "summary": "Մեծ Բրիտանիան ուժի մեջ է մտցրել նոր կանոններ, որոնք կրիպտո ընկերությունների համար դրամապանակների նույնականացման ուշացումը դարձնում են քրեական ռիսկ՝ մինչև 14 տարվա պատժով։",
+        "link": "https://cryptoslate.com/uk-turns-delayed-wallet-identification-into-a-14-year-criminal-risk-for-crypto-firms/",
+        "source": "CryptoSlate",
+        "enTitle": "UK turns delayed wallet identification into a 14-year criminal risk for crypto firms",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/uk-crypto-payments-security-screening.jpg"
+      }
+    ]
   }
 ]
