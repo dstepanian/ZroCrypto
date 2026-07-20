@@ -1466,7 +1466,7 @@
   },
   {
     "date": "2026-07-20",
-    "ts": 1784536917211,
+    "ts": 1784568417619,
     "fng": {
       "value": 29,
       "label": "Fear",
@@ -1476,64 +1476,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63903,
-        "change24h": -1.0994161071555888
+        "price": 65422,
+        "change24h": 1.2563010573569084
       },
       {
         "label": "Ethereum",
-        "price": 1855.61,
-        "change24h": -0.7432392113826336
+        "price": 1897.22,
+        "change24h": 1.553497963839893
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան ներկայացնում է խառը պատկեր՝ նշանակալի տեխնոլոգիական առաջընթացներով և կորպորատիվ ընդունմամբ, սակայն նաև կարգավորող մարտահրավերներով և անվտանգության միջադեպերով։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող զարգացումներով տարբեր երկրներում, ինչպես նաև խոշոր ընկերությունների ռազմավարական փոփոխություններով։ Արհեստական ինտելեկտի և կրիպտո մայնինգի աճող ինտեգրումը շարունակում է մնալ ուշադրության կենտրոնում։",
     "items": [
       {
-        "headline": "Ճապոնական ընկերությունը կընդունի JPYC վճարումներ",
-        "summary": "Ճապոնական լոգիստիկ ընկերություն AZ-Com Maruwa-ն նախատեսում է օգտագործել JPYC ստաբիլքոյնը՝ 2300 գործընկերների, ներառյալ բեռնատարների վարորդների վճարումների համար։",
-        "link": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments",
+        "headline": "CLARITY Act-ը կպաշտպանի հաճախորդների կրիպտո ակտիվները",
+        "summary": "Սենատոր Սինթիա Լումիսը հայտարարել է, որ CLARITY Act-ը կապահովի, որ հաճախորդների կրիպտո ակտիվները մնան նրանց սեփականությունը բորսաների սնանկության դեպքում։",
+        "link": "https://news.bitcoin.com/clarity-act-would-protect-customer-crypto-from-exchange-bankruptcies-senator-says/",
+        "source": "Bitcoin News",
+        "enTitle": "CLARITY Act Would Protect Customer Crypto From Exchange Bankruptcies, Senator Says",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/senator-cynthia-lummis-768x432.jpg"
+      },
+      {
+        "headline": "Ռուսաստանը մոտ է կրիպտո օրենքի ընդունմանը",
+        "summary": "Ռուսաստանի Պետական Դուման պատրաստվում է քվեարկել կրիպտո օրինագծի շուրջ, որը կօրինականացնի կարգավորվող առևտուրը և միջսահմանային հաշվարկները։",
+        "link": "https://news.bitcoin.com/russia-nears-final-crypto-vote-with-retail-caps-licensed-exchanges-and-bitcoin-trade/",
+        "source": "Bitcoin News",
+        "enTitle": "Russia Nears Final Crypto Vote With Retail Caps, Licensed Exchanges and Bitcoin Trade",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/russia-nears-final-crypto-vote-with-retail-caps-licensed-exchanges-and-bitcoin-trade-768x432.png"
+      },
+      {
+        "headline": "Նիգերիայի նախագահը ստորագրել է կրիպտո կարգավորման հրաման",
+        "summary": "Նիգերիայի նախագահը գործադիր հրաման է ստորագրել, որը ստեղծում է վիրտուալ ակտիվների խորհուրդ և լուծում կրիպտո կարգավորման մասնատվածության խնդիրը։",
+        "link": "https://cointelegraph.com/news/nigeria-order-crypto-regulatory-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Nigerian president signs order on approach to crypto regulation, taxes",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-nigeria.jpg"
+      },
+      {
+        "headline": "Hyperliquid-ը ընդլայնում է կանխատեսումների շուկաները",
+        "summary": "Hyperliquid-ը հայտարարել է, որ իր HIP-4 արդյունքների շուկաների արտադրանքը կանցնի թույլտվություն չպահանջող տեղակայման՝ ցանցի առաջիկա թարմացման ժամանակ։",
+        "link": "https://news.bitcoin.com/hyperliquid-bets-big-on-prediction-markets-with-permissionless-hip-4-push/",
+        "source": "Bitcoin News",
+        "enTitle": "Hyperliquid Bets Big on Prediction Markets With Permissionless HIP-4 Push",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/hyperliquid-bets-big-on-prediction-markets-with-permissionless-hip-4-push-768x432.png"
+      },
+      {
+        "headline": "MicroStrategy-ն ավելացնում է կանխիկ պահուստները",
+        "summary": "Saylor-ի Strategy ընկերությունը երկրորդ շաբաթն անընդմեջ պահպանել է Bitcoin-ի իր պահուստները անփոփոխ՝ ավելացնելով կանխիկ միջոցները մինչև 3.2 միլիարդ դոլար։",
+        "link": "https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/e43bdf02a1b30cc551411cee8ea219ec79a11f74-5851x3901.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "Saylor's Strategy raises cash reserves to $3.2 billion, leaving bitcoin holdings unchanged",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/a57323d92b3fa599df2ee442af800248477423c0-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Հարավային Կորեան կսկսի CBDC փորձնական ծրագրի երկրորդ փուլը",
-        "summary": "Հարավային Կորեայի Կենտրոնական բանկը սեպտեմբերին կսկսի իր CBDC փորձնական ծրագրի երկրորդ փուլը՝ ներառելով երկու տարածաշրջանային բանկ և նոր վճարային գործառույթներ։",
-        "link": "https://cointelegraph.com/news/south-korea-september-second-phase-cbdc-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "South Korea eyes September launch for second phase of CBDC pilot: Report",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-lifts-9-year-corporate-crypto-ban-what-the-policy-change-means-1.jpg"
-      },
-      {
-        "headline": "Cardano-ն ակտիվացրել է van Rossem hard fork-ը",
-        "summary": "Cardano ցանցն ակտիվացրել է van Rossem hard fork-ը, որը նվազեցնում է խելացի պայմանագրերի կատարման ծախսերը և հիմք է դնում Ouroboros Leios մասշտաբայնության արդիականացման համար։",
-        "link": "https://cointelegraph.com/news/cardano-activates-van-rossem-hard-fork-paving-way-for-leios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Cardano activates van Rossem hard fork",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/cardano.jpg"
-      },
-      {
-        "headline": "Allbridge-ը դադարեցրել է աշխատանքը $1.65 մլն շահագործումից հետո",
-        "summary": "Allbridge Core-ը դադարեցրել է իր արձանագրության աշխատանքը՝ $1.65 միլիոն դոլարի flash loan շահագործումից հետո, որի ընթացքում հարձակվողը գողացված միջոցները տեղափոխել է Solana-ից Ethereum։",
-        "link": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&utm_medium=rss",
+        "headline": "Hut 8-ը և IREN-ը ստորագրում են AI պայմանագրեր",
+        "summary": "Hut 8-ը և IREN-ը միլիարդավոր դոլարների նոր պայմանագրեր են կնքել AI տվյալների կենտրոնների համար, ինչը խթանում է նրանց բաժնետոմսերի աճը։",
+        "link": "https://www.theblock.co/post/408920/hut-8-fully-commercializes-1-gw-texas-ai-campus-with-second-9-8b-lease-as-iren-signs-2-8b-in-contracts-shares-climb-double-digits?utm_source=rss&utm_medium=rss",
         "source": "The Block",
-        "enTitle": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
-        "image": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-800x450.jpg"
-      },
-      {
-        "headline": "Saylor-ը կոչ է անում մերժել Bitcoin-ի BIP-110-ը",
-        "summary": "Michael Saylor-ը կոչ է արել մերժել BIP-110 առաջարկը՝ պնդելով, որ այն կխաթարի Bitcoin ցանցի չեզոքությունը և կստեղծի գրաքննության վտանգավոր նախադեպ։",
-        "link": "https://www.theblock.co/post/408850/saylor-urges-bitcoin-to-reject-bip-110-in-110-point-essay-as-soft-forks-august-showdown-approaches?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork’s August showdown approaches",
-        "image": "https://www.tbstat.com/wp/uploads/2025/06/20250603_MichaelSaylor_News-800x450.jpg"
-      },
-      {
-        "headline": "Մեծ Բրիտանիան խստացնում է կրիպտո կարգավորումները",
-        "summary": "Մեծ Բրիտանիան ուժի մեջ է մտցրել նոր կանոններ, որոնք կրիպտո ընկերությունների համար դրամապանակների նույնականացման ուշացումը դարձնում են քրեական ռիսկ՝ մինչև 14 տարվա պատժով։",
-        "link": "https://cryptoslate.com/uk-turns-delayed-wallet-identification-into-a-14-year-criminal-risk-for-crypto-firms/",
-        "source": "CryptoSlate",
-        "enTitle": "UK turns delayed wallet identification into a 14-year criminal risk for crypto firms",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/uk-crypto-payments-security-screening.jpg"
+        "enTitle": "Hut 8 fully commercializes 1 GW Texas AI campus with second $9.8B lease as IREN signs $2.8B in contracts; shares climb double digits",
+        "image": "https://www.tbstat.com/wp/uploads/2024/08/20240819_Funding_News_2-800x450.jpg"
       }
     ]
   }
