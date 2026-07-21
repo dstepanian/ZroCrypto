@@ -1539,7 +1539,7 @@
   },
   {
     "date": "2026-07-21",
-    "ts": 1784621341658,
+    "ts": 1784653633650,
     "fng": {
       "value": 25,
       "label": "Extreme Fear",
@@ -1549,64 +1549,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 66163,
-        "change24h": 3.0710776830376263
+        "price": 66488,
+        "change24h": 1.6163180472225054
       },
       {
         "label": "Ethereum",
-        "price": 1933.08,
-        "change24h": 3.914227758382723
+        "price": 1925.99,
+        "change24h": 1.429166192423901
       }
     ],
-    "overview": "Շուկայում նկատվում է ինստիտուցիոնալ հետաքրքրության աճ, ինչը վկայում է Bitcoin ETF-ների ներհոսքերի շարունակական շարքը և Լոնդոնի ֆոնդային բորսայի՝ 24/7 առևտրի հարթակ ստեղծելու պլանները։ Միաժամանակ, ԱՄՆ-ում կարևոր կարգավորող զարգացումներ են ընթանում CLARITY օրենքի շուրջ, և նկատվում է նոր crypto ETF-ների առաջացում։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարևոր կորպորատիվ զարգացումներով, կարգավորող մարմինների մտահոգություններով և ենթակառուցվածքների ու ընդունման նորություններով։ Օրը նշանավորվել է կառուցվածքային և կարգավորող փոփոխություններով։",
     "items": [
       {
-        "headline": "Bitcoin ETF-ները գրանցել են հոսքերի հինգօրյա շարք",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են 227 միլիոն դոլարի ներհոսք՝ BTC-ի 65,000 դոլարից բարձրացումով, ինչը նրանց ամենաերկար շահող շարքն է մայիսի սկզբից ի վեր։",
-        "link": "https://cointelegraph.com/news/bitcoin-etfs-five-day-inflow-streak-btc-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin ETFs post five-day inflow streak, longest since May",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-price-remains-above-15k-and-keeps-on-testing-the-16k-mark.png"
-      },
-      {
-        "headline": "CLARITY օրենքը մոտենում է Սենատի քվեարկությանը",
-        "summary": "CLARITY օրենքը մտել է վճռորոշ շաբաթվա մեջ, քանի որ Սենատը մոտենում է օգոստոսյան արձակուրդին՝ ուժեղացնելով ճնշումը օրենսդիրների վրա։",
-        "link": "https://news.bitcoin.com/critical-week-clarity-act-enters-18-day-senate-window-before-august-recess/",
-        "source": "Bitcoin News",
-        "enTitle": "Critical Week: CLARITY Act Enters 18-Day Senate Window Before August Recess",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/congress-clarity-act-critical-week-768x432.jpg"
-      },
-      {
-        "headline": "Լոնդոնի ֆոնդային բորսան նախատեսում է գիշերային առևտրի հարթակ",
-        "summary": "Լոնդոնի ֆոնդային բորսան նախատեսում է գիշերային հարթակ՝ ընդլայնելու առևտրային ժամերը՝ 24/7 crypto հարթակների մրցակցության պայմաններում։",
-        "link": "https://www.theblock.co/post/409021/london-stock-exchange-plans-extended-trading-hours?utm_source=rss&utm_medium=rss",
+        "headline": "Augustus-ը 180 միլիոն դոլար է հավաքել",
+        "summary": "Augustus-ը հավաքել է 180 միլիոն դոլար Series B ֆինանսավորման փուլում՝ 1 միլիարդ դոլար գնահատմամբ՝ ստեղծելու «Գլոբալ դոլարային բանկ»։",
+        "link": "https://www.theblock.co/post/409119/augustus-raises-180-million-series-b-global-dollar-bank?utm_source=rss&utm_medium=rss",
         "source": "The Block",
-        "enTitle": "London Stock Exchange plans overnight venue to extend trading hours: FT",
-        "image": "https://www.tbstat.com/wp/uploads/2019/08/shutterstock_431001775-678x450.jpg"
+        "enTitle": "Augustus raises $180 million Series B at $1 billion valuation to build the ‘Global Dollar Bank’",
+        "image": "https://www.tbstat.com/wp/uploads/2025/01/20250102_USDC_News-800x450.jpg"
       },
       {
-        "headline": "Hut 8-ը Տեխասում AI վարձակալության պայմանագիր է կնքել",
-        "summary": "Hut 8-ը ստորագրել է երկրորդ 15-ամյա վարձակալության պայմանագիր Տեխասի իր Beacon Point համալսարանում 352 մեգավատ AI հզորության համար, ինչը ցույց է տալիս Bitcoin մայնորների անցումը դեպի տվյալների կենտրոնների երկարաժամկետ պայմանագրեր։",
-        "link": "https://news.bitcoin.com/hut-8-secures-9-8-billion-texas-ai-lease-as-bitcoin-miners-pivot-to-compute/",
-        "source": "Bitcoin News",
-        "enTitle": "Hut 8 Secures $9.8 Billion Texas AI Lease as Bitcoin Miners Pivot to Compute",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/hut-8-secures-9-8-billion-texas-ai-lease-as-bitcoin-miners-pivot-to-compute-768x432.jpg"
+        "headline": "Galaxy-ն ֆոնդ է ստեղծել Bitcoin-ի համար",
+        "summary": "Galaxy-ն ստեղծել է 5 միլիոն դոլարի ֆոնդ՝ Bitcoin-ը քվանտային հաշվարկների սպառնալիքներից պաշտպանելու համար։",
+        "link": "https://www.coindesk.com/tech/2026/07/21/galaxy-sets-up-usd5-million-fund-to-help-shield-bitcoin-against-quantum-computing-threats",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/e660c532346d919f78f3c393c6d9e50cfb205d01-3840x2160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Grayscale-ը Worldcoin ETF-ի համար S-1 է ներկայացրել SEC",
-        "summary": "Grayscale-ը ներկայացրել է S-1 փաստաթուղթ ԱՄՆ-ում առաջին Worldcoin ETF-ի համար՝ ընդլայնելով իր crypto-ի հետ կապված բորսայական ապրանքների շարքը Bitcoin-ից և Ether-ից դուրս։",
-        "link": "https://cointelegraph.com/news/grayscale-files-s-1-for-worldcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "BIS-ը նախազգուշացնում է stablecoin-ների մասին",
+        "summary": "BIS-ը նախազգուշացրել է, որ stablecoin-ները կարող են թուլացնել կապիտալի վերահսկողությունը զարգացող շուկաներում։",
+        "link": "https://cointelegraph.com/news/bis-study-says-stablecoins-bypass-capital-controls-more-easily-than-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Grayscale files S-1 for first US Worldcoin ETF",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/worldcoin.jpg"
+        "enTitle": "BIS warns stablecoins could weaken capital controls in emerging markets",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-significance-of-bis-statement-that-fiat-and-stablecoins-can-co-exist.jpg"
       },
       {
-        "headline": "FTX-ը սկսում է 900 միլիոն դոլարի վճարումները",
-        "summary": "FTX-ը սկսում է 900 միլիոն դոլարի վճարումները, քանի որ 45 երկրների պարտատերերը կարող են կորցնել իրենց պահանջները 6 ամսվա ընթացքում, եթե չկատարեն հունիսի 16-ի պահանջները։",
-        "link": "https://cryptoslate.com/ftx-begins-900m-payout-as-creditors-in-45-jurisdictions-could-lose-their-claims-within-6-months/",
-        "source": "CryptoSlate",
-        "enTitle": "FTX begins $900M payout as creditors in 45 countries could lose their claims within 6 months",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/ftx-bankruptcy-payout-vault-creditor-claims.jpg"
+        "headline": "Jack Mallers-ը հեռանում է Twenty One Capital-ից",
+        "summary": "Jack Mallers-ը հրաժարական է տվել Twenty One Capital-ի գործադիր տնօրենի պաշտոնից, քանի որ Tether-ի Bitcoin-ի միաձուլման ծրագրերը ձախողվել են։",
+        "link": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses",
+        "source": "Decrypt",
+        "enTitle": "Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-20-gID_7.png@png"
+      },
+      {
+        "headline": "Telegram-ը կգործարկի կրիպտո դրամապանակ",
+        "summary": "Telegram-ը նախատեսում է գործարկել ոչ կաստոդիալ կրիպտո դրամապանակի պատմության մեջ ամենամեծ տարածումը։",
+        "link": "https://www.theblock.co/post/409099/telegram-plans-largest-rollout-non-custodial-crypto-wallet-in-history?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Telegram plans ‘largest rollout of a non-custodial crypto wallet in human history’",
+        "image": "https://www.tbstat.com/wp/uploads/2019/08/shutterstock_1022060599-675x450.jpg"
+      },
+      {
+        "headline": "Ռուսաստանը կրիպտո շուկայի օրենք է ընդունել",
+        "summary": "Ռուսաստանի խորհրդարանն ընդունել է կրիպտո շուկայի օրենք՝ մանրածախ ներդրողների համար տարեկան 3,800 դոլարի սահմանաչափով։",
+        "link": "https://www.coindesk.com/policy/2026/07/21/russia-s-parliament-passes-crypto-market-law-rules-to-take-effect-sept-1",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Russia’s parliament passes crypto market law with $3,800 annual cap for retail investors",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/58e0c95c5b0f73d0d0007ecd7f18d3a3b1e6a13d-3992x2242.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
