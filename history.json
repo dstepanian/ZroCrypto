@@ -1612,7 +1612,7 @@
   },
   {
     "date": "2026-07-22",
-    "ts": 1784707769224,
+    "ts": 1784740077384,
     "fng": {
       "value": 33,
       "label": "Fear",
@@ -1622,64 +1622,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 66000,
-        "change24h": -0.2393085806553803
+        "price": 66202,
+        "change24h": -0.40290104801778126
       },
       {
         "label": "Ethereum",
-        "price": 1919.51,
-        "change24h": -0.6721455041191766
+        "price": 1947.6,
+        "change24h": 1.0897503067210463
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ներհոսքերի շարունակությամբ և կարգավորող մարմինների ուշադրության կենտրոնում գտնվող զարգացումներով։ Կարգավորման հարցերը, հատկապես ԱՄՆ-ում և Մեծ Բրիտանիայում, շարունակում են մնալ օրակարգում, մինչդեռ նորարարությունները խոստանում են ավելի լայն տարածում։",
+    "overview": "Օրը նշանավորվեց կրիպտո ոլորտում կարգավորող և օրենսդրական զարգացումներով, հատկապես ԱՄՆ-ում, ինչպես նաև DeFi հատվածի համար նախազգուշացումներով ինչպես ԱՄՆ, այնպես էլ միջազգային մարմինների կողմից։ Ինստիտուցիոնալ որդեգրումը նույնպես նոր առաջընթաց գրանցեց։",
     "items": [
       {
-        "headline": "Bitcoin ETF-ների ներհոսքը շարունակվում է",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները վեց օր շարունակ գրանցել են ներհոսքեր՝ ավելացնելով 203 միլիոն դոլար։",
-        "link": "https://cointelegraph.com/news/bitcoin-etfs-203-million-inflow-streak-six-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "SEC-ը և Coinbase-ը հաշտության համաձայնագիր կնքեցին",
+        "summary": "SEC-ը և Coinbase-ը հաշտության համաձայնագիր կնքեցին՝ դրանով իսկ ավարտելով գործակալության կողմից տվյալների հարցումների շուրջ տարիներ տևած իրավական վեճը։",
+        "link": "https://www.theblock.co/post/409437/sec-reaches-settlement-coinbase-over-records-requests-gensler-era?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "SEC reaches settlement with Coinbase over records requests from Gensler era",
+        "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Coinbase_News_2-800x450.jpg"
+      },
+      {
+        "headline": "Սենատը ներկայացրեց Clarity Act-ի նոր տարբերակը",
+        "summary": "ԱՄՆ Սենատը հրապարակել է Clarity Act-ի վերջին տեքստը, որը ներառում է ծրագրային ապահովման մշակողների պաշտպանություն և էթիկայի դրույթ՝ մինչև 2029 թվականը գործողության ժամկետով։",
+        "link": "https://www.theblock.co/post/409442/senate-releases-latest-clarity-act-software-developer-protections-ethics-provision-sunset-date-2029?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Senate releases latest version of Clarity Act including software developer protections and ethics provision with ‘sunset’ date in 2029",
+        "image": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-800x450.jpg"
+      },
+      {
+        "headline": "BitGo-ն և OTC Markets-ը կապահովեն թոքենացված արժեթղթերի հասանելիություն",
+        "summary": "BitGo-ն և OTC Markets-ը նախատեսում են համագործակցել՝ ապահովելու թոքենացված արժեթղթերի հասանելիություն ավելի քան 150 բրոքեր-դիլերների համար՝ օգտագարծելով BitGo-ի պահպանման ենթակառուցվածքը։",
+        "link": "https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin ETFs extend inflow streak to six days with $203M added",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-etf-infrastructure-investment-1.jpg"
+        "enTitle": "BitGo, OTC Markets plan tokenized securities access for broker-dealers",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/handshake-agreement-partnership-merger.png"
       },
       {
-        "headline": "BIS-ը զգուշացնում է stablecoin-ների մասին",
-        "summary": "Միջազգային հաշվարկների բանկը (BIS) զգուշացնում է, որ USD stablecoin-ները կարող են խուսափել կապիտալի վերահսկողությունից՝ մարտահրավեր նետելով ավանդական շուկայի կանոնակարգերին։",
-        "link": "https://www.theblock.co/post/409193/bis-warns-stablecoins-capital-controls?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations",
-        "image": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Stablecoins_News-800x450.jpg"
-      },
-      {
-        "headline": "Մեծ Բրիտանիան ուսումնասիրում է կրիպտո փոխանցումների արգելքները",
-        "summary": "Մեծ Բրիտանիայի օրենսդիրները հետաքննություն են սկսել բանկային սահմանափակումների վերաբերյալ, որոնք ազդում են կրիպտո ընկերությունների և նրանց հաճախորդների վրա՝ ուսումնասիրելով փոխանցումների 40% արգելքները։",
-        "link": "https://news.bitcoin.com/uk-lawmakers-probe-40-crypto-transfer-blocks-as-banking-scrutiny-widens/",
-        "source": "Bitcoin News",
-        "enTitle": "UK Lawmakers Probe 40% Crypto Transfer Blocks as Banking Scrutiny Widens",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/uk-lawmakers-probe-40-crypto-transfer-blocks-as-banking-scrutiny-widens-768x432.jpg"
-      },
-      {
-        "headline": "Digital Chamber-ը դատի է տվել Իլինոյսին",
-        "summary": "Digital Chamber կրիպտո լոբբիստական խումբը դատի է տվել Իլինոյս նահանգին՝ արգելափակելու թվային ակտիվների նոր հարկը։",
-        "link": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
+        "headline": "SEC-ի Peirce-ը զգուշացնում է DeFi պլատֆորմներին",
+        "summary": "SEC-ի հանձնակատար Հեսթեր Փիրսը զգուշացրել է, որ որոշ DeFi պահոցներ և onchain վարկավորում կարող են ընկնել արժեթղթերի մասին օրենքների տակ՝ կախված դրանց կառուցվածքից։",
+        "link": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Crypto lobby group Digital Chamber sues Illinois to block digital asset tax",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f541dec5f8defc49e838f4bdf43486810a8d38ad-3465x2131.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ddfd06ec680c813ea4ac27abca23ed850fa0990a-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Թրամփի կողմից աջակցվող կրիպտո էթիկայի կանոնը",
-        "summary": "Դոնալդ Թրամփի կողմից հաստատված կրիպտո էթիկայի նոր կանոնը Դատական դեպարտամենտին (DOJ) է հանձնում կիրարկումը և արգելում դաշնային պաշտոնյաներին թողարկել կրիպտոարժույթներ։",
-        "link": "https://www.theblock.co/post/409173/trump-backed-crypto-ethics-rule-doj-enforcement-prohibits-federal-officials-issuing-cryptocurrencies?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Trump-backed crypto ethics rule puts DOJ in charge of enforcement, prohibits federal officials from issuing cryptocurrencies: sources",
-        "image": "https://www.tbstat.com/wp/uploads/2025/05/20250523_DJT-3-800x450.jpg"
-      },
-      {
-        "headline": "Telegram-ը կրիպտո դրամապանակ կառաջարկի",
-        "summary": "Pavel Durov-ը ցանկանում է մեկ միլիարդ Telegram օգտատերերի տրամադրել կրիպտո դրամապանակ՝ խոստանալով ակնթարթային և զրոյական վճարներով կրիպտո գործարքներ։",
-        "link": "https://decrypt.co/374001/pavel-durov-telegram-crypto-wallet-billion-users",
+        "headline": "FATF-ը կոչ է անում կարգավորել DeFi-ի կենտրոնացված տարրերը",
+        "summary": "FATF-ը հայտարարել է, որ DeFi-ում հաճախ պահպանվում են կենտրոնացված տարրեր, որոնք պետք է կարգավորվեն, և զգուշացրել է չհամապատասխանող պլատֆորմների արգելքների մասին։",
+        "link": "https://decrypt.co/374041/centralized-elements-frequently-persist-in-defi-and-should-be-regulated-fatf",
         "source": "Decrypt",
-        "enTitle": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/telegram-decrypt-style-02-gID_7.png@png"
+        "enTitle": "Centralized Elements 'Frequently Persist' in DeFi and Should Be Regulated: FATF",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/fatf-decrypt-style-1-gID_7.jpg@png"
       }
     ]
   }
