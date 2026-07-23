@@ -1677,7 +1677,7 @@
   },
   {
     "date": "2026-07-23",
-    "ts": 1784794384965,
+    "ts": 1784826629289,
     "fng": {
       "value": 31,
       "label": "Fear",
@@ -1687,64 +1687,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 65479,
-        "change24h": -0.7531212631380091
+        "price": 64716,
+        "change24h": -2.276947461816823
       },
       {
         "label": "Ethereum",
-        "price": 1917.64,
-        "change24h": -0.09047673645453047
+        "price": 1885.28,
+        "change24h": -3.2364103959254447
       }
     ],
-    "overview": "Օրը նշանավորվեց կրիպտոարժույթների ոլորտում ինստիտուցիոնալ նշանակալի քայլերով, հատկապես Հարավային Կորեայում, ինչպես նաև ԱՄՆ-ում շարունակվող կարգավորող բանավեճերով և DeFi-ում անվտանգության նկատելի միջադեպերով։",
+    "overview": "Շուկան այսօր բնութագրվում է ինստիտուցիոնալ խաղացողների ակտիվությամբ՝ ուղղված Bitcoin-ի անվտանգության ամրապնդմանը և կարգավորող շրջանակների աջակցությանը։ Միաժամանակ, նկատվում են նորարարություններ DeFi-ում և զգուշացումներ կարգավորող մարմինների կողմից։",
     "items": [
       {
-        "headline": "Mirae Asset-ը դարձավ Korbit-ի խոշորագույն բաժնետերը",
-        "summary": "Հարավային Կորեայի Mirae Asset Consulting-ը ավարտել է Korbit կրիպտո փոխանակման հարթակի ձեռքբերումը՝ դառնալով նրա խոշորագույն բաժնետերը։",
-        "link": "https://cointelegraph.com/news/mirae-asset-korbit-acquisition-largest-shareholder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Mirae Asset completes Korbit acquisition, becomes largest shareholder",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-overview-of-the-latest-crypto-developments-from-south-korea.jpg"
-      },
-      {
-        "headline": "Bitcoin ETF-ները մոտենում են $1 միլիարդի ներհոսքի",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները յոթ օր անընդմեջ գրանցել են ներհոսքեր՝ ընդհանուր գումարը հասցնելով գրեթե $1 միլիարդի։",
-        "link": "https://cointelegraph.com/markets/bitcoin-etfs-1-billion-7-session-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin ETFs approach $1B in 7-session inflow run",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf.jpg"
-      },
-      {
-        "headline": "CLARITY Act-ի նոր նախագիծը արգելում է պաշտոնյաներին կրիպտո թոքեններ ունենալ",
-        "summary": "ԱՄՆ Սենատի հանրապետականները հրապարակել են CLARITY Act-ի թարմացված տարբերակը, որն արգելում է պաշտոնյաներին, ներառյալ նախագահներին, թողարկել կամ նույնիսկ պահել կրիպտո թոքեններ։",
-        "link": "https://cryptoslate.com/new-clarity-act-update-bans-officials-including-presidents-from-issuing-crypto/",
+        "headline": "Bitcoin-ի անվտանգությունը քվանտային սպառնալիքներից",
+        "summary": "BlackRock-ը, Coinbase-ը և Strategy-ն այլ ընկերությունների հետ միասին 15 միլիոն դոլար են հատկացրել Bitcoin-ը քվանտային հաշվարկների սպառնալիքներից պաշտպանելու համար։",
+        "link": "https://cryptoslate.com/460-billion-bitcoin-risk-draws-blackrock-coinbase-and-strategy-into-15m-quantum-computing-defense-push/",
         "source": "CryptoSlate",
-        "enTitle": "New CLARITY Act update bans officials including presidents from issuing or even holding crypto tokens",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/clarity-ban-token.jpg"
+        "enTitle": "$460 billion Bitcoin risk draws BlackRock, Coinbase and Strategy into $15M quantum defense mission",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bitcoin-quantum-threat-shield-institutional-defense.jpg"
       },
       {
-        "headline": "Հաքերները գողացել են $31.6 միլիոն կրիպտո կամուրջներից",
-        "summary": "Հաքերները յոթ ժամվա ընթացքում երկու կրիպտո կամուրջների վրա հարձակումների արդյունքում գողացել են $31.6 միլիոն արժողությամբ միջոցներ, ներառյալ AFX Trade-ից $24.15 միլիոնը։",
-        "link": "https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Goldman Sachs-ի աջակցությունը CLARITY Act-ին",
+        "summary": "Goldman Sachs-ի գործադիր տնօրենը հայտարարել է CLARITY Act օրինագծին իր աջակցության մասին՝ չնայած բանկային ոլորտի մտահոգություններին stablecoin-ների վերաբերյալ դրույթների շուրջ։",
+        "link": "https://cointelegraph.com/news/goldman-sachs-ceo-clarity-act-stablecoin-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Hackers steal $31.6M in 2 crypto bridge attacks within 7 hours",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hack.jpg"
+        "enTitle": "Goldman Sachs CEO backs ‘not perfect’ CLARITY Act as vote expected soon",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-goldman-sachs-and-crypto-recap.jpg"
       },
       {
-        "headline": "S&P-ն և Pantera-ն գործարկում են նոր կրիպտո ինդեքս",
-        "summary": "S&P Dow Jones Indices-ը և Pantera Capital-ը ներկայացրել են նոր թվային ակտիվների ինդեքս, որը հիմնված է եկամուտների, օգտագործման և տնտեսական ակտիվության վրա։",
-        "link": "https://news.bitcoin.com/sp-and-pantera-launch-new-crypto-index-with-holdings-in-ether-solana-bnb-and-hype/",
+        "headline": "BitMEX բորսայի փակումը",
+        "summary": "Կրիպտոարժույթների BitMEX բորսան հայտարարել է 2026 թվականի սեպտեմբերի 23-ին իր գործունեության մշտական դադարեցման մասին։",
+        "link": "https://news.bitcoin.com/end-of-an-era-bitmex-announcing-full-shutdown-as-traders-race-to-withdraw-funds/",
         "source": "Bitcoin News",
-        "enTitle": "S&P and Pantera Launch New Crypto Index With Holdings in Ether, Solana, BNB and HYPE",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/sp-and-pantera-launch-3-part-crypto-index-to-separate-adoption-from-speculation-768x432.jpg"
+        "enTitle": "BitMEX’s Final Countdown: What the Shutdown Means and When You Should Withdraw",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2020/10/CNwxY4ER-open-interest-on-bitmex-drops-16-investors-withdraw-37000-btc-in-less-than-24-hours-768x432.jpg"
       },
       {
-        "headline": "Kakao-ն և Circle-ը ուսումնասիրում են won stablecoin-ի վճարումները",
-        "summary": "Kakao Group-ը և Circle-ը ստորագրել են փոխըմբռնման հուշագիր՝ ուսումնասիրելու won stablecoin-ի վճարումների, դրամական փոխանցումների և թոքենացված ֆինանսական ծառայությունների ենթակառուցվածքը։",
-        "link": "https://cointelegraph.com/news/kakao-circle-won-stablecoin-payment-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Kakao taps Circle to explore won stablecoin payment infrastructure",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-staking-lending-service-1.png"
+        "headline": "Coinbase-ը թույլ է տալիս AI վճարումներ",
+        "summary": "Coinbase Business օգտատերերն այժմ կարող են ընդունել վճարումներ AI գործակալներից՝ x402 արձանագրության միջոցով, ինչը բորսայի համար «ամենահամոզիչ խաղադրույքն» է։",
+        "link": "https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Coinbase's corporate customers can now accept payments from AI agents",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/01b078cd684ca9805f71cae842b6ed11cbf91ed4-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Uniswap-ը խորացնում է թոքենիզացված ակտիվները",
+        "summary": "Uniswap-ը ներկայացրել է թույլտվություն ունեցող առևտրային պուլեր՝ Superstate-ի, Securitize-ի և Dowgo-ի հետ համատեղ՝ կարգավորվող ֆոնդերին հնարավորություն տալով առևտուր անել Uniswap-ում։",
+        "link": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/360fef2ec03b8a5acf252fa76d45c375526936f8-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "SEC-ի զգուշացումը կրիպտո պահոցների մասին",
+        "summary": "SEC-ի հանձնակատար Հեսթեր Փիրսը զգուշացրել է, որ որոշ կրիպտո պահոցներ և onchain վարկավորման ռազմավարություններ կարող են ենթարկվել դաշնային արժեթղթերի օրենքներին։",
+        "link": "https://cryptoslate.com/131-billion-crypto-vault-boom-will-test-the-limits-of-secs-friendlier-crypto-stance/",
+        "source": "CryptoSlate",
+        "enTitle": "$131 billion crypto vault boom will test the limits of SEC’s friendlier crypto stance",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/sec-crypto-vaults-131-billion-assets.jpg"
       }
     ]
   }
