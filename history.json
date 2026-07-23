@@ -1674,5 +1674,78 @@
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/fatf-decrypt-style-1-gID_7.jpg@png"
       }
     ]
+  },
+  {
+    "date": "2026-07-23",
+    "ts": 1784794384965,
+    "fng": {
+      "value": 31,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 65479,
+        "change24h": -0.7531212631380091
+      },
+      {
+        "label": "Ethereum",
+        "price": 1917.64,
+        "change24h": -0.09047673645453047
+      }
+    ],
+    "overview": "Օրը նշանավորվեց կրիպտոարժույթների ոլորտում ինստիտուցիոնալ նշանակալի քայլերով, հատկապես Հարավային Կորեայում, ինչպես նաև ԱՄՆ-ում շարունակվող կարգավորող բանավեճերով և DeFi-ում անվտանգության նկատելի միջադեպերով։",
+    "items": [
+      {
+        "headline": "Mirae Asset-ը դարձավ Korbit-ի խոշորագույն բաժնետերը",
+        "summary": "Հարավային Կորեայի Mirae Asset Consulting-ը ավարտել է Korbit կրիպտո փոխանակման հարթակի ձեռքբերումը՝ դառնալով նրա խոշորագույն բաժնետերը։",
+        "link": "https://cointelegraph.com/news/mirae-asset-korbit-acquisition-largest-shareholder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Mirae Asset completes Korbit acquisition, becomes largest shareholder",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-overview-of-the-latest-crypto-developments-from-south-korea.jpg"
+      },
+      {
+        "headline": "Bitcoin ETF-ները մոտենում են $1 միլիարդի ներհոսքի",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները յոթ օր անընդմեջ գրանցել են ներհոսքեր՝ ընդհանուր գումարը հասցնելով գրեթե $1 միլիարդի։",
+        "link": "https://cointelegraph.com/markets/bitcoin-etfs-1-billion-7-session-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin ETFs approach $1B in 7-session inflow run",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf.jpg"
+      },
+      {
+        "headline": "CLARITY Act-ի նոր նախագիծը արգելում է պաշտոնյաներին կրիպտո թոքեններ ունենալ",
+        "summary": "ԱՄՆ Սենատի հանրապետականները հրապարակել են CLARITY Act-ի թարմացված տարբերակը, որն արգելում է պաշտոնյաներին, ներառյալ նախագահներին, թողարկել կամ նույնիսկ պահել կրիպտո թոքեններ։",
+        "link": "https://cryptoslate.com/new-clarity-act-update-bans-officials-including-presidents-from-issuing-crypto/",
+        "source": "CryptoSlate",
+        "enTitle": "New CLARITY Act update bans officials including presidents from issuing or even holding crypto tokens",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/clarity-ban-token.jpg"
+      },
+      {
+        "headline": "Հաքերները գողացել են $31.6 միլիոն կրիպտո կամուրջներից",
+        "summary": "Հաքերները յոթ ժամվա ընթացքում երկու կրիպտո կամուրջների վրա հարձակումների արդյունքում գողացել են $31.6 միլիոն արժողությամբ միջոցներ, ներառյալ AFX Trade-ից $24.15 միլիոնը։",
+        "link": "https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Hackers steal $31.6M in 2 crypto bridge attacks within 7 hours",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hack.jpg"
+      },
+      {
+        "headline": "S&P-ն և Pantera-ն գործարկում են նոր կրիպտո ինդեքս",
+        "summary": "S&P Dow Jones Indices-ը և Pantera Capital-ը ներկայացրել են նոր թվային ակտիվների ինդեքս, որը հիմնված է եկամուտների, օգտագործման և տնտեսական ակտիվության վրա։",
+        "link": "https://news.bitcoin.com/sp-and-pantera-launch-new-crypto-index-with-holdings-in-ether-solana-bnb-and-hype/",
+        "source": "Bitcoin News",
+        "enTitle": "S&P and Pantera Launch New Crypto Index With Holdings in Ether, Solana, BNB and HYPE",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/sp-and-pantera-launch-3-part-crypto-index-to-separate-adoption-from-speculation-768x432.jpg"
+      },
+      {
+        "headline": "Kakao-ն և Circle-ը ուսումնասիրում են won stablecoin-ի վճարումները",
+        "summary": "Kakao Group-ը և Circle-ը ստորագրել են փոխըմբռնման հուշագիր՝ ուսումնասիրելու won stablecoin-ի վճարումների, դրամական փոխանցումների և թոքենացված ֆինանսական ծառայությունների ենթակառուցվածքը։",
+        "link": "https://cointelegraph.com/news/kakao-circle-won-stablecoin-payment-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Kakao taps Circle to explore won stablecoin payment infrastructure",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-staking-lending-service-1.png"
+      }
+    ]
   }
 ]
