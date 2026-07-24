@@ -1747,5 +1747,78 @@
         "image": "https://cryptoslate.com/wp-content/uploads/2026/07/sec-crypto-vaults-131-billion-assets.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-24",
+    "ts": 1784880527988,
+    "fng": {
+      "value": 28,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 65399,
+        "change24h": -0.06722593519275323
+      },
+      {
+        "label": "Ethereum",
+        "price": 1893.03,
+        "change24h": -1.218247437117415
+      }
+    ],
+    "overview": "Շուկան արձանագրել է Bitcoin ETF-ներից որոշակի արտահոսք, սակայն ընդհանուր առմամբ նկատվել են զգալի զարգացումներ ինստիտուցիոնալ ընդունման և տարբեր երկրներում կարգավորման ոլորտում։",
+    "items": [
+      {
+        "headline": "Bitcoin ETF-ներից արտահոսք",
+        "summary": "ԱՄՆ-ում գրանցված spot Bitcoin ETF-ները յոթ օր շարունակվող ներհոսքերից հետո արձանագրել են իրենց առաջին զուտ արտահոսքը՝ կազմելով 225 միլիոն դոլար։",
+        "link": "https://cointelegraph.com/markets/bitcoin-etfs-225-million-outflow-end-7-day-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin ETFs snap seven-day inflow streak with $225M in outflows",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-market-falling-drop-bitcoin.png"
+      },
+      {
+        "headline": "Ripple-ի RLUSD stablecoin-ի ընդլայնում",
+        "summary": "Ripple-ը գործարկել է ինստիտուցիոնալ մայնինգի հարթակ և ավելացրել RLUSD-ը Notabene-ի համապատասխանության ցանցին՝ ընդլայնելով դրա հասանելիությունը ֆինանսական հաստատությունների համար։",
+        "link": "https://www.coindesk.com/business/2026/07/24/ripple-s-rlusd-gets-two-boosts-as-transfer-volume-drops-25",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Ripple’s RLUSD gets two boosts as transfer volume drops 25%",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/08996a3dca840a6a70f04df3ee9284ea39cc0a81-3579x2013.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Ճապոնիայում առաջին Spot Bitcoin ETF",
+        "summary": "Ճապոնիան կարող է թույլատրել իր առաջին spot Bitcoin ETF-ի ցուցակագրումը 2028 թվականին, քանի որ կարգավորող մարմինները փոխում են թվային ակտիվների նկատմամբ վերաբերմունքը։",
+        "link": "https://news.bitcoin.com/japans-first-spot-bitcoin-etf-could-arrive-in-2028-as-rules-evolve/",
+        "source": "Bitcoin News",
+        "enTitle": "Japan’s First Spot Bitcoin ETF Could Arrive in 2028 as Rules Evolve",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/japans-first-spot-bitcoin-etf-could-arrive-in-2028-as-rules-evolve-768x432.jpg"
+      },
+      {
+        "headline": "Արգենտինայի կապիտալի շուկայի բարեփոխում",
+        "summary": "Արգենտինան առաջարկել է լայնածավալ ապակարգավորման օրինագիծ՝ արդիականացնելու կապիտալի շուկաները՝ ներառելով կրիպտո և բլոկչեյն տեխնոլոգիաները։",
+        "link": "https://news.bitcoin.com/argentina-proposes-sweeping-deregulation-bill-to-modernize-capital-markets-with-crypto-and-blockchain/",
+        "source": "Bitcoin News",
+        "enTitle": "Argentina Proposes Sweeping Deregulation Bill to Modernize Capital Markets With Crypto and Blockchain",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/deregulation-draft-768x432.jpg"
+      },
+      {
+        "headline": "Goldman Sachs-ը աջակցում է CLARITY Act-ին",
+        "summary": "Goldman Sachs-ի գործադիր տնօրեն Դեյվիդ Սողոմոնը կոչ է արել օրենսդիրներին առաջ մղել CLARITY Act-ը՝ աջակցելով կրիպտո շուկայի կարգավորմանը։",
+        "link": "https://news.bitcoin.com/goldman-sachs-ceo-backs-clarity-act-as-senate-divides-over-crypto-bill/",
+        "source": "Bitcoin News",
+        "enTitle": "Goldman Sachs CEO Backs CLARITY Act as Senate Divides Over Crypto Bill",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/goldman-sachs-ceo-clarity-act-768x432.jpg"
+      },
+      {
+        "headline": "BitMEX-ի փակում և դատական հայց",
+        "summary": "BitMEX-ը դատական հայցի է ենթարկվել 623 BTC-ի համար՝ իր փակման մասին հայտարարության օրը, ինչը մատնանշում է կրիպտո փոխանակումների համախմբումը։",
+        "link": "https://cointelegraph.com/news/bitmex-liquidation-fraud-lawsuit-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "BitMEX hit with 623 BTC lawsuit on day it announces shutdown",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-1.png"
+      }
+    ]
   }
 ]
