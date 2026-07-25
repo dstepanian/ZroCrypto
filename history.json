@@ -1823,7 +1823,7 @@
   },
   {
     "date": "2026-07-25",
-    "ts": 1784965884306,
+    "ts": 1784997970661,
     "fng": {
       "value": 27,
       "label": "Fear",
@@ -1833,64 +1833,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63976,
-        "change24h": -2.0825569869910376
+        "price": 64148,
+        "change24h": 0.39094302023074745
       },
       {
         "label": "Ethereum",
-        "price": 1855.55,
-        "change24h": -1.7442437821921948
+        "price": 1866.52,
+        "change24h": 0.5668863993929182
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ԱՄՆ-ում կարգավորող օրենսդրության շուրջ շարունակվող բանավեճերով և խոշոր նախագծերի համար զգալի ֆինանսավորմամբ։ Մինչ Bitcoin ETF-ները գրանցել են արտահոսքեր, կրիպտոարժույթների ինտեգրումը հիմնական տեխնոլոգիաներին և AI-ին շարունակվում է։",
+    "overview": "Օրը նշանավորվել է կրիպտոարժույթների ոլորտում կարգավորող զարգացումներով և անվտանգության միջադեպերով։ Bitcoin ETF-ները զգալի արտահոսքեր են գրանցել, մինչդեռ խոշոր տեխնոլոգիական ընկերությունները շարունակում են ինտեգրել կրիպտոարժույթները։",
     "items": [
       {
-        "headline": "CLARITY Act-ը Սենատում անցնելու վերջնաժամկետի առաջ",
-        "summary": "ԱՄՆ Սենատը երկու շաբաթ ունի CLARITY Act-ը հաստատելու համար՝ մինչև օգոստոսյան արձակուրդը, քանի որ օրենսդրության ճակատագիրը վտանգված է էթիկական վեճերի պատճառով։",
-        "link": "https://news.bitcoin.com/clarity-act-has-two-weeks-to-clear-the-senate-or-risk-getting-lost-in-midterm-politics/",
-        "source": "Bitcoin News",
-        "enTitle": "CLARITY Act Has Two Weeks to Clear the Senate — Or Risk Getting Lost in Midterm Politics",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/clarity-act-congress-building-3-768x432.jpg"
+        "headline": "CLARITY Act-ի ընդունումը վտանգված է",
+        "summary": "ԱՄՆ Սենատում CLARITY Act-ի ընդունման հավանականությունը նվազել է՝ էթիկական վեճերի և ժամանակի սղության պատճառով։",
+        "link": "https://decrypt.co/374300/clarity-act-ethics-fight-shrinking-calendar-threaten-passage",
+        "source": "Decrypt",
+        "enTitle": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png"
       },
       {
-        "headline": "World Foundation-ը հավաքում է $52.5 միլիոն Pantera-ի գլխավորությամբ",
-        "summary": "Sam Altman-ի World Foundation-ը հավաքել է $52.5 միլիոն WLD թոքենների ռազմավարական վաճառքի միջոցով, որը գլխավորել է Pantera Capital-ը՝ World ID-ի գլոբալ ընդլայնման համար։",
-        "link": "https://news.bitcoin.com/sam-altmans-world-foundation-pulls-52-5m-as-pantera-backs-global-world-id-expansion/",
-        "source": "Bitcoin News",
-        "enTitle": "Sam Altman’s World Foundation Pulls $52.5M as Pantera Backs Global World ID Expansion",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/03/hhh7890000-768x432.png"
+        "headline": "Ethereum կամուրջների զգալի կորուստներ",
+        "summary": "Երկու Ethereum կամուրջներ մի քանի ժամվա ընթացքում կորցրել են 31.7 միլիոն դոլար, մինչդեռ երրորդ արձանագրությունը դադարեցրել է ստեյքինգը։",
+        "link": "https://cryptoslate.com/two-ethereum-bridges-lose-31-7m-within-hours-as-third-protocol-halts-staking/",
+        "source": "CryptoSlate",
+        "enTitle": "Two Ethereum bridges lose $31.7M within hours as third protocol halts staking",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/afx-verus-control-gate-featured.jpg"
       },
       {
-        "headline": "Bitcoin ETF-ները գրանցել են $225 միլիոնի արտահոսք",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են $225 միլիոնի զուտ արտահոսք՝ ընդհատելով յոթօրյա ներհոսքերի շարքը, որի մեծ մասը կազմել է BlackRock-ի IBIT-ը։",
+        "headline": "Samsung Wallet-ը կաջակցի stablecoin-ներին",
+        "summary": "Samsung-ը հայտարարել է, որ իր Samsung Wallet-ը կավելացնի stablecoin-ների, այդ թվում՝ USDC-ի աջակցությունը։",
+        "link": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
+        "source": "Decrypt",
+        "enTitle": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/samsung-galaxy-fold-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Triple-A-ի դրամապանակներից գողացվել է 9.7 միլիոն դոլար",
+        "summary": "Վճարային պլատֆորմ Triple-A-ի hot wallet-ներից գողացվել է ավելի քան 9.7 միլիոն դոլար՝ վեց բլոկչեյնների միջոցով։",
+        "link": "https://news.bitcoin.com/triple-a-hot-wallet-exploit-9-7-million-peckshield/",
+        "source": "Bitcoin News",
+        "enTitle": "Triple-A Hot Wallets Drained of $9.7 Million Across Six Chains: Here’s What Peckshield Found",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/summer-finance-pauses-vaults-after-65-4m-flash-loan-triggers-6m-loss-768x432.jpg"
+      },
+      {
+        "headline": "Bitcoin ETF-ների արտահոսքեր, Ether ETF-ների ներհոսքեր",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են 225 միլիոն դոլարի զուտ արտահոսք, մինչդեռ Ether ETF-ները շարունակում են ներհոսքեր գրանցել։",
         "link": "https://cryptoslate.com/blackrocks-ibit-accounted-for-90-of-a-225-million-bitcoin-etf-reversal-after-a-seven-day-buying-streak/",
         "source": "CryptoSlate",
         "enTitle": "BlackRock’s IBIT accounted for 90% of a $225 million Bitcoin ETF reversal after a seven-day buying streak",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/07/blackrock-ibit-outflow-pressure-bitcoin.jpg"
       },
       {
-        "headline": "Coinbase-ը թույլ է տալիս AI գործակալներին վճարել USDC-ով",
-        "summary": "Coinbase-ը հնարավորություն է տալիս ձեռնարկություններին ընդունել USDC վճարումներ անմիջապես AI գործակալներից՝ այն անվանելով «բարձր վստահության խաղադրույք» ապագա առևտրի վրա։",
-        "link": "https://news.bitcoin.com/coinbase-rolls-out-ai-agents-payment-for-businesses-in-usdc-calls-it-a-high-conviction-bet/",
-        "source": "Bitcoin News",
-        "enTitle": "Coinbase Rolls Out AI Agents Payment for Businesses in USDC, Calls it a ‘High-Conviction Bet’",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/coinbase-rolls-out-ai-agents-payment-for-business-in-usdc-calls-it-a-high-conviction-bet-768x432.jpg"
-      },
-      {
-        "headline": "ԵՄ-ն HTX բորսան ներառել է ռուսական պատժամիջոցների ցուցակում",
-        "summary": "Եվրոպական Միությունը HTX կրիպտոարժույթի բորսան ներառել է ռուսական պատժամիջոցների ցուցակում՝ մեղադրելով այն Ռուսաստանին կրիպտո ծառայություններ մատուցելու մեջ։",
+        "headline": "ԵՄ-ն պատժամիջոցներ է կիրառել HTX բորսայի նկատմամբ",
+        "summary": "Եվրոպական Միությունը HTX բորսան ներառել է ռուսական պատժամիջոցների ցանկում՝ Ռուսաստանին կրիպտո ակտիվների ծառայություններ մատուցելու համար։",
         "link": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
         "enTitle": "EU authorities include HTX exchange in Russian sanctions",
         "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-do-eus-new-sanctions-mean-for-russian-crypto-users-1.jpg"
-      },
-      {
-        "headline": "Samsung Wallet-ը կավելացնի stablecoin-ների աջակցություն",
-        "summary": "Samsung-ը ցուցադրել է իր Samsung Wallet-ի մոդելը, որը ներառում է Circle-ի USDC-ի աջակցություն, ինչը նշանակում է stablecoin-ների ինտեգրում իր հավելվածում։",
-        "link": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
-        "source": "Decrypt",
-        "enTitle": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/samsung-galaxy-fold-decrypt-style-gID_7.jpg@png"
       }
     ]
   }
