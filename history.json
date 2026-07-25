@@ -1820,5 +1820,78 @@
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/chapter-11-bankruptcy-1-768x432.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-25",
+    "ts": 1784965884306,
+    "fng": {
+      "value": 27,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 63976,
+        "change24h": -2.0825569869910376
+      },
+      {
+        "label": "Ethereum",
+        "price": 1855.55,
+        "change24h": -1.7442437821921948
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ԱՄՆ-ում կարգավորող օրենսդրության շուրջ շարունակվող բանավեճերով և խոշոր նախագծերի համար զգալի ֆինանսավորմամբ։ Մինչ Bitcoin ETF-ները գրանցել են արտահոսքեր, կրիպտոարժույթների ինտեգրումը հիմնական տեխնոլոգիաներին և AI-ին շարունակվում է։",
+    "items": [
+      {
+        "headline": "CLARITY Act-ը Սենատում անցնելու վերջնաժամկետի առաջ",
+        "summary": "ԱՄՆ Սենատը երկու շաբաթ ունի CLARITY Act-ը հաստատելու համար՝ մինչև օգոստոսյան արձակուրդը, քանի որ օրենսդրության ճակատագիրը վտանգված է էթիկական վեճերի պատճառով։",
+        "link": "https://news.bitcoin.com/clarity-act-has-two-weeks-to-clear-the-senate-or-risk-getting-lost-in-midterm-politics/",
+        "source": "Bitcoin News",
+        "enTitle": "CLARITY Act Has Two Weeks to Clear the Senate — Or Risk Getting Lost in Midterm Politics",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/clarity-act-congress-building-3-768x432.jpg"
+      },
+      {
+        "headline": "World Foundation-ը հավաքում է $52.5 միլիոն Pantera-ի գլխավորությամբ",
+        "summary": "Sam Altman-ի World Foundation-ը հավաքել է $52.5 միլիոն WLD թոքենների ռազմավարական վաճառքի միջոցով, որը գլխավորել է Pantera Capital-ը՝ World ID-ի գլոբալ ընդլայնման համար։",
+        "link": "https://news.bitcoin.com/sam-altmans-world-foundation-pulls-52-5m-as-pantera-backs-global-world-id-expansion/",
+        "source": "Bitcoin News",
+        "enTitle": "Sam Altman’s World Foundation Pulls $52.5M as Pantera Backs Global World ID Expansion",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/03/hhh7890000-768x432.png"
+      },
+      {
+        "headline": "Bitcoin ETF-ները գրանցել են $225 միլիոնի արտահոսք",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են $225 միլիոնի զուտ արտահոսք՝ ընդհատելով յոթօրյա ներհոսքերի շարքը, որի մեծ մասը կազմել է BlackRock-ի IBIT-ը։",
+        "link": "https://cryptoslate.com/blackrocks-ibit-accounted-for-90-of-a-225-million-bitcoin-etf-reversal-after-a-seven-day-buying-streak/",
+        "source": "CryptoSlate",
+        "enTitle": "BlackRock’s IBIT accounted for 90% of a $225 million Bitcoin ETF reversal after a seven-day buying streak",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/blackrock-ibit-outflow-pressure-bitcoin.jpg"
+      },
+      {
+        "headline": "Coinbase-ը թույլ է տալիս AI գործակալներին վճարել USDC-ով",
+        "summary": "Coinbase-ը հնարավորություն է տալիս ձեռնարկություններին ընդունել USDC վճարումներ անմիջապես AI գործակալներից՝ այն անվանելով «բարձր վստահության խաղադրույք» ապագա առևտրի վրա։",
+        "link": "https://news.bitcoin.com/coinbase-rolls-out-ai-agents-payment-for-businesses-in-usdc-calls-it-a-high-conviction-bet/",
+        "source": "Bitcoin News",
+        "enTitle": "Coinbase Rolls Out AI Agents Payment for Businesses in USDC, Calls it a ‘High-Conviction Bet’",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/coinbase-rolls-out-ai-agents-payment-for-business-in-usdc-calls-it-a-high-conviction-bet-768x432.jpg"
+      },
+      {
+        "headline": "ԵՄ-ն HTX բորսան ներառել է ռուսական պատժամիջոցների ցուցակում",
+        "summary": "Եվրոպական Միությունը HTX կրիպտոարժույթի բորսան ներառել է ռուսական պատժամիջոցների ցուցակում՝ մեղադրելով այն Ռուսաստանին կրիպտո ծառայություններ մատուցելու մեջ։",
+        "link": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "EU authorities include HTX exchange in Russian sanctions",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-do-eus-new-sanctions-mean-for-russian-crypto-users-1.jpg"
+      },
+      {
+        "headline": "Samsung Wallet-ը կավելացնի stablecoin-ների աջակցություն",
+        "summary": "Samsung-ը ցուցադրել է իր Samsung Wallet-ի մոդելը, որը ներառում է Circle-ի USDC-ի աջակցություն, ինչը նշանակում է stablecoin-ների ինտեգրում իր հավելվածում։",
+        "link": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
+        "source": "Decrypt",
+        "enTitle": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/samsung-galaxy-fold-decrypt-style-gID_7.jpg@png"
+      }
+    ]
   }
 ]
