@@ -1893,5 +1893,78 @@
         "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-do-eus-new-sanctions-mean-for-russian-crypto-users-1.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-26",
+    "ts": 1785053378935,
+    "fng": {
+      "value": 26,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 64308,
+        "change24h": 0.6346064922921748
+      },
+      {
+        "label": "Ethereum",
+        "price": 1879.49,
+        "change24h": 1.4546557709231862
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս խառը պատկեր՝ կարևոր զարգացումներով ինչպես ընդունման, այնպես էլ կարգավորման և անվտանգության ոլորտներում։ Մինչ որոշ հարթակներ ընդլայնում են իրենց ծառայությունները և նորարարություններ են ներմուծում, մյուսները բախվում են փակման կամ կարգավորող մարմինների պատժամիջոցների հետ։",
+    "items": [
+      {
+        "headline": "BitMart-ը կդադարեցնի գործունեությունը",
+        "summary": "Կրիպտո փոխանակման BitMart հարթակը հայտարարել է, որ կդադարեցնի իր գործունեությունը օգոստոսի 26-ից հետո՝ BMX թոքենի անկումից և օգտատերերի դուրսբերման ուշացումներից հետո։",
+        "link": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "BitMart to wind down exchange, end trading by Aug. 26",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/closed-exchange.jpg"
+      },
+      {
+        "headline": "ԵՄ-ն HTX-ը ներառել է Ռուսաստանի պատժամիջոցների ցանկում",
+        "summary": "Եվրոպական միությունը HTX կրիպտո հարթակը ներառել է Ռուսաստանի դեմ պատժամիջոցների ցանկում՝ արգելելով գործարքները օգոստոսի 23-ից։",
+        "link": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
+        "image": "https://www.tbstat.com/wp/uploads/2023/10/20231006_HTXImages_News4-800x450.png"
+      },
+      {
+        "headline": "Samsung Wallet-ը կավելացնի stablecoin-ներ",
+        "summary": "Samsung Wallet-ը կներառի բնիկ stablecoin-ներ, ինչը կարող է մեկ թոքենը դարձնել լռելյայն 800 միլիոն օգտատերերի համար։",
+        "link": "https://cryptoslate.com/samsung-wallets-stablecoin-plan-could-redraw-crypto-distribution-while-its-biggest-decisions-are-still-unannounced/",
+        "source": "CryptoSlate",
+        "enTitle": "Samsung Wallet is getting native stablecoins – and it could make one token the default for 800M users",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/samsung-wallet-stablecoin-issuer-network-custody-options.jpg"
+      },
+      {
+        "headline": "Գաղտնի ծառայությունը վերականգնել է $25 միլիոն կրիպտո",
+        "summary": "ԱՄՆ Գաղտնի ծառայությունը հինգ միջազգային խարդախության սխեմաների հետաքննության արդյունքում վերականգնել է ավելի քան 25 միլիոն դոլար կրիպտոարժույթ։",
+        "link": "https://news.bitcoin.com/the-secret-service-recovers-25-million-in-crypto-from-five-separate-investigations/",
+        "source": "Bitcoin News",
+        "enTitle": "The Secret Service Recovers $25 Million in Crypto From Five Separate Investigations",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/doj-case-768x432.jpg"
+      },
+      {
+        "headline": "Ethereum-ի կամուրջները կորցրել են $31.7 միլիոն",
+        "summary": "Երկու Ethereum կամուրջներ մի քանի ժամվա ընթացքում կորցրել են 31.7 միլիոն դոլար, մինչդեռ երրորդ արձանագրությունը դադարեցրել է staking-ը։",
+        "link": "https://cryptoslate.com/two-ethereum-bridges-lose-31-7m-within-hours-as-third-protocol-halts-staking/",
+        "source": "CryptoSlate",
+        "enTitle": "Two Ethereum bridges lose $31.7M within hours as third protocol halts staking",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/afx-verus-control-gate-featured.jpg"
+      },
+      {
+        "headline": "Sberbank-ը կստեղծի կրիպտո առևտրի ենթակառուցվածք",
+        "summary": "Ռուսաստանի խոշորագույն բանկը՝ Sberbank-ը, մինչև դեկտեմբեր նախատեսում է ստեղծել կրիպտո առևտրի ենթակառուցվածք։",
+        "link": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/c00d5f581af46430d49e6ab1ab92dae6b12abcf3-5625x3750.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
   }
 ]
