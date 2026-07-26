@@ -1896,7 +1896,7 @@
   },
   {
     "date": "2026-07-26",
-    "ts": 1785053378935,
+    "ts": 1785084550709,
     "fng": {
       "value": 26,
       "label": "Fear",
@@ -1906,64 +1906,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 64308,
-        "change24h": 0.6346064922921748
+        "price": 64757,
+        "change24h": 0.9186060900389635
       },
       {
         "label": "Ethereum",
-        "price": 1879.49,
-        "change24h": 1.4546557709231862
+        "price": 1917.65,
+        "change24h": 2.678263834791402
       }
     ],
-    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս խառը պատկեր՝ կարևոր զարգացումներով ինչպես ընդունման, այնպես էլ կարգավորման և անվտանգության ոլորտներում։ Մինչ որոշ հարթակներ ընդլայնում են իրենց ծառայությունները և նորարարություններ են ներմուծում, մյուսները բախվում են փակման կամ կարգավորող մարմինների պատժամիջոցների հետ։",
+    "overview": "Կրիպտոարժույթների շուկան այսօր նշանավորվել է մի շարք կարևոր իրադարձություններով, ներառյալ ինստիտուցիոնալ ընդունման զարգացումները և կարգավորող մարմինների գործողությունները:",
     "items": [
       {
-        "headline": "BitMart-ը կդադարեցնի գործունեությունը",
-        "summary": "Կրիպտո փոխանակման BitMart հարթակը հայտարարել է, որ կդադարեցնի իր գործունեությունը օգոստոսի 26-ից հետո՝ BMX թոքենի անկումից և օգտատերերի դուրսբերման ուշացումներից հետո։",
-        "link": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Sberbank-ը կգործարկի կրիպտո առևտրի ենթակառուցվածք",
+        "summary": "Ռուսաստանի խոշորագույն Sberbank բանկը մինչև դեկտեմբերի 1-ը նախատեսում է ստեղծել կրիպտոարժույթների առևտրի ենթակառուցվածք՝ երկրում շուկայի մասնակիցների համար կանոններ սահմանելու համար։",
+        "link": "https://cointelegraph.com/news/russias-sberbank-to-launch-crypto-trading-infrastructure-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "BitMart to wind down exchange, end trading by Aug. 26",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/closed-exchange.jpg"
+        "enTitle": "Russia’s Sberbank to launch crypto trading infrastructure this year",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/russia-bitcoin.png"
       },
       {
-        "headline": "ԵՄ-ն HTX-ը ներառել է Ռուսաստանի պատժամիջոցների ցանկում",
-        "summary": "Եվրոպական միությունը HTX կրիպտո հարթակը ներառել է Ռուսաստանի դեմ պատժամիջոցների ցանկում՝ արգելելով գործարքները օգոստոսի 23-ից։",
+        "headline": "Coinbase-ը ԱՄՆ-ում գործարկում է ֆյուչերսային պայմանագրեր",
+        "summary": "Coinbase-ը սկսել է առաջարկել ԱՄՆ-ում perpetual-style ֆյուչերսային պայմանագրեր իր CFTC-ի կողմից կարգավորվող դերիվատիվների բորսայում՝ սկսելով nano Bitcoin և Ethereum պայմանագրերից։",
+        "link": "https://cryptoslate.com/america-is-importing-cryptos-perpetual-futures-liquidation-engine/",
+        "source": "CryptoSlate",
+        "enTitle": "Multi-trillion-dollar offshore engine driving 90% of crypto trading arrives in America – and CME is suing to crush it",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/perpetual-futures-liquidation-engine-hero.jpg"
+      },
+      {
+        "headline": "Արգենտինան թույլ է տալիս աշխատավարձերը վճարել USD-ով",
+        "summary": "Արգենտինայի Կենտրոնական բանկը հաստատել է դոլարային աշխատավարձի հաշիվները, ինչը թույլ է տալիս արգենտինացիներին իրենց աշխատավարձերը ստանալ ԱՄՆ դոլարով։",
+        "link": "https://news.bitcoin.com/argentina-opens-the-door-to-usd-wages-as-central-bank-approves-dollar-salary-accounts/",
+        "source": "Bitcoin News",
+        "enTitle": "Argentina Opens the Door to USD Wages as Central Bank Approves Dollar Salary Accounts",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/argentinacentralbank-768x432.jpg"
+      },
+      {
+        "headline": "Chainlink-ի ընդունումը մեծանում է անվտանգության պատճառով",
+        "summary": "Chainlink-ը երկրորդ եռամսյակում ներգրավել է ավելի քան 7 միլիարդ դոլարի թոքենային արժեք իր cross-chain ենթակառուցվածքի վրա՝ կապված կամուրջների հաքերային հարձակումների հետ։",
+        "link": "https://cryptoslate.com/a-650-million-wave-of-bridge-hacks-just-triggered-a-7-billion-mass-migration-to-chainlink/",
+        "source": "CryptoSlate",
+        "enTitle": "A $650 million wave of bridge hacks just triggered a $7 billion mass migration to Chainlink",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/chainlink-ccip-wall-street-adoption-collage.jpg"
+      },
+      {
+        "headline": "ԵՄ-ն HTX-ը ներառել է Ռուսաստանի դեմ պատժամիջոցների ցուցակում",
+        "summary": "Եվրոպական միությունը HTX կրիպտո հարթակը ներառել է Ռուսաստանի դեմ պատժամիջոցների ցուցակում՝ արգելելով գործարքները օգոստոսի 23-ից։",
         "link": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss",
         "source": "The Block",
         "enTitle": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
         "image": "https://www.tbstat.com/wp/uploads/2023/10/20231006_HTXImages_News4-800x450.png"
       },
       {
-        "headline": "Samsung Wallet-ը կավելացնի stablecoin-ներ",
-        "summary": "Samsung Wallet-ը կներառի բնիկ stablecoin-ներ, ինչը կարող է մեկ թոքենը դարձնել լռելյայն 800 միլիոն օգտատերերի համար։",
+        "headline": "Samsung Wallet-ը կավելացնի native stablecoin-ներ",
+        "summary": "Samsung Wallet-ը կավելացնի native stablecoin-ներ, ինչը կարող է մեկ թոքենը դարձնել լռելյայն տարբերակ 800 միլիոն օգտատերերի համար։",
         "link": "https://cryptoslate.com/samsung-wallets-stablecoin-plan-could-redraw-crypto-distribution-while-its-biggest-decisions-are-still-unannounced/",
         "source": "CryptoSlate",
         "enTitle": "Samsung Wallet is getting native stablecoins – and it could make one token the default for 800M users",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/07/samsung-wallet-stablecoin-issuer-network-custody-options.jpg"
-      },
-      {
-        "headline": "Գաղտնի ծառայությունը վերականգնել է $25 միլիոն կրիպտո",
-        "summary": "ԱՄՆ Գաղտնի ծառայությունը հինգ միջազգային խարդախության սխեմաների հետաքննության արդյունքում վերականգնել է ավելի քան 25 միլիոն դոլար կրիպտոարժույթ։",
-        "link": "https://news.bitcoin.com/the-secret-service-recovers-25-million-in-crypto-from-five-separate-investigations/",
-        "source": "Bitcoin News",
-        "enTitle": "The Secret Service Recovers $25 Million in Crypto From Five Separate Investigations",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/doj-case-768x432.jpg"
-      },
-      {
-        "headline": "Ethereum-ի կամուրջները կորցրել են $31.7 միլիոն",
-        "summary": "Երկու Ethereum կամուրջներ մի քանի ժամվա ընթացքում կորցրել են 31.7 միլիոն դոլար, մինչդեռ երրորդ արձանագրությունը դադարեցրել է staking-ը։",
-        "link": "https://cryptoslate.com/two-ethereum-bridges-lose-31-7m-within-hours-as-third-protocol-halts-staking/",
-        "source": "CryptoSlate",
-        "enTitle": "Two Ethereum bridges lose $31.7M within hours as third protocol halts staking",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/afx-verus-control-gate-featured.jpg"
-      },
-      {
-        "headline": "Sberbank-ը կստեղծի կրիպտո առևտրի ենթակառուցվածք",
-        "summary": "Ռուսաստանի խոշորագույն բանկը՝ Sberbank-ը, մինչև դեկտեմբեր նախատեսում է ստեղծել կրիպտո առևտրի ենթակառուցվածք։",
-        "link": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/c00d5f581af46430d49e6ab1ab92dae6b12abcf3-5625x3750.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
