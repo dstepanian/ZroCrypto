@@ -1966,5 +1966,78 @@
         "image": "https://cryptoslate.com/wp-content/uploads/2026/07/samsung-wallet-stablecoin-issuer-network-custody-options.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-27",
+    "ts": 1785144776150,
+    "fng": {
+      "value": 30,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 65171,
+        "change24h": 1.0874534523183987
+      },
+      {
+        "label": "Ethereum",
+        "price": 1958.44,
+        "change24h": 4.0273028053104385
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո նորությունները ներկայացնում են խառը պատկեր՝ կարգավորող մարմինների գործողությունների, ընկերությունների ձախողումների և ինստիտուցիոնալ ընդունման միջև: Մինչ որոշ բանկեր ընդլայնում են իրենց ներկայությունը կրիպտո ոլորտում, կարգավորող անորոշությունները և անվտանգության խնդիրները շարունակում են մնալ օրակարգում:",
+    "items": [
+      {
+        "headline": "Թաիլանդի SEC-ը քրեական գանգատ է ներկայացրել Bitkub-ի դեմ",
+        "summary": "Թաիլանդի SEC-ը քրեական գանգատ է ներկայացրել Bitkub բորսայի և նրա նախկին տնօրենների դեմ՝ 2021 թվականի 47 միլիոն դոլարի հաքերային հարձակումը չբացահայտելու համար:",
+        "link": "https://decrypt.co/374343/thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack",
+        "source": "Decrypt",
+        "enTitle": "Thailand's SEC Files Criminal Complaint Against Bitkub Over Undisclosed $47M Hack",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png"
+      },
+      {
+        "headline": "Storj-ը սնանկության հայց է ներկայացրել",
+        "summary": "Ապակենտրոնացված տվյալների պահպանման Storj ընկերությունը դիմել է Chapter 11 սնանկության համար՝ առաջարկելով թոքենակիրներին ստանալ բաժնետոմսեր վերակազմավորված բիզնեսում:",
+        "link": "https://www.coindesk.com/business/2026/07/27/cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-token-slides-16",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Cloud data firm Storj files for Chapter 11, extending a week of crypto failures. Token slides 16%",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/8d684c2d735259a97e84723fb072716dab0c5fed-3456x2298.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "CLARITY Act-ի ընդունման հնարավորությունները նվազել են",
+        "summary": "Galaxy Research-ը նվազեցրել է CLARITY Act-ի՝ 2026 թվականին օրենք դառնալու իր գնահատականը մինչև 30%, քանի որ օրինագծի շուրջ վեճերը սպառնում են երկկուսակցական աջակցությանը:",
+        "link": "https://news.bitcoin.com/clarity-act-passage-odds-cut-to-30-as-senate-vote-faces-challenges/",
+        "source": "Bitcoin News",
+        "enTitle": "CLARITY Act Passage Odds Cut to 30% as Senate Vote Faces Challenges",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/us-congress-1-768x432.jpg"
+      },
+      {
+        "headline": "KB Kookmin Bank-ը կգործարկի անդրսահմանային վճարումներ",
+        "summary": "Հարավային Կորեայի խոշորագույն KB Kookmin Bank-ը հաջորդ ամիս նախատեսում է գործարկել բլոկչեյնի վրա հիմնված անդրսահմանային կորպորատիվ վճարումների ծառայություն՝ օգտագործելով JPMorgan-ի Kinexys-ը:",
+        "link": "https://www.theblock.co/post/409702/kb-kookmin-bank-payment-jpmorgans-kinexys?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "South Korea’s KB Kookmin Bank to launch cross-border payment service on JPMorgan’s Kinexys: report",
+        "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-800x450.jpg"
+      },
+      {
+        "headline": "BitMart-ը դադարեցնում է առևտրային հարթակի գործունեությունը",
+        "summary": "BitMart-ը հայտարարել է առևտրային հարթակի փակման մասին, մինչդեռ նրա գլոբալ գործադիր տնօրենը հայտնել է, որ իրեն չեն խորհրդակցել որոշման շուրջ:",
+        "link": "https://www.theblock.co/post/409670/bitmart-to-wind-down-trading-platform-as-global-ceo-says-he-was-not-consulted?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "BitMart to wind down trading platform as global CEO says he was not consulted",
+        "image": "https://www.tbstat.com/wp/uploads/2025/01/20250115_Tokens_News_2-800x450.jpg"
+      },
+      {
+        "headline": "Sberbank-ը կգործարկի կրիպտո առևտրի ենթակառուցվածք",
+        "summary": "Ռուսաստանի խոշորագույն Sberbank-ը նախատեսում է մինչև դեկտեմբերի 1-ը ստեղծել կրիպտոարժույթների առևտրի ենթակառուցվածք՝ երկրում կրիպտո ակտիվների օգտագործումը արտաքին առևտրում թույլատրելու համար:",
+        "link": "https://cointelegraph.com/news/russias-sberbank-to-launch-crypto-trading-infrastructure-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Russia’s Sberbank to launch crypto trading infrastructure this year",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/russia-bitcoin.png"
+      }
+    ]
   }
 ]
