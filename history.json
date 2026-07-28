@@ -2039,5 +2039,78 @@
         "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sharia-ruling-on-crypto-will-it-set-a-standard-for-acceptance.png"
       }
     ]
+  },
+  {
+    "date": "2026-07-28",
+    "ts": 1785226523799,
+    "fng": {
+      "value": 29,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 63401,
+        "change24h": -2.6631493326765683
+      },
+      {
+        "label": "Ethereum",
+        "price": 1879.58,
+        "change24h": -4.182829089512631
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող զարգացումների խառնուրդով՝ ԱՄՆ-ում CLARITY Act-ի շուրջ շարունակվող բանավեճերով և Բրազիլիայի ու Հոնկոնգի համար նոր ուղեցույցներով։ Միևնույն ժամանակ, նկատվում են ինստիտուցիոնալ ընդունման դրական նշաններ և խոշոր խաղացողների ռազմավարական փոփոխություններ։",
+    "items": [
+      {
+        "headline": "Strategy-ն դադարեցնում է Bitcoin-ի գնումները",
+        "summary": "Strategy-ն (նախկին MicroStrategy) դադարեցրել է Bitcoin-ի գնումները՝ փոխարենը 25 միլիոն դոլարով հետ գնելով իր սեփական STRC բաժնետոմսերը և նշելով, որ ապագա Bitcoin-ի վաճառքները կարող են օգտագործվել նախընտրելի բաժնետոմսերի հետգնումները ֆինանսավորելու համար։",
+        "link": "https://cryptoslate.com/strategy-hits-a-five-week-pause-on-bitcoin-using-25-million-to-quietly-buy-back-its-own-discounted-stock/",
+        "source": "CryptoSlate",
+        "enTitle": "Strategy hits a 5 week pause on Bitcoin, using $25M to quietly buy back its own discounted stock",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/michael-saylor-cash-life-vest-bitcoin-anchor-collage.jpg"
+      },
+      {
+        "headline": "CLARITY Act-ի շուրջ բանավեճեր ԱՄՆ-ում",
+        "summary": "ԱՄՆ Սենատը հետաձգել է CLARITY Act-ի քննարկումը, մինչդեռ Coinbase-ի գործադիր տնօրեն Բրայան Արմսթրոնգը կոչ է անում ընդունել այն, իսկ Նյու Յորքի գլխավոր դատախազը զգուշացնում է, որ այն կարող է թուլացնել նահանգների կարգավորող լիազորությունները։",
+        "link": "https://news.bitcoin.com/the-clarity-act-is-at-the-one-yard-line-coinbase-says-its-time-to-get-it-over-the-finish-line/",
+        "source": "Bitcoin News",
+        "enTitle": "The CLARITY Act Is at the One-Yard Line: Coinbase Says ‘It’s Time to Get It Over the Finish Line’",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/coinbase-1-768x432.jpg"
+      },
+      {
+        "headline": "Մինեսոտայի կանխատեսումների շուկայի արգելքը արգելափակվել է",
+        "summary": "Դաշնային դատավորը ժամանակավորապես արգելափակել է Մինեսոտայի նոր օրենքը, որն արգելում է կանխատեսումների շուկաները, ինչը հաղթանակ է Kalshi-ի և Polymarket-ի համար։",
+        "link": "https://www.theblock.co/post/409861/judge-blocks-minnesota-prediction-market-ban?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Judge blocks Minnesota from enforcing prediction market ban in win for Kalshi, Polymarket",
+        "image": "https://www.tbstat.com/wp/uploads/2026/01/20260120_Prediction-Markets_News_2-800x450.jpg"
+      },
+      {
+        "headline": "ԱՄՀ-ն կոչ է անում կարգավորել Բրազիլիայի կրիպտո շուկան",
+        "summary": "Արժույթի միջազգային հիմնադրամը (ԱՄՀ) զգուշացրել է Բրազիլիայի կրիպտո շուկայի զգալի մասշտաբների մասին և կոչ արել անհապաղ ուժեղացնել վերահսկողությունը և AML/CFT միջոցառումների ամբողջական իրականացումը։",
+        "link": "https://news.bitcoin.com/imf-sounds-the-alarm-why-brazils-booming-crypto-market-needs-urgent-oversight/",
+        "source": "Bitcoin News",
+        "enTitle": "IMF Sounds the Alarm: Why Brazil’s Booming Crypto Market Needs Urgent Oversight",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/imf-brazil-768x432.jpg"
+      },
+      {
+        "headline": "Հարավային Կորեան Injective-ում տեղակայում է առևտրային տվյալներ",
+        "summary": "Հարավային Կորեայի LG CNS և POSCO International ընկերությունները Injective բլոկչեյնում գործարկել են պիլոտային ծրագիր՝ իրական առևտրային դեբիտորական պարտքերը թոքենիզացնելու համար՝ օգտագործելով արտասահմանյան դուստր ձեռնարկությունների իրական տվյալները։",
+        "link": "https://news.bitcoin.com/south-korea-giants-lg-cns-and-posco-international-deploy-live-trade-data-on-injective-blockchain/",
+        "source": "Bitcoin News",
+        "enTitle": "South Korea Giants LG CNS and POSCO International Deploy Live Trade Data on Injective Blockchain",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/south-korea-giants-lg-cns-and-posco-international-deploy-live-trade-data-on-injective-blockchain-768x432.jpg"
+      },
+      {
+        "headline": "Հոնկոնգը պատրաստվում է քվանտային սպառնալիքներին",
+        "summary": "Հոնկոնգի դրամական մարմինը (HKMA) հրապարակել է սպիտակ թուղթ՝ քվանտային սպառնալիքներին բանկային ոլորտի պատրաստվածության վերաբերյալ՝ նպատակ ունենալով մինչև 2030 թվականը լիովին պատրաստել քաղաքի բանկային հատվածը քվանտային անվտանգության ռիսկերին։",
+        "link": "https://www.coindesk.com/markets/2026/07/28/hong-kong-s-central-bank-puts-a-number-on-lenders-quantum-preparedness-it-s-very-low",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Hong Kong’s central bank puts a number on lenders' quantum preparedness. It's very low.",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/e660c532346d919f78f3c393c6d9e50cfb205d01-3840x2160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
   }
 ]
