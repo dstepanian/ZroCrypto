@@ -2042,7 +2042,7 @@
   },
   {
     "date": "2026-07-28",
-    "ts": 1785226523799,
+    "ts": 1785259171234,
     "fng": {
       "value": 29,
       "label": "Fear",
@@ -2052,64 +2052,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63401,
-        "change24h": -2.6631493326765683
+        "price": 63717,
+        "change24h": -1.7672676403425753
       },
       {
         "label": "Ethereum",
-        "price": 1879.58,
-        "change24h": -4.182829089512631
+        "price": 1908.56,
+        "change24h": -1.5003154467692594
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող զարգացումների խառնուրդով՝ ԱՄՆ-ում CLARITY Act-ի շուրջ շարունակվող բանավեճերով և Բրազիլիայի ու Հոնկոնգի համար նոր ուղեցույցներով։ Միևնույն ժամանակ, նկատվում են ինստիտուցիոնալ ընդունման դրական նշաններ և խոշոր խաղացողների ռազմավարական փոփոխություններ։",
+    "overview": "Շուկան այսօր ցույց է տվել խառը ազդանշաններ, սակայն ինստիտուցիոնալ ընդունումը շարունակվում է նոր ETP-ների և կարգավորող աջակցության միջոցով: Միևնույն ժամանակ, Bitcoin-ի գինը որոշակի անկում է գրանցել, ինչը շուկայում անորոշություն է առաջացրել:",
     "items": [
       {
-        "headline": "Strategy-ն դադարեցնում է Bitcoin-ի գնումները",
-        "summary": "Strategy-ն (նախկին MicroStrategy) դադարեցրել է Bitcoin-ի գնումները՝ փոխարենը 25 միլիոն դոլարով հետ գնելով իր սեփական STRC բաժնետոմսերը և նշելով, որ ապագա Bitcoin-ի վաճառքները կարող են օգտագործվել նախընտրելի բաժնետոմսերի հետգնումները ֆինանսավորելու համար։",
-        "link": "https://cryptoslate.com/strategy-hits-a-five-week-pause-on-bitcoin-using-25-million-to-quietly-buy-back-its-own-discounted-stock/",
-        "source": "CryptoSlate",
-        "enTitle": "Strategy hits a 5 week pause on Bitcoin, using $25M to quietly buy back its own discounted stock",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/michael-saylor-cash-life-vest-bitcoin-anchor-collage.jpg"
-      },
-      {
-        "headline": "CLARITY Act-ի շուրջ բանավեճեր ԱՄՆ-ում",
-        "summary": "ԱՄՆ Սենատը հետաձգել է CLARITY Act-ի քննարկումը, մինչդեռ Coinbase-ի գործադիր տնօրեն Բրայան Արմսթրոնգը կոչ է անում ընդունել այն, իսկ Նյու Յորքի գլխավոր դատախազը զգուշացնում է, որ այն կարող է թուլացնել նահանգների կարգավորող լիազորությունները։",
-        "link": "https://news.bitcoin.com/the-clarity-act-is-at-the-one-yard-line-coinbase-says-its-time-to-get-it-over-the-finish-line/",
+        "headline": "Morgan Stanley-ը գործարկում է Ether և Solana ETP-ներ",
+        "summary": "Morgan Stanley-ը գործարկել է Ether և Solana ETP-ներ՝ առաջարկելով շուկայում ամենացածր վճարները և staking-ի հնարավորություններ:",
+        "link": "https://news.bitcoin.com/crypto-news/morgan-stanley-launches-ether-and-solana-etps-with-staking-and-market-low-fees/",
         "source": "Bitcoin News",
-        "enTitle": "The CLARITY Act Is at the One-Yard Line: Coinbase Says ‘It’s Time to Get It Over the Finish Line’",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/coinbase-1-768x432.jpg"
+        "enTitle": "Morgan Stanley Launches Ether and Solana ETPs With Staking and Market-low Fees",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/morgan-stanley-launches-ether-and-solana-etps-with-staking-and-market-low-fees-768x432.jpg"
       },
       {
-        "headline": "Մինեսոտայի կանխատեսումների շուկայի արգելքը արգելափակվել է",
-        "summary": "Դաշնային դատավորը ժամանակավորապես արգելափակել է Մինեսոտայի նոր օրենքը, որն արգելում է կանխատեսումների շուկաները, ինչը հաղթանակ է Kalshi-ի և Polymarket-ի համար։",
-        "link": "https://www.theblock.co/post/409861/judge-blocks-minnesota-prediction-market-ban?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Judge blocks Minnesota from enforcing prediction market ban in win for Kalshi, Polymarket",
-        "image": "https://www.tbstat.com/wp/uploads/2026/01/20260120_Prediction-Markets_News_2-800x450.jpg"
-      },
-      {
-        "headline": "ԱՄՀ-ն կոչ է անում կարգավորել Բրազիլիայի կրիպտո շուկան",
-        "summary": "Արժույթի միջազգային հիմնադրամը (ԱՄՀ) զգուշացրել է Բրազիլիայի կրիպտո շուկայի զգալի մասշտաբների մասին և կոչ արել անհապաղ ուժեղացնել վերահսկողությունը և AML/CFT միջոցառումների ամբողջական իրականացումը։",
-        "link": "https://news.bitcoin.com/imf-sounds-the-alarm-why-brazils-booming-crypto-market-needs-urgent-oversight/",
-        "source": "Bitcoin News",
-        "enTitle": "IMF Sounds the Alarm: Why Brazil’s Booming Crypto Market Needs Urgent Oversight",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/imf-brazil-768x432.jpg"
-      },
-      {
-        "headline": "Հարավային Կորեան Injective-ում տեղակայում է առևտրային տվյալներ",
-        "summary": "Հարավային Կորեայի LG CNS և POSCO International ընկերությունները Injective բլոկչեյնում գործարկել են պիլոտային ծրագիր՝ իրական առևտրային դեբիտորական պարտքերը թոքենիզացնելու համար՝ օգտագործելով արտասահմանյան դուստր ձեռնարկությունների իրական տվյալները։",
-        "link": "https://news.bitcoin.com/south-korea-giants-lg-cns-and-posco-international-deploy-live-trade-data-on-injective-blockchain/",
-        "source": "Bitcoin News",
-        "enTitle": "South Korea Giants LG CNS and POSCO International Deploy Live Trade Data on Injective Blockchain",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/south-korea-giants-lg-cns-and-posco-international-deploy-live-trade-data-on-injective-blockchain-768x432.jpg"
-      },
-      {
-        "headline": "Հոնկոնգը պատրաստվում է քվանտային սպառնալիքներին",
-        "summary": "Հոնկոնգի դրամական մարմինը (HKMA) հրապարակել է սպիտակ թուղթ՝ քվանտային սպառնալիքներին բանկային ոլորտի պատրաստվածության վերաբերյալ՝ նպատակ ունենալով մինչև 2030 թվականը լիովին պատրաստել քաղաքի բանկային հատվածը քվանտային անվտանգության ռիսկերին։",
-        "link": "https://www.coindesk.com/markets/2026/07/28/hong-kong-s-central-bank-puts-a-number-on-lenders-quantum-preparedness-it-s-very-low",
+        "headline": "Wall Street-ի հսկաները աջակցում են Clarity Act-ին",
+        "summary": "BlackRock-ը, Fidelity-ն և այլ խոշոր Wall Street ընկերություններ հրապարակայնորեն աջակցել են Clarity Act կրիպտո շուկայի կառուցվածքի օրինագծին:",
+        "link": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Hong Kong’s central bank puts a number on lenders' quantum preparedness. It's very low.",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/e660c532346d919f78f3c393c6d9e50cfb205d01-3840x2160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/04275ab159a92b7ce88ca71aeab8a9693ced53e9-3000x1688.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Ռուսաստանը նախագծում է կրիպտո կարգավորման կանոններ",
+        "summary": "Ռուսաստանի Կենտրոնական բանկը նախագծել է նոր կանոններ թվային ակտիվների պահպանման համար՝ նախքան աշնանը կրիպտո շրջանակի ներդրումը:",
+        "link": "https://www.coindesk.com/policy/2026/07/28/russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-out",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/177fe0d442a9bb8ec8bb8ee503d2332e2d65478d-1710x958.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Ether ֆոնդերը գերազանցում են Bitcoin-ին",
+        "summary": "ԱՄՆ-ի spot Ether ETF-ները շարունակում են գրավել ներդրումներ՝ գերազանցելով Bitcoin ֆոնդերին, որոնք գրանցել են դուրսբերումներ:",
+        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-pulls-11-75-million-into-etha-as-ether-funds-outpace-bitcoin-again/",
+        "source": "Bitcoin News",
+        "enTitle": "Blackrock Pulls $11.75 Million Into ETHA as Ether Funds Outpace Bitcoin Again",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/blackrock-pulls-11-75-million-into-etha-as-ether-funds-outpace-bitcoin-again-768x432.jpg"
+      },
+      {
+        "headline": "PayPal-ը ընդլայնում է stablecoin-ի աջակցությունը",
+        "summary": "PayPal-ը ընդգծել է stablecoin-ների աճը և AI-ի վրա հիմնված վճարային գործիքները Q2 արդյունքներում՝ ընդլայնելով իր կրիպտո ակտիվների ներգրավվածությունը:",
+        "link": "https://cointelegraph.com/markets/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/paypal.jpg"
       }
     ]
   }
