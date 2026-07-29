@@ -2107,7 +2107,7 @@
   },
   {
     "date": "2026-07-29",
-    "ts": 1785313329339,
+    "ts": 1785344718063,
     "fng": {
       "value": 29,
       "label": "Fear",
@@ -2117,64 +2117,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 64332,
-        "change24h": 1.4443720215131617
+        "price": 63736,
+        "change24h": -0.2943678679507298
       },
       {
         "label": "Ethereum",
-        "price": 1914.39,
-        "change24h": 1.765195690892084
+        "price": 1894.21,
+        "change24h": -1.398045475928084
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող զարգացումներով և ինստիտուցիոնալ ընդունմամբ, ինչպես նաև անվտանգության հետ կապված մտահոգություններով և մայնինգի ոլորտում փոփոխություններով:",
+    "overview": "Այսօրվա կրիպտո նորությունները նշանավորվել են ինստիտուցիոնալ ներդրումների աճով և կարգավորող մարմինների կողմից հստակեցման ձգտումներով։ Բլոկչեյն տեխնոլոգիան շարունակում է ինտեգրվել ավանդական ֆինանսական համակարգերին։",
     "items": [
       {
-        "headline": "Ռուսաստանը մեղադրում է Telegram-ի հիմնադրին",
-        "summary": "Ռուսաստանի անվտանգության ուժերը մեղադրել են Telegram-ի հիմնադիր Պավել Դուրովին ահաբեկչությանն աջակցելու մեջ և նրա ձերբակալման միջազգային օրդեր են տվել։",
-        "link": "https://www.theblock.co/post/410005/russia-charges-telegram-founder-pavel-durov?utm_source=rss&utm_medium=rss",
+        "headline": "Morgan Stanley-ի նոր ETF-ները մուտք են գործում կրիպտո շուկա",
+        "summary": "Morgan Stanley-ի նոր Ethereum և Solana բորսայական ֆոնդերը իրենց առաջին օրը գրանցել են մոտ 38 միլիոն դոլարի առևտրային ծավալ՝ ամրապնդելով ընկերության ներկայությունը կրիպտո ֆոնդերի շուկայում։",
+        "link": "https://cryptoslate.com/morgan-stanley-is-using-7-4-trillion-in-client-assets-and-rock-bottom-fees-to-hijack-wall-streets-crypto-boom/",
+        "source": "CryptoSlate",
+        "enTitle": "Morgan Stanley is using $7.4 trillion in client assets and rock-bottom fees to hijack Wall Street’s crypto boom",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/morgan-stanley-crypto-staking-yield-squeeze.jpg"
+      },
+      {
+        "headline": "SEC-ը պատրաստ է կրիպտո կանոններ տրամադրել",
+        "summary": "SEC-ի նախագահ Աթքինսը հայտարարել է, որ հանձնաժողովը պատրաստ է կրիպտո կանոններ տրամադրել, եթե Clarity Act օրինագիծը չընդունվի։",
+        "link": "https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins",
+        "source": "Decrypt",
+        "enTitle": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg@png"
+      },
+      {
+        "headline": "Solana Policy Institute-ը կոչ է անում Սենատին ընդունել կրիպտո օրինագիծը",
+        "summary": "Solana Policy Institute-ը շտապ կոչ է անում Սենատի ղեկավարներին քննարկել կրիպտոարժույթների օրենսդրությունը, քանի որ Կոնգրեսի ժամանակը սպառվում է։",
+        "link": "https://www.theblock.co/post/410041/the-moment-to-act-is-now-solana-policy-institute-urges-senate-to-move-on-crypto-bill-as-time-dwindles?utm_source=rss&utm_medium=rss",
         "source": "The Block",
-        "enTitle": "Russia charges Telegram founder Pavel Durov with aiding terrorism, issues arrest warrant: report",
-        "image": "https://www.tbstat.com/wp/uploads/2024/08/20240830_Pavel-Durov_News_2-800x450.jpg"
+        "enTitle": "‘The moment to act is now’: Solana Policy Institute urges Senate to move on crypto bill as time dwindles",
+        "image": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-800x450.jpg"
       },
       {
-        "headline": "MARA-ի գործադիր տնօրենը՝ AI-ի և Bitcoin մայնինգի մասին",
-        "summary": "MARA-ի գործադիր տնօրեն Ֆրեդ Թիելը հայտարարել է, որ սակավ էլեկտրաէներգիան ավելի բարձր եկամուտ է բերում արհեստական ​​ինտելեկտի համար, քան Bitcoin մայնինգի։",
-        "link": "https://news.bitcoin.com/crypto-news/mara-ceo-says-ai-delivers-more-revenue-from-power-than-bitcoin-mining/",
+        "headline": "Telegram-ի հիմնադիր Պավել Դուրովը Ռուսաստանի հետախուզման մեջ է",
+        "summary": "Ռուսաստանի Անվտանգության դաշնային ծառայությունը Telegram-ի հիմնադիր Պավել Դուրովին մեղադրել է ահաբեկչական գործունեությանն աջակցելու մեջ և նրան ընդգրկել միջազգային հետախուզման ցուցակում։",
+        "link": "https://news.bitcoin.com/featured/telegrams-pavel-durov-lands-on-russias-wanted-list-as-terror-charges-ignite-new-showdown/",
         "source": "Bitcoin News",
-        "enTitle": "MARA CEO Says AI Delivers More Revenue From Power Than Bitcoin Mining",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/mara-ceo-says-ai-delivers-more-revenue-from-power-than-bitcoin-mining-768x432.png"
+        "enTitle": "Telegram’s Pavel Durov Lands on Russia’s Wanted List as Terror Charges Ignite New Showdown",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2024/08/french-authorities-charge-telegram-ceo-durov-768x432.jpg"
       },
       {
-        "headline": "Ընկերությունը կփոխհատուցի $60 միլիոնի կորուստները",
-        "summary": "Կորեայում մեկ նախաշուկայական գործարքի հետևանքով $60 միլիոն արժողությամբ կրիպտո լիկվիդացիաներ առաջացրած ընկերությունը հայտարարել է, որ կփոխհատուցի բոլոր կորուստները։",
-        "link": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5d61433a7938f2a44279c76d6a4b0aa0600e1eb-1920x1227.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "headline": "Tether-ի USAT stablecoin-ը գործարկվում է Celo-ում",
+        "summary": "Tether-ի GENIUS-համատեղելի USAT stablecoin-ը գործարկվել է Celo-ի վրա՝ նշանավորելով իր առաջին ընդլայնումը Ethereum-ից դուրս։",
+        "link": "https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Tether’s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum",
+        "image": "https://www.tbstat.com/wp/uploads/2024/04/celo-layer2-800x450.jpeg"
       },
       {
-        "headline": "Հարավային Կորեան ծրագրում է stablecoin-ի կանոններ",
-        "summary": "Հարավային Կորեան ծրագրում է կառավարության կողմից աջակցվող թվային ակտիվների օրինագիծ, որը կներառի stablecoin-ները և բորսաները, մինչդեռ ընդդիմությունը ձգտում է չեղարկել 2027 թվականին նախատեսված 22% կրիպտո հարկը։",
-        "link": "https://cointelegraph.com/news/south-korea-consolidated-crypto-law-tax-repeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "BNY-ը տեղափոխում է փոխանցման գործակալության գրառումները բլոկչեյն",
+        "summary": "BNY-ը գործարկում է բլոկչեյնի վրա հիմնված փոխանցման գործակալության հարթակ՝ ընդլայնելով իր թվային ակտիվների ենթակառուցվածքը և հիմնական ֆինանսական գրառումները տեղափոխելով բլոկչեյն։",
+        "link": "https://cointelegraph.com/news/bny-transfer-agency-records-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-stablecoin-in-period-of-crisis-south-korea.png"
-      },
-      {
-        "headline": "Կեղծ կրիպտո դրամապանակ Apple App Store-ում",
-        "summary": "Երեք Bitcoin ներդրող հայտարարել են, որ կորցրել են գրեթե $1.8 միլիոն՝ Apple App Store-ից կեղծ Sparrow Wallet ներբեռնելուց և իրենց վերականգնման արտահայտությունները մուտքագրելուց հետո։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/a-fake-crypto-wallet-reached-apples-app-store-three-users-say-it-cost-them-1-8-million/",
-        "source": "Bitcoin News",
-        "enTitle": "A Fake Crypto Wallet Reached Apple’s App Store — Three Users Say It Cost Them $1.8 Million",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/apple-768x432.jpg"
-      },
-      {
-        "headline": "Morgan Stanley-ն ընդլայնում է կրիպտո առաջարկները",
-        "summary": "Morgan Stanley-ն ընդլայնում է իր կրիպտո արտադրանքների շարքը՝ ներառելով Ether և Solana ETP-ներ, որոնք առաջարկում են staking պարգևներ։",
-        "link": "https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/bankcman-morgan-stanley.png"
+        "enTitle": "BNY to bring transfer agency records onchain in blockchain push",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-as-a-service-baas.jpg"
       }
     ]
   }
