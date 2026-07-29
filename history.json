@@ -2104,5 +2104,78 @@
         "image": "https://s3-images.ctmedia.io/media/article-covers/paypal.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-29",
+    "ts": 1785313329339,
+    "fng": {
+      "value": 29,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 64332,
+        "change24h": 1.4443720215131617
+      },
+      {
+        "label": "Ethereum",
+        "price": 1914.39,
+        "change24h": 1.765195690892084
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող զարգացումներով և ինստիտուցիոնալ ընդունմամբ, ինչպես նաև անվտանգության հետ կապված մտահոգություններով և մայնինգի ոլորտում փոփոխություններով:",
+    "items": [
+      {
+        "headline": "Ռուսաստանը մեղադրում է Telegram-ի հիմնադրին",
+        "summary": "Ռուսաստանի անվտանգության ուժերը մեղադրել են Telegram-ի հիմնադիր Պավել Դուրովին ահաբեկչությանն աջակցելու մեջ և նրա ձերբակալման միջազգային օրդեր են տվել։",
+        "link": "https://www.theblock.co/post/410005/russia-charges-telegram-founder-pavel-durov?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Russia charges Telegram founder Pavel Durov with aiding terrorism, issues arrest warrant: report",
+        "image": "https://www.tbstat.com/wp/uploads/2024/08/20240830_Pavel-Durov_News_2-800x450.jpg"
+      },
+      {
+        "headline": "MARA-ի գործադիր տնօրենը՝ AI-ի և Bitcoin մայնինգի մասին",
+        "summary": "MARA-ի գործադիր տնօրեն Ֆրեդ Թիելը հայտարարել է, որ սակավ էլեկտրաէներգիան ավելի բարձր եկամուտ է բերում արհեստական ​​ինտելեկտի համար, քան Bitcoin մայնինգի։",
+        "link": "https://news.bitcoin.com/crypto-news/mara-ceo-says-ai-delivers-more-revenue-from-power-than-bitcoin-mining/",
+        "source": "Bitcoin News",
+        "enTitle": "MARA CEO Says AI Delivers More Revenue From Power Than Bitcoin Mining",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/mara-ceo-says-ai-delivers-more-revenue-from-power-than-bitcoin-mining-768x432.png"
+      },
+      {
+        "headline": "Ընկերությունը կփոխհատուցի $60 միլիոնի կորուստները",
+        "summary": "Կորեայում մեկ նախաշուկայական գործարքի հետևանքով $60 միլիոն արժողությամբ կրիպտո լիկվիդացիաներ առաջացրած ընկերությունը հայտարարել է, որ կփոխհատուցի բոլոր կորուստները։",
+        "link": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5d61433a7938f2a44279c76d6a4b0aa0600e1eb-1920x1227.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Հարավային Կորեան ծրագրում է stablecoin-ի կանոններ",
+        "summary": "Հարավային Կորեան ծրագրում է կառավարության կողմից աջակցվող թվային ակտիվների օրինագիծ, որը կներառի stablecoin-ները և բորսաները, մինչդեռ ընդդիմությունը ձգտում է չեղարկել 2027 թվականին նախատեսված 22% կրիպտո հարկը։",
+        "link": "https://cointelegraph.com/news/south-korea-consolidated-crypto-law-tax-repeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-stablecoin-in-period-of-crisis-south-korea.png"
+      },
+      {
+        "headline": "Կեղծ կրիպտո դրամապանակ Apple App Store-ում",
+        "summary": "Երեք Bitcoin ներդրող հայտարարել են, որ կորցրել են գրեթե $1.8 միլիոն՝ Apple App Store-ից կեղծ Sparrow Wallet ներբեռնելուց և իրենց վերականգնման արտահայտությունները մուտքագրելուց հետո։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/a-fake-crypto-wallet-reached-apples-app-store-three-users-say-it-cost-them-1-8-million/",
+        "source": "Bitcoin News",
+        "enTitle": "A Fake Crypto Wallet Reached Apple’s App Store — Three Users Say It Cost Them $1.8 Million",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/apple-768x432.jpg"
+      },
+      {
+        "headline": "Morgan Stanley-ն ընդլայնում է կրիպտո առաջարկները",
+        "summary": "Morgan Stanley-ն ընդլայնում է իր կրիպտո արտադրանքների շարքը՝ ներառելով Ether և Solana ETP-ներ, որոնք առաջարկում են staking պարգևներ։",
+        "link": "https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/bankcman-morgan-stanley.png"
+      }
+    ]
   }
 ]
