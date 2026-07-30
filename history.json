@@ -2177,5 +2177,70 @@
         "image": "https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-as-a-service-baas.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-07-30",
+    "ts": 1785398925379,
+    "fng": {
+      "value": 28,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 63959,
+        "change24h": -0.7341213629116999
+      },
+      {
+        "label": "Ethereum",
+        "price": 1899.72,
+        "change24h": -0.9135543795665276
+      }
+    ],
+    "overview": "Շուկան այսօր ցույց տվեց խառը ազդանշաններ։ Bitcoin ETF-ները վերադարձան ներհոսքերի, ինչը վկայում է որոշ դրական տրամադրությունների մասին, մինչդեռ անվտանգության մտահոգությունները մեծացան շահագործումների հետևանքով զգալի գումարների գողության պատճառով։ Կարգավորող մարմինների զարգացումները Հարավային Կորեայում և ԱՄՆ-ում նույնպես ձևավորեցին լանդշաֆտը։",
+    "items": [
+      {
+        "headline": "Bitcoin ETF-ների ներհոսքերը վերադարձան",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները չորեքշաբթի օրը գրանցեցին $32.1 միլիոնի ներհոսք՝ ավարտելով չորս նիստ տևած արտահոսքերի շարքը։",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-return-ether-funds-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin ETF inflows return as Ether funds slip into outflows",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/surfing-blockchain-wave-etf.jpg"
+      },
+      {
+        "headline": "$1.1 միլիարդի կրիպտո գողություն 2026-ի առաջին կիսամյակում",
+        "summary": "Blockaid անվտանգության ընկերությունը հայտնում է, որ 2026 թվականի առաջին կիսամյակում 212 onchain շահագործումների հետևանքով գողացվել է $1.1 միլիարդ։",
+        "link": "https://news.bitcoin.com/security/security-firm-blockaid-says-212-onchain-exploits-stole-1-1b-as-ai-and-wallet-attacks-accelerate/",
+        "source": "Bitcoin News",
+        "enTitle": "Security Firm Blockaid Says 212 Onchain Exploits Stole $1.1B as AI and Wallet Attacks Accelerate",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/security-firm-blockaid-says-212-onchain-exploits-stole-1-1b-as-ai-and-wallet-attackss-accelerate-768x432.png"
+      },
+      {
+        "headline": "Հարավային Կորեան առաջարկում է stablecoin-ի կանոններ",
+        "summary": "Հարավային Կորեայի զեկույցն առաջարկում է stablecoin-ների համար ժամանակավոր լիցենզավորման ուղեցույցներ՝ նախքան թվային ակտիվների հիմնական օրենքի ընդունումը։",
+        "link": "https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "South Korea report proposes stablecoin rules before crypto law",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/south-korea-crypto.jpg"
+      },
+      {
+        "headline": "ԱՄՆ-ը պատժամիջոցներ է կիրառում Bitcoin օգտագործող ընկերության նկատմամբ",
+        "summary": "ԱՄՆ Գանձապետարանը հայտարարել է, որ HormuzSafe-ը ընդունել է Bitcoin՝ պատժամիջոցներից խուսափելու և Իրանի Իսլամական հեղափոխական գվարդիայի համար եկամուտ ստեղծելու համար։",
+        "link": "https://cointelegraph.com/news/us-sanctions-iran-hormuzsafe-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US sanctions Iranian maritime firm, says it accepted Bitcoin to evade restrictions",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-has-seized-iranian-crypto.jpg"
+      },
+      {
+        "headline": "Binance.US-ը դիմում է CFTC լիցենզիայի համար",
+        "summary": "Binance.US-ի գործադիր տնօրենը հայտարարել է, որ ընկերությունը օգոստոսին դիմելու է CFTC լիցենզիայի համար՝ prediction market հարթակ գործարկելու նպատակով։",
+        "link": "https://www.theblock.co/post/410110/binance-us-cftc-license?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Binance.US to apply for CFTC license in August for prediction market platform",
+        "image": "https://www.tbstat.com/wp/uploads/2024/11/20241127_Binance_News-800x450.jpg"
+      }
+    ]
   }
 ]
