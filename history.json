@@ -2180,7 +2180,7 @@
   },
   {
     "date": "2026-07-30",
-    "ts": 1785398925379,
+    "ts": 1785431782441,
     "fng": {
       "value": 28,
       "label": "Fear",
@@ -2190,56 +2190,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63959,
-        "change24h": -0.7341213629116999
+        "price": 64735,
+        "change24h": 1.4966809856984347
       },
       {
         "label": "Ethereum",
-        "price": 1899.72,
-        "change24h": -0.9135543795665276
+        "price": 1914.97,
+        "change24h": 0.8666182161106666
       }
     ],
-    "overview": "Շուկան այսօր ցույց տվեց խառը ազդանշաններ։ Bitcoin ETF-ները վերադարձան ներհոսքերի, ինչը վկայում է որոշ դրական տրամադրությունների մասին, մինչդեռ անվտանգության մտահոգությունները մեծացան շահագործումների հետևանքով զգալի գումարների գողության պատճառով։ Կարգավորող մարմինների զարգացումները Հարավային Կորեայում և ԱՄՆ-ում նույնպես ձևավորեցին լանդշաֆտը։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է մակրոտնտեսական անորոշությամբ՝ կապված Fed-ի տոկոսադրույքների բարձրացման հնարավորության հետ, մինչդեռ ոլորտը շարունակում է ցուցաբերել ինստիտուցիոնալ աճ և կարգավորող մարտահրավերներ:",
     "items": [
       {
-        "headline": "Bitcoin ETF-ների ներհոսքերը վերադարձան",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները չորեքշաբթի օրը գրանցեցին $32.1 միլիոնի ներհոսք՝ ավարտելով չորս նիստ տևած արտահոսքերի շարքը։",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-return-ether-funds-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin ETF inflows return as Ether funds slip into outflows",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/surfing-blockchain-wave-etf.jpg"
-      },
-      {
-        "headline": "$1.1 միլիարդի կրիպտո գողություն 2026-ի առաջին կիսամյակում",
-        "summary": "Blockaid անվտանգության ընկերությունը հայտնում է, որ 2026 թվականի առաջին կիսամյակում 212 onchain շահագործումների հետևանքով գողացվել է $1.1 միլիարդ։",
-        "link": "https://news.bitcoin.com/security/security-firm-blockaid-says-212-onchain-exploits-stole-1-1b-as-ai-and-wallet-attacks-accelerate/",
+        "headline": "Fed-ի տոկոսադրույքների բարձրացման հավանականությունը մեծանում է",
+        "summary": "Կանխատեսումների շուկաները ցույց են տալիս, որ Սեպտեմբերին Դաշնային պահուստային համակարգի կողմից տոկոսադրույքների բարձրացման հավանականությունը մեծանում է, ինչը փոխում է նախորդ շաբաթների սպասումները։",
+        "link": "https://news.bitcoin.com/finance/fed-hike-odds-surge-as-warsh-unleashes-hawkish-warning/",
         "source": "Bitcoin News",
-        "enTitle": "Security Firm Blockaid Says 212 Onchain Exploits Stole $1.1B as AI and Wallet Attacks Accelerate",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/security-firm-blockaid-says-212-onchain-exploits-stole-1-1b-as-ai-and-wallet-attackss-accelerate-768x432.png"
+        "enTitle": "Fed Hike Odds Surge as Warsh Unleashes Hawkish Warning",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/kevin-warshs-fed-holds-firm-as-energy-prices-lift-inflation-768x432.png"
       },
       {
-        "headline": "Հարավային Կորեան առաջարկում է stablecoin-ի կանոններ",
-        "summary": "Հարավային Կորեայի զեկույցն առաջարկում է stablecoin-ների համար ժամանակավոր լիցենզավորման ուղեցույցներ՝ նախքան թվային ակտիվների հիմնական օրենքի ընդունումը։",
-        "link": "https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "FTX-ի պարտատերերի համար $900M վճարումներ",
+        "summary": "FTX-ի պարտատերերը, ովքեր բավարարել են հունիսի 16-ի պահանջները, պետք է վճարումներ ստանան երեք աշխատանքային օրվա ընթացքում, իսկ մյուսները ունեն վեց ամիս՝ իրենց միջոցները ստանալու համար։",
+        "link": "https://cryptoslate.com/ftxs-900m-payout-drops-friday-triggering-6-month-countdown-for-unverified-creditors-to-finish-onboarding-or-forfeit-funds-entirely/",
+        "source": "CryptoSlate",
+        "enTitle": "FTX’s $900M payout drops Friday, triggering 6-month countdown for  creditors to onboard or forfeit funds entirely",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/ftx-creditor-payout-cracked-piggy-bank.jpg"
+      },
+      {
+        "headline": "JPMorgan-ը զգուշացնում է Clarity Act-ի մասին",
+        "summary": "JPMorgan բանկը հայտարարել է, որ ԱՄՆ շուկայի կառուցվածքի օրենսդրության՝ Clarity Act-ի հեռանկարների վատթարացումը հեռացնում է թվային ակտիվների համար կարևոր խթանը։",
+        "link": "https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "JPMorgan says fading Clarity Act odds weigh on crypto outlook",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a03886b63f9f486ffe9b1e5246f92bf2b612c49-1500x998.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Ինստիտուցիոնալ կրիպտո առևտուրը հասել է ռեկորդի",
+        "summary": "Wintermute-ի նոր զեկույցը ցույց է տվել, որ ինստիտուտներն այժմ գերակշռում են կրիպտո առևտրում՝ նվազեցնելով անկայունությունը և խթանելով թոքենիզացված ակտիվների աճը։",
+        "link": "https://www.coindesk.com/markets/2026/07/30/institutional-trading-hits-a-record-72-as-wall-street-quietens-down-crypto-s-wild-swings",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Blackrock-ը խթանում է Bitcoin ETF-ի վերականգնումը",
+        "summary": "Bitcoin ETF-ները դադարեցրել են չորսօրյա կորուստների շարքը՝ $32.11 միլիոն զուտ ներհոսքով, ինչը պայմանավորված է Blackrock-ի IBIT-ի նկատմամբ ուժեղ պահանջարկով։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-drives-32m-bitcoin-etf-rebound-after-4-day-slide/",
+        "source": "Bitcoin News",
+        "enTitle": "Blackrock Drives $32M Bitcoin ETF Rebound After 4-Day Slide",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/blackrock-drives-32m-bitcoin-etf-rebound-after-4-day-slide-768x432.jpg"
+      },
+      {
+        "headline": "Samsung-ը ուսումնասիրում է stablecoin ենթակառուցվածքը",
+        "summary": "Samsung SDS-ը քննարկում է stablecoin-ի ենթակառուցվածքը և AI-ի վրա հիմնված վճարային մոդելները Dunamu-ի հետ, որը հարավկորեական Upbit կրիպտո բորսայի օպերատորն է։",
+        "link": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "South Korea report proposes stablecoin rules before crypto law",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/south-korea-crypto.jpg"
-      },
-      {
-        "headline": "ԱՄՆ-ը պատժամիջոցներ է կիրառում Bitcoin օգտագործող ընկերության նկատմամբ",
-        "summary": "ԱՄՆ Գանձապետարանը հայտարարել է, որ HormuzSafe-ը ընդունել է Bitcoin՝ պատժամիջոցներից խուսափելու և Իրանի Իսլամական հեղափոխական գվարդիայի համար եկամուտ ստեղծելու համար։",
-        "link": "https://cointelegraph.com/news/us-sanctions-iran-hormuzsafe-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "US sanctions Iranian maritime firm, says it accepted Bitcoin to evade restrictions",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-has-seized-iranian-crypto.jpg"
-      },
-      {
-        "headline": "Binance.US-ը դիմում է CFTC լիցենզիայի համար",
-        "summary": "Binance.US-ի գործադիր տնօրենը հայտարարել է, որ ընկերությունը օգոստոսին դիմելու է CFTC լիցենզիայի համար՝ prediction market հարթակ գործարկելու նպատակով։",
-        "link": "https://www.theblock.co/post/410110/binance-us-cftc-license?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Binance.US to apply for CFTC license in August for prediction market platform",
-        "image": "https://www.tbstat.com/wp/uploads/2024/11/20241127_Binance_News-800x450.jpg"
+        "enTitle": "Samsung unit explores stablecoin infrastructure with Upbit’s operator",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-samsung-coin-coinbase-1.png"
       }
     ]
   }
