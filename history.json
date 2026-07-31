@@ -2253,7 +2253,7 @@
   },
   {
     "date": "2026-07-31",
-    "ts": 1785486928545,
+    "ts": 1785518433211,
     "fng": {
       "value": 25,
       "label": "Extreme Fear",
@@ -2263,64 +2263,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63889,
-        "change24h": -0.5095271395525631
+        "price": 62831,
+        "change24h": -3.018369639239048
       },
       {
         "label": "Ethereum",
-        "price": 1890.05,
-        "change24h": -1.2114869670273116
+        "price": 1865.43,
+        "change24h": -2.6967122945050095
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան ցույց է տվել խառը տրամադրություններ՝ նշանավորվելով ինչպես դրական զարգացումներով, այնպես էլ մարտահրավերներով։ Մինչ Bitcoin ETF-ները գրանցել են զգալի ներհոսքեր և RWA հատվածը շարունակում է աճել, անվտանգության խոցելիությունը և խոշոր ընկերությունների եկամուտների անկումը մտահոգություններ են առաջացրել։",
+    "overview": "Կրիպտո շուկան այսօր նշանավորվեց ֆինանսական կարևոր հաշվետվություններով, կարգավորող մարմինների զարգացումներով և անվտանգության մտահոգություններով։ Խոշոր stablecoin-ների թողարկողները հայտնել են ուժեղ ֆինանսական վիճակի և կարգավորող նվաճումների մասին, մինչդեռ Bitcoin ETF-ների նկատմամբ ինստիտուցիոնալ հետաքրքրությունը մնաց կայուն։ Սակայն անվտանգության նկատելի խախտումը և կրիպտոյի անօրինական օգտագործման դեմ կառավարության պատժամիջոցները ընդգծեցին շարունակվող ռիսկերն ու կարգավորող վերահսկողությունը։",
     "items": [
       {
-        "headline": "Bitcoin ETF-ները գրանցել են զգալի ներհոսքեր",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են 233.1 միլիոն դոլարի ներհոսքեր՝ շաբաթը դարձնելով դրական։",
-        "link": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-week-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin ETFs post $233M inflows, pushing week back into the green",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/btc-etf-waiting-2.png"
+        "headline": "Tether-ը հայտնել է $1.5 մլրդ շահույթի մասին",
+        "summary": "Tether-ը հայտնել է 2-րդ եռամսյակի $1.5 միլիարդ շահույթի մասին, քանի որ USDT-ի մատակարարումն աճել է, իսկ ոսկու պահուստները՝ ավելացել։",
+        "link": "https://decrypt.co/374796/tether-reports-1-5b-q2-profit-usdt-supply-grows",
+        "source": "Decrypt",
+        "enTitle": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png@png"
       },
       {
-        "headline": "Bitcoin դրամապանակի խոցելիությունից կորել է 594 BTC",
-        "summary": "Հայտնաբերվել է ապարատային դրամապանակի խոցելիություն, որի հետևանքով 25 րոպեում կորել է 594 BTC, և Coinkite-ը զգուշացրել է Coldcard Mk3 օգտատերերին։",
-        "link": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
+        "headline": "Coldcard դրամապանակի խոցելիությունը սասանել է վստահությունը",
+        "summary": "Coldcard ապարատային դրամապանակի խոցելիությունը հանգեցրել է մոտ $38 միլիոն արժողությամբ Bitcoin-ի գողության՝ մտահոգություններ առաջացնելով ինքնապահպանման անվտանգության շուրջ։",
+        "link": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep",
+        "enTitle": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/17e2199d1d92db776ca604acd66f78a2a5052896-1754x804.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "RWA ֆյուչերսների ծավալը մոտենում է Bitcoin-ին",
-        "summary": "RWA perpetual futures-ի առևտրի ծավալը Hyperliquid-ում և Binance-ում հասել է Bitcoin perpetual-ի ծավալի 99.2%-ին։",
-        "link": "https://cointelegraph.com/markets/rwa-perpetual-futures-bitcoin-hyperliquid-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "FTX-ի օգտատերերը ստանում են իրենց միջոցները",
+        "summary": "FTX-ի նախկին օգտատերերը հայտնել են, որ սկսվել է $900 միլիոնի բաշխումը՝ փոխհատուցելու 2022 թվականի կորուստները։",
+        "link": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-tokenize-real-world-assets-on-bitcoin-1.jpg"
+        "enTitle": "Ex-FTX users report funds being released in $900M distribution round",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-funds-using-cryptocurrencies-ftx.png"
       },
       {
-        "headline": "Coinbase-ը չի կատարել Q2 եկամուտների կանխատեսումները",
-        "summary": "Coinbase-ը հայտնել է եկամուտների անկման և զուտ կորուստների մասին Q2-ում՝ կրիպտո առևտրային ակտիվության դանդաղման պատճառով։",
-        "link": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
-        "source": "Decrypt",
-        "enTitle": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Brian-Armstrong-coinbase-wikimedia-decrypt-style-gID_7.png@png"
-      },
-      {
-        "headline": "ԱՄՆ սենատորները CLARITY Act-ի վերաբերյալ նոր կանոններ են ուղարկել",
-        "summary": "ԱՄՆ սենատորները CLARITY Act-ի վերաբերյալ վերանայված էթիկայի կանոններ են ուղարկել Սպիտակ տուն՝ օրենսդրական գործընթացում առաջընթաց արձանագրելով։",
-        "link": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "US senators sent revised ethics rules to White House for CLARITY Act: Report",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/white-house-crypto3.jpg"
-      },
-      {
-        "headline": "Ripple-ը RLUSD-ն ընդլայնում է Հարավային Կորեայում",
-        "summary": "Ripple USD (RLUSD) stablecoin-ն այժմ առևտուր է անում Հարավային Կորեայի չորս խոշորագույն կրիպտոարժույթների բորսաներում։",
-        "link": "https://news.bitcoin.com/featured/ripple-expands-rlusd-across-south-koreas-top-4-exchanges/",
+        "headline": "BlackRock-ը գլխավորում է Bitcoin ETF-ների ներհոսքը",
+        "summary": "Bitcoin ETF-ները ներգրավել են $233.13 միլիոն, որի 79%-ը բաժին է ընկել BlackRock-ին՝ ընդլայնելով իրենց վերականգնումը։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-drives-79-of-bitcoin-etfs-233m-inflow/",
         "source": "Bitcoin News",
-        "enTitle": "Ripple Expands RLUSD Across South Korea’s Top 4 Exchanges",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/ripple-1-768x432.jpg"
+        "enTitle": "Blackrock Drives 79% of Bitcoin ETFs $233M Inflow",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/blackrock-drives-79-of-bitcoin-etfs-233m-inflow-768x432.jpg"
+      },
+      {
+        "headline": "Circle-ը ստացել է Նյու Յորքի վստահության լիցենզիա",
+        "summary": "Circle-ը ստացել է Նյու Յորքի վստահության լիցենզիա՝ ընդլայնելով իր կարգավորող ներկայությունը որպես stablecoin-ի թողարկող։",
+        "link": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer",
+        "source": "Decrypt",
+        "enTitle": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png@png"
+      },
+      {
+        "headline": "ԱՄՆ գանձապետարանը պատժամիջոցներ է սահմանել իրանական ընկերությունների նկատմամբ",
+        "summary": "ԱՄՆ գանձապետարանը պատժամիջոցներ է սահմանել երկու իրանական ընկերությունների նկատմամբ, որոնք Bitcoin են ընդունել Հորմուզի նեղուցով անցնելու համար։",
+        "link": "https://decrypt.co/374789/us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage",
+        "source": "Decrypt",
+        "enTitle": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png"
       }
     ]
   }
