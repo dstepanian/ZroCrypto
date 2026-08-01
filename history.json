@@ -2323,5 +2323,78 @@
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png"
       }
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "ts": 1785571497087,
+    "fng": {
+      "value": 27,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 63021,
+        "change24h": -1.372775495124552
+      },
+      {
+        "label": "Ethereum",
+        "price": 1867.76,
+        "change24h": -1.1677402376423907
+      }
+    ],
+    "overview": "Կրիպտո շուկայում այսօր նկատվեցին կարևոր զարգացումներ, ներառյալ սարքավորումային դրամապանակներին առնչվող անվտանգության խոցելիությունը և խոշոր ստաբիլքոյն թողարկողի կողմից շահույթի մասին հաշվետվությունը։ ԱՄՆ-ում կարգավորող ջանքերը շարունակվում են, մինչդեռ խոշոր բորսան կորուստներ է կրել, իսկ DeFi հսկան կատարել է ռազմավարական ճշգրտումներ։",
+    "items": [
+      {
+        "headline": "Coldcard-ի խոցելիության պատճառով կորցվել է $70 միլիոն Bitcoin",
+        "summary": "Galaxy Research-ը հայտնել է, որ Coldcard սարքավորումային դրամապանակի խոցելիության հետևանքով գրեթե 1,200 հասցեից գողացվել է ավելի քան 1,000 BTC՝ մոտ 70 միլիոն դոլար արժողությամբ։",
+        "link": "https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says",
+        "image": "https://www.tbstat.com/wp/uploads/2023/04/20230411_Hack_Generic_1-800x450.jpg"
+      },
+      {
+        "headline": "Tether-ը հայտնել է $1.5 միլիարդ շահույթ Q2-ում",
+        "summary": "Աշխարհի ամենամեծ ստաբիլքոյն ընկերությունը՝ Tether-ը, հայտնել է 1.5 միլիարդ դոլարի զուտ շահույթ երկրորդ եռամսյակում և ավելացրել իր Bitcoin պահուստները մինչև 98,932 BTC։",
+        "link": "https://news.bitcoin.com/stablecoins/usdt-issuer-tether-hits-1-5b-q2-profit-hoards-98932-bitcoin/",
+        "source": "Bitcoin News",
+        "enTitle": "USDT Issuer Tether Hits $1.5B Q2 Profit, Hoards 98,932 Bitcoin",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/tether-attestation-768x432.jpg"
+      },
+      {
+        "headline": "Coinbase-ը կորցրել է $359 միլիոն Q2-ում",
+        "summary": "Coinbase-ը հայտնել է 359.5 միլիոն դոլարի զուտ կորուստ երկրորդ եռամսյակում, չնայած իր եկամուտների 88%-ը Bitcoin spot առևտրից դուրս աղբյուրներից ստանալուն։",
+        "link": "https://cryptoslate.com/coinbase-spent-5-years-building-a-life-raft-away-from-bitcoin-trading-and-still-managed-to-lose-359-million/",
+        "source": "CryptoSlate",
+        "enTitle": "Coinbase spent 5 years building a life raft away from Bitcoin and still managed to lose $359M",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/coinbase-crypto-market-bull-editorial-collage.jpg"
+      },
+      {
+        "headline": "FTX-ի օգտատերերը ստանում են միջոցների բաշխում",
+        "summary": "FTX-ի նախկին օգտատերերը հայտնել են, որ սկսվել է 900 միլիոն դոլարի չափով միջոցների բաշխումը՝ փոխհատուցելու պարտատերերին 2022 թվականի կորուստների համար։",
+        "link": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Ex-FTX users report funds being released in $900M distribution round",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-funds-using-cryptocurrencies-ftx.png"
+      },
+      {
+        "headline": "Saylor-ը և Strategy-ն աջակցում են CLARITY Act-ին",
+        "summary": "Strategy Inc.-ը և Մայքլ Սեյլորը հայտարարել են իրենց աջակցությունը CLARITY Act-ին, քանի որ Սենատի օրենսդիրները ճնշման տակ են՝ առաջ մղելու կրիպտոարժույթների համապարփակ կանոնները։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/saylor-and-strategy-officially-back-clarity-act-for-us-crypto/",
+        "source": "Bitcoin News",
+        "enTitle": "Saylor and Strategy Officially Back CLARITY Act for US Crypto",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/saylor-and-strategy-support-clarity-act-x-post-1-768x449.jpg"
+      },
+      {
+        "headline": "Aave-ը դադարեցնում է աջակցությունը վեց բլոկչեյնի",
+        "summary": "DeFi հսկա Aave-ը նախատեսում է դադարեցնել նոր ակտիվությունը վեց բլոկչեյնի վրա, որոնք եռամսյակում 5,000 դոլարից պակաս եկամուտ են բերում։",
+        "link": "https://cryptoslate.com/why-defi-giant-aave-is-pulling-the-plug-on-six-hyped-blockchains-making-less-than-5000-a-quarter/",
+        "source": "CryptoSlate",
+        "enTitle": "Why DeFi giant Aave is pulling the plug on six hyped blockchains making less than $5,000 a quarter",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/aave-six-chain-debt-exit-path-editorial-collage.jpg"
+      }
+    ]
   }
 ]
