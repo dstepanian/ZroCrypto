@@ -2326,7 +2326,7 @@
   },
   {
     "date": "2026-08-01",
-    "ts": 1785571497087,
+    "ts": 1785602995561,
     "fng": {
       "value": 27,
       "label": "Fear",
@@ -2336,64 +2336,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63021,
-        "change24h": -1.372775495124552
+        "price": 62908,
+        "change24h": 0.22669024727598008
       },
       {
         "label": "Ethereum",
-        "price": 1867.76,
-        "change24h": -1.1677402376423907
+        "price": 1868.08,
+        "change24h": 0.3317124201975988
       }
     ],
-    "overview": "Կրիպտո շուկայում այսօր նկատվեցին կարևոր զարգացումներ, ներառյալ սարքավորումային դրամապանակներին առնչվող անվտանգության խոցելիությունը և խոշոր ստաբիլքոյն թողարկողի կողմից շահույթի մասին հաշվետվությունը։ ԱՄՆ-ում կարգավորող ջանքերը շարունակվում են, մինչդեռ խոշոր բորսան կորուստներ է կրել, իսկ DeFi հսկան կատարել է ռազմավարական ճշգրտումներ։",
+    "overview": "Շուկան բախվում է ինստիտուցիոնալ արտահոսքերի և անվտանգության լուրջ մտահոգությունների խառնուրդի հետ, մինչդեռ կարգավորող գործողությունները և stablecoin-ների պահուստների ստուգումը ավելացնում են զգուշավոր տրամադրությունները։",
     "items": [
       {
-        "headline": "Coldcard-ի խոցելիության պատճառով կորցվել է $70 միլիոն Bitcoin",
-        "summary": "Galaxy Research-ը հայտնել է, որ Coldcard սարքավորումային դրամապանակի խոցելիության հետևանքով գրեթե 1,200 հասցեից գողացվել է ավելի քան 1,000 BTC՝ մոտ 70 միլիոն դոլար արժողությամբ։",
+        "headline": "Coldcard դրամապանակի խոցելիությունը հանգեցրել է $70 միլիոնի կորստի",
+        "summary": "Galaxy Research-ը հայտնել է, որ Coldcard դրամապանակի խոցելիության պատճառով ավելի քան 1,000 BTC է կորել, ինչը կազմում է մոտ $70 միլիոն։",
         "link": "https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research?utm_source=rss&utm_medium=rss",
         "source": "The Block",
         "enTitle": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says",
         "image": "https://www.tbstat.com/wp/uploads/2023/04/20230411_Hack_Generic_1-800x450.jpg"
       },
       {
-        "headline": "Tether-ը հայտնել է $1.5 միլիարդ շահույթ Q2-ում",
-        "summary": "Աշխարհի ամենամեծ ստաբիլքոյն ընկերությունը՝ Tether-ը, հայտնել է 1.5 միլիարդ դոլարի զուտ շահույթ երկրորդ եռամսյակում և ավելացրել իր Bitcoin պահուստները մինչև 98,932 BTC։",
-        "link": "https://news.bitcoin.com/stablecoins/usdt-issuer-tether-hits-1-5b-q2-profit-hoards-98932-bitcoin/",
+        "headline": "Bitcoin ETF-ներից $265 միլիոնի արտահոսք",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ներից հուլիսի 31-ին գրանցվել է $265.4 միլիոնի զուտ արտահոսք, որը գլխավորել է Blackrock-ի IBIT-ը։",
+        "link": "https://news.bitcoin.com/crypto-news/bitcoin-etf-outflows-265-million-ether-inflows/",
         "source": "Bitcoin News",
-        "enTitle": "USDT Issuer Tether Hits $1.5B Q2 Profit, Hoards 98,932 Bitcoin",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/tether-attestation-768x432.jpg"
+        "enTitle": "Blackrock, Fidelity Lead $265M Bitcoin ETF Outflows as Ether Gains",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/blackrock-fidelity-lead-265m-bitcoin-etf-outflows-as-ether-gains_nwmk2-768x432.jpg"
       },
       {
-        "headline": "Coinbase-ը կորցրել է $359 միլիոն Q2-ում",
-        "summary": "Coinbase-ը հայտնել է 359.5 միլիոն դոլարի զուտ կորուստ երկրորդ եռամսյակում, չնայած իր եկամուտների 88%-ը Bitcoin spot առևտրից դուրս աղբյուրներից ստանալուն։",
-        "link": "https://cryptoslate.com/coinbase-spent-5-years-building-a-life-raft-away-from-bitcoin-trading-and-still-managed-to-lose-359-million/",
+        "headline": "Tether-ի պահուստների շուրջ մտահոգություններ",
+        "summary": "Tether-ի երկրորդ եռամսյակի հաշվետվությունը ցույց է տվել $1.5 միլիարդ շահույթ, սակայն թաքնված հաշվարկները բացահայտում են $4.2 միլիարդի բացասական ազդեցություն։",
+        "link": "https://cryptoslate.com/tether-claims-1-5b-profit-but-hidden-math-reveals-a-4-2b-hit-that-halved-its-safety-cushion-in-90-days/",
         "source": "CryptoSlate",
-        "enTitle": "Coinbase spent 5 years building a life raft away from Bitcoin and still managed to lose $359M",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/coinbase-crypto-market-bull-editorial-collage.jpg"
+        "enTitle": "Tether claims $1.5B profit, but hidden math reveals a $4.2B hit that halved its safety cushion in 90 days",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/tether-reserve-pressure-cliff-edge.jpg"
       },
       {
-        "headline": "FTX-ի օգտատերերը ստանում են միջոցների բաշխում",
-        "summary": "FTX-ի նախկին օգտատերերը հայտնել են, որ սկսվել է 900 միլիոն դոլարի չափով միջոցների բաշխումը՝ փոխհատուցելու պարտատերերին 2022 թվականի կորուստների համար։",
-        "link": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Ex-FTX users report funds being released in $900M distribution round",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-funds-using-cryptocurrencies-ftx.png"
+        "headline": "Ռուսաստանը արգելում է կրիպտո մայնինգը Մոսկվայում",
+        "summary": "Ռուսաստանի կառավարությունը մինչև 2032 թվականը արգելել է կրիպտոարժույթի մայնինգը Մոսկվայի մարզում՝ էներգիայի մատակարարման մտահոգությունների պատճառով։",
+        "link": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Russian decree bans crypto mining across Moscow region through 2032",
+        "image": "https://www.tbstat.com/wp/uploads/2018/10/russian-flag-800x450.jpg"
       },
       {
-        "headline": "Saylor-ը և Strategy-ն աջակցում են CLARITY Act-ին",
-        "summary": "Strategy Inc.-ը և Մայքլ Սեյլորը հայտարարել են իրենց աջակցությունը CLARITY Act-ին, քանի որ Սենատի օրենսդիրները ճնշման տակ են՝ առաջ մղելու կրիպտոարժույթների համապարփակ կանոնները։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/saylor-and-strategy-officially-back-clarity-act-for-us-crypto/",
-        "source": "Bitcoin News",
-        "enTitle": "Saylor and Strategy Officially Back CLARITY Act for US Crypto",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/saylor-and-strategy-support-clarity-act-x-post-1-768x449.jpg"
-      },
-      {
-        "headline": "Aave-ը դադարեցնում է աջակցությունը վեց բլոկչեյնի",
-        "summary": "DeFi հսկա Aave-ը նախատեսում է դադարեցնել նոր ակտիվությունը վեց բլոկչեյնի վրա, որոնք եռամսյակում 5,000 դոլարից պակաս եկամուտ են բերում։",
-        "link": "https://cryptoslate.com/why-defi-giant-aave-is-pulling-the-plug-on-six-hyped-blockchains-making-less-than-5000-a-quarter/",
+        "headline": "Wall Street-ի $16.3 միլիարդի Bitcoin կորուստներ",
+        "summary": "Bloomberg Intelligence-ի գնահատմամբ՝ ԱՄՆ-ի spot Bitcoin ETF-ների միջին ինքնարժեքը մոտ $82,249 է, ինչը հանգեցնում է $16.33 միլիարդի չիրացված կորուստների։",
+        "link": "https://cryptoslate.com/wall-street-faces-an-aug-14-bitcoin-test-with-the-average-etf-position-down-22/",
         "source": "CryptoSlate",
-        "enTitle": "Why DeFi giant Aave is pulling the plug on six hyped blockchains making less than $5,000 a quarter",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/aave-six-chain-debt-exit-path-editorial-collage.jpg"
+        "enTitle": "Wall Street is sitting on a $16.3 billion Bitcoin loss, and an August 14 deadline will expose who is quietly fleeing",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-etf-pressure-test-industrial-press.jpg"
       }
     ]
   }
