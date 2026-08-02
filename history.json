@@ -2391,7 +2391,7 @@
   },
   {
     "date": "2026-08-02",
-    "ts": 1785657994296,
+    "ts": 1785689338349,
     "fng": {
       "value": 27,
       "label": "Fear",
@@ -2401,64 +2401,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63440,
-        "change24h": 0.6635615938994157
+        "price": 63167,
+        "change24h": 0.4155120388858815
       },
       {
         "label": "Ethereum",
-        "price": 1875.09,
-        "change24h": 0.39507251177874614
+        "price": 1862.84,
+        "change24h": -0.267933039735738
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների աճող ուշադրությամբ և անվտանգության մարտահրավերներով, մինչդեռ Ռուսաստանը ընդլայնում է մայնինգի արգելքը, իսկ ԱՄՆ-ում քննարկվում են նոր կանոնակարգեր։",
+    "overview": "Անցած 24 ժամվա ընթացքում կրիպտոարժույթների շուկան բնութագրվել է կարգավորող գործողություններով, շուկայի զգալի տեղաշարժերով և անվտանգության հետ կապված մտահոգություններով։",
     "items": [
       {
-        "headline": "Ռուսաստանը արգելում է Bitcoin մայնինգը Մոսկվայում",
-        "summary": "Ռուսաստանի կառավարությունը մինչև 2032 թվականը Մոսկվայում և այլ շրջաններում արգելել է կրիպտոարժույթի մայնինգի գործունեությունը։",
+        "headline": "ԱՄՆ-ը սև ցուցակում է ներառել Իրանի ծովային սխեման",
+        "summary": "ԱՄՆ-ը սև ցուցակում է ներառել Իրանի ծովային սխեման, որը առևտրային նավերին ստիպում էր Bitcoin-ով վճարել անվտանգ անցման համար։",
+        "link": "https://cryptoslate.com/the-us-just-blacklisted-an-iranian-maritime-scheme-forcing-commercial-ships-to-pay-bitcoin-tolls-for-safe-passage/",
+        "source": "CryptoSlate",
+        "enTitle": "The US just blacklisted the Iranian maritime scheme forcing commercial ships to pay Bitcoin tolls for safe passage",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/ofac-hormuzsafe-bitcoin-screening-collage.jpg"
+      },
+      {
+        "headline": "Stablecoin-ների մատակարարումը կրճատվել է $15 միլիարդով",
+        "summary": "Stablecoin-ների ընդհանուր մատակարարումը կրճատվել է մոտ $15 միլիարդով՝ Terra-ի փլուզումից հետո ամենամեծ անկումը գրանցելով։",
+        "link": "https://news.bitcoin.com/stablecoins/stablecoin-supply-sheds-15-billion-in-biggest-drop-since-terra/",
+        "source": "Bitcoin News",
+        "enTitle": "Stablecoin Supply Sheds $15 Billion in Biggest Drop Since Terra",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/stablecoin-supply-sheds-15-billion-in-biggest-drop-since-terra-768x432.png"
+      },
+      {
+        "headline": "Մոսկվայում արգելվել է Bitcoin մայնինգը մինչև 2032 թվականը",
+        "summary": "Ռուսաստանի կառավարությունը Մոսկվայում և այլ շրջաններում արգելել է կրիպտոարժույթների մայնինգի գործունեությունը մինչև 2032 թվականի դեկտեմբերի 31-ը։",
         "link": "https://news.bitcoin.com/regulation-and-legal/moscow-bitcoin-mining-ban-hits-data-centers-until-2032/",
         "source": "Bitcoin News",
         "enTitle": "Moscow Bitcoin Mining Ban Hits Data Centers Until 2032",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/moscow-mining-ban-768x361.jpg"
       },
       {
-        "headline": "ԱՄՆ-ում կոչ են անում ուժեղացնել կրիպտո կարգավորումը",
-        "summary": "Նյու Յորքի գլխավոր դատախազը կոչ է արել Կոնգրեսին ուժեղացնել կրիպտոարժույթի կարգավորումը՝ հաշվի առնելով ավելի քան $11 միլիարդի կորուստները։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/11-billion-in-crypto-losses-adds-pressure-on-clarity-act/",
-        "source": "Bitcoin News",
-        "enTitle": "$11 Billion in Crypto Losses Adds Pressure on CLARITY Act",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/ny-ag-crypto-clarity-act-768x432.jpg"
-      },
-      {
-        "headline": "Bitcoin ETF-ներից դուրս են եկել $265 միլիոն",
-        "summary": "Վերջին 24 ժամվա ընթացքում Bitcoin ETF-ներից դուրս է եկել $265 միլիոն, ինչը ցույց է տալիս ներդրողների տրամադրությունների փոփոխություն։",
-        "link": "https://cryptoslate.com/bitcoin-etfs-shed-265m-as-blackrocks-staked-ether-fund-takes-15-4m/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitcoin ETFs just bled $265M in a brutal 24 hours, and Ethereum’s supposed rescue is another BlackRock illusion",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-decline-ethereum-etf-demand-editorial-collage.jpg"
-      },
-      {
-        "headline": "Coldcard դրամապանակի խոշոր հաքերային հարձակում",
-        "summary": "Coldcard դրամապանակի հետ կապված հաքերային հարձակումների հետևանքով կորուստները հասել են մոտ $88 միլիոնի՝ ազդելով հազարավոր հասցեների վրա։",
-        "link": "https://news.bitcoin.com/crypto-news/coldcard-theft-balloons-to-88m-as-exchange-deposits-spike-old-btc-moves/",
-        "source": "Bitcoin News",
-        "enTitle": "Coldcard Theft Balloons to $88M as Exchange Deposits Spike, Old BTC Moves",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/coldcard-theft-balloons-to-88m-as-exchange-deposits-spike-old-btc-moves-768x432.png"
-      },
-      {
-        "headline": "Michael Saylor-ը հերքում է Bitcoin-ի վաճառքի լուրերը",
-        "summary": "Michael Saylor-ը հերքել է MicroStrategy-ի կողմից $5 միլիարդի Bitcoin վաճառելու մասին լուրերը՝ պարզաբանելով, որ դա գոյություն ունեցող կապիտալի կառավարման գործիք է։",
-        "link": "https://news.bitcoin.com/featured/michael-saylor-rejects-report-of-new-strategy-bitcoin-sale-approval/",
-        "source": "Bitcoin News",
-        "enTitle": "Michael Saylor Rejects Report of New Strategy Bitcoin Sale Approval",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/michael-saylor-bitcoin-strategy-inc-2-768x432.jpg"
-      },
-      {
-        "headline": "SEC-ը կվերանայի Nasdaq Bitcoin Options-ը",
-        "summary": "SEC-ը կվերանայի Nasdaq-ի Bitcoin options-ի հաստատումը՝ CME-ի կողմից ներկայացված մարտահրավերից հետո, որը վիճարկում է իրավասությունը։",
-        "link": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
+        "headline": "Coldcard դրամապանակի հարձակումը տարածվում է",
+        "summary": "Coldcard սառը դրամապանակի վրա հարձակումը տարածվել է 4,500 հասցեների վրա, իսկ կորուստները մոտենում են $89 միլիոնի։",
+        "link": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "SEC to review Nasdaq bitcoin options approval after CME challenge",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d515099cc27d1cef5d333e5c01bb778ce49d7531-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Ethereum-ը գերազանցել է Bitcoin-ին ETF ներհոսքերով",
+        "summary": "Հուլիսին Ethereum-ը գերազանցել է Bitcoin-ին՝ գրանցելով $365 միլիոն ETF ներհոսքեր, ինչը ամիսներ շարունակ առաջին կայուն առաջընթացն է։",
+        "link": "https://cryptoslate.com/ethereum-just-outpaced-bitcoin-with-365-million-in-etf-inflows-but-on-chain-data-shows-the-real-bottom-isnt-in-yet/",
+        "source": "CryptoSlate",
+        "enTitle": "Ethereum just outpaced Bitcoin with $365 million in ETF inflows, but on-chain data shows the real bottom isn’t in yet",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-cost-basis-recovery-etf-inflows-collage.jpg"
+      },
+      {
+        "headline": "Trump Media-ն վաճառել է ևս 2,628 BTC",
+        "summary": "Trump Media-ն վաճառել է ևս 2,628 Bitcoin՝ իր ընդհանուր վաճառքները յոթ ամսվա ընթացքում հասցնելով 7,281 BTC-ի։",
+        "link": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitcoin.jpg"
       }
     ]
   }
