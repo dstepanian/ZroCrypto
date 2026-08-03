@@ -2464,7 +2464,7 @@
   },
   {
     "date": "2026-08-03",
-    "ts": 1785748988796,
+    "ts": 1785779006631,
     "fng": {
       "value": 28,
       "label": "Fear",
@@ -2474,64 +2474,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 62545,
-        "change24h": -1.039174398023931
+        "price": 63773,
+        "change24h": 0.817792091736127
       },
       {
         "label": "Ethereum",
-        "price": 1839.79,
-        "change24h": -1.529791071659725
+        "price": 1866.52,
+        "change24h": 0.034043359369002796
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է անվտանգության հետ կապված լուրջ մտահոգություններով և կարգավորող մարմինների կողմից շարունակվող զարգացումներով։ Մինչ Coldcard դրամապանակի հետ կապված խոցելիությունը մեծ կորուստներ է առաջացրել, կարևոր քայլեր են արվում ինստիտուցիոնալ ընդունման և կարգավորման ոլորտում։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ինտեգրման (BlackRock-ի նոր ֆոնդեր) և անվտանգության մտահոգությունների (չարամիտ խելացի պայմանագրեր, ապարատային դրամապանակների խոցելիություններ) խառնուրդով։ Կարգավորող մարմինների անորոշությունը և խոշոր ընկերությունների կողմից Bitcoin-ի վաճառքները նույնպես ազդում են շուկայի տրամադրությունների վրա։",
     "items": [
       {
-        "headline": "Bithumb-ը նպատակադրել է 2028թ. IPO",
-        "summary": "Հարավային Կորեայի Bithumb կրիպտո փոխանակումը պաշտոնապես նպատակադրել է 2028 թվականին IPO իրականացնել՝ ներկայացնելով բազմամյա ճանապարհային քարտեզ։",
-        "link": "https://www.theblock.co/post/410391/south-korea-bithumb-ipo-2028?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "South Korea’s Bithumb officially targets 2028 IPO, outlines multi-year roadmap",
-        "image": "https://www.tbstat.com/wp/uploads/2026/02/IMG_1434-e1770700184451-797x450.jpg"
-      },
-      {
-        "headline": "HashKey-ը ստացել է JPMorgan-ի հավանությունը",
-        "summary": "HashKey Exchange-ը ստացել է JPMorgan-ի հավանությունը հաճախորդների դրամական հաշիվներ բացելու համար՝ DBS Bank-ի հետ հաճախորդների ֆոնդային հաշիվներ գործարկելուց շաբաթներ անց։",
-        "link": "https://cointelegraph.com/news/hashkey-jpmorgan-client-money-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "HashKey receives JPMorgan approval to open client money account",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-hashkey-plans-to-become-hong-kongs-first-crypto-ipo.jpg"
-      },
-      {
-        "headline": "Strategy-ի դրամապանակից BTC է տեղափոխվել",
-        "summary": "Lookonchain-ը հայտնել է, որ Strategy-ի հետ կապված դրամապանակից տեղափոխվել է 299.84 BTC, ինչը կրկին հարցեր է բարձրացնում Michael Saylor-ի ընկերության կողմից Bitcoin վաճառելու մտադրության մասին։",
-        "link": "https://news.bitcoin.com/featured/strategy-wallet-moves-299-btc-saylor-selling/",
-        "source": "Bitcoin News",
-        "enTitle": "Is Saylor’s Strategy Selling Again? Lookonchain Claims Company Moved 299.84 BTC",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/strategy-drops-100m-on-1587-bitcoin-as-reserve-climbs-to-846842-btc_nwmk-768x432.png"
-      },
-      {
-        "headline": "Coldcard-ի վրա հարձակման նոր ալիք",
-        "summary": "Galaxy-ի հետազոտական բաժնի ղեկավար Ալեքս Թորնը զգուշացրել է Coldcard-ի վրա հարձակման չորրորդ հնարավոր ալիքի մասին, որը կարող է 448 Bitcoin գողանալ։",
-        "link": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hacker-man-cyberpunk-pupeeteer-bitcoin.jpg"
-      },
-      {
-        "headline": "SEC-ը հետաձգել է Nasdaq Bitcoin Options-ը",
-        "summary": "SEC-ը շարունակում է հետաձգել Nasdaq-ի Bitcoin options-ի հաստատումը՝ CME-ին վերանայման թույլտվություն տալուց հետո։",
-        "link": "https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "SEC keeps Nasdaq bitcoin options on hold after granting CME review",
-        "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News_2-800x450.jpg"
-      },
-      {
-        "headline": "CLARITY Act-ը Սենատի օրակարգից դուրս է եկել",
-        "summary": "CLARITY Act օրինագիծը հանվել է Սենատի երկուշաբթի օրվա օրակարգից՝ մինչև արձակուրդը այն փրկելու համար 72-ժամյա հետհաշվարկ սկսելով։",
-        "link": "https://cryptoslate.com/cryptos-landmark-clarity-act-just-vanished-from-mondays-senate-schedule-triggering-a-desperate-72-hour-countdown-to-save-it-before-recess/",
+        "headline": "4,200 չարամիտ խելացի պայմանագրեր",
+        "summary": "Հետազոտողները հայտնաբերել են 4,200 չարամիտ խելացի պայմանագրեր, որոնք հաջողությամբ խաբել են 5,700 զոհի՝ հափշտակելով նրանց կրիպտոարժույթները։",
+        "link": "https://cryptoslate.com/researchers-just-uncovered-4200-malicious-smart-contracts-that-successfully-tricked-5700-victims-into-signing-away-their-crypto/",
         "source": "CryptoSlate",
-        "enTitle": "CLARITY Act vanishes from Monday’s Senate schedule, triggering 72-hour countdown to save it before recess",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/clarity-act-senate-clock-hourglass-collage.jpg"
+        "enTitle": "Researchers just uncovered 4,200 malicious smart contracts that successfully tricked 5,700 victims into signing away their crypto",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/wallet-transaction-preview-phishing-attack.jpg"
+      },
+      {
+        "headline": "Bitget-ը դադարեցնում է ծառայությունները Ճապոնիայում",
+        "summary": "Կրիպտոարժույթի բորսա Bitget-ը հայտարարել է, որ մինչև 2026 թվականի դեկտեմբերի 31-ը կդադարեցնի ծառայությունները Ճապոնիայում՝ պարտադրելով թրեյդերներին դուրս գալ։",
+        "link": "https://news.bitcoin.com/crypto-news/bitget-quits-japan-forces-traders-to-exit-by-years-end/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitget Quits Japan, Forces Traders to Exit by Year’s End",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitget-quits-japan-forces-traders-to-exit-by-years-end-768x432.png"
+      },
+      {
+        "headline": "BlackRock-ը թողարկում է թոքենիզացված ֆոնդեր",
+        "summary": "BlackRock-ը գործարկել է երկու բլոկչեյնի վրա հիմնված դրամական շուկայի ֆոնդեր, որոնք նախատեսված են որպես stablecoin-ի պահուստային ակտիվներ ԱՄՆ GENIUS Act-ի համաձայն։",
+        "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "BlackRock launches tokenized money market funds for stablecoin reserves",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-j-blackrock-investments-explained.jpg"
+      },
+      {
+        "headline": "Clarity Act-ի ձախողումը կարող է իջեցնել կրիպտո շուկաները",
+        "summary": "Bernstein-ը կարծում է, որ Clarity Act-ի ընդունման ձախողումը այս տարի, հավանաբար, կհանգեցնի կրիպտո շուկաների հետագա անկմանը։",
+        "link": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a03886b63f9f486ffe9b1e5246f92bf2b612c49-1500x998.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Coldcard-ի խոցելիությունը սպառնում է դրամապանակներին",
+        "summary": "Coldcard-ի պատահական թվերի գեներատորի խափանումը ցույց է տալիս, որ Bitcoin-ի ապարատային դրամապանակները կարող են այնքան էլ անվտանգ չլինել, որքան կարծում էին։",
+        "link": "https://cryptoslate.com/no-dice-your-hardware-bitcoin-wallet-is-probably-not-as-secure-as-you-thought-it-was/",
+        "source": "CryptoSlate",
+        "enTitle": "No dice? Your Bitcoin hardware wallet is probably not as secure as you thought it was",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/cracked-bitcoin-seed-dice-egg-collage.jpg"
+      },
+      {
+        "headline": "Strategy-ն վաճառել է 1,638 BTC",
+        "summary": "Michael Saylor-ի Strategy ընկերությունը վաճառել է ևս 1,638 BTC 105 միլիոն դոլարով՝ նվազեցնելով ընդհանուր պահուստները մինչև 842,138 BTC։",
+        "link": "https://www.theblock.co/post/410414/michael-saylors-strategy-sells-another-1638-btc-for-105-million-reducing-total-holdings-to-842138-btc?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Michael Saylor’s Strategy sells another 1,638 BTC for $105 million, reducing total holdings to 842,138 BTC",
+        "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Microstrategy_News-800x450.jpg"
       }
     ]
   }
