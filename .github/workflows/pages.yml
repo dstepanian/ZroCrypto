@@ -3,6 +3,11 @@ name: Deploy site
 on:
   # The digest workflow commits history.json with [skip ci], so a push trigger
   # would never see a new day. Rebuild when that workflow finishes instead.
+  #
+  # Note: a push trigger doesn't fire for every push — a large fast-forward
+  # (e.g. syncing a branch that was many commits behind) can land without
+  # kicking off this workflow. If a deploy seems to be missing after a big
+  # sync, use workflow_dispatch or push one more small change to nudge it.
   workflow_run:
     workflows: ['Crypto Digest']
     types: [completed]
