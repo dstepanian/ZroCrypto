@@ -64,12 +64,51 @@ To enable it, set `TELEGRAM_ADMIN_CHAT_ID` (as a repo secret too):
 
 Leave it unset to skip this step entirely — the daily channel post is unaffected.
 
-## Demo site
+## Site (and why it exists)
 
-`web/index.html` — a self-contained page that visualizes the pipeline with **live**
-BTC/ETH prices and a Telegram-style digest preview. Deployed to GitHub Pages via
-`pages.yml`: **https://dstepanian.github.io/ZroCrypto/** (one-time: Settings → Pages →
-Source → "GitHub Actions").
+`t.me/zrocry` can't rank in Google — Telegram pages are a dead end for search. So every
+day that gets posted also becomes a **static HTML page**, the same trick ZroJobs uses:
+
+```
+history.json ─▶ npm run site ─▶ site/
+                                ├── index.html        (landing page + WebSite JSON-LD)
+                                ├── digest/index.html (archive, CollectionPage + ItemList)
+                                ├── digest/2026-06-29.html … (NewsArticle per day)
+                                ├── sitemap.xml
+                                └── robots.txt
+```
+
+Each day page carries the overview, the curated headlines with source links, the price
+table and the mood reading — all in the markup, no client-side rendering, so a crawler
+sees the Armenian text without running JavaScript. Days that only got a price-only
+fallback (curation failed) are skipped rather than published as thin content. Neighbouring
+days are linked both ways, so a crawler landing on one page can walk the whole archive.
+
+`web/index.html` is the hand-written landing page (live BTC/ETH ticker, pipeline
+animation, Telegram-style preview). The build copies it and fills in the `<!--zc:seo-->`
+and `<!--zc:archive-->` markers, since only the build knows the deploy URL.
+
+```bash
+npm run site   # writes site/ (gitignored)
+npm test       # renderer + structured-data tests
+```
+
+`pages.yml` rebuilds and deploys after every **Crypto Digest** run — a `workflow_run`
+trigger, because the digest commits `history.json` with `[skip ci]` and a push trigger
+would never fire. One-time: Settings → Pages → Source → "GitHub Actions".
+
+### Getting it indexed
+
+1. Set the repo variable `SITE_BASE_URL` if the site isn't at
+   **https://dstepanian.github.io/ZroCrypto/** — canonical URLs and the sitemap are
+   absolute and have to match the real host exactly.
+2. Add the property in [Search Console](https://search.google.com/search-console), then
+   submit `sitemap.xml`. For meta-tag verification, put the token in the repo variable
+   `GOOGLE_SITE_VERIFICATION` (value only, not the whole tag) and redeploy.
+3. **Caveat:** on a project Pages URL, `robots.txt` lands at `/ZroCrypto/robots.txt`,
+   which Google ignores — only a domain-root `robots.txt` counts. Crawling still works
+   (nothing is disallowed) and the sitemap is submitted directly, but a custom domain is
+   what makes the whole setup behave normally.
 
 ## Structure
 
@@ -88,3 +127,5 @@ Source → "GitHub Actions").
 | `src/history.js` | append/load `history.json` (one entry per day) |
 | `src/index.js` | orchestrate the daily run |
 | `src/weekly.js` | orchestrate the Sunday weekly recap |
+| `src/render.js` | site HTML — day pages, archive, JSON-LD, sitemap, robots |
+| `src/site.js` | build `site/` from `history.json` + `web/` |

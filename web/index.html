@@ -8,7 +8,9 @@
 <link rel="icon" type="image/svg+xml" href="avatar.svg" />
 <meta property="og:title" content="ZroCrypto — Կրիպտո օրվա ամփոփում" />
 <meta property="og:description" content="Crypto news → noise filter → Armenian digest, twice a day on Telegram." />
-<meta property="og:image" content="avatar.svg" />
+<!-- og:image, canonical and JSON-LD are filled in by `npm run site`, which is
+     the only place that knows the deploy URL. See src/render.js. -->
+<!--zc:seo-->
 <style>
   :root {
     --bg: #0b0e14;
@@ -170,6 +172,7 @@
   <p class="tag">Crypto news → noise filter → <b>Armenian digest</b>, posted to Telegram twice a day.
      RSS aggregation + CoinGecko prices + Gemini Flash curation. Runs free on a GitHub Actions cron.</p>
   <p class="cta"><a href="https://t.me/zrocry" target="_blank" rel="noopener">📢 Բացել ալիքը՝ @zrocry →</a></p>
+  <!--zc:archive-->
 
   <div class="grid">
     <!-- LEFT: pipeline -->

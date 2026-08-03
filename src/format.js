@@ -33,6 +33,13 @@ const yerevanRange = (startISO, endISO) => {
   return `${ad} ${MONTHS_HY[am - 1]} – ${bd} ${MONTHS_HY[bm - 1]}`;
 };
 
+// Armenian date with the year from a YYYY-MM-DD key, e.g. "30 հունիսի, 2026".
+// The site needs the year; the Telegram header deliberately doesn't.
+const hyDate = (iso) => {
+  const [y, m, d] = iso.split('-').map(Number);
+  return `${d} ${MONTHS_HY[m - 1]}, ${y}`;
+};
+
 const esc = (s = '') =>
   s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
@@ -254,4 +261,4 @@ export const formatWeekly = (history, { overview = '', highlights = [] }) => {
   return out.join('\n');
 };
 
-export { yerevanDate, yerevanISO };
+export { yerevanDate, yerevanISO, hyDate, esc };

@@ -1,11 +1,17 @@
-name: Deploy demo site
+name: Deploy site
 
 on:
+  # The digest workflow commits history.json with [skip ci], so a push trigger
+  # would never see a new day. Rebuild when that workflow finishes instead.
+  workflow_run:
+    workflows: ['Crypto Digest']
+    types: [completed]
   push:
     branches: [main]
-    # Only redeploy when the site itself changes — not on daily history.json commits.
     paths:
       - 'web/**'
+      - 'src/render.js'
+      - 'src/site.js'
       - '.github/workflows/pages.yml'
   workflow_dispatch: {}
 
@@ -20,16 +26,44 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  build:
+    # A failed digest run has no new day to publish.
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # On workflow_run, github.sha is the commit the digest run STARTED
+          # from — the history.json it pushed in its last step isn't there yet.
+          # Take the branch tip so today's digest actually reaches the site.
+          ref: ${{ github.event.workflow_run.head_branch || github.ref_name }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build site
+        run: npm run site
+        env:
+          SITE_BASE_URL: ${{ vars.SITE_BASE_URL }}
+          CHANNEL_HANDLE: ${{ vars.CHANNEL_HANDLE }}
+          GOOGLE_SITE_VERIFICATION: ${{ vars.GOOGLE_SITE_VERIFICATION }}
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
   deploy:
+    needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: web
       - id: deployment
         uses: actions/deploy-pages@v4
