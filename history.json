@@ -2534,5 +2534,78 @@
         "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Microstrategy_News-800x450.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-08-04",
+    "ts": 1785831710342,
+    "fng": {
+      "value": 25,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 63535,
+        "change24h": 1.7866180337550213
+      },
+      {
+        "label": "Ethereum",
+        "price": 1858.39,
+        "change24h": 1.2170994281031295
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարևոր կորպորատիվ գործարքներով, կարգավորող մարմինների զարգացումներով և անվտանգության հետ կապված միջադեպերով։ Ուշադրության կենտրոնում են Բութանի կողմից Bitcoin պահուստների կառավարման նոր մոտեցումը, Նիգերիայի կրիպտո հարկման կանոնները և Coldcard-ի հետ կապված խոշոր գողությունը։",
+    "items": [
+      {
+        "headline": "Բութանի Բիթքոյն պահուստի օգտագործում",
+        "summary": "Բութանի Gelephu Mindfulness City-ն հայտարարել է, որ 3iQ-ը կկառավարի իր Bitcoin պահուստի մի մասը շուկայական չեզոք հիմունքներով՝ երկարաժամկետ ազգային ակտիվ պահելուց անցում կատարելով։",
+        "link": "https://www.coindesk.com/markets/2026/08/04/bhutan-s-gmc-puts-part-of-its-bitcoin-treasury-to-work-after-10-000-btc-pledge",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/adf4cf82040d1106a3db7981dca4bd3bfd1b5efc-1440x825.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Նիգերիան սահմանում է կրիպտո հարկման կանոններ",
+        "summary": "Նիգերիան սահմանել է կրիպտո հարկերի հավաքագրման կանոններ թվային ակտիվների հարթակների համար՝ մանրամասնելով, թե ինչպես են գործող հարկային պարտավորությունները կիրառվում կրիպտո ակտիվների օտարման և պարգևների նկատմամբ։",
+        "link": "https://cointelegraph.com/news/nigeria-crypto-tax-rules-digital-asset-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Nigeria sets crypto tax collection rules for digital asset platforms",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-nigeria.png"
+      },
+      {
+        "headline": "Coldcard-ի Bitcoin գողությունը գերազանցում է $100M-ը",
+        "summary": "Galaxy Research-ը հայտարարել է, որ Coldcard-ի միջոցով Bitcoin-ի գողությունը գերազանցել է 100 միլիոն դոլարը երեք հաստատված հարձակումների արդյունքում, և հետաքննվում է չորրորդ ալիքը, որը կարող է կորուստները հասցնել 130 միլիոն դոլարի։",
+        "link": "https://cointelegraph.com/news/coldcard-bitcoin-theft-100-million-three-waves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Coldcard Bitcoin theft tops $100M across 3 confirmed attack waves: Galaxy",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hand-coin-laptop-hack-bitcoin.png"
+      },
+      {
+        "headline": "FBI-ի նախկին գործակալը գողացել է կրիպտո",
+        "summary": "FBI-ի նախկին հատուկ գործակալը մեղադրվում է իր հետաքննության թիրախից մոտ 1 միլիոն դոլար արժողությամբ կրիպտոարժույթ գողանալու մեջ՝ օգտագործելով seed phrases-ի հասանելիությունը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/fbi-spy-hunter-stole-1m-crypto-from-his-own-target-feds-say/",
+        "source": "Bitcoin News",
+        "enTitle": "FBI Spy Hunter Stole $1M Crypto From His Own Target, Feds Say",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/fbi-spy-hunter-stole-1m-crypto-from-his-own-target-feds-say-768x432.png"
+      },
+      {
+        "headline": "Mastercard-ը ձեռք է բերում BVNK-ը",
+        "summary": "Mastercard-ն ավարտել է BVNK-ի 1.8 միլիարդ դոլար արժողությամբ ձեռքբերումը՝ նպատակ ունենալով ընդլայնել stablecoin վճարումները, դուրսբերումները, հաշվարկները և գանձապետական ծառայությունները բանկերի, ֆինտեխների և ձեռնարկությունների համար։",
+        "link": "https://cointelegraph.com/news/mastercard-completes-bvnk-acquisition-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Mastercard completes $1.8B BVNK acquisition in stablecoin push",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sofi-and-mastercard-move-stablecoin-settlement-into-global-network.png"
+      },
+      {
+        "headline": "Strategy-ն վաճառում է Bitcoin և MSTR բաժնետոմսեր",
+        "summary": "Strategy-ն վաճառել է 395 միլիոն դոլարի Bitcoin և MSTR բաժնետոմսեր՝ 81 միլիոն դոլարի STRC հետգնման և կանխիկ պահուստը մինչև 4 միլիարդ դոլարի հասցնելու համար։",
+        "link": "https://cryptoslate.com/strategy-sells-395-million-in-bitcoin-and-mstr-stock-to-buyback-81-million-in-strc-and-build-cash-reserve-to-4-billion/",
+        "source": "CryptoSlate",
+        "enTitle": "Strategy sells $395 million in Bitcoin and MSTR stock to buyback $81 million in STRC and build cash reserve to $4 billion",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/strategy-bitcoin-sale-mstr-stock-cash-reserve-collage.jpg"
+      }
+    ]
   }
 ]
