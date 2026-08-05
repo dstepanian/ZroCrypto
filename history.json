@@ -2607,5 +2607,78 @@
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/blackrock-brings-2-tokenized-money-market-funds-to-stablecoin-issuers-768x432.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-08-05",
+    "ts": 1785917923380,
+    "fng": {
+      "value": 27,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 64131,
+        "change24h": 0.8950218813156767
+      },
+      {
+        "label": "Ethereum",
+        "price": 1867.61,
+        "change24h": 0.41101089815573333
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների զարգացումներով, ինստիտուցիոնալ արտադրանքների շարժով և նոր տեխնոլոգիական ինտեգրումներով: Կան ինչպես դրական կարգավորող քայլեր, այնպես էլ շարունակական արձանագրությունների և շուկայական ճշգրտումներ:",
+    "items": [
+      {
+        "headline": "Cloudflare-ը ներկայացնում է AI դրամապանակներ և stablecoin վճարումներ",
+        "summary": "Cloudflare-ը ներկայացրել է AI գործակալների համար ծրագրավորվող դրամապանակներ և հայտարարել, որ stablecoin-ներով վճարումների հնարավորությունները կգործարկվեն ապագա թարմացումներում։",
+        "link": "https://cointelegraph.com/news/cloudflare-wallets-ai-agents-stablecoin-payments-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-card-online-payment-cashless-payments-cloudflare-ai.jpg"
+      },
+      {
+        "headline": "Ethereum-ի առաջարկը կրճատելու է ETH թողարկումը",
+        "summary": "Նոր EIP-8361 նախագիծն առաջարկում է կրճատել Ethereum-ի թողարկումը մինչև զրո, եթե staked ETH-ը հասնի 112 միլիարդ դոլարի՝ այրելով վավերացնողների պարգևների աճող մասը։",
+        "link": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Bybit-ի եվրոպական մասնաճյուղը լիցենզիա է ստացել Ավստրիայում",
+        "summary": "Bybit-ի ավստրիական վճարային դուստր ձեռնարկությունը կարգավորող հավանություն է ստացել՝ մշակելու քարտային, առևտրային, բաց բանկային և անձից անձ վճարային ծառայություններ։",
+        "link": "https://cointelegraph.com/news/bybit-austria-electronic-money-license-europe-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bybit’s EU payments arm secures Austrian e-money license",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-beginners-guide-to-storing-your-cryptocurrency-mica-eu-license-1.png"
+      },
+      {
+        "headline": "ԱՄՆ-ն և Մեծ Բրիտանիան աջակցում են stablecoin-ներին և tokenization-ին",
+        "summary": "ԱՄՆ-ի և Մեծ Բրիտանիայի կարգավորող մարմինները հաստատել են իրենց աջակցությունը stablecoin-ներին և tokenization-ին՝ ընդգծելով թվային ակտիվների վերահսկողության ընդհանուր շրջանակը։",
+        "link": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-regulation-considerations-in-the-united-states-and-united-kingdom-1.jpg"
+      },
+      {
+        "headline": "BlackRock-ի Ethereum ETF-ը կանցնի բաժնետոմսերի բաժանման",
+        "summary": "BlackRock-ի spot Ethereum ETF-ը հոկտեմբերին կանցնի 1-ը 3-ի հակադարձ բաժնետոմսերի բաժանման, ինչը կմիավորի երեք ETHA բաժնետոմսը մեկի մեջ՝ բարձրացնելով ֆոնդի մեկ բաժնետոմսի զուտ ակտիվների արժեքը։",
+        "link": "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October",
+        "image": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Blackrock2-800x450.jpg"
+      },
+      {
+        "headline": "Hashdex-ը փակում է իր Bitcoin ETF-ը",
+        "summary": "Hashdex-ը փակում է իր 14.7 միլիոն դոլար արժողությամբ Bitcoin ETF-ը, և ներդրողները օգոստոսի 18-ից առաջ մի քանի օր ունեն վաճառելու իրենց բաժնետոմսերը։",
+        "link": "https://cryptoslate.com/hashdex-is-shutting-down-its-bitcoin-etf-leaving-investors-with-just-days-to-sell-before-a-blind-unpredictable-cash-out/",
+        "source": "CryptoSlate",
+        "enTitle": "Hashdex is shutting down its Bitcoin ETF, leaving investors with just days to sell before a blind, unpredictable cash out",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/hashdex-defi-etf-liquidation-file-tag.jpg"
+      }
+    ]
   }
 ]
