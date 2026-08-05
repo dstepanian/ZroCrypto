@@ -2610,7 +2610,7 @@
   },
   {
     "date": "2026-08-05",
-    "ts": 1785917923380,
+    "ts": 1785950459869,
     "fng": {
       "value": 27,
       "label": "Fear",
@@ -2620,64 +2620,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 64131,
-        "change24h": 0.8950218813156767
+        "price": 64532,
+        "change24h": 0.8368083538949365
       },
       {
         "label": "Ethereum",
-        "price": 1867.61,
-        "change24h": 0.41101089815573333
+        "price": 1891.28,
+        "change24h": 1.0694486050206986
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների զարգացումներով, ինստիտուցիոնալ արտադրանքների շարժով և նոր տեխնոլոգիական ինտեգրումներով: Կան ինչպես դրական կարգավորող քայլեր, այնպես էլ շարունակական արձանագրությունների և շուկայական ճշգրտումներ:",
+    "overview": "Ընդհանուր առմամբ, շուկան բնութագրվում է ինստիտուցիոնալ ընդունման շարունակական առաջընթացով, հատկապես ETF-ների և stablecoin-ների ոլորտում։ Միևնույն ժամանակ, կարգավորող անորոշությունները և անվտանգության մարտահրավերները մնում են օրակարգում։",
     "items": [
       {
-        "headline": "Cloudflare-ը ներկայացնում է AI դրամապանակներ և stablecoin վճարումներ",
-        "summary": "Cloudflare-ը ներկայացրել է AI գործակալների համար ծրագրավորվող դրամապանակներ և հայտարարել, որ stablecoin-ներով վճարումների հնարավորությունները կգործարկվեն ապագա թարմացումներում։",
-        "link": "https://cointelegraph.com/news/cloudflare-wallets-ai-agents-stablecoin-payments-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-card-online-payment-cashless-payments-cloudflare-ai.jpg"
+        "headline": "Bitwise-ը զգուշացնում է CLARITY Act-ի հետաձգման մասին",
+        "summary": "Bitwise-ի գլխավոր ներդրումային տնօրենը հայտարարել է, որ կրիպտոարդյունաբերությունը կարող է դիմակայել CLARITY Act-ի ձախողմանը, բայց ոչ անորոշության երկար սպասմանը։",
+        "link": "https://news.bitcoin.com/crypto-news/bitwise-cio-crypto-can-survive-clarity-act-failure-not-the-wait/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitwise CIO: Crypto Can Survive CLARITY Act Failure, Not the Wait",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitwise-cio-crypto-can-survive-clarity-act-failure-not-the-wait2_nwmk-768x432.jpg"
       },
       {
-        "headline": "Ethereum-ի առաջարկը կրճատելու է ETH թողարկումը",
-        "summary": "Նոր EIP-8361 նախագիծն առաջարկում է կրճատել Ethereum-ի թողարկումը մինչև զրո, եթե staked ETH-ը հասնի 112 միլիարդ դոլարի՝ այրելով վավերացնողների պարգևների աճող մասը։",
-        "link": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Bybit-ի եվրոպական մասնաճյուղը լիցենզիա է ստացել Ավստրիայում",
-        "summary": "Bybit-ի ավստրիական վճարային դուստր ձեռնարկությունը կարգավորող հավանություն է ստացել՝ մշակելու քարտային, առևտրային, բաց բանկային և անձից անձ վճարային ծառայություններ։",
-        "link": "https://cointelegraph.com/news/bybit-austria-electronic-money-license-europe-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bybit’s EU payments arm secures Austrian e-money license",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-beginners-guide-to-storing-your-cryptocurrency-mica-eu-license-1.png"
-      },
-      {
-        "headline": "ԱՄՆ-ն և Մեծ Բրիտանիան աջակցում են stablecoin-ներին և tokenization-ին",
-        "summary": "ԱՄՆ-ի և Մեծ Բրիտանիայի կարգավորող մարմինները հաստատել են իրենց աջակցությունը stablecoin-ներին և tokenization-ին՝ ընդգծելով թվային ակտիվների վերահսկողության ընդհանուր շրջանակը։",
-        "link": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-regulation-considerations-in-the-united-states-and-united-kingdom-1.jpg"
-      },
-      {
-        "headline": "BlackRock-ի Ethereum ETF-ը կանցնի բաժնետոմսերի բաժանման",
-        "summary": "BlackRock-ի spot Ethereum ETF-ը հոկտեմբերին կանցնի 1-ը 3-ի հակադարձ բաժնետոմսերի բաժանման, ինչը կմիավորի երեք ETHA բաժնետոմսը մեկի մեջ՝ բարձրացնելով ֆոնդի մեկ բաժնետոմսի զուտ ակտիվների արժեքը։",
-        "link": "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&utm_medium=rss",
+        "headline": "Circle-ը հայտարարում է Arc-ի վավերացնողների մասին",
+        "summary": "Circle-ը անվանել է BlackRock-ին, Visa-ին և DTCC-ին որպես Arc-ի վավերացնողներ, քանի որ ընկերության երկրորդ եռամսյակի եկամուտը հասել է 701 միլիոն դոլարի։",
+        "link": "https://www.theblock.co/post/410840/circle-names-blackrock-dtcc-among-arc-validators-as-q2-revenue-hits-701-million?utm_source=rss&utm_medium=rss",
         "source": "The Block",
-        "enTitle": "BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October",
-        "image": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Blackrock2-800x450.jpg"
+        "enTitle": "Circle names BlackRock, DTCC among Arc validators as Q2 revenue hits $701 million",
+        "image": "https://www.tbstat.com/wp/uploads/2020/12/20201218_Circle-2-800x450.jpg"
       },
       {
-        "headline": "Hashdex-ը փակում է իր Bitcoin ETF-ը",
-        "summary": "Hashdex-ը փակում է իր 14.7 միլիոն դոլար արժողությամբ Bitcoin ETF-ը, և ներդրողները օգոստոսի 18-ից առաջ մի քանի օր ունեն վաճառելու իրենց բաժնետոմսերը։",
-        "link": "https://cryptoslate.com/hashdex-is-shutting-down-its-bitcoin-etf-leaving-investors-with-just-days-to-sell-before-a-blind-unpredictable-cash-out/",
+        "headline": "Bitcoin ETF-ները շարունակում են ներհոսքերը",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները երեքշաբթի օրը ներգրավել են 211.49 միլիոն դոլար, ընդլայնելով շաբաթվա ուժեղ մեկնարկը, իսկ BlackRock-ի IBIT-ը ներգրավել է 170 միլիոն դոլար։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-pulls-170m-into-ibit-as-bitcoin-etfs-add-211m/",
+        "source": "Bitcoin News",
+        "enTitle": "Blackrock Pulls $170M Into IBIT as Bitcoin ETFs Add $211M",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/blackrock-pulls-170m-into-ibit-as-bitcoin-etfs-add-211m-768x432.jpg"
+      },
+      {
+        "headline": "Coldcard-ի ճգնաժամը կրկնապատկել է Bitcoin-ի «թեժ» մատակարարումը",
+        "summary": "Coldcard-ի խոցելիությունը հանգեցրել է Bitcoin-ի զգալի տեղաշարժի, ուղարկելով պարապ մետաղադրամները բորսաներ, բազմաստորագրային դրամապանակներ և նոր հասցեներ։",
+        "link": "https://news.bitcoin.com/crypto-news/onchain-data-coldcard-crisis-doubles-bitcoins-hot-supply-in-just-one-week/",
+        "source": "Bitcoin News",
+        "enTitle": "Onchain Data: Coldcard Crisis Doubles Bitcoin’s Hot Supply in Just One Week",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/onchain-data-coldcard-crisis-doubles-bitcoins-hot-supply-in-just-one-week-768x432.png"
+      },
+      {
+        "headline": "BlackRock-ը նախապատրաստում է ETHA-ի հակադարձ բաժանում",
+        "summary": "BlackRock-ը պատրաստվում է իր iShares Ethereum Trust ETF (ETHA)-ի մեկը երեքի հակադարձ բաժանման, ինչը կարող է 70 անգամ ավելի էժան դարձնել Ethereum-ի առևտուրը Coinbase-ի համեմատ։",
+        "link": "https://cryptoslate.com/blackrocks-rare-etha-reverse-split-is-about-to-make-trading-ethereum-70-times-cheaper-than-coinbase/",
         "source": "CryptoSlate",
-        "enTitle": "Hashdex is shutting down its Bitcoin ETF, leaving investors with just days to sell before a blind, unpredictable cash out",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/hashdex-defi-etf-liquidation-file-tag.jpg"
+        "enTitle": "BlackRock’s rare ETHA reverse split is about to make trading Ethereum 70 times cheaper than Coinbase",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/blackrock-etha-share-consolidation-crate.jpg"
+      },
+      {
+        "headline": "Լյուքսեմբուրգը ընդլայնում է FIU ծանուցումները կրիպտո բորսաներին",
+        "summary": "Լյուքսեմբուրգը նոր օրենսդրություն է ընդունում, որը իր Ֆինանսական հետախուզության բաժանմունքին (FIU) լիազորում է խարդախության մասին ծանուցումներ տրամադրել ինչպես ավանդական բանկերին, այնպես էլ կրիպտոարժույթների բորսաներին։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/luxembourg-expands-fiu-alerts-to-crypto-exchanges/",
+        "source": "Bitcoin News",
+        "enTitle": "Luxembourg Expands FIU Alerts to Crypto Exchanges",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/luxembourg-expands-fiu-alerts-to-crypto-exchanges-768x432.jpg"
       }
     ]
   }
