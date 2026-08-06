@@ -2680,5 +2680,78 @@
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/luxembourg-expands-fiu-alerts-to-crypto-exchanges-768x432.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-08-06",
+    "ts": 1786004197097,
+    "fng": {
+      "value": 25,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 64701,
+        "change24h": 0.8578594075532076
+      },
+      {
+        "label": "Ethereum",
+        "price": 1907.31,
+        "change24h": 2.090907415982477
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան նշանավորվում է կարգավորող մարմինների ակտիվությամբ և ավանդական ֆինանսական հաստատությունների կողմից կրիպտոարժույթների ինտեգրմամբ, մինչդեռ Bitcoin-ի անվտանգության հետ կապված մտահոգությունները շարունակում են քննարկվել։",
+    "items": [
+      {
+        "headline": "Bitcoin ETF-ները գրավում են միլիոններ",
+        "summary": "ԱՄՆ-ում գրանցված Bitcoin ETF-ները չորեքշաբթի օրը ներգրավել են 244.4 միլիոն դոլար՝ նշանավորելով երեք օր անընդմեջ ներհոսք՝ ընդհանուր 626 միլիոն դոլարի չափով։",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-244-million-three-day-inflow-streak-626-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-2.jpg"
+      },
+      {
+        "headline": "Bitcoin-ի մշակողները հայտնաբերել են խոցելիություններ",
+        "summary": "Bitcoin-ի մշակողների կամավոր խումբը հայտնել է 85 կրիտիկական սխալների մասին՝ նկարագրելով իրավիճակը որպես «չափազանց վատ»։",
+        "link": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Mastercard-ը ձեռք է բերում BVNK-ը",
+        "summary": "Mastercard-ն ավարտել է stablecoin վճարումների BVNK ընկերության ձեռքբերումը՝ իր գլոբալ ցանցին ավելացնելով onchain հաշվարկային և դրամապանակի ենթակառուցվածքներ։",
+        "link": "https://news.bitcoin.com/stablecoins/mastercard-closes-1-8b-bvnk-deal-in-stablecoin-payments-bet/",
+        "source": "Bitcoin News",
+        "enTitle": "Mastercard Closes $1.8B BVNK Deal in Stablecoin Payments Bet",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/mastercard-closes-1-8b-bvnk-deal-in-stablecoin-payments-bet-768x432.jpg"
+      },
+      {
+        "headline": "Ռուսաստանում ընդունվել է կրիպտոարժույթի օրենք",
+        "summary": "Ռուսաստանում ուժի մեջ է մտել նոր օրենք, որը թույլ է տալիս կրիպտոարժույթների կարգավորվող մանրածախ առևտուրը, սակայն արգելում է դրանց օգտագործումը երկրի ներսում ապրանքների և ծառայությունների դիմաց վճարելու համար։",
+        "link": "https://www.theblock.co/post/410951/putin-signs-russia-crypto-law?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Putin signs landmark crypto law allowing regulated retail trading in Russia",
+        "image": "https://www.tbstat.com/wp/uploads/2023/05/RCWILs4tA1mgiA6QcTUuxtdoR70GMn9i-729x450.jpg"
+      },
+      {
+        "headline": "ԱՄՆ-ն և Մեծ Բրիտանիան ներկայացնում են թվային ակտիվների պլան",
+        "summary": "ԱՄՆ և Մեծ Բրիտանիայի կարգավորող մարմինները ընդլայնում են համագործակցությունը կրիպտոարժույթների, թոքենիզացիայի, վճարումների, արհեստական ​​ինտելեկտի և ֆինանսական կայունության ոլորտներում։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/us-and-uk-reveal-digital-asset-plan-to-modernize-finance/",
+        "source": "Bitcoin News",
+        "enTitle": "US and UK Reveal Digital Asset Plan to Modernize Finance",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/us-uk-collaboration-768x432.jpg"
+      },
+      {
+        "headline": "Սենատը կքվեարկի CLARITY Act-ի շուրջ",
+        "summary": "ԱՄՆ սենատոր Սինթիա Լումիսը հայտարարել է, որ Սենատը կքվեարկի Digital Asset Market Clarity Act-ի շուրջ մինչև օրենսդիրների օգոստոսյան արձակուրդը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/senate-will-vote-on-clarity-act-before-august-recess-lummis-says/",
+        "source": "Bitcoin News",
+        "enTitle": "Senate Will Vote on CLARITY Act Before August Recess, Lummis Says",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/congress-clarity-act-2-768x432.jpg"
+      }
+    ]
   }
 ]
