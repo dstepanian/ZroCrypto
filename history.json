@@ -2753,5 +2753,78 @@
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/congress-clarity-act-2-768x432.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-08-07",
+    "ts": 1786081167826,
+    "fng": {
+      "value": 29,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 64149,
+        "change24h": -1.0159005467931037
+      },
+      {
+        "label": "Ethereum",
+        "price": 1894.82,
+        "change24h": -0.7711322661867264
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող անորոշությամբ և ինստիտուցիոնալ ներդրումների տեղաշարժերով, մինչդեռ տեխնոլոգիական զարգացումները և ընդունումը շարունակվում են։",
+    "items": [
+      {
+        "headline": "CLARITY Act-ի քվեարկությունը հետաձգվեց",
+        "summary": "ԱՄՆ Սենատը հետաձգել է CLARITY Act կրիպտո օրինագծի քվեարկությունը մինչև օգոստոսյան արձակուրդից հետո՝ սեպտեմբեր։",
+        "link": "https://www.theblock.co/post/411083/senate-delays-clarity-act-vote?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Senate delays Clarity Act vote until after August recess, Thune confirms",
+        "image": "https://www.tbstat.com/wp/uploads/2022/01/20210120_Capitol_Generic-800x450.jpg"
+      },
+      {
+        "headline": "BlackRock-ի կրիպտո ETF-ները կորցրել են $3.5 մլրդ",
+        "summary": "BlackRock-ի կրիպտո ETF-ները, ներառյալ IBIT-ը և ETHA-ն, երկրորդ եռամսյակում գրանցել են $3.5 միլիարդի մարումներ՝ փոխելով նախորդ տարվա աճի միտումը։",
+        "link": "https://cryptoslate.com/blackrocks-crypto-etfs-shed-3-5-billion-as-last-years-creation-boom-turns-into-redemptions/",
+        "source": "CryptoSlate",
+        "enTitle": "BlackRock’s crypto ETFs shed $3.5 billion as last year’s creation boom turns into redemptions",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/blackrock.jpeg"
+      },
+      {
+        "headline": "Ճապոնիան պահանջում է դուրսբերման ուշացումներ",
+        "summary": "Ճապոնիայի Ֆինանսական Ծառայությունների Գործակալությունը (FSA) կրիպտո բորսաներից պահանջում է սահմանել դուրսբերման ուշացումներ՝ խարդախությունների դեմ պայքարելու համար։",
+        "link": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/skjapan-1.jpg"
+      },
+      {
+        "headline": "Wintermute-ը գրանցվել է որպես SEC բրոքեր-դիլեր",
+        "summary": "Կրիպտո շուկա ստեղծող Wintermute-ը գրանցվել է որպես SEC բրոքեր-դիլեր՝ թույլ տալով ընկերությանը առևտուր անել բաժնետոմսերով, օպցիոններով և կրիպտո ETF-ներով ԱՄՆ-ում։",
+        "link": "https://www.theblock.co/post/411060/wintermute-registers-as-sec-broker-dealer-to-trade-stocks-options-and-crypto-etfs?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Wintermute registers as SEC broker-dealer to trade stocks, options and crypto ETFs",
+        "image": "https://www.tbstat.com/wp/uploads/2023/02/20230216_Wintermute_News-800x450.jpg"
+      },
+      {
+        "headline": "Sui-ն ավելացնում է քվանտային անվտանգության ստորագրություններ",
+        "summary": "Sui բլոկչեյնը կավելացնի հետքվանտային ստորագրության սխեմաներ՝ օգտատերերին հնարավորություն տալով ունենալ քվանտային անվտանգ հաշիվներ՝ առանց նոր վերականգնման արտահայտությունների։",
+        "link": "https://www.theblock.co/post/410968/sui-post-quantum-signature-scheme?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Sui to add post-quantum signature schemes for quantum-safe accounts",
+        "image": "https://www.tbstat.com/wp/uploads/2024/10/sui-news-800x450.png"
+      },
+      {
+        "headline": "Dubai Duty Free-ն ընդունում է Crypto.com Pay",
+        "summary": "Dubai Duty Free-ն ներդրել է Crypto.com Pay-ը որպես կարգավորվող թվային վճարման տարբերակ՝ թույլ տալով ԱՄԷ-ի բնակիչներին օգտագործել իրենց Crypto.com հաշիվները օդանավակայանի խանութներում։",
+        "link": "https://news.bitcoin.com/featured/dubai-duty-free-brings-crypto-com-pay-to-airport-retail-in-uae/",
+        "source": "Bitcoin News",
+        "enTitle": "Dubai Duty Free Brings Crypto.com Pay to Airport Retail in UAE",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/dubai-duty-free-768x432.jpg"
+      }
+    ]
   }
 ]
