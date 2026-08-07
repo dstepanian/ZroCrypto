@@ -2756,7 +2756,7 @@
   },
   {
     "date": "2026-08-07",
-    "ts": 1786081167826,
+    "ts": 1786086046870,
     "fng": {
       "value": 29,
       "label": "Fear",
@@ -2766,64 +2766,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 64149,
-        "change24h": -1.0159005467931037
+        "price": 64284,
+        "change24h": -0.7568838095801277
       },
       {
         "label": "Ethereum",
-        "price": 1894.82,
-        "change24h": -0.7711322661867264
+        "price": 1903.2,
+        "change24h": -0.3996113021245168
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող անորոշությամբ և ինստիտուցիոնալ ներդրումների տեղաշարժերով, մինչդեռ տեխնոլոգիական զարգացումները և ընդունումը շարունակվում են։",
+    "overview": "Ամփոփելով այսօրվա նորությունները, կրիպտո շուկան ցուցաբերում է զգուշավորություն՝ կապված կարգավորող մարմինների գործողությունների և խոշոր ներդրումների վերաբերյալ նորությունների հետ։ Միևնույն ժամանակ, տեխնոլոգիական առաջընթացները, ինչպիսիք են AI-ի ինտեգրումը, շարունակում են ազդել ոլորտի զարգացման վրա։",
     "items": [
       {
-        "headline": "CLARITY Act-ի քվեարկությունը հետաձգվեց",
-        "summary": "ԱՄՆ Սենատը հետաձգել է CLARITY Act կրիպտո օրինագծի քվեարկությունը մինչև օգոստոսյան արձակուրդից հետո՝ սեպտեմբեր։",
-        "link": "https://www.theblock.co/post/411083/senate-delays-clarity-act-vote?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Senate delays Clarity Act vote until after August recess, Thune confirms",
-        "image": "https://www.tbstat.com/wp/uploads/2022/01/20210120_Capitol_Generic-800x450.jpg"
+        "headline": "ԱՄՆ Սենատը հետաձգում է CLARITY Act-ի քվեարկությունը մինչև սեպտեմբեր",
+        "summary": "ԱՄՆ Սենատը հետաձգել է կրիպտոարժույթների շուկայի կառուցվածքի մասին CLARITY Act օրինագծի քվեարկությունը մինչև սեպտեմբեր՝ սենատորների միջև համաձայնության բացակայության պատճառով, ինչը հույսեր է կապում օրինագծի այս տարի ընդունվելու վերաբերյալ։",
+        "link": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US Senate pushes CLARITY Act vote to September",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-civil-war.jpg"
       },
       {
-        "headline": "BlackRock-ի կրիպտո ETF-ները կորցրել են $3.5 մլրդ",
-        "summary": "BlackRock-ի կրիպտո ETF-ները, ներառյալ IBIT-ը և ETHA-ն, երկրորդ եռամսյակում գրանցել են $3.5 միլիարդի մարումներ՝ փոխելով նախորդ տարվա աճի միտումը։",
+        "headline": "Bitcoin-ի «կետերը» կուտակում են 1.2 միլիարդ դոլար, ETF-ները՝ 750 միլիոն դոլար",
+        "summary": "Bitcoin-ի խոշոր ներդրողները՝ «կետերը», այս շաբաթ կուտակել են 1.2 միլիարդ դոլարի Bitcoin, մինչդեռ spot Bitcoin ETF-ները ներգրավել են 750 միլիոն դոլարի ներդրումներ։",
+        "link": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/cdf7e8f4de8522a9a5bf3476f78117049a0d84cb-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "BlackRock-ի կրիպտո ETF-ները կորցրել են 3.5 միլիարդ դոլար",
+        "summary": "BlackRock-ի կողմից թողարկված կրիպտոարժույթային ETF-ները, մասնավորապես IBIT և ETHA, գրանցել են 3.5 միլիարդ դոլարի զուտ դուրսբերումներ՝ նախորդ տարվա ստեղծման աճից հետո։",
         "link": "https://cryptoslate.com/blackrocks-crypto-etfs-shed-3-5-billion-as-last-years-creation-boom-turns-into-redemptions/",
         "source": "CryptoSlate",
         "enTitle": "BlackRock’s crypto ETFs shed $3.5 billion as last year’s creation boom turns into redemptions",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/08/blackrock.jpeg"
       },
       {
-        "headline": "Ճապոնիան պահանջում է դուրսբերման ուշացումներ",
-        "summary": "Ճապոնիայի Ֆինանսական Ծառայությունների Գործակալությունը (FSA) կրիպտո բորսաներից պահանջում է սահմանել դուրսբերման ուշացումներ՝ խարդախությունների դեմ պայքարելու համար։",
+        "headline": "Ճապոնիան խորհուրդ է տալիս կրիպտո փոխանակումներին՝ ուշացումներ կիրառել խարդախությունները կանխելու համար",
+        "summary": "Ճապոնիայի ֆինանսական ծառայությունների գործակալությունը (FSA) կոչ է արել կրիպտո փոխանակումներին կիրառել հաշիվների գրանցում, հաճախորդներին վերաբերող սահմանափակումներ և ուժեղացված վավերացում՝ խարդախությունները կանխելու նպատակով։",
         "link": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
         "enTitle": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
         "image": "https://s3-images.ctmedia.io/media/article-covers/skjapan-1.jpg"
       },
       {
-        "headline": "Wintermute-ը գրանցվել է որպես SEC բրոքեր-դիլեր",
-        "summary": "Կրիպտո շուկա ստեղծող Wintermute-ը գրանցվել է որպես SEC բրոքեր-դիլեր՝ թույլ տալով ընկերությանը առևտուր անել բաժնետոմսերով, օպցիոններով և կրիպտո ETF-ներով ԱՄՆ-ում։",
+        "headline": "Wintermute-ը գրանցվում է որպես ԱՄՆ բրոքեր-դիլեր",
+        "summary": "Կրիպտո շուկայի մարքեթ-մեյքեր Wintermute-ը գրանցվել է ԱՄՆ-ում որպես բրոքեր-դիլեր՝ նախապատրաստվելով tokenized արժեթղթերի աճին։",
         "link": "https://www.theblock.co/post/411060/wintermute-registers-as-sec-broker-dealer-to-trade-stocks-options-and-crypto-etfs?utm_source=rss&utm_medium=rss",
         "source": "The Block",
         "enTitle": "Wintermute registers as SEC broker-dealer to trade stocks, options and crypto ETFs",
         "image": "https://www.tbstat.com/wp/uploads/2023/02/20230216_Wintermute_News-800x450.jpg"
       },
       {
-        "headline": "Sui-ն ավելացնում է քվանտային անվտանգության ստորագրություններ",
-        "summary": "Sui բլոկչեյնը կավելացնի հետքվանտային ստորագրության սխեմաներ՝ օգտատերերին հնարավորություն տալով ունենալ քվանտային անվտանգ հաշիվներ՝ առանց նոր վերականգնման արտահայտությունների։",
-        "link": "https://www.theblock.co/post/410968/sui-post-quantum-signature-scheme?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Sui to add post-quantum signature schemes for quantum-safe accounts",
-        "image": "https://www.tbstat.com/wp/uploads/2024/10/sui-news-800x450.png"
-      },
-      {
-        "headline": "Dubai Duty Free-ն ընդունում է Crypto.com Pay",
-        "summary": "Dubai Duty Free-ն ներդրել է Crypto.com Pay-ը որպես կարգավորվող թվային վճարման տարբերակ՝ թույլ տալով ԱՄԷ-ի բնակիչներին օգտագործել իրենց Crypto.com հաշիվները օդանավակայանի խանութներում։",
-        "link": "https://news.bitcoin.com/featured/dubai-duty-free-brings-crypto-com-pay-to-airport-retail-in-uae/",
+        "headline": "CertiK-ի տնօրենը AI-ն դրական է համարում Web3-ի համար",
+        "summary": "CertiK-ի ինժեներական տնօրեն Կայջերն Լաուն կարծում է, որ արհեստական ​​ինտելեկտը (AI) դրական ազդեցություն կունենա Web3-ի անվտանգության վրա, չնայած ռիսկերին, և կոչ է արել ավելացնել ներդրումները AI անվտանգության ոլորտում։",
+        "link": "https://news.bitcoin.com/interview/certik-director-lau-advances-ai-as-net-positive-despite-risks/",
         "source": "Bitcoin News",
-        "enTitle": "Dubai Duty Free Brings Crypto.com Pay to Airport Retail in UAE",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/dubai-duty-free-768x432.jpg"
+        "enTitle": "CertiK Director Lau Advances AI as Net Positive Despite Risks",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/certik-logo-768x432.jpg"
       }
     ]
   }
