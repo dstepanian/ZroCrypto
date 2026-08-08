@@ -2826,5 +2826,78 @@
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png"
       }
     ]
+  },
+  {
+    "date": "2026-08-08",
+    "ts": 1786170912725,
+    "fng": {
+      "value": 30,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 64935,
+        "change24h": 0.996626849001077
+      },
+      {
+        "label": "Ethereum",
+        "price": 1915.24,
+        "change24h": 0.676583919076373
+      }
+    ],
+    "overview": "Կրիպտոարժույթների շուկան այսօր ցույց է տվել խառը տրամադրություններ՝ ինստիտուցիոնալ ներդրումների շարունակական հոսքի և կարգավորվող ֆինանսական ծառայությունների ընդլայնման ֆոնին: Միևնույն ժամանակ, ԱՄՆ-ում կարգավորող օրենսդրության հետաձգումները և անվտանգության հետ կապված մտահոգությունները շարունակում են մնալ օրակարգում:",
+    "items": [
+      {
+        "headline": "Bitcoin և Ether ETF-ների ներհոսք",
+        "summary": "Bitcoin և Ether ETF-ները գրավել են 220 միլիոն դոլարի ներհոսք, ընդ որում BlackRock-ը կրկին առաջատարն է:",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-ether-etfs-add-220-million-as-blackrock-leads-again/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin, Ether ETFs Add $220 Million as Blackrock Leads Again",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-ether-etfs-add-220-million-as-blackrock-leads-again-768x432.png"
+      },
+      {
+        "headline": "Trump Media-ն դադարեցնում է Crypto.com-ի հետ գործարքը",
+        "summary": "Donald Trump-ի մեդիա ընկերությունը դադարեցնում է Crypto.com-ի հետ համաձայնագիրը՝ հրաժարվելով CRO գանձապետարան ստեղծելու պլաններից:",
+        "link": "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Donald Trump’s media company to terminate Crypto.com deal",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-tmtg-wallet.jpg"
+      },
+      {
+        "headline": "Գանձապետարանը պատժամիջոցներ է կիրառում Իրանի հետ կապված բորսաների նկատմամբ",
+        "summary": "ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել երկու կրիպտո բորսաների նկատմամբ՝ պնդելով, որ դրանք միլիոնավոր դոլարներ են լվացել Իրանի հեղափոխական գվարդիայի համար:",
+        "link": "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran",
+        "source": "Decrypt",
+        "enTitle": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png"
+      },
+      {
+        "headline": "BTCPay Server-ը նախազգուշացնում է խոցելիության մասին",
+        "summary": "BTCPay Server-ը նախազգուշացրել է Bitcoin Lightning Nodes-ի վրա ազդող կրիտիկական խոցելիության մասին և խորհուրդ է տվել շտապ թարմացնել ծառայությունը:",
+        "link": "https://news.bitcoin.com/security/bitcoin-lightning-nodes-hit-as-btcpay-signals-emergency-2-4-2-fix/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin Lightning Nodes Hit as BTCPay Signals Emergency 2.4.2 Fix",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/btcpay-hack-768x432.jpg"
+      },
+      {
+        "headline": "Սենատը հետաձգում է CLARITY Act-ի քվեարկությունը",
+        "summary": "ԱՄՆ Սենատը հետաձգել է CLARITY Act օրենսդրության քվեարկությունը մինչև սեպտեմբեր՝ թողնելով քիչ ժամանակ մինչև միջանկյալ ընտրությունների սեզոնը:",
+        "link": "https://cryptoslate.com/senate-abandons-august-clarity-act-vote-leaving-14-work-days-until-midterm-election-season-kills-it/",
+        "source": "CryptoSlate",
+        "enTitle": "Senate abandons August CLARITY Act vote – leaving 14 ‘work days’ until midterm election season kills it",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/clarity-act-senate-delay.jpg"
+      },
+      {
+        "headline": "Wintermute-ը գրանցվում է որպես բրոքեր-դիլեր",
+        "summary": "Wintermute-ի ԱՄՆ մասնաճյուղը գրանցվել է որպես բրոքեր-դիլեր՝ ճանապարհ հարթելով դեպի կարգավորվող արժեթղթերի առևտուր և նպատակ ունենալով ընդլայնվել դեպի tokenized stocks:",
+        "link": "https://news.bitcoin.com/crypto-news/wintermute-registers-as-us-broker-dealer-eyes-tokenized-stocks/",
+        "source": "Bitcoin News",
+        "enTitle": "Wintermute Registers as US Broker-Dealer, Eyes Tokenized Stocks",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/wintermute-registers-as-u-s--broker-dealer-eyes-tokenized-stocks-768x432.png"
+      }
+    ]
   }
 ]
