@@ -2829,7 +2829,7 @@
   },
   {
     "date": "2026-08-08",
-    "ts": 1786170912725,
+    "ts": 1786206068520,
     "fng": {
       "value": 30,
       "label": "Fear",
@@ -2839,64 +2839,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 64935,
-        "change24h": 0.996626849001077
+        "price": 65039,
+        "change24h": 0.1387091355946022
       },
       {
         "label": "Ethereum",
-        "price": 1915.24,
-        "change24h": 0.676583919076373
+        "price": 1921.77,
+        "change24h": 0.17106766194218362
       }
     ],
-    "overview": "Կրիպտոարժույթների շուկան այսօր ցույց է տվել խառը տրամադրություններ՝ ինստիտուցիոնալ ներդրումների շարունակական հոսքի և կարգավորվող ֆինանսական ծառայությունների ընդլայնման ֆոնին: Միևնույն ժամանակ, ԱՄՆ-ում կարգավորող օրենսդրության հետաձգումները և անվտանգության հետ կապված մտահոգությունները շարունակում են մնալ օրակարգում:",
+    "overview": "Կրիպտոարժույթների շուկայում օրվա ընթացքում նկատվել են խառը միտումներ՝ կարգավորող մարմինների գործողությունների և ինստիտուցիոնալ ներգրավվածության փոփոխությունների ֆոնին։ Մինչ ԱՄՆ Սենատը քայլեր է ձեռնարկում CLARITY օրենքի ուղղությամբ, Բրազիլիան սահմանափակումներ է մտցրել, իսկ ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել։",
     "items": [
       {
-        "headline": "Bitcoin և Ether ETF-ների ներհոսք",
-        "summary": "Bitcoin և Ether ETF-ները գրավել են 220 միլիոն դոլարի ներհոսք, ընդ որում BlackRock-ը կրկին առաջատարն է:",
-        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-ether-etfs-add-220-million-as-blackrock-leads-again/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin, Ether ETFs Add $220 Million as Blackrock Leads Again",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-ether-etfs-add-220-million-as-blackrock-leads-again-768x432.png"
-      },
-      {
-        "headline": "Trump Media-ն դադարեցնում է Crypto.com-ի հետ գործարքը",
-        "summary": "Donald Trump-ի մեդիա ընկերությունը դադարեցնում է Crypto.com-ի հետ համաձայնագիրը՝ հրաժարվելով CRO գանձապետարան ստեղծելու պլաններից:",
-        "link": "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "ԱՄՆ Սենատը կքվեարկի CLARITY օրենքի շուրջ",
+        "summary": "ԱՄՆ Սենատը սեպտեմբերին կքվեարկի CLARITY օրենքի առաջխաղացման շուրջ՝ կրիպտո շուկայի կառուցվածքի օրենսդրությունը կրկին ուղու վրա դնելով։",
+        "link": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Donald Trump’s media company to terminate Crypto.com deal",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-tmtg-wallet.jpg"
+        "enTitle": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-crypto-regulation-is-pushing-its-way-to-clarity-act-2.jpg"
       },
       {
-        "headline": "Գանձապետարանը պատժամիջոցներ է կիրառում Իրանի հետ կապված բորսաների նկատմամբ",
-        "summary": "ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել երկու կրիպտո բորսաների նկատմամբ՝ պնդելով, որ դրանք միլիոնավոր դոլարներ են լվացել Իրանի հեղափոխական գվարդիայի համար:",
+        "headline": "Բրազիլիան սահմանափակում է կրիպտո փոխանցումները",
+        "summary": "Բրազիլիայի կենտրոնական բանկը հրահանգել է բորսաներին հետաձգել 10,000 դոլարից ավելի արժողությամբ կրիպտո փոխանցումները արտերկիր։",
+        "link": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել կրիպտո բորսաների նկատմամբ",
+        "summary": "ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել երկու կրիպտո բորսաների նկատմամբ, որոնք, ըստ նրա, միլիոնավոր դոլարներ են լվացել Իրանի համար։",
         "link": "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran",
         "source": "Decrypt",
         "enTitle": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png"
       },
       {
-        "headline": "BTCPay Server-ը նախազգուշացնում է խոցելիության մասին",
-        "summary": "BTCPay Server-ը նախազգուշացրել է Bitcoin Lightning Nodes-ի վրա ազդող կրիտիկական խոցելիության մասին և խորհուրդ է տվել շտապ թարմացնել ծառայությունը:",
-        "link": "https://news.bitcoin.com/security/bitcoin-lightning-nodes-hit-as-btcpay-signals-emergency-2-4-2-fix/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Lightning Nodes Hit as BTCPay Signals Emergency 2.4.2 Fix",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/btcpay-hack-768x432.jpg"
+        "headline": "Bitcoin և Ether ETF-ները գրավել են 1.1 միլիարդ դոլար",
+        "summary": "Bitcoin և Ether ETF-ները գրավել են 1.1 միլիարդ դոլար՝ գրանցելով լավագույն ներհոսքի շաբաթը ապրիլից ի վեր։",
+        "link": "https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume",
+        "image": "https://www.tbstat.com/wp/uploads/2023/08/20230726_BitcoinVEthereum_News-800x450.jpg"
       },
       {
-        "headline": "Սենատը հետաձգում է CLARITY Act-ի քվեարկությունը",
-        "summary": "ԱՄՆ Սենատը հետաձգել է CLARITY Act օրենսդրության քվեարկությունը մինչև սեպտեմբեր՝ թողնելով քիչ ժամանակ մինչև միջանկյալ ընտրությունների սեզոնը:",
-        "link": "https://cryptoslate.com/senate-abandons-august-clarity-act-vote-leaving-14-work-days-until-midterm-election-season-kills-it/",
+        "headline": "Trump Media-ն չեղարկել է կրիպտո նախագիծը",
+        "summary": "Trump Media & Technology Group-ը և Crypto.com-ը չեղարկել են 6.42 միլիարդ դոլար արժողությամբ թվային ակտիվների գանձապետական նախագծի պլանները։",
+        "link": "https://cryptoslate.com/trump-medias-6-4-billion-crypto-venture-canceled-amid-escalating-trump-ethics-concerns/",
         "source": "CryptoSlate",
-        "enTitle": "Senate abandons August CLARITY Act vote – leaving 14 ‘work days’ until midterm election season kills it",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/clarity-act-senate-delay.jpg"
+        "enTitle": "Trump Media’s $6.4 billion crypto venture canceled amid escalating Trump ethics concerns",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/trump-cro-venture-canceled.jpg"
       },
       {
-        "headline": "Wintermute-ը գրանցվում է որպես բրոքեր-դիլեր",
-        "summary": "Wintermute-ի ԱՄՆ մասնաճյուղը գրանցվել է որպես բրոքեր-դիլեր՝ ճանապարհ հարթելով դեպի կարգավորվող արժեթղթերի առևտուր և նպատակ ունենալով ընդլայնվել դեպի tokenized stocks:",
-        "link": "https://news.bitcoin.com/crypto-news/wintermute-registers-as-us-broker-dealer-eyes-tokenized-stocks/",
-        "source": "Bitcoin News",
-        "enTitle": "Wintermute Registers as US Broker-Dealer, Eyes Tokenized Stocks",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/wintermute-registers-as-u-s--broker-dealer-eyes-tokenized-stocks-768x432.png"
+        "headline": "Bybit-ը դատի է տվել Հյուսիսային Կորեային",
+        "summary": "Bybit բորսան դատի է տվել Հյուսիսային Կորեային և Lazarus Group-ին՝ 1.5 միլիարդ դոլարի հաքերային հարձակման հետ կապված գողացված կրիպտոարժույթները հետևելու համար։",
+        "link": "https://cryptoslate.com/this-1-5-billion-hack-is-exposing-just-how-irreversible-stolen-crypto-really-is/",
+        "source": "CryptoSlate",
+        "enTitle": "This $1.5 billion hack is exposing just how ‘irreversible’ stolen crypto really is",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/lazarus-crypto-laundering-pipeline.jpg"
       }
     ]
   }
