@@ -2902,7 +2902,7 @@
   },
   {
     "date": "2026-08-09",
-    "ts": 1786257547001,
+    "ts": 1786292585819,
     "fng": {
       "value": 31,
       "label": "Fear",
@@ -2912,64 +2912,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 64811,
-        "change24h": -0.1904173154529655
+        "price": 65197,
+        "change24h": 0.24031979114187027
       },
       {
         "label": "Ethereum",
-        "price": 1916.08,
-        "change24h": 0.027929639354800424
+        "price": 1923.83,
+        "change24h": 0.13796611204856132
       }
     ],
-    "overview": "Անցած 24 ժամվա ընթացքում կրիպտո շուկան բնութագրվել է կարգավորող մարմինների զարգացումներով և ինստիտուցիոնալ ներհոսքերով, սակայն նաև անվտանգության հետ կապված մտահոգություններով։ ԱՄՆ-ում CLARITY Act-ի քվեարկությունը և ԵՄ-ում MiCA-ի հաջողությունը կարևոր իրադարձություններ են։",
+    "overview": "Այսօրվա կրիպտո շուկան ցույց է տալիս ինչպես ինստիտուցիոնալ հետաքրքրության աճ, այնպես էլ շարունակական մարտահրավերներ՝ կապված տեխնիկական զարգացումների և կարգավորող անորոշությունների հետ:",
     "items": [
       {
-        "headline": "MARA-ն 600 միլիոն դոլարի վարկ է ստացել",
-        "summary": "MARA-ն ապահովել է 600 միլիոն դոլարի նոր պարտք՝ գրավ դնելով 18,750 BTC՝ ֆինանսավորելու էներգիայի արտադրության և AI ենթակառուցվածքի ընդլայնումը։",
-        "link": "https://news.bitcoin.com/finance/mara-pledges-18750-btc-for-600-million-new-bitcoin-backed-loans/",
-        "source": "Bitcoin News",
-        "enTitle": "MARA Pledges 18,750 BTC for $600 Million New Bitcoin-Backed Loans",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/mara-theenergymag-768x432.jpg"
-      },
-      {
-        "headline": "BTCPay-ը սահմանափակում է Lightning մուտքը",
-        "summary": "BTCPay-ը սահմանափակում է Lightning-ի հեռակա մուտքը այն բանից հետո, երբ հարձակվողները գողացել են միջոցներ՝ անվտանգության մտահոգությունների պատճառով։",
-        "link": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "BTCPay restricts remote Lightning access after attackers steal funds",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/thief-bitcoin.png"
-      },
-      {
-        "headline": "CLARITY Act-ը Սենատում քվեարկության է դրվում",
-        "summary": "ԱՄՆ Սենատը CLARITY Act-ը դիրքավորում է սեպտեմբերի 15-ին հնարավոր քվեարկության համար՝ կրիպտո շուկայի կառուցվածքի հիմնական օրինագիծը մոտեցնելով քննարկմանը։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/clarity-act-heads-toward-sept-15-senate-vote-as-crypto-bill-advances/",
-        "source": "Bitcoin News",
-        "enTitle": "CLARITY Act Heads Toward Sept. 15 Senate Vote as Crypto Bill Advances",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/congress-clarity-act-1-768x432.jpg"
-      },
-      {
-        "headline": "Bitcoin և Ethereum ETF-ների ռեկորդային ներհոսք",
-        "summary": "ԱՄՆ-ում գրանցված spot Bitcoin և Ethereum ETF-ները այս շաբաթ ներգրավել են ավելի քան 1 միլիարդ դոլարի նոր կապիտալ՝ գրանցելով իրենց ամենաուժեղ ներհոսքերը ապրիլից ի վեր։",
+        "headline": "Bitcoin և Ethereum ETF-ների ներհոսք",
+        "summary": "Անցյալ շաբաթ ԱՄՆ-ում գրանցված spot Bitcoin և Ethereum ETF-ները ներգրավել են ավելի քան 1 միլիարդ դոլարի նոր կապիտալ՝ ապրիլից ի վեր իրենց լավագույն շաբաթը նշելով:",
         "link": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-break-1b-in-their-best-week-since-april-and-blackrock-brought-in-80-of-the-cash/",
         "source": "CryptoSlate",
         "enTitle": "Bitcoin and Ethereum ETFs break $1B in their best week since April and BlackRock brought in 80% of the cash",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/08/blackrock-etf-crane.jpg"
       },
       {
-        "headline": "Ripple-ը պատրաստ է ընդլայնվել ԵՄ-ում",
-        "summary": "Ripple-ը հայտարարում է, որ իր եվրոպական կրիպտո բիզնեսի կարգավորող հիմքերն այժմ առկա են MiCA-ի հաղթանակից հետո՝ շեշտը դնելով մասշտաբայնացման վրա։",
-        "link": "https://news.bitcoin.com/crypto-news/ripple-says-eu-crypto-expansion-is-ready-to-scale-after-mica-win/",
+        "headline": "BIP-110 Bitcoin ֆորքի ձախողում",
+        "summary": "Roughnecks մայնինգ խումբը դադարեցրել է BIP-110 փոքրամասնական շղթայի մայնինգը՝ կոչ անելով մյուսներին նույնպես դադարեցնել, քանի որ առանձնացված ցանցը մնում է կանգնած Bitcoin-ից բաժանվելուց հետո:",
+        "link": "https://news.bitcoin.com/crypto-news/roughnecks-quits-bip-110-mining-as-ocean-hashrate-collapses/",
         "source": "Bitcoin News",
-        "enTitle": "Ripple Says EU Crypto Expansion Is Ready to Scale After MiCA Win",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/ripple-labs-company-1-768x432.jpg"
+        "enTitle": "Roughnecks Quits BIP-110 Mining as Ocean Hashrate Collapses",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/roughnecks-quits-bip-110-mining-as-ocean-hashrate-collapses-768x432.png"
       },
       {
-        "headline": "Trump Media-ի կրիպտո նախագիծը չեղարկվել է",
-        "summary": "Trump Media & Technology Group-ը և Crypto.com-ը չեղարկել են 6.4 միլիարդ դոլար արժողությամբ թվային ակտիվների գանձապետական ​​ձեռնարկության պլանները՝ Թրամփի էթիկայի հետ կապված մտահոգությունների պատճառով։",
-        "link": "https://cryptoslate.com/trump-medias-6-4-billion-crypto-venture-canceled-amid-escalating-trump-ethics-concerns/",
+        "headline": "Strategy-ն օգտագործում է AI Bitcoin-ի համար",
+        "summary": "Michael Saylor-ը հայտնել է, որ Strategy-ն օգտագործել է AI՝ նոր տեսակի արտոնյալ բաժնետոմսեր մշակելու համար, ինչը թույլ է տվել ընկերությանը մոտ 15 միլիարդ դոլար հավաքել իր Bitcoin ռազմավարության համար:",
+        "link": "https://cryptoslate.com/michael-saylor-reveals-how-ai-helped-strategy-unlock-15-billion-for-its-bitcoin-machine/",
         "source": "CryptoSlate",
-        "enTitle": "Trump Media’s $6.4 billion crypto venture canceled amid escalating Trump ethics concerns",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/trump-cro-venture-canceled.jpg"
+        "enTitle": "Michael Saylor reveals how ChatGPT helped Strategy unlock $15 billion for its Bitcoin machine",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/saylor-ai-credit-system.jpg"
+      },
+      {
+        "headline": "Solana-ի վրա լծակների թակարդ",
+        "summary": "Solana-ի վրա կուտակվում է 1.8 միլիարդ դոլարի լծակների թակարդ, քանի որ թրեյդերները վճարում են 11 ամսվա ամենաբարձր տոկոսադրույքները՝ $78 մակարդակը պաշտպանելու համար:",
+        "link": "https://cryptoslate.com/a-1-8-billion-leverage-trap-is-building-on-solana-as-traders-pay-11-month-high-rates-to-defend-78/",
+        "source": "CryptoSlate",
+        "enTitle": "A $1.8 billion leverage trap is building on Solana as traders pay 11-month high rates to defend $78",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/solana-leverage-balloon.jpg"
+      },
+      {
+        "headline": "Clarity Act-ի քվեարկությունը Սենատում",
+        "summary": "Սենատի մեծամասնության առաջնորդ Thune-ը ներկայացրել է Clarity Act-ի շուրջ քվեարկության առաջարկը, որը նախատեսված է սեպտեմբերի 15-ին:",
+        "link": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
+        "image": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-800x450.jpg"
+      },
+      {
+        "headline": "Կրիպտո արդյունաբերության մաքրում",
+        "summary": "Կրիպտո արդյունաբերությունը զանգվածային մաքրման է ենթարկվում, քանի որ 2026 թվականին ավելի քան 100 նախագիծ փակվում է՝ թողնելով միայն իրական դրամական հոսքերով և օգտատերերով արձանագրությունները:",
+        "link": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/9ec4de39272adf8841b32cdceccdf8abe655e2fd-8256x5504.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
