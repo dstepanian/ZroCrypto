@@ -2975,7 +2975,7 @@
   },
   {
     "date": "2026-08-10",
-    "ts": 1786345895897,
+    "ts": 1786380203987,
     "fng": {
       "value": 30,
       "label": "Fear",
@@ -2985,64 +2985,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 65220,
-        "change24h": 0.6290464478033475
+        "price": 64108,
+        "change24h": -1.6729747112536015
       },
       {
         "label": "Ethereum",
-        "price": 1925.18,
-        "change24h": 0.38838865558269864
+        "price": 1875.45,
+        "change24h": -2.4723658817746403
       }
     ],
-    "overview": "Կրիպտո շուկան վերջին 24 ժամվա ընթացքում ցույց է տվել խառը տրամադրություններ՝ կարգավորող անորոշությունների և զարգացումների ֆոնին։ Մինչ ԱՄՆ-ում CLARITY Act-ի ճակատագիրը մնում է անորոշ, իսկ Եվրոպայում քննարկվում են Bitcoin-ի նկատմամբ բացասական վերաբերմունք ունեցող թեկնածուներ, Bitcoin ETF-ները շարունակում են գրավել զգալի ներդրումներ։ Միևնույն ժամանակ, Robinhood-ը ընդլայնում է իր կրիպտո ծառայությունները Մեծ Բրիտանիայում, իսկ Ethereum-ի մշակողները քննարկում են սթեյքինգի պարգևների փոփոխություններ։",
+    "overview": "Շուկայում նկատվում է ինստիտուցիոնալ հետաքրքրության և կարգավորող զարգացումների խառնուրդ։ Մինչ Bitcoin ETF-ները զգալի ներհոսքեր են գրանցել, Grayscale-ը հետ է կանչել որոշ altcoin ETF ծրագրեր, և ամբողջ աշխարհում հայտնվել են նոր պատժամիջոցներ ու կարգավորող շրջանակներ։",
     "items": [
       {
-        "headline": "Robinhood-ը կրիպտո առևտուր է մեկնարկում Մեծ Բրիտանիայում",
-        "summary": "Robinhood առևտրային հարթակը գործարկել է կրիպտոարժույթների առևտուրը Մեծ Բրիտանիայում՝ իր AI-ով աշխատող համապարփակ հավելվածի միջոցով։",
-        "link": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
+        "headline": "Ethereum-ի նոր ճանապարհային քարտեզը",
+        "summary": "Vitalik Buterin-ը ներկայացրել է Ethereum-ի ճանապարհային քարտեզի թարմացումները, որոնք կենտրոնանում են գաղտնիության և քվանտային դիմադրության վրա։",
+        "link": "https://www.theblock.co/news/ecosystems/2026-08-10-vitalik-buterin-privacy-quantum-resistance-front-and-center-ethereum-latest-roadmap-411298?utm_source=rss&utm_medium=rss",
+        "source": "The Block",
+        "enTitle": "Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap",
+        "image": "https://www.tbstat.com/wp/uploads/2024/10/20241001_Vitalik_News_2-800x450.jpg"
+      },
+      {
+        "headline": "Bitcoin ETF-ների զգալի ներհոսքեր",
+        "summary": "Bitcoin ETF-ները հինգ օրվա ընթացքում գրավել են 854 միլիոն դոլարի ներհոսք՝ ազդարարելով ինստիտուցիոնալ հետաքրքրության վերադարձը։",
+        "link": "https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin ETFs Draw $854M Over Five Days as Rate-Hike Bets Fade",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
+      },
+      {
+        "headline": "Grayscale-ը հրաժարվում է ETF ծրագրերից",
+        "summary": "Grayscale-ը հայտարարել է, որ այլևս մտադիր չէ շարունակել Cardano-ի, Polkadot-ի և Hedera-ի ETF-ների առաջարկները։",
+        "link": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/166a72044a3e5f64fbf16cfa4eb77e12266ee978-5184x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/8dd88cb35b7bebbb09c8e4ed53c431f147391d5b-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Ethereum-ի մշակողները առաջարկում են ETH սթեյքինգի փոփոխություն",
-        "summary": "Ethereum-ի մշակողներն առաջարկել են մեխանիզմ, որը կնվազեցնի ETH սթեյքինգի պարգևները մինչև զրո՝ մատակարարման մոտ 50%-ի սթեյքինգի դեպքում։",
-        "link": "https://news.bitcoin.com/crypto-news/ethereum-devs-want-eth-staking-rewards-to-hit-0-at-50-staked/",
-        "source": "Bitcoin News",
-        "enTitle": "Ethereum Devs Want ETH Staking Rewards to Hit 0% at 50% Staked",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/ethereum-devs-want-eth-staking-rewards-to-hit-0-at-50-staked-768x432.png"
-      },
-      {
-        "headline": "CLARITY Act-ի ճակատագիրը մնում է անորոշ",
-        "summary": "ԱՄՆ Սենատը հետաձգել է CLARITY Act-ի քվեարկությունը մինչև սեպտեմբեր, ինչը նվազեցնում է օրենքի ընդունման հավանականությունը։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/clarity-act-enters-walking-dead-state-as-sec-prepares-crypto-rules/",
-        "source": "Bitcoin News",
-        "enTitle": "CLARITY Act Enters ‘Walking Dead’ State as SEC Prepares Crypto Rules",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/congress-building-1-768x432.jpg"
-      },
-      {
-        "headline": "Գերմանիան քննարկում է Bitcoin-ի քննադատի թեկնածությունը ԵԿԲ նախագահի պաշտոնում",
-        "summary": "Բեռլինում քննարկվում է Բունդեսբանկի ներկայիս նախագահ Յոախիմ Նագելի թեկնածությունը Եվրոպական կենտրոնական բանկի նախագահի պաշտոնում, ով բացասական վերաբերմունք ունի Bitcoin-ի և կրիպտոարժույթների նկատմամբ։",
-        "link": "https://news.bitcoin.com/finance/germany-mulls-bitcoin-critic-nagels-bid-for-ecb-presidency/",
-        "source": "Bitcoin News",
-        "enTitle": "Germany Mulls Bitcoin Critic Nagel’s Bid for ECB Presidency",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/german-bundesbank-1-768x432.jpg"
-      },
-      {
-        "headline": "Grayscale-ը դադարեցրել է երեք ալտքոյն ETF-ի գրանցումը",
-        "summary": "Grayscale-ը հանել է Cardano, Hedera և Polkadot ալտքոյնների երեք խոշոր ETF-ի գրանցումները՝ առանց պատճառ նշելու։",
-        "link": "https://cryptoslate.com/in-just-190-seconds-grayscale-quietly-pulled-the-plug-on-three-major-altcoin-etfs/",
+        "headline": "ԱՄՆ պատժամիջոցները բացահայտում են կրիպտո խողովակաշար",
+        "summary": "ԱՄՆ պատժամիջոցները բացահայտել են 6.3 միլիարդ դոլար արժողությամբ կրիպտո խողովակաշար, որը կապում է Իրանն ու Ռուսաստանը։",
+        "link": "https://cryptoslate.com/us-sanctions-exposed-a-6-3-billion-crypto-pipeline-linking-iran-and-russia/",
         "source": "CryptoSlate",
-        "enTitle": "In just 190 seconds, Grayscale quietly pulled the plug on three major altcoin ETFs",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/grayscale-etf-roadblocks.jpg"
+        "enTitle": "US sanctions exposed a $6.3 billion crypto pipeline linking Iran and Russia",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/iran-crypto-surveillance.jpg"
       },
       {
-        "headline": "Bitcoin ETF-ները գրանցել են զգալի ներհոսքեր",
-        "summary": "Անցյալ շաբաթ Bitcoin spot ETF-ները գրանցել են 853 միլիոն դոլարի զուտ ներհոսք, որի մեծ մասը բաժին է ընկել BlackRock-ի IBIT-ին։",
-        "link": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
+        "headline": "Մեծ Բրիտանիան կանոններ է մշակում թոքենիզացված ոսկու համար",
+        "summary": "Մեծ Բրիտանիայի ֆինանսական վերահսկիչ մարմինը (FCA) նոր կանոններ է մշակում թոքենիզացված ոսկու համար՝ ակնկալելով առաջընթաց առաջիկա ամիսներին։",
+        "link": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/e183c12b5e1dbaf0e0175a58c3a9425adb7b3de5-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "Why the UK financial watchdog is drafting new rules for tokenized gold",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a77c714f950490d92fe6afe133dc6a75706c94e-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
