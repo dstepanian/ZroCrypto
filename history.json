@@ -3040,7 +3040,7 @@
   },
   {
     "date": "2026-08-11",
-    "ts": 1786430983927,
+    "ts": 1786466887193,
     "fng": {
       "value": 29,
       "label": "Fear",
@@ -3050,64 +3050,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63875,
-        "change24h": -2.0287272207672165
+        "price": 63444,
+        "change24h": -0.6571049056381697
       },
       {
         "label": "Ethereum",
-        "price": 1871.85,
-        "change24h": -2.788466552416844
+        "price": 1862.88,
+        "change24h": -0.4034097795661181
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ընդունման զգալի առաջընթացներով և կարգավորող մարմինների ակտիվությամբ ամբողջ աշխարհում։ Միաժամանակ, խոշոր ֆինանսական հաստատությունները շարունակում են ուսումնասիրել բլոկչեյն տեխնոլոգիայի կիրառումը, իսկ կարգավորողները քննարկում են նոր կանոններ։",
+    "overview": "Կրիպտոարժույթների շուկան այսօր ցույց է տվել զգալի փոփոխություններ, մասնավորապես՝ Bitcoin մայնինգի ընկերությունների կողմից դեպի արհեստական բանականություն (AI) անցումը, ինչպես նաև կարգավորող մարմինների և ավանդական ֆինանսական հաստատությունների ինտեգրումը:",
     "items": [
       {
-        "headline": "Broadridge-ի DLT հարթակի ծավալը",
-        "summary": "Broadridge-ի Distributed Ledger Repo հարթակը հուլիսին մշակել է 8 տրիլիոն դոլարի գործարքներ՝ ընդգծելով բլոկչեյնի աճող կիրառությունը ֆինանսական շուկաներում։",
-        "link": "https://www.theblock.co/news/business/2026-08-11-broadridge-8-trillion-july-411365",
-        "source": "The Block",
-        "enTitle": "Broadridge’s Distributed Ledger Repo platform processes $8 trillion in July volume",
-        "image": "https://www.tbstat.com/wp/uploads/2024/06/20240624_Tokenization_News_2-800x450.jpg"
-      },
-      {
-        "headline": "ԱՄՆ SEC-ը կքննարկի Reg Crypto-ն",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) այս շաբաթ հանդիպում կանցկացնի՝ առաջարկելու Reg Crypto-ն՝ որոշակի թվային ակտիվների առաջարկներին աջակցելու համար։",
-        "link": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/7bb0699e8b9da16592a55f2b39f0777935133915-2344x1318.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "NYSE-ը կառուցում է onchain հարթակ",
-        "summary": "NYSE-ը մշակում է onchain հաշվարկային հարթակ թոքենիզացված արժեթղթերի համար՝ միանալով Ուոլ Սթրիթի ջանքերին՝ բորսայական առևտուրը բլոկչեյնի վրա տեղափոխելու համար։",
-        "link": "https://news.bitcoin.com/finance/nyse-onchain-settlement-tokenized-securities/",
+        "headline": "Riot Platforms-ը $9.1 միլիարդի AI գործարքով",
+        "summary": "Riot Platforms-ը Anthropic-ի հետ կնքել է 9.1 միլիարդ դոլարի համաձայնագիր՝ վերածելով իր Bitcoin մայնինգի ենթակառուցվածքը AI ծառայություններ մատուցողի:",
+        "link": "https://news.bitcoin.com/crypto-news/anthropic-emerges-as-frontier-ai-lab-behind-riots-9-1b-ai-deal/",
         "source": "Bitcoin News",
-        "enTitle": "NYSE Builds Onchain Settlement Rails for Tokenized Securities",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/06/nyse-sec-crypto-task-force-768x432.jpg"
+        "enTitle": "Anthropic Emerges as ‘Frontier AI Lab’ Behind Riot’s $9.1B AI Deal",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/anthropic-emerges-as-frontier-ai-lab-behind-riots-9-1b-ai-deal-768x432.jpg"
       },
       {
-        "headline": "Ethereum-ի ապագան՝ քվանտային անվտանգություն",
-        "summary": "Vitalik Buterin-ը հայտարարել է, որ Ethereum-ի թարմացված ճանապարհային քարտեզը կենտրոնանում է քվանտային դիմադրության, գաղտնիության և AI-ի օգնությամբ ֆորմալ ստուգման վրա։",
-        "link": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
+        "headline": "Keel-ը դադարեցնում է Bitcoin մայնինգը",
+        "summary": "Keel Infrastructure-ը դադարեցրել է իր բոլոր Bitcoin մայնինգի գործունեությունը ԱՄՆ-ում՝ 819 միլիոն դոլարով անցում կատարելով AI և բարձր արդյունավետության հաշվարկների:",
+        "link": "https://news.bitcoin.com/mining/keel-shuts-all-bitcoin-mining-with-819m-ready-for-ai-pivot/",
+        "source": "Bitcoin News",
+        "enTitle": "Keel Shuts All Bitcoin Mining With $819M Ready for AI Pivot",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/keel-shuts-all-bitcoin-mining-with-819m-ready-for-ai-pivot-768x432.jpg"
+      },
+      {
+        "headline": "eToro-ն ձեռք է բերում TradeZero-ն",
+        "summary": "eToro կրիպտո-բարեկամական առևտրային հարթակը համաձայնել է ձեռք բերել TradeZero-ն 231 միլիոն դոլարով՝ ընդլայնելով իր ներկայությունը ԱՄՆ շուկայում:",
+        "link": "https://decrypt.co/375324/etoro-acquire-tradezero-us-expansion-stock-tanks",
         "source": "Decrypt",
-        "enTitle": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/vitalik-buterin-ethereum-decrypt-style-05-1-gID_7.jpg@png"
+        "enTitle": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/09/etoro-crypto-defi-portfolio-gID_4.jpg@png"
       },
       {
-        "headline": "Մեծ Բրիտանիայի FCA-ն ուսումնասիրում է թոքենիզացված ոսկին",
-        "summary": "Մեծ Բրիտանիայի Ֆինանսական վարքագծի մարմինը (FCA) ուսումնասիրում է, թե ինչպես կարող է թոքենիզացված ոսկին ինտեգրվել մեծածախ շուկաներում, ներառյալ որպես գրավի օգտագործումը։",
-        "link": "https://news.bitcoin.com/crypto-news/uk-fca-eyes-tokenized-gold-as-london-defends-70-market-share/",
+        "headline": "Moneygram-ը Solana-ում գործարկում է կրիպտո վճարումներ",
+        "summary": "Moneygram-ը Solana բլոկչեյնում գործարկել է իր Ramps ծառայությունը՝ ապահովելով կանխիկի և կրիպտոարժույթի միջև ուղղակի կապ իր գլոբալ ցանցի միջոցով:",
+        "link": "https://news.bitcoin.com/crypto-news/moneygram-brings-cash-to-crypto-payments-to-solana-with-rift/",
         "source": "Bitcoin News",
-        "enTitle": "UK FCA Eyes Tokenized Gold as London Defends 70% Market Share",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/uk-fca-eyes-tokenized-gold-as-london-defends-70-market-share-768x432.jpg"
+        "enTitle": "Moneygram Brings Cash-to-Crypto Payments to Solana With Rift",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/moneygram-brings-cash-to-crypto-payments-to-solana-with-rift-768x432.png"
       },
       {
-        "headline": "Թաիլանդը սահմանում է 0% կրիպտո հարկ",
-        "summary": "Թաիլանդը սահմանել է 0% կրիպտո հարկ՝ նպատակ ունենալով դառնալ կրիպտո կենտրոն և խթանել թվային ակտիվների ընդունումը։",
-        "link": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Ռուսաստանը առաջարկում է կրիպտոարժույթների առևտուր",
+        "summary": "Ռուսաստանի կենտրոնական բանկը առաջարկել է թույլատրել Bitcoin-ի, Ether-ի և Tether-ի USDT-ի առևտուրը կարգավորվող բորսաներում:",
+        "link": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-8.jpg"
+        "enTitle": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/bank-with-crypto-characters.png"
+      },
+      {
+        "headline": "Nasdaq-ը ձեռք է բերում LeveL Markets-ը",
+        "summary": "Nasdaq-ը ձեռք է բերում ԱՄՆ երրորդ խոշորագույն այլընտրանքային առևտրային համակարգը՝ LeveL Markets-ը, ընդլայնվելով դեպի թոքենիզացված արժեթղթեր և ավելի երկար առևտրային ժամեր:",
+        "link": "https://cointelegraph.com/news/nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-goes-for-nasdaq.jpg"
       }
     ]
   }
