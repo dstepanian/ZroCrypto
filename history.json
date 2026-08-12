@@ -3113,7 +3113,7 @@
   },
   {
     "date": "2026-08-12",
-    "ts": 1786518565956,
+    "ts": 1786553224680,
     "fng": {
       "value": 27,
       "label": "Fear",
@@ -3123,64 +3123,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63728,
-        "change24h": -0.30745168800175315
+        "price": 63478,
+        "change24h": 0.03066420467722596
       },
       {
         "label": "Ethereum",
-        "price": 1888.48,
-        "change24h": 0.8314176696994589
+        "price": 1891.31,
+        "change24h": 1.5381752066682142
       }
     ],
-    "overview": "Այսօրվա նորությունները ընդգծում են կրիպտո տարածքում անվտանգության լուրջ միջադեպերի և շարունակական կարգավորող զարգացումների խառնուրդը։ Մինչ որոշ հարթակներ բախվում են շահագործումների և իրավական գործողությունների, կարգավորողները նաև ուսումնասիրում են նոր շրջանակներ, իսկ բորսաները ընդլայնում են իրենց առաջարկները։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինչպես խոշոր էքսպլոյթներով, այնպես էլ ինստիտուցիոնալ զարգացումներով և կարգավորող առաջընթացով: Կայուն մետաղադրամների շուկան նույնպես զգալի փոփոխություններ է արձանագրել:",
     "items": [
       {
-        "headline": "Harmony-ն հաստատում է ONE թոքենների շահագործումը",
-        "summary": "Harmony-ն հաստատել է 4 միլիարդ ONE թոքենների չարտոնված մայնինգի հետ կապված շահագործումը, ինչը զգալիորեն ավելացրել է մատակարարումը։",
-        "link": "https://www.theblock.co/news/defi/2026-08-12-harmony-confirms-exploit-one-token-411527",
-        "source": "The Block",
-        "enTitle": "Harmony confirms exploit involving unauthorized minting of 4 billion ONE tokens",
-        "image": "https://www.tbstat.com/wp/uploads/2023/04/20230411_Hack_Generic_1-800x450.jpg"
-      },
-      {
-        "headline": "SEC-ը և CFTC-ն դատի են տվել Goliath Ventures-ին",
-        "summary": "SEC-ը և CFTC-ն հայց են ներկայացրել Goliath Ventures-ի դեմ՝ մեղադրելով նրան 400 միլիոն դոլար արժողությամբ կրիպտո Ponzi սխեմայի կազմակերպման մեջ։",
-        "link": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-most-famous-financial-pyramids-in-the-crypto-world.png"
-      },
-      {
-        "headline": "SEC-ը քննարկում է կրիպտո նախագծերի կարգավորումը",
-        "summary": "SEC-ը բաց նիստ է նշանակել՝ քննարկելու իր «Regulation Crypto» առաջարկը, որը կարող է հեշտացնել կրիպտո նախագծերի համար արժեթղթերի գրանցումից խուսափելը։",
-        "link": "https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects",
+        "headline": "XRP Bridge-ի էքսպլոյթ և միջոցների արտահոսք",
+        "summary": "XRP Bridge-ը դատարկվել է ծրագրային սխալի պատճառով, որը կեղծ ավանդները ճանաչել է որպես իրական՝ հանգեցնելով XRP-ի արտահոսքի։",
+        "link": "https://decrypt.co/375441/xrp-drained-tx-bridge",
         "source": "Decrypt",
-        "enTitle": "SEC Prepares Escape Hatch From Securities Registration for Crypto Projects",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg@png"
+        "enTitle": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png"
       },
       {
-        "headline": "CFTC-ն հրամայում է Kalshi-ին շարունակել գործունեությունը",
-        "summary": "CFTC-ն հրամայել է Kalshi-ին շարունակել կանխատեսումների շուկաներ առաջարկել Նյու Յորքում, չնայած նահանգի կողմից ներկայացված հայցին։",
-        "link": "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "CFTC orders Kalshi to continue offering prediction markets in New York after state lawsuit",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "headline": "Harmony ONE-ի անկումը էքսպլոյթի պատճառով",
+        "summary": "Harmony Protocol-ի ONE թոքենը 30%-ով անկում է ապրել այն բանից հետո, երբ հարձակվողը 4 միլիարդից ավելի չարտոնված թոքեն է ստեղծել։",
+        "link": "https://news.bitcoin.com/security/harmonys-one-plunges-30-after-attacker-mints-4-billion-tokens/",
+        "source": "Bitcoin News",
+        "enTitle": "Harmony’s ONE Plunges 30% After Attacker Mints 4 Billion Tokens",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/shutterstock_1962634315.jpg"
       },
       {
-        "headline": "Crypto.com-ը գործարկում է թոքենացված բաժնետոմսեր",
-        "summary": "Crypto.com-ը գործարկում է թոքենացված բաժնետոմսերի ածանցյալ գործիքներ՝ միանալով աճող շուկային, որտեղ կրիպտո փոխանակումները ընդլայնվում են դեպի բաժնետոմսեր։",
-        "link": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/be7752e9f6c560cecc67cb3cce5515acebbe447d-1500x1008.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "headline": "Fidelity-ն SEC-ին դիմել է Ethereum ETF-ի համար",
+        "summary": "Fidelity-ն դիմել է SEC-ին՝ իր Ethereum ETF-ին staking ֆունկցիոնալություն ավելացնելու համար, որի պարգևների 85%-ը կպահպանվի FETH-ի կողմից։",
+        "link": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Fidelity files with SEC to add staking to Ethereum ETF",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/option-1-bold-white-montserrat.jpeg"
       },
       {
-        "headline": "XRP կամուրջը շահագործվել է",
-        "summary": "XRP կամուրջը շահագործվել է 200,000 դոլարի չափով այն բանից հետո, երբ ծրագրակազմը կեղծ ավանդները շփոթել է իրականների հետ։",
-        "link": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
+        "headline": "HashKey-ը սկսում է HKDAP stablecoin-ի բաշխումը",
+        "summary": "HashKey-ը սկսել է Anchorpoint-ի կողմից կարգավորվող HKDAP stablecoin-ի բետա բաշխումը՝ ընդլայնելով ինստիտուցիոնալ մուտքը Հոնկոնգի շուկայում։",
+        "link": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-hashkey-plans-to-become-hong-kongs-first-crypto-ipo-1.jpg"
+      },
+      {
+        "headline": "Tether-ի USDT մատակարարման կրճատում",
+        "summary": "Tether-ի USDT մատակարարումը վերջին 60 օրվա ընթացքում կրճատվել է մոտ 4 միլիարդ դոլարով՝ արտացոլելով կրիպտո պահանջարկի թուլացումը։",
+        "link": "https://news.bitcoin.com/crypto-news/tethers-usdt-supply-shrinks-by-4b-in-60-days-as-crypto-demand-cools/",
+        "source": "Bitcoin News",
+        "enTitle": "Tether’s USDT Supply Shrinks by $4B in 60 Days as Crypto Demand Cools",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/tethers-usdt-supply-shrinks-by-4b-as-crypto-demand-cools-768x432.jpg"
+      },
+      {
+        "headline": "Wintermute-ը 1 միլիարդ դոլար կներդնի AI-ում",
+        "summary": "Wintermute-ը նախատեսում է 1 միլիարդ դոլար ներդնել AI-ում՝ նպատակ ունենալով մինչև 2027 թվականը իր եկամուտների ավելի քան 50%-ը ստանալ ոչ կրիպտո շուկաներից։",
+        "link": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/c0aa21182d52630cd0374bc45f523521cbad0b54-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/7db3bf97253af39b70ae7cb86f74023bea1187e3-4323x2432.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
