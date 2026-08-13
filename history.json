@@ -3183,5 +3183,78 @@
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/7db3bf97253af39b70ae7cb86f74023bea1187e3-4323x2432.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
+  },
+  {
+    "date": "2026-08-13",
+    "ts": 1786605199628,
+    "fng": {
+      "value": 29,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 63861,
+        "change24h": 0.22340710302433792
+      },
+      {
+        "label": "Ethereum",
+        "price": 1896.65,
+        "change24h": 0.44670090389792827
+      }
+    ],
+    "overview": "Այսօրվա նորությունները ցույց են տալիս կրիպտոարժույթների աճող ինտեգրումը ավանդական ֆինանսների մեջ և կարգավորող միջավայրի զարգացումը տարբեր երկրներում։",
+    "items": [
+      {
+        "headline": "Մեծ Բրիտանիայի օրենսդիրները ճնշում են բանկերին կրիպտո մուտքի հարցով",
+        "summary": "Մեծ Բրիտանիայի օրենսդիրները բանկերից պահանջում են պարզաբանումներ, թե ինչպես են նոր կանոնները փոխելու կարգավորվող թվային ակտիվների ընկերությունների նկատմամբ վերաբերմունքը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/uk-lawmakers-press-banks-on-crypto-access-ahead-of-new-rules/",
+        "source": "Bitcoin News",
+        "enTitle": "UK Lawmakers Press Banks on Crypto Access Ahead of New Rules",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/uk-lawmakers-press-banks-on-crypto-access-ahead-of-new-rules-768x432.jpg"
+      },
+      {
+        "headline": "Blockchain Association-ը պաշտպանում է Custodia-ի հայցը",
+        "summary": "Blockchain Association-ը պաշտպանել է Custodia-ի Գերագույն դատարան դիմելու որոշումը՝ Fed-ի հիմնական հաշվի մուտքի հարցով՝ կարևորելով թվային ակտիվների օրինական բիզնեսների հավասար մրցակցությունը։",
+        "link": "https://www.theblock.co/news/regulation/2026-08-13-blockchain-association-backs-custodia-petition-411672",
+        "source": "The Block",
+        "enTitle": "Blockchain Association backs Custodia’s Supreme Court bid over Fed master account access",
+        "image": "https://www.tbstat.com/wp/uploads/2022/07/20220727_Federal_Reserve_Building-800x450.jpg"
+      },
+      {
+        "headline": "Coinbase-ը 170+ ածանցյալ պայմանագրեր է գործարկում Մեծ Բրիտանիայում",
+        "summary": "Coinbase-ը Մեծ Բրիտանիայի որակավորված պրոֆեսիոնալ ներդրողների համար կգործարկի ավելի քան 170 ածանցյալ պայմանագրեր՝ մինչև 50x լծակով։",
+        "link": "https://news.bitcoin.com/exchanges/coinbase-launching-170-derivatives-contracts-for-uk-professionals/",
+        "source": "Bitcoin News",
+        "enTitle": "Coinbase Launching 170+ Derivatives Contracts for UK Professionals",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/coinbase-and-singapore-police-joint-operation-768x432.jpg"
+      },
+      {
+        "headline": "SEC-ը հավանություն է տվել Franklin Templeton-ի BENJI համակարգին",
+        "summary": "SEC-ը Franklin Templeton-ին թույլ է տվել օգտագործել իր BENJI համակարգը՝ ավանդական գրանցված ֆոնդերի կանխիկի կառավարման համար՝ ապահովելով բլոկչեյնի ինտեգրումը։",
+        "link": "https://www.theblock.co/news/defi/2026-08-12-sec-clears-franklin-templeton-funds-use-onchain-benji-system-cash-management-411654",
+        "source": "The Block",
+        "enTitle": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management",
+        "image": "https://www.tbstat.com/wp/uploads/2025/05/20250514_Tokenization-3-1200x675-1-800x450.jpg"
+      },
+      {
+        "headline": "Ռուսաստանը թույլատրում է Bitcoin, Ethereum և USDT հանրային առևտուրը",
+        "summary": "Ռուսաստանի Կենտրոնական բանկն առաջարկել է Bitcoin, Ethereum և USDT-ն թույլատրել հանրային առևտրի համար՝ սահմանելով 300,000 ռուբլու սահմանաչափ ոչ որակավորված ներդրողների համար։",
+        "link": "https://cryptoslate.com/russia-picks-bitcoin-ethereum-and-usdt-for-public-trading-as-retail-faces-58000-cap/",
+        "source": "CryptoSlate",
+        "enTitle": "Russia picks Bitcoin, Ethereum and USDT for public trading as retail faces $58,000 cap",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/russia-crypto-turnstile.jpg"
+      },
+      {
+        "headline": "Goldman Sachs-ը ձեռք է բերում NEOS ETF մենեջերին",
+        "summary": "Goldman Sachs-ը 2.25 միլիարդ դոլարով ձեռք է բերում NEOS ETF մենեջերին, որը ներառում է Bitcoin-ի և Ether-ի հետ կապված եկամտային ֆոնդեր։",
+        "link": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-goldman-sachs-and-crypto-recap.png"
+      }
+    ]
   }
 ]
