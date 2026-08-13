@@ -3186,7 +3186,7 @@
   },
   {
     "date": "2026-08-13",
-    "ts": 1786605199628,
+    "ts": 1786639510818,
     "fng": {
       "value": 29,
       "label": "Fear",
@@ -3196,64 +3196,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63861,
-        "change24h": 0.22340710302433792
+        "price": 62934,
+        "change24h": -0.8684528469499778
       },
       {
         "label": "Ethereum",
-        "price": 1896.65,
-        "change24h": 0.44670090389792827
+        "price": 1865.5,
+        "change24h": -1.3647582589917806
       }
     ],
-    "overview": "Այսօրվա նորությունները ցույց են տալիս կրիպտոարժույթների աճող ինտեգրումը ավանդական ֆինանսների մեջ և կարգավորող միջավայրի զարգացումը տարբեր երկրներում։",
+    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս կարգավորող մարմինների ակտիվությունը և ավանդական ֆինանսական հաստատությունների կողմից բլոկչեյն տեխնոլոգիաների աճող ընդունումը։ Շուկան շարունակում է հարմարվել նոր զարգացումներին և կառուցվածքային փոփոխություններին։",
     "items": [
       {
-        "headline": "Մեծ Բրիտանիայի օրենսդիրները ճնշում են բանկերին կրիպտո մուտքի հարցով",
-        "summary": "Մեծ Բրիտանիայի օրենսդիրները բանկերից պահանջում են պարզաբանումներ, թե ինչպես են նոր կանոնները փոխելու կարգավորվող թվային ակտիվների ընկերությունների նկատմամբ վերաբերմունքը։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/uk-lawmakers-press-banks-on-crypto-access-ahead-of-new-rules/",
-        "source": "Bitcoin News",
-        "enTitle": "UK Lawmakers Press Banks on Crypto Access Ahead of New Rules",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/uk-lawmakers-press-banks-on-crypto-access-ahead-of-new-rules-768x432.jpg"
+        "headline": "Metaplanet-ը հերքում է Bitcoin-ի վաճառքը",
+        "summary": "Metaplanet-ի գործադիր տնօրենը հերքել է 5,014 BTC-ի փոխանցման մասին շուկայական շահարկումները՝ պարզաբանելով, որ դա պահառության տեղափոխություն էր, ոչ թե վաճառք։",
+        "link": "https://decrypt.co/375562/metaplanet-denies-bitcoin-sale-launches-bitbonds",
+        "source": "Decrypt",
+        "enTitle": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-03-gID_7.png@png"
       },
       {
-        "headline": "Blockchain Association-ը պաշտպանում է Custodia-ի հայցը",
-        "summary": "Blockchain Association-ը պաշտպանել է Custodia-ի Գերագույն դատարան դիմելու որոշումը՝ Fed-ի հիմնական հաշվի մուտքի հարցով՝ կարևորելով թվային ակտիվների օրինական բիզնեսների հավասար մրցակցությունը։",
-        "link": "https://www.theblock.co/news/regulation/2026-08-13-blockchain-association-backs-custodia-petition-411672",
-        "source": "The Block",
-        "enTitle": "Blockchain Association backs Custodia’s Supreme Court bid over Fed master account access",
-        "image": "https://www.tbstat.com/wp/uploads/2022/07/20220727_Federal_Reserve_Building-800x450.jpg"
+        "headline": "Հավայան կղզիներում արգելվում են կրիպտո ATM-ների կանխիկ մուտքերը",
+        "summary": "Հավայան կղզիների օրենսդիրները հոկտեմբերից կարգելեն կանխիկի մուտքագրումը կրիպտո ATM-ներում՝ թիրախավորելով խարդախությունների համար օգտագործվող մեթոդները։",
+        "link": "https://decrypt.co/375560/hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
+        "source": "Decrypt",
+        "enTitle": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/shutterstock_1261474762-gID_7.jpg@png"
       },
       {
-        "headline": "Coinbase-ը 170+ ածանցյալ պայմանագրեր է գործարկում Մեծ Բրիտանիայում",
-        "summary": "Coinbase-ը Մեծ Բրիտանիայի որակավորված պրոֆեսիոնալ ներդրողների համար կգործարկի ավելի քան 170 ածանցյալ պայմանագրեր՝ մինչև 50x լծակով։",
-        "link": "https://news.bitcoin.com/exchanges/coinbase-launching-170-derivatives-contracts-for-uk-professionals/",
-        "source": "Bitcoin News",
-        "enTitle": "Coinbase Launching 170+ Derivatives Contracts for UK Professionals",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/coinbase-and-singapore-police-joint-operation-768x432.jpg"
-      },
-      {
-        "headline": "SEC-ը հավանություն է տվել Franklin Templeton-ի BENJI համակարգին",
-        "summary": "SEC-ը Franklin Templeton-ին թույլ է տվել օգտագործել իր BENJI համակարգը՝ ավանդական գրանցված ֆոնդերի կանխիկի կառավարման համար՝ ապահովելով բլոկչեյնի ինտեգրումը։",
-        "link": "https://www.theblock.co/news/defi/2026-08-12-sec-clears-franklin-templeton-funds-use-onchain-benji-system-cash-management-411654",
-        "source": "The Block",
-        "enTitle": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management",
-        "image": "https://www.tbstat.com/wp/uploads/2025/05/20250514_Tokenization-3-1200x675-1-800x450.jpg"
-      },
-      {
-        "headline": "Ռուսաստանը թույլատրում է Bitcoin, Ethereum և USDT հանրային առևտուրը",
-        "summary": "Ռուսաստանի Կենտրոնական բանկն առաջարկել է Bitcoin, Ethereum և USDT-ն թույլատրել հանրային առևտրի համար՝ սահմանելով 300,000 ռուբլու սահմանաչափ ոչ որակավորված ներդրողների համար։",
-        "link": "https://cryptoslate.com/russia-picks-bitcoin-ethereum-and-usdt-for-public-trading-as-retail-faces-58000-cap/",
-        "source": "CryptoSlate",
-        "enTitle": "Russia picks Bitcoin, Ethereum and USDT for public trading as retail faces $58,000 cap",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/russia-crypto-turnstile.jpg"
-      },
-      {
-        "headline": "Goldman Sachs-ը ձեռք է բերում NEOS ETF մենեջերին",
-        "summary": "Goldman Sachs-ը 2.25 միլիարդ դոլարով ձեռք է բերում NEOS ETF մենեջերին, որը ներառում է Bitcoin-ի և Ether-ի հետ կապված եկամտային ֆոնդեր։",
-        "link": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Bitcoin մայնինգ ընկերությունները նվազեցնում են հաշրեյթը AI-ի համար",
+        "summary": "Հանրային Bitcoin մայնինգ ընկերությունները 13.4%-ով կրճատել են իրենց հաշրեյթը, քանի որ AI ենթակառուցվածքի եկամուտներն աճում են՝ վերաձևելով մայնինգի տնտեսագիտությունը։",
+        "link": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-goldman-sachs-and-crypto-recap.png"
+        "enTitle": "Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-miners-as-energy-buyers-ai.jpg"
+      },
+      {
+        "headline": "Հարավային Կորեայում կրիպտո ընկերության CEO-ն դատապարտվել է",
+        "summary": "Հարավային Կորեայի դատարանը Delio-ի CEO-ին դատապարտել է 15 տարվա ազատազրկման՝ հաճախորդների մոտ 49.2 միլիոն դոլար արժողությամբ կրիպտոարժույթների ոչ իրավաչափ օգտագործման համար։",
+        "link": "https://news.bitcoin.com/crypto-news/south-koreas-crypto-crackdown-lands-delio-ceo-15-years/",
+        "source": "Bitcoin News",
+        "enTitle": "South Korea’s Crypto Crackdown Lands Delio CEO 15 Years",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/south-korea-halts-kospi-trading-after-8-4-crash-trips-circuit-breaker2_nwmk-768x432.jpg"
+      },
+      {
+        "headline": "MUFG-ն փորձարկում է ճապոնական պարտատոմսերի onchain գործարքներ",
+        "summary": "MUFG-ն փորձնական ծրագիր է սկսել՝ ստուգելու համար, թե արդյոք ճապոնական պետական պարտատոմսերի repo գործարքները կարող են իրական ժամանակում իրականացվել բլոկչեյն ցանցում։",
+        "link": "https://news.bitcoin.com/blockchain/mufg-eyes-instant-jgb-repos-as-blockchain-invades-bond-markets/",
+        "source": "Bitcoin News",
+        "enTitle": "MUFG Eyes Instant JGB Repos as Blockchain Invades Bond Markets",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/mufg-eyes-instant-jgb-repos-as-blockchain-invades-bond-markets-768x432.png"
+      },
+      {
+        "headline": "SEC-ը թույլ է տալիս Franklin Templeton-ին ներդնել onchain ֆոնդում",
+        "summary": "SEC-ը հայտարարել է, որ չի հետապնդի Franklin Templeton-ի ֆոնդերին, եթե նրանք սկսեն կանխիկ ներդրումներ կատարել ակտիվների կառավարչի սեփական tokenized money market fund-ում։",
+        "link": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "SEC allows Franklin Templeton funds to invest in onchain money fund",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/rwa.jpg"
       }
     ]
   }
