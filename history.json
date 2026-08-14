@@ -3259,7 +3259,7 @@
   },
   {
     "date": "2026-08-14",
-    "ts": 1786691423601,
+    "ts": 1786725668328,
     "fng": {
       "value": 29,
       "label": "Fear",
@@ -3269,64 +3269,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63000,
-        "change24h": -1.2664022860631863
+        "price": 63132,
+        "change24h": -0.0177197278640482
       },
       {
         "label": "Ethereum",
-        "price": 1873.94,
-        "change24h": -1.105633906464684
+        "price": 1885.02,
+        "change24h": 0.7690556685160573
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների աճող ուշադրությամբ և ինստիտուցիոնալ զարգացումներով։ Մի կողմից, SEC-ը հետաձգում է կրիպտո կանոնակարգերը, իսկ կանխատեսումների շուկաները բախվում են իրավական խնդիրների, մյուս կողմից՝ Tether-ը հաջողությամբ անցել է աուդիտ, իսկ Morgan Stanley-ի Bitcoin ETF-ը զգալի ներդրումներ է գրավել։",
+    "overview": "Կրիպտո շուկան այսօր բնութագրվում է ինստիտուցիոնալ ներգրավվածության աճով և կարգավորող մարմինների կողմից ուժեղացված ուշադրությամբ։ Մինչ բանկերը և ներդրումային ընկերությունները ընդլայնում են իրենց կրիպտո առաջարկները, կարգավորող մարմինները խստացնում են կանոնները և վերանայում ինդեքսների չափորոշիչները։",
     "items": [
       {
-        "headline": "Tether-ը ստացել է KPMG-ի աուդիտի դրական եզրակացություն",
-        "summary": "Tether-ը հայտարարել է, որ KPMG-ն տվել է դրական աուդիտորական եզրակացություն իր 2025 թվականի ֆինանսական հաշվետվությունների վերաբերյալ՝ հաստատելով, որ իր պահուստները գերազանցում են պարտավորությունները 6.8 միլիարդ դոլարով։",
-        "link": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Tether completes first full financial audit, receives clean KPMG opinion",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-a-stablecoin-attestation-report.png"
+        "headline": "Bitcoin հանքագործները շեղվում են դեպի AI",
+        "summary": "Bitcoin-ի հաշրեյթը նվազել է, քանի որ հանքագործները էներգիան և կապիտալը վերաուղղում են արհեստական բանականության տվյալների կենտրոններին։",
+        "link": "https://news.bitcoin.com/featured/bitcoin-hashrate-slips-17-off-record-as-miners-chase-ai/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin Hashrate Slips 17% Off Record as Miners Chase AI",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-hashrate-slips-17-off-record-as-miners-chase-ai_nwmk-768x432.jpg"
       },
       {
-        "headline": "SEC-ը հետաձգում է «Reg Crypto» առաջարկի քննարկումը",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) անորոշ ժամանակով հետաձգել է իր երկար սպասված «Reg Crypto» կանոնակարգի առաջարկի քննարկումը՝ առանց նոր ամսաթիվ նշելու։",
-        "link": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/090e5c77bf9a39a85f3ba365ccf65e1cbecb6a4f-3781x2129.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "JPMorgan-ը դադարեցրել է համագործակցությունը Polymarket-ի հետ",
-        "summary": "Financial Times-ի փոխանցմամբ՝ JPMorgan-ը 2025 թվականի վերջին դադարեցրել է իր բանկային հարաբերությունները կանխատեսումների հարթակ Polymarket-ի հետ՝ կարգավորող մտահոգությունների պատճառով։",
-        "link": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/c04fefa41085c2dc54aaae74833200ba210061d6-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Բալթիմորը դատի է տվել Kalshi-ին և Polymarket-ին",
-        "summary": "Բալթիմոր քաղաքը դատի է տվել Kalshi-ին և Polymarket-ին, ինչպես նաև Coinbase-ին, Robinhood-ին և Webull-ին՝ ենթադրյալ անօրինական սպորտային խաղադրույքների համար։",
-        "link": "https://www.theblock.co/news/business/2026-08-13-baltimore-sues-kalshi-polymarket-roping-coinbase-robinhood-webull-into-fight-411746",
+        "headline": "Binance-ը արգելափակում է 11 բորսաներ",
+        "summary": "Binance-ը հայտարարել է, որ չի մշակի գործարքներ 11 կրիպտո հարթակների, ներառյալ HTX-ի հետ՝ ԵՄ պատժամիջոցների պատճառով։",
+        "link": "https://www.theblock.co/news/regulation/2026-08-14-binance-block-transactions-htx-10-other-exchanges-eu-russia-sanctions-411858",
         "source": "The Block",
-        "enTitle": "Baltimore sues Kalshi and Polymarket, roping Coinbase, Robinhood and Webull into the fight",
-        "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-800x450.jpg"
+        "enTitle": "Binance to block transactions with HTX, 10 other exchanges under EU Russia sanctions",
+        "image": "https://www.tbstat.com/wp/uploads/2023/10/20231006_HTXImages_News3-800x450.png"
       },
       {
-        "headline": "Morgan Stanley-ի Bitcoin ETF-ը ներգրավել է $371 միլիոն",
-        "summary": "Morgan Stanley-ի Bitcoin ETF-ը (MSBT) ներգրավել է 371 միլիոն դոլարի բաժնետոմսերի ներդրումներ, մինչդեռ Bitcoin-ի արժեքը նվազել է 66.8 միլիոն դոլարով։",
-        "link": "https://cryptoslate.com/morgan-stanleys-bitcoin-etf-drew-371-million-of-share-contributions-while-bitcoin-erased-66-8-million/",
-        "source": "CryptoSlate",
-        "enTitle": "Morgan Stanley’s Bitcoin ETF drew $371 million of share contributions while Bitcoin erased $66.8 million",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/morgan_stanley_bitcoin_trust_collage.jpg"
-      },
-      {
-        "headline": "Delio-ի գործադիր տնօրենը դատապարտվել է խարդախության համար",
-        "summary": "Հարավային Կորեայում Delio կրիպտոընկերության գործադիր տնօրեն Ջոնգ Սանգ-հոն դատապարտվել է 15 տարվա ազատազրկման՝ կրիպտո խարդախության մեղադրանքով։",
-        "link": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Իսրայելի խոշորագույն բանկը կառաջարկի կրիպտո",
+        "summary": "Իսրայելի Bank Leumi-ն 2027 թվականից իր հաճախորդներին հնարավորություն կտա առևտուր անել Bitcoin-ով, Ether-ով և Solana-ով։",
+        "link": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/arrest-police-crime-prison-jail-imprisonment-man-person2-1.jpg"
+        "enTitle": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-21-is-betting-on-10-cryptos-not-just-bitcoin-and-ethereum-zz.png"
+      },
+      {
+        "headline": "SEC-ը չեղարկել է կրիպտո ֆոնդհայթայթման հանդիպումը",
+        "summary": "SEC-ը չեղարկել է կրիպտո ֆոնդհայթայթման վերաբերյալ հանդիպումը՝ նոր ուղի չթողնելով թոքեն թողարկողների համար։",
+        "link": "https://cryptoslate.com/sec-cancels-crypto-fundraising-meeting-leaving-token-issuers-with-no-new-path-to-fund-development/",
+        "source": "CryptoSlate",
+        "enTitle": "SEC cancels crypto fundraising meeting, leaving token issuers with no new path to fund development",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-capital-map.jpg"
+      },
+      {
+        "headline": "Ինստիտուցիոնալ ներդրումները ETF-ներում աճում են",
+        "summary": "Morgan Stanley-ն և JPMorgan-ը երկրորդ եռամսյակում զգալիորեն ավելացրել են իրենց Bitcoin և Ether ETF-ների բաժնետոմսերը։",
+        "link": "https://cointelegraph.com/news/morgan-stanley-buys-blackrock-bitcoin-etf-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-central-bank-issued-digital-currency-the-new-bank-account-morgan-stanley.jpg"
+      },
+      {
+        "headline": "MSCI-ն կարող է հեռացնել Strategy-ին ինդեքսներից",
+        "summary": "MSCI-ն քննարկում է նոր չափորոշիչներ, որոնք կարող են Strategy-ին և Metaplanet-ին հեռացնել իր գլոբալ ինդեքսներից։",
+        "link": "https://news.bitcoin.com/finance/msci-proposal-strategy-metaplanet-index-removal/",
+        "source": "Bitcoin News",
+        "enTitle": "MSCI Proposal Could Boot Strategy, Metaplanet From Indexes",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/msci-proposal-could-boot-strategy-metaplanet-from-indexes2_nwmk-768x432.jpg"
       }
     ]
   }
