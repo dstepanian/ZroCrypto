@@ -3256,5 +3256,78 @@
         "image": "https://s3-images.ctmedia.io/media/article-covers/rwa.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-08-14",
+    "ts": 1786691423601,
+    "fng": {
+      "value": 29,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 63000,
+        "change24h": -1.2664022860631863
+      },
+      {
+        "label": "Ethereum",
+        "price": 1873.94,
+        "change24h": -1.105633906464684
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների աճող ուշադրությամբ և ինստիտուցիոնալ զարգացումներով։ Մի կողմից, SEC-ը հետաձգում է կրիպտո կանոնակարգերը, իսկ կանխատեսումների շուկաները բախվում են իրավական խնդիրների, մյուս կողմից՝ Tether-ը հաջողությամբ անցել է աուդիտ, իսկ Morgan Stanley-ի Bitcoin ETF-ը զգալի ներդրումներ է գրավել։",
+    "items": [
+      {
+        "headline": "Tether-ը ստացել է KPMG-ի աուդիտի դրական եզրակացություն",
+        "summary": "Tether-ը հայտարարել է, որ KPMG-ն տվել է դրական աուդիտորական եզրակացություն իր 2025 թվականի ֆինանսական հաշվետվությունների վերաբերյալ՝ հաստատելով, որ իր պահուստները գերազանցում են պարտավորությունները 6.8 միլիարդ դոլարով։",
+        "link": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Tether completes first full financial audit, receives clean KPMG opinion",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-a-stablecoin-attestation-report.png"
+      },
+      {
+        "headline": "SEC-ը հետաձգում է «Reg Crypto» առաջարկի քննարկումը",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) անորոշ ժամանակով հետաձգել է իր երկար սպասված «Reg Crypto» կանոնակարգի առաջարկի քննարկումը՝ առանց նոր ամսաթիվ նշելու։",
+        "link": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/090e5c77bf9a39a85f3ba365ccf65e1cbecb6a4f-3781x2129.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "JPMorgan-ը դադարեցրել է համագործակցությունը Polymarket-ի հետ",
+        "summary": "Financial Times-ի փոխանցմամբ՝ JPMorgan-ը 2025 թվականի վերջին դադարեցրել է իր բանկային հարաբերությունները կանխատեսումների հարթակ Polymarket-ի հետ՝ կարգավորող մտահոգությունների պատճառով։",
+        "link": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/c04fefa41085c2dc54aaae74833200ba210061d6-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Բալթիմորը դատի է տվել Kalshi-ին և Polymarket-ին",
+        "summary": "Բալթիմոր քաղաքը դատի է տվել Kalshi-ին և Polymarket-ին, ինչպես նաև Coinbase-ին, Robinhood-ին և Webull-ին՝ ենթադրյալ անօրինական սպորտային խաղադրույքների համար։",
+        "link": "https://www.theblock.co/news/business/2026-08-13-baltimore-sues-kalshi-polymarket-roping-coinbase-robinhood-webull-into-fight-411746",
+        "source": "The Block",
+        "enTitle": "Baltimore sues Kalshi and Polymarket, roping Coinbase, Robinhood and Webull into the fight",
+        "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-800x450.jpg"
+      },
+      {
+        "headline": "Morgan Stanley-ի Bitcoin ETF-ը ներգրավել է $371 միլիոն",
+        "summary": "Morgan Stanley-ի Bitcoin ETF-ը (MSBT) ներգրավել է 371 միլիոն դոլարի բաժնետոմսերի ներդրումներ, մինչդեռ Bitcoin-ի արժեքը նվազել է 66.8 միլիոն դոլարով։",
+        "link": "https://cryptoslate.com/morgan-stanleys-bitcoin-etf-drew-371-million-of-share-contributions-while-bitcoin-erased-66-8-million/",
+        "source": "CryptoSlate",
+        "enTitle": "Morgan Stanley’s Bitcoin ETF drew $371 million of share contributions while Bitcoin erased $66.8 million",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/morgan_stanley_bitcoin_trust_collage.jpg"
+      },
+      {
+        "headline": "Delio-ի գործադիր տնօրենը դատապարտվել է խարդախության համար",
+        "summary": "Հարավային Կորեայում Delio կրիպտոընկերության գործադիր տնօրեն Ջոնգ Սանգ-հոն դատապարտվել է 15 տարվա ազատազրկման՝ կրիպտո խարդախության մեղադրանքով։",
+        "link": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/arrest-police-crime-prison-jail-imprisonment-man-person2-1.jpg"
+      }
+    ]
   }
 ]
