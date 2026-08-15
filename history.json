@@ -3329,5 +3329,78 @@
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/msci-proposal-could-boot-strategy-metaplanet-from-indexes2_nwmk-768x432.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-08-15",
+    "ts": 1786774899358,
+    "fng": {
+      "value": 34,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 62992,
+        "change24h": -0.2903044614770622
+      },
+      {
+        "label": "Ethereum",
+        "price": 1878.89,
+        "change24h": 0.054814444263278965
+      }
+    ],
+    "overview": "Վերջին 24 ժամվա ընթացքում կրիպտո շուկան բնութագրվել է ինստիտուցիոնալ ներդրումների կայունությամբ, կարգավորող մարմինների ակտիվությամբ և քաղաքական գործիչների ու ոլորտի ղեկավարների միջև երկխոսությամբ։",
+    "items": [
+      {
+        "headline": "Աբու Դաբիի հիմնադրամները պահպանում են Bitcoin ETF-ները",
+        "summary": "Աբու Դաբիի երկու սուվերեն ներդրողներ պահպանել են իրենց BlackRock Bitcoin ETF-ի բաժնետոմսերը՝ չնայած Bitcoin-ի արժեքի անկմանը։",
+        "link": "https://cryptoslate.com/bitcoin-erased-118-million-from-abu-dhabis-etf-holdings-but-its-sovereign-funds-kept-every-share/",
+        "source": "CryptoSlate",
+        "enTitle": "Bitcoin erased $118 million from Abu Dhabi’s ETF holdings, but its sovereign funds kept every share",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/abu-dhabi-bitcoin-shield.jpg"
+      },
+      {
+        "headline": "Իռլանդիան ներկայացնում է կրիպտոյի դեմ պայքարի ռազմավարություն",
+        "summary": "Իռլանդիան գործարկել է իր առաջին ազգային հակափողերի լվացման ռազմավարությունը, որն ուղղված է կրիպտո ակտիվներին և ֆինանսական հանցագործությունների դեմ պայքարին։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/ireland-rolls-out-anti-money-laundering-strategy-targeting-crypto/",
+        "source": "Bitcoin News",
+        "enTitle": "Ireland Rolls Out Anti-Money Laundering Strategy Targeting Crypto",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/simon-harris-768x432.jpg"
+      },
+      {
+        "headline": "Trump-ի հետ կապված World Liberty-ն ստանում է հավանություն",
+        "summary": "Trump-ի ընտանիքի հետ կապված World Liberty Financial-ը ստացել է ԱՄՆ Արժույթի վերահսկիչի գրասենյակի (OCC) նախնական պայմանական հավանությունը ազգային վստահության բանկի համար։",
+        "link": "https://news.bitcoin.com/crypto-news/trump-linked-world-liberty-financial-gets-occ-green-light/",
+        "source": "Bitcoin News",
+        "enTitle": "Trump-Linked World Liberty Financial Gets OCC Green Light",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/trump-linked-world-liberty-financial-gets-occ-green-light-768x432.png"
+      },
+      {
+        "headline": "Trump-ը կհանդիպի կրիպտոյի ղեկավարների հետ",
+        "summary": "Ակնկալվում է, որ նախագահ Donald Trump-ը կմասնակցի Սպիտակ տան հանդիպմանը կրիպտո, կանխատեսումների շուկաների և AI ոլորտների գործադիր տնօրենների հետ։",
+        "link": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Trump expected to attend White House meeting with crypto CEOs, sources say",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/def0d98b21aeaaed3c0847566a33f7c63142d271-4032x3024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Strategy-ն դեմ է MSCI-ի ծրագրին",
+        "summary": "Strategy-ն հրապարակային առարկություն է ներկայացրել MSCI-ի առաջարկին՝ իրենց բաժնետոմսերը գլոբալ ինդեքսներից հանելու վերաբերյալ։",
+        "link": "https://news.bitcoin.com/featured/strategy-pushes-back-on-msci-plan-to-drop-mstr-from-global-indexes/",
+        "source": "Bitcoin News",
+        "enTitle": "Strategy Pushes Back on MSCI Plan to Drop MSTR From Global Indexes",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/strategy-inc-4-768x432.jpg"
+      },
+      {
+        "headline": "Իսրայելի խոշորագույն բանկը նորից կառաջարկի Bitcoin",
+        "summary": "Իսրայելի խոշորագույն Bank Leumi-ն նախատեսում է 2027 թվականի սկզբին կրկին առաջարկել Bitcoin-ի առևտուր՝ ավելի մեղմ կարգավորող դիրքորոշման և Galaxy-ի պահպանման շնորհիվ։",
+        "link": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
+        "source": "Decrypt",
+        "enTitle": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Israel-Flag-DecryptStyle-gID_7.jpg@png"
+      }
+    ]
   }
 ]
