@@ -3402,5 +3402,70 @@
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/simon-harris-768x432.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-08-16",
+    "ts": 1786861409887,
+    "fng": {
+      "value": 34,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 63005,
+        "change24h": 0.0047843033952455
+      },
+      {
+        "label": "Ethereum",
+        "price": 1877.81,
+        "change24h": -0.07925629054158875
+      }
+    ],
+    "overview": "Կրիպտո շուկայում այսօր նկատվում է խառը տրամադրություն՝ ինստիտուցիոնալ ներդրումների աճի և նոր ETF-ների մշակման ֆոնին։ Միաժամանակ, կարևոր օրենսդրական նախաձեռնությունները բախվում են դժվարությունների, իսկ խոշոր բորսաները խստացնում են կարգավորող կանոնները։",
+    "items": [
+      {
+        "headline": "SEC-ը քննարկում է 3x Bitcoin և Ether ETF-ներ",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) վերանայում է Cboe-ի առաջարկը՝ ցուցակագրելու Bitcoin և Ether-ի եռակի լծակային ETF-ներ։",
+        "link": "https://news.bitcoin.com/featured/sec-reviews-cboe-bid-to-list-3x-bitcoin-and-ether-etfs/",
+        "source": "Bitcoin News",
+        "enTitle": "SEC Reviews Cboe Bid to List 3x Bitcoin and Ether ETFs",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/sec-building-768x432.jpg"
+      },
+      {
+        "headline": "Binance-ը դադարեցնում է գործարքները 16 հարթակների հետ",
+        "summary": "Binance-ը դադարեցնում է գործարքները 16 կրիպտո հարթակների հետ՝ կարգավորող մարմինների պահանջներին համապատասխանելու համար։",
+        "link": "https://news.bitcoin.com/exchanges/binance-ends-transactions-with-16-platforms-warns-of-wallet-reviews/",
+        "source": "Bitcoin News",
+        "enTitle": "Binance Ends Transactions With 16 Platforms, Warns of Wallet Reviews",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/binance-2-1-768x432.jpg"
+      },
+      {
+        "headline": "CLARITY Act-ի ընդունման հավանականությունը նվազել է",
+        "summary": "Galaxy Research-ը հայտարարել է, որ CLARITY Act օրինագծի ընդունման հավանականությունը մինչև այս տարվա վերջ նվազել է մինչև 10%։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/clarity-act-odds-crash-to-10-before-senate-returns-galaxy/",
+        "source": "Bitcoin News",
+        "enTitle": "CLARITY Act Odds Crash to 10% Before Senate Returns: Galaxy",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/congress-building-3-768x432.jpg"
+      },
+      {
+        "headline": "Թրամփը կհանդիպի կրիպտո առաջնորդների հետ",
+        "summary": "Նախագահ Դոնալդ Թրամփը և SEC-ի ու CFTC-ի ղեկավարները հաջորդ շաբաթ Սպիտակ տանը կհանդիպեն կրիպտո արդյունաբերության ղեկավարների հետ։",
+        "link": "https://cryptoslate.com/trump-to-meet-coinbase-ripple-and-crypto-leaders-as-clarity-act-odds-collapse-to-10/",
+        "source": "CryptoSlate",
+        "enTitle": "Trump to meet Coinbase, Ripple and crypto leaders as CLARITY Act odds collapse to 10%",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/clarity-act-roadblock.jpg?ver=1786836387"
+      },
+      {
+        "headline": "UBS-ը զգալիորեն ավելացնում է Bitcoin-ի իր ներդրումները",
+        "summary": "Շվեյցարական խոշոր բանկ UBS-ը 24 անգամ ավելացրել է իր Bitcoin-ի ազդեցությունը՝ ավելացնելով ETF call option-ների իր բաժնեմասը։",
+        "link": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d9edd32b2e41671dfe8118f330eb29a7f4439e71-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
   }
 ]
