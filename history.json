@@ -3478,7 +3478,7 @@
   },
   {
     "date": "2026-08-17",
-    "ts": 1786948462305,
+    "ts": 1786983375511,
     "fng": {
       "value": 31,
       "label": "Fear",
@@ -3488,64 +3488,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 63525,
-        "change24h": 0.8254270851616591
+        "price": 64028,
+        "change24h": 1.3981323405065254
       },
       {
         "label": "Ethereum",
-        "price": 1899.99,
-        "change24h": 1.1451519028374832
+        "price": 1907.33,
+        "change24h": 1.2665428365149325
       }
     ],
-    "overview": "Այսօրվա կրիպտո նորությունները բացահայտում են կարգավորող մարմինների աճող ուշադրությունը, ինչպես նաև շուկայական և անվտանգության մարտահրավերները։ MiCA-ի ներքո առաջին տուգանքը և տվյալների արտահոսքը ընդգծում են ոլորտի հասունացումը և դրա հետ կապված ռիսկերը։",
+    "overview": "Շուկան խառը ազդանշաններ է ցույց տալիս. ինստիտուցիոնալ խաղացողները շարունակում են կուտակել ակտիվներ, ինչպիսիք են Ethereum-ը և Bitcoin ETF-ները, մինչդեռ կարգավորող մարմինները նոր կանոններ են առաջարկում stablecoin-ների համար։ Նկատվում են նաև անվտանգության հետ կապված միջադեպեր և արձանագրությունների զարգացումներ։",
     "items": [
       {
-        "headline": "Ավստրիան տուգանում է Bitpanda-ին MiCA-ի խախտման համար",
-        "summary": "Ավստրիայի Ֆինանսական շուկայի մարմինը (FMA) 70,000 եվրոյով տուգանել է Bitpanda-ին՝ MiCA կանոնակարգի խախտման համար, ինչը նշանավորում է MiCA-ի ներքո առաջին տուգանքներից մեկը։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/austria-fines-bitpanda-70000-euros-in-first-mica-crypto-penalty/",
-        "source": "Bitcoin News",
-        "enTitle": "Austria Fines Bitpanda 70,000 Euros in First MiCA Crypto Penalty",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/fma-report-768x432.jpg"
-      },
-      {
-        "headline": "SafePal-ի տվյալների արտահոսք 40,000 հաճախորդի համար",
-        "summary": "Սարքավորումային դրամապանակ արտադրող SafePal-ը բացահայտել է տվյալների արտահոսք, որը վնասել է մոտ 40,000 հաճախորդի անձնական տվյալները՝ պատվերների հետևման խափանված plugin-ի միջոցով։",
-        "link": "https://news.bitcoin.com/security/data-breach-hits-39798-safepal-customers-after-order-plugin-flaw/",
-        "source": "Bitcoin News",
-        "enTitle": "Data Breach Hits 39,798 Safepal Customers After Order Plugin Flaw",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/safepal-announcement-768x432.jpg"
-      },
-      {
-        "headline": "Greenlane-ի altcoin ներդրումը հանգեցրել է Nasdaq-ի ցուցակից հանելուն",
-        "summary": "Հանրային ընկերություն Greenlane-ի 70 միլիոն դոլար արժողությամբ altcoin ներդրումը կորցրել է իր արժեքի 77%-ը՝ ընկերությանը կանգնեցնելով Nasdaq-ի ցուցակից հանվելու վտանգի առաջ։",
-        "link": "https://cryptoslate.com/how-a-public-firms-70-million-altcoin-bet-crashed-77-and-left-it-facing-nasdaq-delisting/",
-        "source": "CryptoSlate",
-        "enTitle": "How a public firm’s $70 million altcoin bet crashed 77% and left it facing Nasdaq delisting",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/greenlane-listing-elevator.jpg"
-      },
-      {
-        "headline": "Bitcoin ֆյուչերսների շուկայի իրացվելիության մտահոգություններ",
-        "summary": "Bitcoin ֆյուչերսների շուկան բախվում է վտանգավոր իրացվելիության անհամապատասխանության՝ քանի որ բաց տոկոսադրույքը զգալիորեն գերազանցում է առևտրի ծավալին, ինչը կարող է ցավ պատճառել։",
-        "link": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
+        "headline": "Bitmine-ը շարունակում է կուտակել Ethereum",
+        "summary": "Tom Lee-ի Bitmine ընկերությունը շարունակում է գնել Ethereum և այժմ տիրապետում է ընդհանուր մատակարարման 4.8%-ին։",
+        "link": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b155b6c94a14f858a663fe20c03b6c7167b358-6896x4597.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/bafb99c8f61830de7b03162ff11769973ea3ef0d-758x528.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Ethereum-ի մշակողները նեղացնում են Hegotá առաջարկները",
-        "summary": "Ethereum-ի մշակողները նախատեսում են նեղացնել Hegotá արդիականացման հետ կապված 66 առաջարկները, որի նպատակն է ներդնել ավելի շատ բնիկ գաղտնիություն Ethereum հավելվածների համար։",
-        "link": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-encryption.jpg"
+        "headline": "ԱՄՆ Գանձապետարանը առաջարկում է GENIUS Act կանոններ",
+        "summary": "ԱՄՆ Գանձապետարանը առաջարկել է GENIUS Act-ի stablecoin-ների նոր կանոններ՝ հստակեցնելու օրենքի հիմնական սահմանումներն ու իրավասությունները։",
+        "link": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/650ce5f7005eed4049392c0fccafc962427f5d39-2880x1620.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Cboe-ն առաջարկում է 3x Bitcoin և Ethereum ETF-ներ",
-        "summary": "Cboe-ն առաջարկում է 3x Bitcoin և Ethereum ETF-ներ՝ չնայած նախկին 2x կրիպտո ֆոնդերի մինչև 96% կորուստներին, ինչը ցույց է տալիս լծակային ֆոնդերի հետ կապված բարձր ռիսկերը։",
-        "link": "https://cryptoslate.com/cboe-pushes-for-3x-bitcoin-etf-after-2x-crypto-funds-suffer-losses-of-up-to-96/",
-        "source": "CryptoSlate",
-        "enTitle": "Cboe pushes for 3x Bitcoin and Ethereum ETFs after 2x crypto funds suffer losses of up to 96%",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/triple-leverage-volatility-risk.jpg"
+        "headline": "Bitcoin ETF-ներից զգալի արտահոսք",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են 389.7 միլիոն դոլարի զուտ արտահոսք օգոստոսի 10-ից 14-ն ընկած շաբաթվա ընթացքում։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/fidelity-leads-389-7m-bitcoin-etf-weekly-outflow-with-153m-exit/",
+        "source": "Bitcoin News",
+        "enTitle": "Fidelity Leads $389.7M Bitcoin ETF Weekly Outflow With $153M Exit",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/fidelity-leads-389-7m-bitcoin-etf-weekly-outflow-with-153m-exit-768x432.jpg"
+      },
+      {
+        "headline": "Harmony-ն պլանավորում է rollback",
+        "summary": "Harmony-ն պլանավորում է նախահարձակման rollback՝ 3 տրիլիոն ONE թոքենների կեղծումից հետո՝ համարելով այն ամենաարդար և անվտանգ լուծումը։",
+        "link": "https://www.theblock.co/news/ecosystems/2026-08-17-harmony-plans-pre-attack-rollback-after-exploiter-forged-3-trillion-one-tokens-411976",
+        "source": "The Block",
+        "enTitle": "Harmony plans pre-attack rollback after exploiter forged 3 trillion ONE tokens",
+        "image": "https://www.tbstat.com/wp/uploads/2022/02/20220207-Hacking-Generic-1200x675.jpg"
+      },
+      {
+        "headline": "Strategy-ն պահպանում է Bitcoin-ի իր բաժնեմասը",
+        "summary": "Strategy-ն պահպանել է իր Bitcoin-ի պահուստները 840,447 BTC-ում մինչև օգոստոսի 16-ը՝ միաժամանակ ավելացնելով իր ԱՄՆ դոլարի պահուստը մինչև 4.8 միլիարդ դոլար։",
+        "link": "https://news.bitcoin.com/featured/strategy-holds-bitcoin-at-840447-btc-as-cash-reserve-hits-4-8b/",
+        "source": "Bitcoin News",
+        "enTitle": "Strategy Holds Bitcoin at 840,447 BTC as Cash Reserve Hits $4.8B",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/strategy-inc-5-768x432.jpg"
+      },
+      {
+        "headline": "Paul Tudor Jones-ը գնում է BlackRock Bitcoin ETF",
+        "summary": "Paul Tudor Jones-ի ընկերությունը մեկ տարվա վաճառքից հետո կրկին գնել է BlackRock Bitcoin ETF-ի բաժնետոմսեր՝ ավելացնելով իր iShares Bitcoin Trust-ի բաժնեմասը 18.9%-ով։",
+        "link": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
+        "source": "Decrypt",
+        "enTitle": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-02-gID_7.png@png"
       }
     ]
   }
