@@ -3475,5 +3475,78 @@
         "image": "https://cryptoslate.com/wp-content/uploads/2026/08/staking-yield-dial.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-08-17",
+    "ts": 1786948462305,
+    "fng": {
+      "value": 31,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 63525,
+        "change24h": 0.8254270851616591
+      },
+      {
+        "label": "Ethereum",
+        "price": 1899.99,
+        "change24h": 1.1451519028374832
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո նորությունները բացահայտում են կարգավորող մարմինների աճող ուշադրությունը, ինչպես նաև շուկայական և անվտանգության մարտահրավերները։ MiCA-ի ներքո առաջին տուգանքը և տվյալների արտահոսքը ընդգծում են ոլորտի հասունացումը և դրա հետ կապված ռիսկերը։",
+    "items": [
+      {
+        "headline": "Ավստրիան տուգանում է Bitpanda-ին MiCA-ի խախտման համար",
+        "summary": "Ավստրիայի Ֆինանսական շուկայի մարմինը (FMA) 70,000 եվրոյով տուգանել է Bitpanda-ին՝ MiCA կանոնակարգի խախտման համար, ինչը նշանավորում է MiCA-ի ներքո առաջին տուգանքներից մեկը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/austria-fines-bitpanda-70000-euros-in-first-mica-crypto-penalty/",
+        "source": "Bitcoin News",
+        "enTitle": "Austria Fines Bitpanda 70,000 Euros in First MiCA Crypto Penalty",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/fma-report-768x432.jpg"
+      },
+      {
+        "headline": "SafePal-ի տվյալների արտահոսք 40,000 հաճախորդի համար",
+        "summary": "Սարքավորումային դրամապանակ արտադրող SafePal-ը բացահայտել է տվյալների արտահոսք, որը վնասել է մոտ 40,000 հաճախորդի անձնական տվյալները՝ պատվերների հետևման խափանված plugin-ի միջոցով։",
+        "link": "https://news.bitcoin.com/security/data-breach-hits-39798-safepal-customers-after-order-plugin-flaw/",
+        "source": "Bitcoin News",
+        "enTitle": "Data Breach Hits 39,798 Safepal Customers After Order Plugin Flaw",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/safepal-announcement-768x432.jpg"
+      },
+      {
+        "headline": "Greenlane-ի altcoin ներդրումը հանգեցրել է Nasdaq-ի ցուցակից հանելուն",
+        "summary": "Հանրային ընկերություն Greenlane-ի 70 միլիոն դոլար արժողությամբ altcoin ներդրումը կորցրել է իր արժեքի 77%-ը՝ ընկերությանը կանգնեցնելով Nasdaq-ի ցուցակից հանվելու վտանգի առաջ։",
+        "link": "https://cryptoslate.com/how-a-public-firms-70-million-altcoin-bet-crashed-77-and-left-it-facing-nasdaq-delisting/",
+        "source": "CryptoSlate",
+        "enTitle": "How a public firm’s $70 million altcoin bet crashed 77% and left it facing Nasdaq delisting",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/greenlane-listing-elevator.jpg"
+      },
+      {
+        "headline": "Bitcoin ֆյուչերսների շուկայի իրացվելիության մտահոգություններ",
+        "summary": "Bitcoin ֆյուչերսների շուկան բախվում է վտանգավոր իրացվելիության անհամապատասխանության՝ քանի որ բաց տոկոսադրույքը զգալիորեն գերազանցում է առևտրի ծավալին, ինչը կարող է ցավ պատճառել։",
+        "link": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b155b6c94a14f858a663fe20c03b6c7167b358-6896x4597.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Ethereum-ի մշակողները նեղացնում են Hegotá առաջարկները",
+        "summary": "Ethereum-ի մշակողները նախատեսում են նեղացնել Hegotá արդիականացման հետ կապված 66 առաջարկները, որի նպատակն է ներդնել ավելի շատ բնիկ գաղտնիություն Ethereum հավելվածների համար։",
+        "link": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-encryption.jpg"
+      },
+      {
+        "headline": "Cboe-ն առաջարկում է 3x Bitcoin և Ethereum ETF-ներ",
+        "summary": "Cboe-ն առաջարկում է 3x Bitcoin և Ethereum ETF-ներ՝ չնայած նախկին 2x կրիպտո ֆոնդերի մինչև 96% կորուստներին, ինչը ցույց է տալիս լծակային ֆոնդերի հետ կապված բարձր ռիսկերը։",
+        "link": "https://cryptoslate.com/cboe-pushes-for-3x-bitcoin-etf-after-2x-crypto-funds-suffer-losses-of-up-to-96/",
+        "source": "CryptoSlate",
+        "enTitle": "Cboe pushes for 3x Bitcoin and Ethereum ETFs after 2x crypto funds suffer losses of up to 96%",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/triple-leverage-volatility-risk.jpg"
+      }
+    ]
   }
 ]
