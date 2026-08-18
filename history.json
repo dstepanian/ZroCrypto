@@ -3548,5 +3548,70 @@
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-02-gID_7.png@png"
       }
     ]
+  },
+  {
+    "date": "2026-08-18",
+    "ts": 1787034394570,
+    "fng": {
+      "value": 41,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 64266,
+        "change24h": 1.179947091542815
+      },
+      {
+        "label": "Ethereum",
+        "price": 1897.62,
+        "change24h": -0.07126385615664722
+      }
+    ],
+    "overview": "Օրը նշանավորվեց կարգավորողական զարգացումներով ամբողջ աշխարհում, քանի որ ԵՄ-ն լիազորեց կարգավորողներին, իսկ ԱՄՆ Գանձապետարանը առաջարկեց նոր կանոններ stablecoin-ների համար: Միևնույն ժամանակ, խոշոր կրիպտո պլատֆորմները, ինչպիսիք են Ripple-ը և Binance-ը, շարունակեցին ընդլայնել իրենց ծառայությունները և հաղթահարել կարգավորողական մարտահրավերները:",
+    "items": [
+      {
+        "headline": "Ripple-ը համագործակցում է Jeonbuk Bank-ի հետ",
+        "summary": "Ripple-ը համագործակցել է Հարավային Կորեայի Jeonbuk Bank-ի հետ՝ անդրսահմանային վճարումների համար, ինչը ընդլայնում է իր ներկայությունը տարածաշրջանում։",
+        "link": "https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049",
+        "source": "The Block",
+        "enTitle": "Ripple partners with South Korea’s Jeonbuk Bank for cross-border payments",
+        "image": "https://www.tbstat.com/wp/uploads/2026/01/20260108_Ripple_News_3-1200x675.jpg"
+      },
+      {
+        "headline": "ԵՄ-ն լիազորում է արգելել կրիպտո հարթակները",
+        "summary": "Եվրոպական Միությունը լիազորել է կարգավորողներին արգելափակել երրորդ երկրների կրիպտո հարթակները՝ որպես Ռուսաստանի դեմ պատժամիջոցների 21-րդ փաթեթի մաս։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/eu-empowers-regulators-to-block-third-country-crypto-platforms/",
+        "source": "Bitcoin News",
+        "enTitle": "EU Empowers Regulators to Block Third-Country Crypto Platforms",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/eu-empowers-regulators-to-block-third-country-crypto-platforms-768x432.png"
+      },
+      {
+        "headline": "Binance-ը հաճախորդների տվյալներ է տրամադրել Ռուսաստանին",
+        "summary": "Binance-ը, շուկայից դուրս գալուց հետո, ռուսական իրավապահ մարմիններին տրամադրել է հաճախորդների տվյալներ, որոնք կապված են ուկրաինական ռազմական նպատակներին ուղղված նվիրատվությունների հետ։",
+        "link": "https://news.bitcoin.com/exchanges/binance-shared-customer-data-with-russia-after-leaving-market/",
+        "source": "Bitcoin News",
+        "enTitle": "Binance Shared Customer Data With Russia After Leaving Market",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/binance-exchange-768x432.jpg"
+      },
+      {
+        "headline": "ԱՄՆ Գանձապետարանը առաջարկում է stablecoin-ի կանոններ",
+        "summary": "ԱՄՆ Գանձապետարանը առաջարկել է նոր կանոններ, որոնք կսահմանեն, թե ով կարող է օրինականորեն վաճառել stablecoin-ներ Միացյալ Նահանգներում՝ սկսած 2027 թվականից։",
+        "link": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
+        "source": "Decrypt",
+        "enTitle": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg@png"
+      },
+      {
+        "headline": "Binance-ը նախատեսում է վերագործարկում Մեծ Բրիտանիայում",
+        "summary": "Հաղորդվում է, որ Binance-ը նախատեսում է վերագործարկել իր գործունեությունը Մեծ Բրիտանիայում՝ դիմելով FCA լիցենզիայի համար՝ նոր կրիպտո կանոնների ներքո։",
+        "link": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Binance to plan UK relaunch with FCA license application: Report",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations-binance.jpg"
+      }
+    ]
   }
 ]
