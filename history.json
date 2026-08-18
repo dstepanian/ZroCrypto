@@ -3551,7 +3551,7 @@
   },
   {
     "date": "2026-08-18",
-    "ts": 1787034394570,
+    "ts": 1787070035848,
     "fng": {
       "value": 41,
       "label": "Fear",
@@ -3561,56 +3561,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 64266,
-        "change24h": 1.179947091542815
+        "price": 64694,
+        "change24h": 1.0431065488734086
       },
       {
         "label": "Ethereum",
-        "price": 1897.62,
-        "change24h": -0.07126385615664722
+        "price": 1912.95,
+        "change24h": 0.3036934915867489
       }
     ],
-    "overview": "Օրը նշանավորվեց կարգավորողական զարգացումներով ամբողջ աշխարհում, քանի որ ԵՄ-ն լիազորեց կարգավորողներին, իսկ ԱՄՆ Գանձապետարանը առաջարկեց նոր կանոններ stablecoin-ների համար: Միևնույն ժամանակ, խոշոր կրիպտո պլատֆորմները, ինչպիսիք են Ripple-ը և Binance-ը, շարունակեցին ընդլայնել իրենց ծառայությունները և հաղթահարել կարգավորողական մարտահրավերները:",
+    "overview": "Այսօրվա նորությունները ցույց են տալիս ավանդական ֆինանսական հաստատությունների աճող հետաքրքրությունը կրիպտոարժույթների նկատմամբ, ինչպես նաև նորարարական քայլեր՝ ակտիվների թոքենիզացիայի և Bitcoin-ի կորպորատիվ ռազմավարությունների ոլորտում։ Շուկան արձանագրել է Bitcoin ETF-ների զգալի ներհոսք։",
     "items": [
       {
-        "headline": "Ripple-ը համագործակցում է Jeonbuk Bank-ի հետ",
-        "summary": "Ripple-ը համագործակցել է Հարավային Կորեայի Jeonbuk Bank-ի հետ՝ անդրսահմանային վճարումների համար, ինչը ընդլայնում է իր ներկայությունը տարածաշրջանում։",
-        "link": "https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049",
-        "source": "The Block",
-        "enTitle": "Ripple partners with South Korea’s Jeonbuk Bank for cross-border payments",
-        "image": "https://www.tbstat.com/wp/uploads/2026/01/20260108_Ripple_News_3-1200x675.jpg"
+        "headline": "Kraken-ը ԱՄՆ բաժնետոմսեր է առաջարկում Եվրոպայում",
+        "summary": "Kraken-ը դարձել է առաջին կրիպտո ընկերությունը, որը եվրոպական հաճախորդներին առաջարկում է ինչպես ավանդական ԱՄՆ բաժնետոմսեր, այնպես էլ դրանց թոքենիզացված տարբերակները մեկ կարգավորվող հարթակում։",
+        "link": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/a5d0f75b04392e25a31f206a3e9a16e752cb4a2c-2872x1915.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "ԵՄ-ն լիազորում է արգելել կրիպտո հարթակները",
-        "summary": "Եվրոպական Միությունը լիազորել է կարգավորողներին արգելափակել երրորդ երկրների կրիպտո հարթակները՝ որպես Ռուսաստանի դեմ պատժամիջոցների 21-րդ փաթեթի մաս։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/eu-empowers-regulators-to-block-third-country-crypto-platforms/",
-        "source": "Bitcoin News",
-        "enTitle": "EU Empowers Regulators to Block Third-Country Crypto Platforms",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/eu-empowers-regulators-to-block-third-country-crypto-platforms-768x432.png"
-      },
-      {
-        "headline": "Binance-ը հաճախորդների տվյալներ է տրամադրել Ռուսաստանին",
-        "summary": "Binance-ը, շուկայից դուրս գալուց հետո, ռուսական իրավապահ մարմիններին տրամադրել է հաճախորդների տվյալներ, որոնք կապված են ուկրաինական ռազմական նպատակներին ուղղված նվիրատվությունների հետ։",
-        "link": "https://news.bitcoin.com/exchanges/binance-shared-customer-data-with-russia-after-leaving-market/",
-        "source": "Bitcoin News",
-        "enTitle": "Binance Shared Customer Data With Russia After Leaving Market",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/binance-exchange-768x432.jpg"
-      },
-      {
-        "headline": "ԱՄՆ Գանձապետարանը առաջարկում է stablecoin-ի կանոններ",
-        "summary": "ԱՄՆ Գանձապետարանը առաջարկել է նոր կանոններ, որոնք կսահմանեն, թե ով կարող է օրինականորեն վաճառել stablecoin-ներ Միացյալ Նահանգներում՝ սկսած 2027 թվականից։",
-        "link": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
-        "source": "Decrypt",
-        "enTitle": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg@png"
-      },
-      {
-        "headline": "Binance-ը նախատեսում է վերագործարկում Մեծ Բրիտանիայում",
-        "summary": "Հաղորդվում է, որ Binance-ը նախատեսում է վերագործարկել իր գործունեությունը Մեծ Բրիտանիայում՝ դիմելով FCA լիցենզիայի համար՝ նոր կրիպտո կանոնների ներքո։",
-        "link": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Neuberger-ը և Securitize-ը գործարկում են թոքենիզացված ֆոնդ",
+        "summary": "613 միլիարդ դոլարի ակտիվներ կառավարող Neuberger-ը Securitize-ի հետ համագործակցել է բարձր եկամտաբերության ֆոնդ թոքենիզացնելու համար՝ Ethereum, Solana, Avalanche և Sui բլոկչեյնների վրա։",
+        "link": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Binance to plan UK relaunch with FCA license application: Report",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations-binance.jpg"
+        "enTitle": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-blackrocks-tokenized-treasury-fund.png"
+      },
+      {
+        "headline": "Citi-ն կգործարկի Bitcoin-ի պահպանման ծառայություն",
+        "summary": "Բանկային հսկա Citi-ն նախատեսում է թույլ տալ ինստիտուցիոնալ հաճախորդներին պահել Bitcoin-ը և ավանդական ակտիվները նույն պահպանման շրջանակներում։",
+        "link": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
+        "source": "Decrypt",
+        "enTitle": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Metaplanet-ը Bitcoin գանձապետական ընկերություն է ստեղծում ԱՄՆ-ում",
+        "summary": "Ճապոնական Metaplanet ընկերությունը ԱՄՆ-ում կստեղծի Bitcoin գանձապետական ընկերություն՝ Super League-ի 96% բաժնեմասը ձեռք բերելով 2,100 BTC և կանխիկ գումարի դիմաց։",
+        "link": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal",
+        "source": "Decrypt",
+        "enTitle": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-13-gID_7.png@png"
+      },
+      {
+        "headline": "Bitcoin ETF-ները վերականգնում են ներհոսքերը",
+        "summary": "Bitcoin ETF-ները շաբաթը սկսել են 297.5 միլիոն դոլարի զուտ ներհոսքով՝ դադարեցնելով նախորդ շաբաթվա երեք նիստերի արտահոսքի շարքը։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-fidelity-drive-297-5m-bitcoin-etf-rebound/",
+        "source": "Bitcoin News",
+        "enTitle": "Blackrock, Fidelity Drive $297.5M Bitcoin ETF Rebound",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/blackrock-fidelity-drive-297-5m-bitcoin-etf-rebound-768x432.jpg"
+      },
+      {
+        "headline": "Cash App-ը ընդլայնում է կրիպտո աջակցությունը",
+        "summary": "Cash App-ի որակավորված օգտատերերը կկարողանան օգտագործել իրենց մնացորդները MoonPay-ի կողմից առաջարկվող թվային ակտիվներ գնելու համար, որոնք ներառում են ether, solana և stablecoin USDT։",
+        "link": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
