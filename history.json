@@ -3624,7 +3624,7 @@
   },
   {
     "date": "2026-08-19",
-    "ts": 1787120829109,
+    "ts": 1787156418921,
     "fng": {
       "value": 46,
       "label": "Fear",
@@ -3634,64 +3634,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 64237,
-        "change24h": -0.07492912637892753
+        "price": 68626,
+        "change24h": 6.085122512589491
       },
       {
         "label": "Ethereum",
-        "price": 1910.63,
-        "change24h": 0.6526585324065398
+        "price": 2095.53,
+        "change24h": 9.531846562062107
       }
     ],
-    "overview": "Կարգավորող մարմինները (SEC, FASB) առաջարկում են նոր կանոններ՝ կրիպտոարժույթների շուկայում հստակություն ապահովելու համար, մինչդեռ Ripple-ը և stablecoin-ները շարունակում են ընդլայնել իրենց կիրառությունը։ Շուկան արձագանքում է այս զարգացումներին՝ պահպանելով զգուշավոր լավատեսություն։",
+    "overview": "Շուկան այսօր զգալի վերելք է ապրել՝ հիմնականում պայմանավորված մակրոտնտեսական գործոններով և դրական կարգավորող զարգացումներով։ Bitcoin-ը գլխավորել է աճը, մինչդեռ ինստիտուցիոնալ ընդունումը և ավելի հստակ կարգավորող շրջանակները շարունակել են ձևավորել կրիպտոյի լայն լանդշաֆտը։",
     "items": [
       {
-        "headline": "MAYAChain-ը դադարեցրել է ցանցի աշխատանքը",
-        "summary": "MAYAChain-ը դադարեցրել է իր ցանցի աշխատանքը՝ մոտ 1.7 միլիոն դոլարի շահագործման պատճառով, որը հանգեցրել է CACAO թոքենի արժեքի զգալի անկման։",
-        "link": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Bitcoin-ը բարձրացել է ԱՄՆ գանձապետարանի գնումների ֆոնին",
+        "summary": "Bitcoin-ի գինը հասել է 69,500 դոլարի՝ ԱՄՆ գանձապետարանի կողմից երկարաժամկետ պարտատոմսերի հետգնումները կրկնապատկելու մասին հայտարարությունից հետո։",
+        "link": "https://cryptoslate.com/bitcoin-price-hits-69500-as-over-400m-of-shorts-liquidated-because-us-doubles-treasury-debt-buybacks-to-crush-long-term-yields/",
+        "source": "CryptoSlate",
+        "enTitle": "Bitcoin price hits $69,500 because US just doubled Treasury buybacks to crush long-term yields",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-bull-treasury.jpg"
+      },
+      {
+        "headline": "SEC-ը նոր կանոններ է առաջարկում կրիպտո ֆինանսավորման համար",
+        "summary": "Արժեթղթերի և բորսաների հանձնաժողովը (SEC) առաջարկել է նոր կանոններ, որոնք կարող են հստակ ուղիներ տրամադրել որոշ կրիպտո նախագծերի՝ ԱՄՆ-ում միջոցներ հայթայթելու համար։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/sec-opens-75m-crypto-funding-floodgate-with-new-rule-plan/",
+        "source": "Bitcoin News",
+        "enTitle": "SEC Opens $75M Crypto Funding Floodgate With New Rule Plan",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/sec-opens-27-question-review-of-novel-etfs-puts-crypto-products-in-focus-768x432.png"
+      },
+      {
+        "headline": "Ripple-ը 275 միլիոն դոլար է հավաքել ինստիտուցիոնալ ընդլայնման համար",
+        "summary": "Ripple-ը հայտարարել է 275 միլիոն դոլարի ներգրավման մասին՝ աջակցելու իր ընդլայնմանը ավանդական ֆինանսական ծառայությունների ոլորտում, ինչպիսիք են prime brokerage-ը և multi-asset clearing-ը։",
+        "link": "https://cointelegraph.com/news/ripple-raises-275m-us-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "MAYAChain halts network after estimated $1.7M exploit",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-company-hits-vulnerability.jpg"
+        "enTitle": "Ripple raises $275M for US prime brokerage to meet institutional demand",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-dubai-overview-ripple-and-blockchain.jpg"
       },
       {
-        "headline": "SEC-ն առաջարկում է կրիպտո կանոններ",
-        "summary": "SEC-ն առաջարկել է կրիպտոարժույթների նոր կանոններ, ներառյալ տարեկան մինչև 75 միլիոն դոլարի առաջարկների համար հատուկ ուղի՝ նպատակ ունենալով հստակություն ապահովել շուկայում։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/sec-proposes-new-crypto-rules-with-a-75-million-offering-path/",
-        "source": "Bitcoin News",
-        "enTitle": "SEC Proposes New Crypto Rules With a $75 Million Offering Path",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/sec-building-washington-dc-768x432.jpg"
-      },
-      {
-        "headline": "FASB-ն առաջարկում է stablecoin-ները որպես կանխիկի համարժեք",
-        "summary": "ԱՄՆ հաշվապահական հաշվառման խորհուրդ FASB-ն առաջարկել է պայմաններ, որոնց դեպքում stablecoin-ները կարող են դիտարկվել որպես կանխիկի համարժեք՝ պահանջելով ուղղակի մարման իրավունքներ և մեկը մեկին լիկվիդային պահուստներ։",
-        "link": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Injective-ը SEC-ի գրանցում է ստացել ինստիտուցիոնալ ծառայությունների համար",
+        "summary": "Injective-ի հետ կապված կազմակերպությունը ստացել է SEC-ի գրանցում որպես փոխանցման գործակալ՝ թույլ տալով պահպանել արժեթղթերի սեփականության գրառումները և ընդլայնել կարգավորվող շուկայական ենթակառուցվածքը։",
+        "link": "https://cointelegraph.com/news/injective-sec-transfer-agent-tokenized-securities-recordkeeping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "US accounting board FASB proposes conditions for stablecoins as cash equivalents",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-monitoring-payers-cryptocurrency-compliance.jpg"
+        "enTitle": "Injective receives SEC transfer agent registration for institutional services arm",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-dlts-could-change-the-real-estate-investment-landscape-deal.jpg"
       },
       {
-        "headline": "Ripple-ը մուտք է գործում կորեական բանկային համակարգ",
-        "summary": "Ripple-ը համագործակցություն է հաստատել Jeonbuk Bank-ի հետ՝ Կորեայում անդրսահմանային վճարումները հեշտացնելու համար՝ տրամադրելով գրեթե իրական ժամանակի հաշվարկային ծառայություններ։",
-        "link": "https://news.bitcoin.com/crypto-news/ripple-pushes-into-korean-banking-with-jeonbuk-payments-deal/",
-        "source": "Bitcoin News",
-        "enTitle": "Ripple Pushes Into Korean Banking With Jeonbuk Payments Deal",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/ripple-labs-1-1-768x432.jpg"
+        "headline": "Չինական InsurTech ընկերությունը Bitcoin է ավելացրել իր գանձարանին",
+        "summary": "Շանհայում գործող Zhibao InsurTech ընկերությունը 154.7 միլիոն դոլարի մասնավոր տեղաբաշխում է կատարել՝ ամբողջությամբ ֆինանսավորված կրիպտոյով, որի ներդրողները ուղղակիորեն Bitcoin են ներդրել։",
+        "link": "https://decrypt.co/375935/china-zhibao-bitcoin-treasury-pivot",
+        "source": "Decrypt",
+        "enTitle": "Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png"
       },
       {
-        "headline": "Nasdaq-ը երկարացնում է առևտրային ժամերը",
-        "summary": "Nasdaq-ը դեկտեմբերի 6-ին կգործարկի գրեթե 23-ժամյա առևտրային օր՝ ավելացնելով գիշերային նստաշրջան՝ նպատակ ունենալով համապատասխանել կրիպտո շուկաների շուրջօրյա աշխատանքին։",
-        "link": "https://news.bitcoin.com/finance/nasdaq-23-hour-trading-december-2026-launch/",
+        "headline": "Bitcoin-ի «կետերը» դադարեցրել են վաճառքը և կուտակում են",
+        "summary": "Խոշոր Bitcoin սեփականատերերը վերջին 60 օրվա ընթացքում ավելացրել են մոտ 43,000 BTC՝ մոտ 2.75 միլիարդ դոլար արժողությամբ, դրանով իսկ դադարեցնելով նույն խմբի կողմից ամիսներ տևած կայուն վաճառքը։",
+        "link": "https://news.bitcoin.com/crypto-news/bitcoin-whales-add-43000-btc-ending-months-long-selling-spree/",
         "source": "Bitcoin News",
-        "enTitle": "Nasdaq Sets December 6 Launch for Nearly 23-Hour Trading Day",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/nasdaq-sets-december-6-launch-for-nearly-23-hour-trading-day2_nwmk-768x432.jpg"
-      },
-      {
-        "headline": "Riot Platforms-ը վաճառել է Bitcoin",
-        "summary": "Riot Platforms-ը 2026 թվականի առաջին կիսամյակում վաճառել է 9,665 Bitcoin՝ ֆինանսավորելու իր անցումը դեպի արհեստական ինտելեկտի (AI) ենթակառուցվածքներ։",
-        "link": "https://news.bitcoin.com/mining/riot-platforms-sold-8078-bitcoin-h1-2026-ai-pivot/",
-        "source": "Bitcoin News",
-        "enTitle": "Riot Platforms Sold 9,665 Bitcoin in H1 2026 to Fund AI Pivot",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/riot-platforms-sold-9665-bitcoin-in-h1-2026-to-fund-ai-pivot2_nwmk-768x432.jpg"
+        "enTitle": "Bitcoin Whales Add 43,000 BTC, Ending Months-Long Selling Spree",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-whales-add-43000-btc-ending-months-long-selling-spree3_nwmk-768x432.jpg"
       }
     ]
   }
