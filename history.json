@@ -3621,5 +3621,78 @@
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
+  },
+  {
+    "date": "2026-08-19",
+    "ts": 1787120829109,
+    "fng": {
+      "value": 46,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 64237,
+        "change24h": -0.07492912637892753
+      },
+      {
+        "label": "Ethereum",
+        "price": 1910.63,
+        "change24h": 0.6526585324065398
+      }
+    ],
+    "overview": "Կարգավորող մարմինները (SEC, FASB) առաջարկում են նոր կանոններ՝ կրիպտոարժույթների շուկայում հստակություն ապահովելու համար, մինչդեռ Ripple-ը և stablecoin-ները շարունակում են ընդլայնել իրենց կիրառությունը։ Շուկան արձագանքում է այս զարգացումներին՝ պահպանելով զգուշավոր լավատեսություն։",
+    "items": [
+      {
+        "headline": "MAYAChain-ը դադարեցրել է ցանցի աշխատանքը",
+        "summary": "MAYAChain-ը դադարեցրել է իր ցանցի աշխատանքը՝ մոտ 1.7 միլիոն դոլարի շահագործման պատճառով, որը հանգեցրել է CACAO թոքենի արժեքի զգալի անկման։",
+        "link": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "MAYAChain halts network after estimated $1.7M exploit",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-company-hits-vulnerability.jpg"
+      },
+      {
+        "headline": "SEC-ն առաջարկում է կրիպտո կանոններ",
+        "summary": "SEC-ն առաջարկել է կրիպտոարժույթների նոր կանոններ, ներառյալ տարեկան մինչև 75 միլիոն դոլարի առաջարկների համար հատուկ ուղի՝ նպատակ ունենալով հստակություն ապահովել շուկայում։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/sec-proposes-new-crypto-rules-with-a-75-million-offering-path/",
+        "source": "Bitcoin News",
+        "enTitle": "SEC Proposes New Crypto Rules With a $75 Million Offering Path",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/sec-building-washington-dc-768x432.jpg"
+      },
+      {
+        "headline": "FASB-ն առաջարկում է stablecoin-ները որպես կանխիկի համարժեք",
+        "summary": "ԱՄՆ հաշվապահական հաշվառման խորհուրդ FASB-ն առաջարկել է պայմաններ, որոնց դեպքում stablecoin-ները կարող են դիտարկվել որպես կանխիկի համարժեք՝ պահանջելով ուղղակի մարման իրավունքներ և մեկը մեկին լիկվիդային պահուստներ։",
+        "link": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US accounting board FASB proposes conditions for stablecoins as cash equivalents",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-monitoring-payers-cryptocurrency-compliance.jpg"
+      },
+      {
+        "headline": "Ripple-ը մուտք է գործում կորեական բանկային համակարգ",
+        "summary": "Ripple-ը համագործակցություն է հաստատել Jeonbuk Bank-ի հետ՝ Կորեայում անդրսահմանային վճարումները հեշտացնելու համար՝ տրամադրելով գրեթե իրական ժամանակի հաշվարկային ծառայություններ։",
+        "link": "https://news.bitcoin.com/crypto-news/ripple-pushes-into-korean-banking-with-jeonbuk-payments-deal/",
+        "source": "Bitcoin News",
+        "enTitle": "Ripple Pushes Into Korean Banking With Jeonbuk Payments Deal",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/ripple-labs-1-1-768x432.jpg"
+      },
+      {
+        "headline": "Nasdaq-ը երկարացնում է առևտրային ժամերը",
+        "summary": "Nasdaq-ը դեկտեմբերի 6-ին կգործարկի գրեթե 23-ժամյա առևտրային օր՝ ավելացնելով գիշերային նստաշրջան՝ նպատակ ունենալով համապատասխանել կրիպտո շուկաների շուրջօրյա աշխատանքին։",
+        "link": "https://news.bitcoin.com/finance/nasdaq-23-hour-trading-december-2026-launch/",
+        "source": "Bitcoin News",
+        "enTitle": "Nasdaq Sets December 6 Launch for Nearly 23-Hour Trading Day",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/nasdaq-sets-december-6-launch-for-nearly-23-hour-trading-day2_nwmk-768x432.jpg"
+      },
+      {
+        "headline": "Riot Platforms-ը վաճառել է Bitcoin",
+        "summary": "Riot Platforms-ը 2026 թվականի առաջին կիսամյակում վաճառել է 9,665 Bitcoin՝ ֆինանսավորելու իր անցումը դեպի արհեստական ինտելեկտի (AI) ենթակառուցվածքներ։",
+        "link": "https://news.bitcoin.com/mining/riot-platforms-sold-8078-bitcoin-h1-2026-ai-pivot/",
+        "source": "Bitcoin News",
+        "enTitle": "Riot Platforms Sold 9,665 Bitcoin in H1 2026 to Fund AI Pivot",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/riot-platforms-sold-9665-bitcoin-in-h1-2026-to-fund-ai-pivot2_nwmk-768x432.jpg"
+      }
+    ]
   }
 ]
