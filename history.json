@@ -3697,7 +3697,7 @@
   },
   {
     "date": "2026-08-20",
-    "ts": 1787207318782,
+    "ts": 1787242990293,
     "fng": {
       "value": 62,
       "label": "Greed",
@@ -3707,64 +3707,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 69607,
-        "change24h": 8.37254867700467
+        "price": 72290,
+        "change24h": 5.325298365212084
       },
       {
         "label": "Ethereum",
-        "price": 2252.57,
-        "change24h": 17.941316927594197
+        "price": 2318.72,
+        "change24h": 10.587823570035228
       }
     ],
-    "overview": "Կրիպտոարժույթների շուկան զգալի ներհոսքեր և գների աճ արձանագրեց, մինչդեռ օրը նշանավորվեց նաև ԱՄՆ-ում քաղաքական և կարգավորող զարգացումներով, ինչպես նաև անվտանգության խոշոր միջադեպերով։",
+    "overview": "Bitcoin-ը զգալի աճ է գրանցել՝ հասնելով $72,000-ի, ինչը պայմանավորված է կարճ դիրքերի լիկվիդացիայով և ETF-ների զգալի ներհոսքերով։ ԱՄՆ քաղաքական գործիչների կողմից կրիպտոարժույթների նկատմամբ դրական վերաբերմունքը նույնպես նպաստել է շուկայի լավատեսությանը։",
     "items": [
       {
-        "headline": "Կրիպտո շուկաների զգալի աճ և ներհոսքեր",
-        "summary": "Bitcoin-ը հասավ $69,000-ի, իսկ Ether-ը ցատկեց 10%-ով՝ պայմանավորված Գանձապետարանի հետգնումներով և SEC-ի կրիպտո առաջարկներով, ինչը հանգեցրեց գրեթե 2 միլիարդ դոլարի լիկվիդացիաների։",
-        "link": "https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248",
-        "source": "The Block",
-        "enTitle": "Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally",
-        "image": "https://www.tbstat.com/wp/uploads/2025/03/20250312_Markets_Category-1200x675.jpg"
-      },
-      {
-        "headline": "Թրամփը հանդիպում է կրիպտո ղեկավարների հետ",
-        "summary": "Նախագահ Դոնալդ Թրամփը Սպիտակ տանը հանդիպեց կրիպտոարժույթների ոլորտի ղեկավարների հետ՝ քննարկելու թվային ակտիվների օրենսդրությունը և կոչ արեց Կոնգրեսին ընդունել CLARITY Act-ը։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/trump-hosts-top-crypto-ceos-at-white-house-as-us-weighs-bitcoin-buy/",
-        "source": "Bitcoin News",
-        "enTitle": "Trump Hosts Top Crypto CEOs at White House as US Weighs Bitcoin Buy",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/white-house-1-768x432.jpg"
-      },
-      {
-        "headline": "Cash App-ը ավելացնում է նոր կրիպտոարժույթներ",
-        "summary": "Cash App-ի 59 միլիոն օգտատերեր այժմ կարող են գնել XRP, Solana և Ether Moonpay-ի միջոցով՝ ընդլայնելով հավելվածի կրիպտո առաջարկները։",
-        "link": "https://news.bitcoin.com/crypto-news/cash-app-xrp-solana-moonpay-integration/",
-        "source": "Bitcoin News",
-        "enTitle": "Cash App Adds XRP, SOL and ETH via Moonpay for 59M Users",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/cash-app-adds-xrp-solana-ether-via-moonpay-for-59m-users3_nwmk-768x432.jpg"
-      },
-      {
-        "headline": "Կրիպտո խարդախության մեղադրանքներ",
-        "summary": "Կրիպտոարժույթների հետ կապված խարդախության գործով մեղադրվող Էդվարդ Զիմբարդին արտաքսվել է ԱՄՆ՝ դեմ առ դեմ կանգնելու 165 միլիոն դոլարի խարդախության մեղադրանքներին։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/crypto-mastermind-deported-to-face-massive-165-million-fraud-trial/",
-        "source": "Bitcoin News",
-        "enTitle": "Crypto Mastermind Deported to Face Massive $165 Million Fraud Trial",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/fbi-officer-warning-768x432.jpg"
-      },
-      {
-        "headline": "Binance-ը կանխում է DAO հարձակումը",
-        "summary": "Binance-ի անվտանգության թիմը կանխել է չարամիտ DAO առաջարկը՝ համակարգելով ավանդների փակումը և արգելափակելով մոտ 1.2 միլիոն դոլարի գանձապետական ​​թոքենների մուտքը։",
-        "link": "https://news.bitcoin.com/security/binance-helps-stop-1-2m-governance-attack-in-under-48-hours/",
-        "source": "Bitcoin News",
-        "enTitle": "Binance Helps Stop $1.2M Governance Attack in Under 48 Hours",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/binance-1-768x432.jpg"
-      },
-      {
-        "headline": "Maya Protocol-ի վրա հարձակում",
-        "summary": "Maya Protocol-ը դադարեցրել է իր գործունեությունը վեց վրիպակի շահագործումից հետո, ինչի հետևանքով գողացվել է 1.4 միլիոն դոլարի Bitcoin և այլ ակտիվներ։",
-        "link": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+        "headline": "Bitcoin-ը հասել է $72,000-ի, լիկվիդացվել են կարճ դիրքեր",
+        "summary": "Bitcoin-ի գինը բարձրացել է՝ հասնելով $72,000-ի, ինչը հանգեցրել է ռեկորդային թվով կարճ դիրքերի լիկվիդացիայի։",
+        "link": "https://decrypt.co/376085/bitcoin-price-high-june-3-billion-shorts-liquidated",
         "source": "Decrypt",
-        "enTitle": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png"
+        "enTitle": "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png"
+      },
+      {
+        "headline": "Թրամփը քննարկում է ԱՄՆ-ի կողմից Bitcoin-ի կուտակումը",
+        "summary": "Նախագահ Դոնալդ Թրամփը հայտարարել է, որ ԱՄՆ-ը դիտարկում է Bitcoin-ի և այլ կրիպտոարժույթների զգալի քանակություն կուտակելու հնարավորությունը։",
+        "link": "https://cryptoslate.com/trump-wants-the-us-to-become-a-bitcoin-whale-but-congress-controls-the-wallet/",
+        "source": "CryptoSlate",
+        "enTitle": "Trump wants the US to become a Bitcoin whale, but Congress controls the wallet",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-reserve-sorting-machine.jpg"
+      },
+      {
+        "headline": "Bitcoin ETF-ները գրավել են $517 միլիոն ներհոսք",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները մեկ օրում գրանցել են $517 միլիոնի ներհոսք՝ մայիսից ի վեր ամենամեծ ցուցանիշը։",
+        "link": "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed-1.jpg"
+      },
+      {
+        "headline": "Optimism-ը OP թոքենները վերաբաշխել է էկոհամակարգի ֆոնդին",
+        "summary": "Optimism-ը 546.9 միլիոն OP թոքեններ է տեղափոխել ապագա airdrop-ներից դեպի էկոհամակարգի աճի ֆոնդ՝ գործընկերությունների և խթանների համար։",
+        "link": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-market-desperately-needs-to-connect-with-real-world-assets2.png"
+      },
+      {
+        "headline": "X-ը ուսումնասիրում է stablecoin-ներ՝ վճարումների համար",
+        "summary": "Elon Musk-ի X հարթակը ուսումնասիրում է stablecoin-ների օգտագործումը՝ ազդեցիկ անձանց և բովանդակություն ստեղծողներին վճարելու համար։",
+        "link": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/acee6ae1d9fb1fcc92ccab7e5384aa3bce474936-1209x680.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
