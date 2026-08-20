@@ -3694,5 +3694,78 @@
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-whales-add-43000-btc-ending-months-long-selling-spree3_nwmk-768x432.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-08-20",
+    "ts": 1787207318782,
+    "fng": {
+      "value": 62,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 69607,
+        "change24h": 8.37254867700467
+      },
+      {
+        "label": "Ethereum",
+        "price": 2252.57,
+        "change24h": 17.941316927594197
+      }
+    ],
+    "overview": "Կրիպտոարժույթների շուկան զգալի ներհոսքեր և գների աճ արձանագրեց, մինչդեռ օրը նշանավորվեց նաև ԱՄՆ-ում քաղաքական և կարգավորող զարգացումներով, ինչպես նաև անվտանգության խոշոր միջադեպերով։",
+    "items": [
+      {
+        "headline": "Կրիպտո շուկաների զգալի աճ և ներհոսքեր",
+        "summary": "Bitcoin-ը հասավ $69,000-ի, իսկ Ether-ը ցատկեց 10%-ով՝ պայմանավորված Գանձապետարանի հետգնումներով և SEC-ի կրիպտո առաջարկներով, ինչը հանգեցրեց գրեթե 2 միլիարդ դոլարի լիկվիդացիաների։",
+        "link": "https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248",
+        "source": "The Block",
+        "enTitle": "Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally",
+        "image": "https://www.tbstat.com/wp/uploads/2025/03/20250312_Markets_Category-1200x675.jpg"
+      },
+      {
+        "headline": "Թրամփը հանդիպում է կրիպտո ղեկավարների հետ",
+        "summary": "Նախագահ Դոնալդ Թրամփը Սպիտակ տանը հանդիպեց կրիպտոարժույթների ոլորտի ղեկավարների հետ՝ քննարկելու թվային ակտիվների օրենսդրությունը և կոչ արեց Կոնգրեսին ընդունել CLARITY Act-ը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/trump-hosts-top-crypto-ceos-at-white-house-as-us-weighs-bitcoin-buy/",
+        "source": "Bitcoin News",
+        "enTitle": "Trump Hosts Top Crypto CEOs at White House as US Weighs Bitcoin Buy",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/white-house-1-768x432.jpg"
+      },
+      {
+        "headline": "Cash App-ը ավելացնում է նոր կրիպտոարժույթներ",
+        "summary": "Cash App-ի 59 միլիոն օգտատերեր այժմ կարող են գնել XRP, Solana և Ether Moonpay-ի միջոցով՝ ընդլայնելով հավելվածի կրիպտո առաջարկները։",
+        "link": "https://news.bitcoin.com/crypto-news/cash-app-xrp-solana-moonpay-integration/",
+        "source": "Bitcoin News",
+        "enTitle": "Cash App Adds XRP, SOL and ETH via Moonpay for 59M Users",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/cash-app-adds-xrp-solana-ether-via-moonpay-for-59m-users3_nwmk-768x432.jpg"
+      },
+      {
+        "headline": "Կրիպտո խարդախության մեղադրանքներ",
+        "summary": "Կրիպտոարժույթների հետ կապված խարդախության գործով մեղադրվող Էդվարդ Զիմբարդին արտաքսվել է ԱՄՆ՝ դեմ առ դեմ կանգնելու 165 միլիոն դոլարի խարդախության մեղադրանքներին։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/crypto-mastermind-deported-to-face-massive-165-million-fraud-trial/",
+        "source": "Bitcoin News",
+        "enTitle": "Crypto Mastermind Deported to Face Massive $165 Million Fraud Trial",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/fbi-officer-warning-768x432.jpg"
+      },
+      {
+        "headline": "Binance-ը կանխում է DAO հարձակումը",
+        "summary": "Binance-ի անվտանգության թիմը կանխել է չարամիտ DAO առաջարկը՝ համակարգելով ավանդների փակումը և արգելափակելով մոտ 1.2 միլիոն դոլարի գանձապետական ​​թոքենների մուտքը։",
+        "link": "https://news.bitcoin.com/security/binance-helps-stop-1-2m-governance-attack-in-under-48-hours/",
+        "source": "Bitcoin News",
+        "enTitle": "Binance Helps Stop $1.2M Governance Attack in Under 48 Hours",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/binance-1-768x432.jpg"
+      },
+      {
+        "headline": "Maya Protocol-ի վրա հարձակում",
+        "summary": "Maya Protocol-ը դադարեցրել է իր գործունեությունը վեց վրիպակի շահագործումից հետո, ինչի հետևանքով գողացվել է 1.4 միլիոն դոլարի Bitcoin և այլ ակտիվներ։",
+        "link": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+        "source": "Decrypt",
+        "enTitle": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png"
+      }
+    ]
   }
 ]
