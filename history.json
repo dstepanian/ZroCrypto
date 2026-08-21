@@ -3759,5 +3759,78 @@
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/acee6ae1d9fb1fcc92ccab7e5384aa3bce474936-1209x680.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
+  },
+  {
+    "date": "2026-08-21",
+    "ts": 1787293783920,
+    "fng": {
+      "value": 72,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 75371,
+        "change24h": 8.394741701844719
+      },
+      {
+        "label": "Ethereum",
+        "price": 2361.16,
+        "change24h": 4.956803324411236
+      }
+    ],
+    "overview": "Այսօր կրիպտո շուկան բնութագրվել է կարգավորող մարմինների ակտիվությամբ՝ Հունգարիայի կողմից MiCA-ին համապատասխանեցումից մինչև Հարավային Կորեայի և ԱՄՆ CFTC-ի կողմից նոր կանոնների նախապատրաստում, ինչպես նաև զգալի ներհոսքեր Bitcoin և Ether ETF-ներ։ Միաժամանակ, MANTRA և MAYAChain ցանցերում տեղի են ունեցել շահագործումներ, որոնք ընդգծում են անվտանգության մարտահրավերները։",
+    "items": [
+      {
+        "headline": "MANTRA ցանցի կանգառ և թոքենի անկում",
+        "summary": "MANTRA ցանցը կանգ է առել շահագործումից հետո, ինչի հետևանքով MANTRA թոքենի գինը 18%-ով նվազել է՝ հասնելով ռեկորդային ցածր մակարդակի։",
+        "link": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/36b08d944e964cea3642474c76fe72e4fc96fd0d-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Հարավային Կորեան ուժեղացնում է կրիպտո կարգավորումը",
+        "summary": "Հարավկորեացի օրենսդիրները ձգտում են ընդլայնել FIU-ի լիազորությունները չգրանցված կրիպտո ընկերությունների նկատմամբ։",
+        "link": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-regulation-south-korea-1.jpg"
+      },
+      {
+        "headline": "Հունգարիան հարմարվում է ԵՄ MiCA կանոններին",
+        "summary": "Հունգարիան չեղյալ է հայտարարել կրիպտոյի խիստ կանոնները՝ համաձայնեցնելով դրանք ԵՄ MiCA շրջանակի հետ։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/hungary-repeals-strict-crypto-rules-to-align-with-eu-mica-framework/",
+        "source": "Bitcoin News",
+        "enTitle": "Hungary Repeals Strict Crypto Rules to Align With EU MiCA Framework",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/hungarian-criminal-code-768x432.jpg"
+      },
+      {
+        "headline": "CFTC-ն պատրաստում է կրիպտո կանոններ",
+        "summary": "CFTC-ի նախագահը հանձնարարել է անձնակազմին պատրաստել կրիպտո կանոնակարգերի պահեստային շրջանակ՝ եթե Clarity Act-ը չընդունվի։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/selig-turns-up-the-heat-as-cftc-readies-its-own-crypto-rules/",
+        "source": "Bitcoin News",
+        "enTitle": "Selig Turns up the Heat as CFTC Readies Its Own Crypto Rules",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/cftc-chairman-selig-backs-prediction-markets-with-new-case-by-case-framework_nwmk-768x432.png"
+      },
+      {
+        "headline": "Bitcoin և Ether ETF-ների մեծ ներհոսք",
+        "summary": "ԱՄՆ-ի spot Bitcoin և Ether ETF-ները ներգրավել են 706 միլիոն դոլար՝ կրիպտոյի նկատմամբ պահանջարկի աճի ֆոնին։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-ether-etfs-pull-in-706-million-as-crypto-demand-surges/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin, Ether ETFs Pull In $706 Million as Crypto Demand Surges",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-ether-etfs-pull-in-706-million-as-crypto-demand-surges-768x432.jpg"
+      },
+      {
+        "headline": "MAYAChain-ի շահագործումը մեծ վնաս է պատճառել",
+        "summary": "MAYAChain-ի 1.36 միլիոն դոլարի շահագործումը հանգեցրել է մոտ 11 միլիոն դոլարի վնասի։",
+        "link": "https://cryptoslate.com/mayachains-1-36-million-exploit-spiraled-into-nearly-11-million-of-pool-damage/",
+        "source": "CryptoSlate",
+        "enTitle": "MAYAChain’s $1.36 million exploit spiraled into nearly $11 million of pool damage",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/mayachain-exploit-puppet-pools.jpg"
+      }
+    ]
   }
 ]
