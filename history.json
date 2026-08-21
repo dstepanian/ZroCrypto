@@ -3762,7 +3762,7 @@
   },
   {
     "date": "2026-08-21",
-    "ts": 1787293783920,
+    "ts": 1787329275161,
     "fng": {
       "value": 72,
       "label": "Greed",
@@ -3772,64 +3772,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 75371,
-        "change24h": 8.394741701844719
+        "price": 77079,
+        "change24h": 6.607191695241614
       },
       {
         "label": "Ethereum",
-        "price": 2361.16,
-        "change24h": 4.956803324411236
+        "price": 2393.96,
+        "change24h": 3.2448126588429673
       }
     ],
-    "overview": "Այսօր կրիպտո շուկան բնութագրվել է կարգավորող մարմինների ակտիվությամբ՝ Հունգարիայի կողմից MiCA-ին համապատասխանեցումից մինչև Հարավային Կորեայի և ԱՄՆ CFTC-ի կողմից նոր կանոնների նախապատրաստում, ինչպես նաև զգալի ներհոսքեր Bitcoin և Ether ETF-ներ։ Միաժամանակ, MANTRA և MAYAChain ցանցերում տեղի են ունեցել շահագործումներ, որոնք ընդգծում են անվտանգության մարտահրավերները։",
+    "overview": "Կրիպտոարժույթների շուկան այսօր դրական տրամադրություն է արտացոլում՝ պայմանավորված Bitcoin-ի զգալի աճով և հիմնարկային ներդրումների աճով։ Աճող հետաքրքրությունը և կարգավորող մարմինների հաստատումները նպաստում են շուկայի ընդհանուր լավատեսությանը։",
     "items": [
       {
-        "headline": "MANTRA ցանցի կանգառ և թոքենի անկում",
-        "summary": "MANTRA ցանցը կանգ է առել շահագործումից հետո, ինչի հետևանքով MANTRA թոքենի գինը 18%-ով նվազել է՝ հասնելով ռեկորդային ցածր մակարդակի։",
-        "link": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/36b08d944e964cea3642474c76fe72e4fc96fd0d-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Հարավային Կորեան ուժեղացնում է կրիպտո կարգավորումը",
-        "summary": "Հարավկորեացի օրենսդիրները ձգտում են ընդլայնել FIU-ի լիազորությունները չգրանցված կրիպտո ընկերությունների նկատմամբ։",
-        "link": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-regulation-south-korea-1.jpg"
-      },
-      {
-        "headline": "Հունգարիան հարմարվում է ԵՄ MiCA կանոններին",
-        "summary": "Հունգարիան չեղյալ է հայտարարել կրիպտոյի խիստ կանոնները՝ համաձայնեցնելով դրանք ԵՄ MiCA շրջանակի հետ։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/hungary-repeals-strict-crypto-rules-to-align-with-eu-mica-framework/",
+        "headline": "Bitcoin և Ether ETF-ները ներգրավել են $827 միլիոն",
+        "summary": "Bitcoin և Ether ETF-ները հինգշաբթի օրը ներգրավել են $827 միլիոն՝ նշանավորելով շաբաթվա ամենաուժեղ նիստը, քանի որ կրիպտոարժույթների աճը տարածվում է ֆոնդային շուկայում։",
+        "link": "https://news.bitcoin.com/crypto-news/bitcoin-ether-etfs-pull-in-827-million-as-crypto-rally-spreads/",
         "source": "Bitcoin News",
-        "enTitle": "Hungary Repeals Strict Crypto Rules to Align With EU MiCA Framework",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/hungarian-criminal-code-768x432.jpg"
+        "enTitle": "Bitcoin, Ether ETFs Pull in $827 Million as Crypto Rally Spreads",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/ether-etfs-add-26-million-as-bitcoins-7-day-streak-ends-768x432.jpg"
       },
       {
-        "headline": "CFTC-ն պատրաստում է կրիպտո կանոններ",
-        "summary": "CFTC-ի նախագահը հանձնարարել է անձնակազմին պատրաստել կրիպտո կանոնակարգերի պահեստային շրջանակ՝ եթե Clarity Act-ը չընդունվի։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/selig-turns-up-the-heat-as-cftc-readies-its-own-crypto-rules/",
-        "source": "Bitcoin News",
-        "enTitle": "Selig Turns up the Heat as CFTC Readies Its Own Crypto Rules",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/cftc-chairman-selig-backs-prediction-markets-with-new-case-by-case-framework_nwmk-768x432.png"
-      },
-      {
-        "headline": "Bitcoin և Ether ETF-ների մեծ ներհոսք",
-        "summary": "ԱՄՆ-ի spot Bitcoin և Ether ETF-ները ներգրավել են 706 միլիոն դոլար՝ կրիպտոյի նկատմամբ պահանջարկի աճի ֆոնին։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-ether-etfs-pull-in-706-million-as-crypto-demand-surges/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin, Ether ETFs Pull In $706 Million as Crypto Demand Surges",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-ether-etfs-pull-in-706-million-as-crypto-demand-surges-768x432.jpg"
-      },
-      {
-        "headline": "MAYAChain-ի շահագործումը մեծ վնաս է պատճառել",
-        "summary": "MAYAChain-ի 1.36 միլիոն դոլարի շահագործումը հանգեցրել է մոտ 11 միլիոն դոլարի վնասի։",
-        "link": "https://cryptoslate.com/mayachains-1-36-million-exploit-spiraled-into-nearly-11-million-of-pool-damage/",
+        "headline": "Bitcoin-ը մոտենում է $80,000-ին, ոչնչացնելով $4 միլիարդ կարճ դիրքեր",
+        "summary": "Bitcoin-ը մոտեցել է $80,000-ին՝ երեքօրյա աճի ընթացքում լուծարելով ավելի քան $4 միլիարդի կարճ դիրքեր և հասնելով եռամսյա առավելագույնի։",
+        "link": "https://cryptoslate.com/bitcoins-road-to-80000-has-already-destroyed-4-billion-in-short-bets/",
         "source": "CryptoSlate",
-        "enTitle": "MAYAChain’s $1.36 million exploit spiraled into nearly $11 million of pool damage",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/mayachain-exploit-puppet-pools.jpg"
+        "enTitle": "Bitcoin is closing in on $80,000 and already destroyed a record $4 billion in short bets",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-climb-80k.jpg"
+      },
+      {
+        "headline": "Laser Digital-ը ստացել է Ճապոնիայի առաջին կրիպտո լիցենզիան",
+        "summary": "Nomura-ի կողմից աջակցվող Laser Digital Japan-ը ստացել է գրանցում՝ տրամադրելու ներքին իրացվելիություն՝ նախքան ինստիտուցիոնալ կրիպտո առևտրի ընդլայնումը։",
+        "link": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-plans-tough-new-rules-for-crypto-exchanges-what-liability-reserves-actually-mean.jpg"
+      },
+      {
+        "headline": "Sharplink-ը խոշոր ներդրում է կատարել Ethereum-ում",
+        "summary": "Sharplink Gaming-ը դրել է ևս 39,319 ETH՝ մոտ $91 միլիոն արժողությամբ, ավելացնելով իր գանձարանը, որն արդեն աշխարհի խոշորագույն կորպորատիվ Ether պահուստներից է։",
+        "link": "https://news.bitcoin.com/crypto-news/sharplink-stakes-39319-eth-91-million/",
+        "source": "Bitcoin News",
+        "enTitle": "Sharplink Bets Big on Ethereum, Stakes Another 39,319 ETH Worth $91 Million",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/sharplink-stakes-another-39319-eth-worth-91-million2_nwmk-768x432.jpg"
+      },
+      {
+        "headline": "Solana-ն կրճատել է բլոկչեյնի սլոթի ժամանակը",
+        "summary": "Solana-ն կրճատել է իր սլոթի ժամանակը գենեզիսից ի վեր առաջին անգամ՝ ձգտելով հասնել 200 միլիվայրկյան թիրախին, որի նպատակն է նվազեցնել ցանցի ուշացումը։",
+        "link": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Solana cuts blockchain slot time to 350 milliseconds",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-china-solana-is-ready-new-1.jpg"
+      },
+      {
+        "headline": "Hyperliquid-ի համար ԱՄՆ կանոնների վերանայում է սպասվում",
+        "summary": "Նախագահ Դոնալդ Թրամփը հայտարարել է, որ CFTC-ի նախագահ Մայքլ Սելիգը աշխատում է Hyperliquid-ը ԱՄՆ բերելու ուղղությամբ՝ լիովին համապատասխան և օրինական ճանապարհով։",
+        "link": "https://cryptoslate.com/trumps-hyperliquid-push-forces-regulators-to-define-what-a-legal-on-chain-exchange-looks-like/",
+        "source": "CryptoSlate",
+        "enTitle": "US rule rewrite looms for $200B on-chain venue Hyperliquid as Trump signals onshore approval",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/hyperliquid-us-compliance-path.jpg"
       }
     ]
   }
