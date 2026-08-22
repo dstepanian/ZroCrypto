@@ -3835,7 +3835,7 @@
   },
   {
     "date": "2026-08-22",
-    "ts": 1787379820963,
+    "ts": 1787415182329,
     "fng": {
       "value": 71,
       "label": "Greed",
@@ -3845,64 +3845,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 77287,
-        "change24h": 2.7162488486266425
+        "price": 77006,
+        "change24h": 0.05771904795142611
       },
       {
         "label": "Ethereum",
-        "price": 2430.57,
-        "change24h": 2.977228817747419
+        "price": 2412.97,
+        "change24h": 0.9787438317696162
       }
     ],
-    "overview": "Կրիպտոարժույթների շուկայում նկատվում է ինստիտուցիոնալ հետաքրքրության աճ, ինչը դրսևորվում է Bitcoin ETF-ների զգալի ներհոսքերով։ Միաժամանակ, աշխարհի տարբեր երկրներում ուժեղանում է կարգավորող մարմինների վերահսկողությունը և իրավական գործողությունները։",
+    "overview": "Կրիպտո շուկաներում դրական տրամադրություններ են տիրում՝ պայմանավորված ինստիտուցիոնալ ներդրումների աճով և Bitcoin-ի ու որոշ ալտքոյնների գների զգալի բարձրացմամբ։ Կարգավորող մարմինները նույնպես նոր քայլեր են ձեռնարկում։",
     "items": [
       {
+        "headline": "Bitcoin-ը կտրուկ աճել է ETF ներհոսքերի շնորհիվ",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները հինգ օրում գրանցել են 1.92 միլիարդ դոլարի զուտ ներհոսք, ինչը նպաստել է Bitcoin-ի գնի զգալի աճին։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-add-1-92-billion-in-5-days-as-wall-street-buying-surges/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin ETFs Add $1.92 Billion in 5 Days as Wall Street Buying Surges",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-etfs-add-1-92b-in-5-days-as-wall-street-buying-surges-768x432.jpg"
+      },
+      {
         "headline": "Grayscale-ը մոտենում է Zcash ETF-ի գործարկմանը",
-        "summary": "Grayscale-ը առաջընթաց է գրանցել իր Zcash Trust-ը spot ETF-ի վերածելու ուղղությամբ՝ ներկայացնելով փոփոխված հայտ SEC-ին։",
-        "link": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d29e6d7594033495762bede569ca03135e9b62c4-1514x840.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "summary": "Grayscale-ը SEC-ին ներկայացրել է Zcash Trust-ը spot ETF-ի վերածելու նոր փոփոխված հայտ, ինչի արդյունքում Zcash-ի գինը աճել է 48%-ով։",
+        "link": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
+        "source": "The Block",
+        "enTitle": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
+        "image": "https://www.tbstat.com/wp/uploads/2025/09/20250919_Greyscale_News-1200x675.jpg"
       },
       {
-        "headline": "Մեծ Բրիտանիան 81,000 կրիպտո հարկային նամակ է ուղարկել",
-        "summary": "Մեծ Բրիտանիայի հարկային գործակալությունը (HMRC) 81,000 նախազգուշական նամակ է ուղարկել կրիպտո ներդրողներին՝ չվճարված հարկերի կասկածանքով։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/uk-tax-agency-sends-81000-crypto-tax-letters-as-scrutiny-rises/",
+        "headline": "SEC-ը նոր ուղի է առաջարկում կրիպտո նախագծերի համար",
+        "summary": "ԱՄՆ-ի SEC-ը առաջարկել է նոր մեխանիզմ, որը թույլ կտա կրիպտո նախագծերին հավաքել մինչև 75 միլիոն դոլար և հետագայում դադարեցնել թոքենի արժեթղթի պայմանագիրը։",
+        "link": "https://cryptoslate.com/sec-proposes-a-path-for-crypto-projects-to-raise-75-million-and-later-end-the-tokens-securities-contract/",
+        "source": "CryptoSlate",
+        "enTitle": "SEC proposes a path for crypto projects to raise $75 million and later end the token’s securities contract",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/sec-crypto-funding-rules.jpg"
+      },
+      {
+        "headline": "Գանձապետարանը ժամկետ է սահմանել stablecoin-ների համար",
+        "summary": "ԱՄՆ Գանձապետարանը առաջարկել է GENIUS Act կանոններ, որոնք մինչև 2028 թվականի հուլիսի 18-ը կսահմանափակեն օֆշորային payment stablecoin-ների հասանելիությունը ԱՄՆ հաճախորդներին։",
+        "link": "https://cryptoslate.com/treasury-just-put-a-deadline-on-offshore-stablecoins-access-to-us-customers/",
+        "source": "CryptoSlate",
+        "enTitle": "Treasury just put a deadline on offshore stablecoins’ access to US customers",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-menu-filter.jpg"
+      },
+      {
+        "headline": "Stanley Druckenmiller-ը ներդրումներ է կատարել կրիպտոյում",
+        "summary": "Լեգենդար ներդրող Stanley Druckenmiller-ը բացահայտել է ավելի քան 80 միլիոն դոլարի ներդրումներ Bitdeer-ում և Hyperliquid-ում՝ ընդգծելով ինստիտուցիոնալ հետաքրքրությունը թվային ակտիվների նկատմամբ։",
+        "link": "https://news.bitcoin.com/finance/druckenmiller-bets-88m-on-bitdeer-and-hyperliquid-strategies/",
         "source": "Bitcoin News",
-        "enTitle": "UK Tax Agency Sends 81,000 Crypto Tax Letters as Scrutiny Rises",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/hm-revenue-customs-768x432.jpg"
-      },
-      {
-        "headline": "Binance-ի աշխատակիցները ձերբակալվել են ԱՄԷ-ում",
-        "summary": "Արաբական Միացյալ Էմիրությունների ոստիկանությունը ձերբակալել է Binance-ի երկու աշխատակցի խարդախության հետաքննության շրջանակներում, սակայն նրանք ազատ են արձակվել։",
-        "link": "https://news.bitcoin.com/crypto-news/two-binance-workers-held-at-uae-airports-amid-fraud-inquiries/",
-        "source": "Bitcoin News",
-        "enTitle": "Two Binance Workers Held at UAE Airports Amid Fraud Inquiries",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/binance-3-major-crypto-trends-768x432.jpg"
-      },
-      {
-        "headline": "Հարավային Կորեան AI է կիրառում կրիպտո շուկայի համար",
-        "summary": "Հարավային Կորեայի Ֆինանսական վերահսկողության ծառայությունը AI-ով աշխատող համակարգ է ներդրել՝ կրիպտո շուկաները մոնիտորինգի ենթարկելու և անարդար առևտրային պրակտիկաները հայտնաբերելու համար։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/south-korea-deploys-ai-to-bust-crypto-market-manipulation/",
-        "source": "Bitcoin News",
-        "enTitle": "South Korea Deploys AI to Bust Crypto Market Manipulation",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/south-korea-deploys-ai-to-bust-24_7-crypto-market-manipulation-768x432.jpg"
-      },
-      {
-        "headline": "Bitcoin ETF-ները գրանցել են ամենամեծ ներհոսքը",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները հինգշաբթի օրը ներգրավել են 606 միլիոն դոլար, ինչը ամենամեծ ներհոսքն է մայիսից ի վեր, որի 83%-ը բաժին է ընկել BlackRock-ին։",
-        "link": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may",
-        "source": "Decrypt",
-        "enTitle": "Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
-      },
-      {
-        "headline": "Վաշինգտոնը ուժեղացնում է կրիպտո կարգավորումը",
-        "summary": "ԱՄՆ-ում աճում է կրիպտոարժույթների կարգավորման ճնշումը, քանի որ նախագահ Թրամփը կոչ է անում ընդունել Clarity Act-ը, իսկ SEC-ը առաջ է տանում նոր կանոններ։",
-        "link": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings",
-        "source": "Decrypt",
-        "enTitle": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png@png"
+        "enTitle": "Druckenmiller Bets $88m on Bitdeer and Hyperliquid Strategies",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/duquesne-13f-form-768x432.jpg"
       }
     ]
   }
