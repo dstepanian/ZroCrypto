@@ -3897,5 +3897,78 @@
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/duquesne-13f-form-768x432.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-08-23",
+    "ts": 1787466257036,
+    "fng": {
+      "value": 66,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 76205,
+        "change24h": -1.3776839139816885
+      },
+      {
+        "label": "Ethereum",
+        "price": 2386.07,
+        "change24h": -1.863762450676114
+      }
+    ],
+    "overview": "Շուկան զգալի աճ է գրանցում՝ պայմանավորված Bitcoin-ի և Ethereum-ի ETF-ների զգալի ներհոսքերով, ինչպես նաև ԱՄՆ-ում և Ճապոնիայում կարգավորող կարևոր զարգացումներով։ Խոշոր բլոկչեյնները նույնպես տեխնիկական բարելավումներ են արձանագրում։",
+    "items": [
+      {
+        "headline": "Խոշոր բանկերը պահանջում են Stablecoin-ի շուկաների նույնականացում",
+        "summary": "ԱՄՆ խոշոր բանկերը FinCEN-ից պահանջում են ընդլայնել հաճախորդների նույնականացման պահանջները երկրորդական stablecoin շուկաների վրա։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/big-banks-demand-identity-checks-for-secondary-stablecoin-markets/",
+        "source": "Bitcoin News",
+        "enTitle": "Big Banks Demand Identity Checks for Secondary Stablecoin Markets",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bpi-letter-768x432.jpg"
+      },
+      {
+        "headline": "Ethereum-ը հասնում է $2,546-ի՝ ETF-ի ներհոսքերով",
+        "summary": "Ethereum-ի (ETH) գինը զգալիորեն բարձրացել է՝ հասնելով $2,546-ի, ինչը պայմանավորված է ETF-ների ներհոսքերով և կարճ դիրքերի սեղմումով։",
+        "link": "https://news.bitcoin.com/crypto-news/ethereum-taps-2546-as-etf-cash-and-shorts-fuel-the-fire/",
+        "source": "Bitcoin News",
+        "enTitle": "Ethereum Taps $2,546 as ETF Cash and Shorts Fuel the Fire",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/ethereum-taps-2546-as-etf-cash-and-shorts-fuel-the-fire-768x432.png"
+      },
+      {
+        "headline": "Bitcoin և Ether ETF-ները գրավել են $2.6 միլիարդ",
+        "summary": "Bitcoin և Ether ETF-ները գրանցել են $2.6 միլիարդի ներհոսք՝ հոկտեմբերից ի վեր ամենաուժեղ շաբաթը, ինչը եռապատկել է առևտրի ծավալը։",
+        "link": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
+        "source": "The Block",
+        "enTitle": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
+        "image": "https://www.tbstat.com/wp/uploads/2024/05/20240513_Bitcoin_News_10-1200x675.jpg"
+      },
+      {
+        "headline": "Ճապոնիան նոր լիցենզիա է տրամադրում Nomura-ին",
+        "summary": "Nomura Holdings-ի Laser Digital Japan-ը ստացել է Ճապոնիայի կրիպտո լիցենզիան՝ ավարտելով մոտ չորս տարվա լռությունը նոր մասնակիցների համար։",
+        "link": "https://news.bitcoin.com/crypto-news/japans-crypto-freeze-cracks-as-nomura-wins-coveted-new-license/",
+        "source": "Bitcoin News",
+        "enTitle": "Japan’s Crypto Freeze Cracks as Nomura Wins Coveted New License",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/nomura-bitcoin-fund-768x432.jpg"
+      },
+      {
+        "headline": "Solana-ն կրճատում է հիմնական ցանցի սլոթի ժամանակը",
+        "summary": "Solana-ն կրճատել է իր հիմնական ցանցի սլոթի ժամանակը մինչև 350 միլիվայրկյան՝ որպես 200 միլիվայրկյան նպատակին հասնելու առաջին քայլ։",
+        "link": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
+        "source": "The Block",
+        "enTitle": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
+        "image": "https://www.tbstat.com/wp/uploads/2024/05/20240502_Solana_News_1-1200x675.jpg"
+      },
+      {
+        "headline": "SEC-ը առաջարկում է նոր ուղի կրիպտո նախագծերի համար",
+        "summary": "SEC-ը առաջարկում է կրիպտո նախագծերի համար $75 միլիոն հավաքելու և ավելի ուշ թոքենի արժեթղթերի պայմանագիրը դադարեցնելու ուղի։",
+        "link": "https://cryptoslate.com/sec-proposes-a-path-for-crypto-projects-to-raise-75-million-and-later-end-the-tokens-securities-contract/",
+        "source": "CryptoSlate",
+        "enTitle": "SEC proposes a path for crypto projects to raise $75 million and later end the token’s securities contract",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/sec-crypto-funding-rules.jpg"
+      }
+    ]
   }
 ]
