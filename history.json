@@ -3900,7 +3900,7 @@
   },
   {
     "date": "2026-08-23",
-    "ts": 1787466257036,
+    "ts": 1787501657805,
     "fng": {
       "value": 66,
       "label": "Greed",
@@ -3910,64 +3910,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 76205,
-        "change24h": -1.3776839139816885
+        "price": 77232,
+        "change24h": 0.31664175977662307
       },
       {
         "label": "Ethereum",
-        "price": 2386.07,
-        "change24h": -1.863762450676114
+        "price": 2444.51,
+        "change24h": 1.4173113254689127
       }
     ],
-    "overview": "Շուկան զգալի աճ է գրանցում՝ պայմանավորված Bitcoin-ի և Ethereum-ի ETF-ների զգալի ներհոսքերով, ինչպես նաև ԱՄՆ-ում և Ճապոնիայում կարգավորող կարևոր զարգացումներով։ Խոշոր բլոկչեյնները նույնպես տեխնիկական բարելավումներ են արձանագրում։",
+    "overview": "Այս շաբաթ կրիպտո շուկան ցույց տվեց դրական շարժեր, ինչպես նաև շարունակվող կարգավորող մարտահրավերներ և ընդունման աճող միտումներ։",
     "items": [
       {
-        "headline": "Խոշոր բանկերը պահանջում են Stablecoin-ի շուկաների նույնականացում",
-        "summary": "ԱՄՆ խոշոր բանկերը FinCEN-ից պահանջում են ընդլայնել հաճախորդների նույնականացման պահանջները երկրորդական stablecoin շուկաների վրա։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/big-banks-demand-identity-checks-for-secondary-stablecoin-markets/",
-        "source": "Bitcoin News",
-        "enTitle": "Big Banks Demand Identity Checks for Secondary Stablecoin Markets",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bpi-letter-768x432.jpg"
+        "headline": "XRP-ի շաբաթական զգալի աճ",
+        "summary": "XRP-ի գինը այս շաբաթ աճել է 50%-ով՝ նշելով իր ամենամեծ շաբաթական աճը 21 ամսվա ընթացքում։",
+        "link": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/5f60efd49e0a819f81091f39acbb1766f5bf3819-2961x995.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Ethereum-ը հասնում է $2,546-ի՝ ETF-ի ներհոսքերով",
-        "summary": "Ethereum-ի (ETH) գինը զգալիորեն բարձրացել է՝ հասնելով $2,546-ի, ինչը պայմանավորված է ETF-ների ներհոսքերով և կարճ դիրքերի սեղմումով։",
-        "link": "https://news.bitcoin.com/crypto-news/ethereum-taps-2546-as-etf-cash-and-shorts-fuel-the-fire/",
+        "headline": "Սենատորը պահանջում է Թրամփի կրիպտո շահույթների արգելք",
+        "summary": "ԱՄՆ սենատոր Քիրսթեն Գիլիբրանդը պահանջում է նախագահական կրիպտո շահույթների արգելք՝ հիմնվելով հարցման վրա, որտեղ ամերիկացիների 63%-ը Թրամփի շահույթներն անպատշաճ է համարում։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/senator-seeks-trump-crypto-ban-as-63-call-his-profits-inappropriate/",
         "source": "Bitcoin News",
-        "enTitle": "Ethereum Taps $2,546 as ETF Cash and Shorts Fuel the Fire",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/ethereum-taps-2546-as-etf-cash-and-shorts-fuel-the-fire-768x432.png"
+        "enTitle": "Senator Seeks Trump Crypto Ban as 63% Call His Profits Inappropriate",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/congress-1-768x432.jpg"
       },
       {
-        "headline": "Bitcoin և Ether ETF-ները գրավել են $2.6 միլիարդ",
-        "summary": "Bitcoin և Ether ETF-ները գրանցել են $2.6 միլիարդի ներհոսք՝ հոկտեմբերից ի վեր ամենաուժեղ շաբաթը, ինչը եռապատկել է առևտրի ծավալը։",
+        "headline": "Կրիպտո քարտերով ծախսերը գերազանցել են $1 միլիարդը",
+        "summary": "Կրիպտո քարտերով ծախսերի ծավալը մեկ տարվա ընթացքում եռապատկվել է՝ հասնելով ավելի քան $1 միլիարդի, ընդ որում USDC-ն և USDT-ն ֆինանսավորում են ծախսերի ավելի քան 70%-ը։",
+        "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/da5caf65adc295012880cf200ddf9e937f2db11c-1920x1282.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "ԱՄՆ-ում Bitcoin-ի բարձր լծակային առևտուրը հաստատվել է",
+        "summary": "ԱՄՆ-ում հաստատվել է Bitcoin-ի բարձր լծակային առևտուրը, մինչդեռ կրիպտո նախագծերի հիմնադիրները դեռևս իրավականորեն արգելափակված են հանրային ֆինանսավորում ներգրավելուց։",
+        "link": "https://cryptoslate.com/the-us-approved-high-leverage-bitcoin-trading-while-crypto-founders-remain-legally-blocked-from-raising-funds/",
+        "source": "CryptoSlate",
+        "enTitle": "The US approved high-leverage Bitcoin trading while crypto founders remain legally blocked from raising funds",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-regulatory-green-light.jpg"
+      },
+      {
+        "headline": "Grayscale-ը ներկայացրել է Zcash ETF-ի հայտ",
+        "summary": "Grayscale-ը ներկայացրել է Zcash ETF-ի հայտ՝ առաջարկելով 2.5% վճար և DCG-ի 34% պոտենցիալ բաժնեմաս հիմնադրամում։",
+        "link": "https://cryptoslate.com/grayscales-zcash-etf-filing-proposes-a-2-5-fee-and-a-potential-34-dcg-stake/",
+        "source": "CryptoSlate",
+        "enTitle": "Grayscale’s Zcash ETF filing proposes a 2.5% fee and a potential 34% DCG stake",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/zcash-etf-vault-door.jpg"
+      },
+      {
+        "headline": "Bitcoin և Ether ETF-ները գրավել են $2.6 միլիարդ ներհոսք",
+        "summary": "Bitcoin և Ether ETF-ները գրանցել են $2.6 միլիարդի ներհոսք՝ հոկտեմբերից ի վեր ամենաուժեղ շաբաթը, իսկ առևտրի ծավալը եռապատկվել է։",
         "link": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
         "source": "The Block",
         "enTitle": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
         "image": "https://www.tbstat.com/wp/uploads/2024/05/20240513_Bitcoin_News_10-1200x675.jpg"
-      },
-      {
-        "headline": "Ճապոնիան նոր լիցենզիա է տրամադրում Nomura-ին",
-        "summary": "Nomura Holdings-ի Laser Digital Japan-ը ստացել է Ճապոնիայի կրիպտո լիցենզիան՝ ավարտելով մոտ չորս տարվա լռությունը նոր մասնակիցների համար։",
-        "link": "https://news.bitcoin.com/crypto-news/japans-crypto-freeze-cracks-as-nomura-wins-coveted-new-license/",
-        "source": "Bitcoin News",
-        "enTitle": "Japan’s Crypto Freeze Cracks as Nomura Wins Coveted New License",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/nomura-bitcoin-fund-768x432.jpg"
-      },
-      {
-        "headline": "Solana-ն կրճատում է հիմնական ցանցի սլոթի ժամանակը",
-        "summary": "Solana-ն կրճատել է իր հիմնական ցանցի սլոթի ժամանակը մինչև 350 միլիվայրկյան՝ որպես 200 միլիվայրկյան նպատակին հասնելու առաջին քայլ։",
-        "link": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
-        "source": "The Block",
-        "enTitle": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
-        "image": "https://www.tbstat.com/wp/uploads/2024/05/20240502_Solana_News_1-1200x675.jpg"
-      },
-      {
-        "headline": "SEC-ը առաջարկում է նոր ուղի կրիպտո նախագծերի համար",
-        "summary": "SEC-ը առաջարկում է կրիպտո նախագծերի համար $75 միլիոն հավաքելու և ավելի ուշ թոքենի արժեթղթերի պայմանագիրը դադարեցնելու ուղի։",
-        "link": "https://cryptoslate.com/sec-proposes-a-path-for-crypto-projects-to-raise-75-million-and-later-end-the-tokens-securities-contract/",
-        "source": "CryptoSlate",
-        "enTitle": "SEC proposes a path for crypto projects to raise $75 million and later end the token’s securities contract",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/sec-crypto-funding-rules.jpg"
       }
     ]
   }
