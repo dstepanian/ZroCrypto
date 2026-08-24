@@ -3973,7 +3973,7 @@
   },
   {
     "date": "2026-08-24",
-    "ts": 1787553452359,
+    "ts": 1787588702809,
     "fng": {
       "value": 73,
       "label": "Greed",
@@ -3983,56 +3983,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 77287,
-        "change24h": 1.2929818409784453
+        "price": 79753,
+        "change24h": 3.228771072364704
       },
       {
         "label": "Ethereum",
-        "price": 2450.02,
-        "change24h": 2.404082780165965
+        "price": 2500.82,
+        "change24h": 2.3027383681093014
       }
     ],
-    "overview": "Շուկան արձանագրել է զգալի ինստիտուցիոնալ ներհոսքեր Bitcoin, Ethereum և altcoin ETF-ներում, ինչպես նաև Ray Dalio-ի ուշագրավ հավանությունը։ Այնուամենայնիվ, DeFi-ի խոշոր շահագործումը ընդգծել է անվտանգության շարունակական մտահոգությունները։",
+    "overview": "Շուկան բնութագրվում է կորպորատիվ կուտակումների և ռազմավարական փոփոխությունների խառնուրդով, ինչպես նաև շարունակական կարգավորող զարգացումներով ամբողջ աշխարհում։",
     "items": [
       {
-        "headline": "Ray Dalio-ն խորհուրդ է տալիս Bitcoin ունենալ",
-        "summary": "Ray Dalio-ն հայտարարել է, որ ներդրողները պետք է ունենան «մի փոքր Bitcoin», քանի որ ԱՄՆ պարտքի ռիսկերը մեծանում են։",
-        "link": "https://www.coindesk.com/markets/2026/08/24/ray-dalio-says-investors-should-own-a-bit-of-bitcoin-as-u-s-debt-risks-rise",
+        "headline": "Իլինոյսի թվային ակտիվների հարկի դեմ բողոք",
+        "summary": "Երկու թվային ակտիվների պաշտպանության խումբ դատական հայց է ներկայացրել՝ վիճարկելով Իլինոյսի 0.2% կրիպտո հարկը սահմանադրական հիմքերով։",
+        "link": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Crypto advocacy groups oppose Illinois digital asset tax in court",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/year-of-crypto-tax-legislation.jpg"
+      },
+      {
+        "headline": "Bitmine-ը գնում է 81 միլիոն դոլարի Ethereum",
+        "summary": "Bitmine ընկերությունը ևս 81 միլիոն դոլարի Ethereum է ձեռք բերել՝ մոտենալով իր 5% մատակարարման թիրախին։",
+        "link": "https://decrypt.co/376336/bitmine-81m-more-ethereum-eth-tops-bitcoin",
+        "source": "Decrypt",
+        "enTitle": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg@png"
+      },
+      {
+        "headline": "Strive-ը ձեռք է բերում 1,110 Bitcoin",
+        "summary": "Strive-ը 81.5 միլիոն դոլարով գնել է 1,110 Bitcoin, ինչով իր ընդհանուր պահուստները հասցրել է 21,356 BTC-ի։",
+        "link": "https://www.theblock.co/news/business/2026-08-24-strive-acquires-1110-bitcoin-for-81-5-million-as-total-holdings-reach-21356-btc-412604",
+        "source": "The Block",
+        "enTitle": "Strive acquires 1,110 bitcoin for $81.5 million as total holdings reach 21,356 BTC",
+        "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-1200x675.jpg"
+      },
+      {
+        "headline": "Պակիստանը կարգավորում է կրիպտո ընկերությունները",
+        "summary": "Պակիստանը սահմանել է սեպտեմբերի 5-ը որպես վերջնաժամկետ կրիպտո ընկերությունների համար՝ լիցենզիա ստանալու կամ գործունեությունը դադարեցնելու համար։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/pakistan-puts-crypto-firms-on-notice-as-sept-5-deadline-looms/",
+        "source": "Bitcoin News",
+        "enTitle": "Pakistan Puts Crypto Firms on Notice as Sept. 5 Deadline Looms",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/pakistan-puts-crypto-firms-on-notice-as-sept--5-deadline-looms-768x432.png"
+      },
+      {
+        "headline": "Strategy-ն դադարեցնում է Bitcoin-ի գնումները",
+        "summary": "Strategy ընկերությունը դադարեցրել է Bitcoin-ի գնումները՝ փոխարենը միլիարդավոր դոլարներ կուտակելով կանխիկով։",
+        "link": "https://news.bitcoin.com/crypto-news/strategy-slams-brakes-on-bitcoin-buying-stockpiles-6-69b-cash/",
+        "source": "Bitcoin News",
+        "enTitle": "Strategy Slams Brakes on Bitcoin Buying, Stockpiles $6.69B Cash",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/strategy-slams-brakes-on-bitcoin-buying-stockpiles-6-69b-cash-768x432.png"
+      },
+      {
+        "headline": "Standard Chartered-ը կբաշխի HKD stablecoin",
+        "summary": "Standard Chartered բանկը դարձել է առաջինը, որը կբաշխի Anchorpoint-ի HKDAP stablecoin-ը իր հաճախորդներին և գործընկերներին։",
+        "link": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/66cd2470ebcf7907d01390a0237f00f003942dbb-4000x2667.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Գանձապետարանի պարտատոմսերի հետգնումը խթանել է Bitcoin-ը",
-        "summary": "ԱՄՆ Գանձապետարանի պարտատոմսերի հետգնման ծրագիրը չի կարողացել զսպել եկամտաբերությունը, սակայն հանգեցրել է Bitcoin-ի կտրուկ աճի։",
-        "link": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/fb81811e682f5993a7a991941d69995febee3723-5411x3529.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Bitcoin և Ethereum ETF-ների ռեկորդային ներհոսքեր",
-        "summary": "ԱՄՆ-ում գործող Bitcoin և Ethereum ETF-ները գրանցել են 2026 թվականի իրենց ամենամեծ շաբաթական ներհոսքերը՝ արտացոլելով կրիպտո շուկայի կտրուկ աճը։",
-        "link": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-etf-bull-rally.jpg"
-      },
-      {
-        "headline": "Wall Street-ը ներդրել է altcoin ETF-ներում",
-        "summary": "Անցյալ շաբաթ ԱՄՆ-ում գործող կրիպտո ETF-ները, բացի Bitcoin-ից և Ethereum-ից, ներգրավել են գրեթե 90 միլիոն դոլարի ներհոսքեր։",
-        "link": "https://cryptoslate.com/wall-street-just-poured-nearly-90-million-into-altcoins-as-xrp-sol-and-hype-rip-higher/",
-        "source": "CryptoSlate",
-        "enTitle": "Wall Street just poured nearly $90 million into altcoins as XRP, SOL and HYPE rip higher",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/altcoin-etf-bull-run.jpg"
-      },
-      {
-        "headline": "Term Finance-ը կորցրել է 8.5 միլիոն դոլար",
-        "summary": "Ethereum-ի վրա հիմնված Term Finance վարկավորման հավելվածը կորցրել է 8.5 միլիոն դոլար՝ հարձակվողի կողմից քվեարկության իրավունք գնելու հետևանքով։",
-        "link": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0075d19bd82cb7278ff5f876932e712bf6d2e204-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
