@@ -3970,5 +3970,70 @@
         "image": "https://www.tbstat.com/wp/uploads/2024/05/20240513_Bitcoin_News_10-1200x675.jpg"
       }
     ]
+  },
+  {
+    "date": "2026-08-24",
+    "ts": 1787553452359,
+    "fng": {
+      "value": 73,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 77287,
+        "change24h": 1.2929818409784453
+      },
+      {
+        "label": "Ethereum",
+        "price": 2450.02,
+        "change24h": 2.404082780165965
+      }
+    ],
+    "overview": "Շուկան արձանագրել է զգալի ինստիտուցիոնալ ներհոսքեր Bitcoin, Ethereum և altcoin ETF-ներում, ինչպես նաև Ray Dalio-ի ուշագրավ հավանությունը։ Այնուամենայնիվ, DeFi-ի խոշոր շահագործումը ընդգծել է անվտանգության շարունակական մտահոգությունները։",
+    "items": [
+      {
+        "headline": "Ray Dalio-ն խորհուրդ է տալիս Bitcoin ունենալ",
+        "summary": "Ray Dalio-ն հայտարարել է, որ ներդրողները պետք է ունենան «մի փոքր Bitcoin», քանի որ ԱՄՆ պարտքի ռիսկերը մեծանում են։",
+        "link": "https://www.coindesk.com/markets/2026/08/24/ray-dalio-says-investors-should-own-a-bit-of-bitcoin-as-u-s-debt-risks-rise",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/66cd2470ebcf7907d01390a0237f00f003942dbb-4000x2667.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Գանձապետարանի պարտատոմսերի հետգնումը խթանել է Bitcoin-ը",
+        "summary": "ԱՄՆ Գանձապետարանի պարտատոմսերի հետգնման ծրագիրը չի կարողացել զսպել եկամտաբերությունը, սակայն հանգեցրել է Bitcoin-ի կտրուկ աճի։",
+        "link": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/fb81811e682f5993a7a991941d69995febee3723-5411x3529.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Bitcoin և Ethereum ETF-ների ռեկորդային ներհոսքեր",
+        "summary": "ԱՄՆ-ում գործող Bitcoin և Ethereum ETF-ները գրանցել են 2026 թվականի իրենց ամենամեծ շաբաթական ներհոսքերը՝ արտացոլելով կրիպտո շուկայի կտրուկ աճը։",
+        "link": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/",
+        "source": "CryptoSlate",
+        "enTitle": "Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-etf-bull-rally.jpg"
+      },
+      {
+        "headline": "Wall Street-ը ներդրել է altcoin ETF-ներում",
+        "summary": "Անցյալ շաբաթ ԱՄՆ-ում գործող կրիպտո ETF-ները, բացի Bitcoin-ից և Ethereum-ից, ներգրավել են գրեթե 90 միլիոն դոլարի ներհոսքեր։",
+        "link": "https://cryptoslate.com/wall-street-just-poured-nearly-90-million-into-altcoins-as-xrp-sol-and-hype-rip-higher/",
+        "source": "CryptoSlate",
+        "enTitle": "Wall Street just poured nearly $90 million into altcoins as XRP, SOL and HYPE rip higher",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/altcoin-etf-bull-run.jpg"
+      },
+      {
+        "headline": "Term Finance-ը կորցրել է 8.5 միլիոն դոլար",
+        "summary": "Ethereum-ի վրա հիմնված Term Finance վարկավորման հավելվածը կորցրել է 8.5 միլիոն դոլար՝ հարձակվողի կողմից քվեարկության իրավունք գնելու հետևանքով։",
+        "link": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0075d19bd82cb7278ff5f876932e712bf6d2e204-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
   }
 ]
