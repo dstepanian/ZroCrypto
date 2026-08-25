@@ -4046,7 +4046,7 @@
   },
   {
     "date": "2026-08-25",
-    "ts": 1787639383679,
+    "ts": 1787675153110,
     "fng": {
       "value": 74,
       "label": "Greed",
@@ -4056,64 +4056,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 80812,
-        "change24h": 4.458397643482727
+        "price": 79200,
+        "change24h": -0.703588400346506
       },
       {
         "label": "Ethereum",
-        "price": 2511.89,
-        "change24h": 2.3609836401703546
+        "price": 2474.24,
+        "change24h": -1.0861833732484283
       }
     ],
-    "overview": "Կրիպտո շուկան այսօր ցույց է տվել ինչպես դրական, այնպես էլ բացասական զարգացումներ։ Մինչ Bitcoin-ը հասել է նոր նշագծի, և Coinbase-ը գործարկել է նոր ծառայություններ, ԱՄՆ-ը պատժամիջոցներ է կիրառել, իսկ Tether-ի ներդրումը ձախողվել է։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ներդրումների աճով և թոքենիզացիայի ոլորտում նորարարություններով։ Bitcoin ETF-ները շարունակում են զգալի ներհոսքեր գրանցել, մինչդեռ նոր ETF-ներ և թոքենացված պորտֆելներ են գործարկվում։",
     "items": [
       {
-        "headline": "Tether-ի Bitcoin մայնինգի ներդրումը Ուրուգվայում",
-        "summary": "Tether-ը դադարեցրել է Ուրուգվայում Bitcoin մայնինգի մոտ 120 միլիոն դոլարի ներդրումը՝ պետական էներգետիկ ընկերության հետ վեճի պատճառով։",
-        "link": "https://news.bitcoin.com/mining/tethers-120m-uruguay-bitcoin-mining-bet-ends-in-power-dispute/",
-        "source": "Bitcoin News",
-        "enTitle": "Tether’s $120M Uruguay Bitcoin Mining Bet Ends in Power Dispute",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/theenergymag-768x432.jpg"
-      },
-      {
-        "headline": "ԱՄՆ-ը պատժամիջոցներ է կիրառում Իրանի կրիպտո հատվածի նկատմամբ",
-        "summary": "ԱՄՆ ֆինանսների նախարարությունը ընդլայնել է պատժամիջոցները Իրանի թվային ակտիվների հատվածի նկատմամբ՝ մեղադրելով ԱՄԷ-ում գործող բրոքերին նավթի վաճառքի համար ավելի քան 100 միլիոն դոլարի կրիպտո մշակելու մեջ։",
-        "link": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-sanctions.png"
-      },
-      {
-        "headline": "Bitcoin-ը հասել է 80,000 դոլարի նշագծին",
-        "summary": "Bitcoin-ը մայիսից ի վեր առաջին անգամ հատել է 80,000 դոլարի շեմը, քանի որ կրիպտո շուկայի վերականգնումն արագանում է։",
-        "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
+        "headline": "LayerZero-ն ներկայացրել է նոր առևտրային ենթակառուցվածք",
+        "summary": "LayerZero-ն գործարկել է կրիպտո և թոքենացված շուկաների համար նախատեսված առևտրային ենթակառուցվածք, ինչի արդյունքում ZRO թոքենի գինը կտրուկ աճել է։",
+        "link": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
-        "image": ""
+        "enTitle": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/cacddf721a616875f4ffcac5f2979bfe02adef35-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Coinbase-ը գործարկել է թոքենացված բաժնետոմսեր",
-        "summary": "Coinbase-ը Base-ի վրա գործարկել է ԱՄՆ թոքենացված բաժնետոմսեր՝ ԱՄՆ-ից դուրս որակավորված օգտատերերի համար։",
-        "link": "https://news.bitcoin.com/exchanges/coinbase-tokenized-stocks-go-live-for-eligible-non-us-users/",
-        "source": "Bitcoin News",
-        "enTitle": "Coinbase Tokenized Stocks Go Live for Eligible Non-US Users",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/coinbase-1-768x432.jpg"
-      },
-      {
-        "headline": "Bitwise XRP ETF-ի առևտրի ծավալը գերազանցել է $200M-ը",
-        "summary": "Bitwise-ի XRP ETF-ի առևտրի ծավալը երեք անընդմեջ նիստերի ընթացքում գերազանցել է 200 միլիոն դոլարը։",
-        "link": "https://news.bitcoin.com/market-updates/bitwise-xrp-etf-trading-volume-tops-200m-across-three-sessions/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitwise XRP ETF Trading Volume Tops $200M Across Three Sessions",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/xrp-price-aug-24-768x432.jpg"
-      },
-      {
-        "headline": "Fidelity-ն թույլ է տվել ETF-ներին ստեյք անել կրիպտո",
-        "summary": "Fidelity-ն իր ETF-ներին թույլ է տվել ստեյք անել կրիպտոյի 100%-ը՝ միաժամանակ նշելով դուրսբերման ուշացման ռիսկերը։",
-        "link": "https://cryptoslate.com/fidelity-grants-etfs-power-to-stake-100-of-crypto-while-outlining-exit-delay-risks/",
+        "headline": "Bitcoin ETF-ների ներհոսքը հասել է $2.2 միլիարդի",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները վեց օրում գրանցել են $2.2 միլիարդի ներհոսք, իսկ ընդհանուր ակտիվները մոտենում են $100 միլիարդին։",
+        "link": "https://cryptoslate.com/bitcoin-etfs-inflow-streak-reaches-2-2-billion-in-6-days-as-assets-near-100-billion/",
         "source": "CryptoSlate",
-        "enTitle": "Fidelity grants ETFs power to stake 100% of crypto while outlining exit delay risks",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/fidelity-liquidity-flood-risk.jpg"
+        "enTitle": "Bitcoin ETFs inflow streak reaches $2.2 billion in 6 days as assets near $100 billion",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-etf-100b-rebound.jpg"
+      },
+      {
+        "headline": "Bitwise-ը գործարկում է թոքենացված բաժնետոմսերի պորտֆելներ",
+        "summary": "Bitwise-ը ներկայացրել է ավտոմատացված թոքենացված բաժնետոմսերի պորտֆելներ՝ կենտրոնանալով Mag 7, AI և ռոբոտաշինության թեմաների վրա։",
+        "link": "https://www.theblock.co/news/business/2026-08-25-bitwise-launches-automated-tokenized-stock-portfolios-for-mag-7-ai-and-robotics-themes-412706",
+        "source": "The Block",
+        "enTitle": "Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes",
+        "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Bitwise_News_2-1200x675.jpg"
+      },
+      {
+        "headline": "Grayscale-ի Zcash ETF-ը սկսել է առևտուրը NYSE Arca-ում",
+        "summary": "Grayscale-ի Zcash ETF-ը (ZCSH) սկսել է առևտուրը NYSE Arca-ում՝ ներդրողներին հնարավորություն տալով ուղղակիորեն մուտք գործել ZEC-ի շուկա։",
+        "link": "https://news.bitcoin.com/featured/grayscales-zcash-etf-begins-trading-on-nyse-arca-with-spot-zec/",
+        "source": "Bitcoin News",
+        "enTitle": "Grayscale’s Zcash ETF Begins Trading on NYSE Arca With Spot ZEC",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/nyse-768x432.jpg"
+      },
+      {
+        "headline": "Հնդկաստանը նախատեսում է թոքենացված պարտատոմսեր թողարկել",
+        "summary": "Հնդկաստանը նախատեսում է փորձարկել թոքենացված կորպորատիվ պարտատոմսեր՝ օգտագործելով wholesale CBDC վճարումներ։",
+        "link": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "India plans first tokenized bonds using wholesale CBDC: Report",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-business-environment-for-crypto-like-in-india2.jpg"
       }
     ]
   }
