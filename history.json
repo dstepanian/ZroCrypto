@@ -4043,5 +4043,78 @@
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
+  },
+  {
+    "date": "2026-08-25",
+    "ts": 1787639383679,
+    "fng": {
+      "value": 74,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 80812,
+        "change24h": 4.458397643482727
+      },
+      {
+        "label": "Ethereum",
+        "price": 2511.89,
+        "change24h": 2.3609836401703546
+      }
+    ],
+    "overview": "Կրիպտո շուկան այսօր ցույց է տվել ինչպես դրական, այնպես էլ բացասական զարգացումներ։ Մինչ Bitcoin-ը հասել է նոր նշագծի, և Coinbase-ը գործարկել է նոր ծառայություններ, ԱՄՆ-ը պատժամիջոցներ է կիրառել, իսկ Tether-ի ներդրումը ձախողվել է։",
+    "items": [
+      {
+        "headline": "Tether-ի Bitcoin մայնինգի ներդրումը Ուրուգվայում",
+        "summary": "Tether-ը դադարեցրել է Ուրուգվայում Bitcoin մայնինգի մոտ 120 միլիոն դոլարի ներդրումը՝ պետական էներգետիկ ընկերության հետ վեճի պատճառով։",
+        "link": "https://news.bitcoin.com/mining/tethers-120m-uruguay-bitcoin-mining-bet-ends-in-power-dispute/",
+        "source": "Bitcoin News",
+        "enTitle": "Tether’s $120M Uruguay Bitcoin Mining Bet Ends in Power Dispute",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/theenergymag-768x432.jpg"
+      },
+      {
+        "headline": "ԱՄՆ-ը պատժամիջոցներ է կիրառում Իրանի կրիպտո հատվածի նկատմամբ",
+        "summary": "ԱՄՆ ֆինանսների նախարարությունը ընդլայնել է պատժամիջոցները Իրանի թվային ակտիվների հատվածի նկատմամբ՝ մեղադրելով ԱՄԷ-ում գործող բրոքերին նավթի վաճառքի համար ավելի քան 100 միլիոն դոլարի կրիպտո մշակելու մեջ։",
+        "link": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-sanctions.png"
+      },
+      {
+        "headline": "Bitcoin-ը հասել է 80,000 դոլարի նշագծին",
+        "summary": "Bitcoin-ը մայիսից ի վեր առաջին անգամ հատել է 80,000 դոլարի շեմը, քանի որ կրիպտո շուկայի վերականգնումն արագանում է։",
+        "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
+        "image": ""
+      },
+      {
+        "headline": "Coinbase-ը գործարկել է թոքենացված բաժնետոմսեր",
+        "summary": "Coinbase-ը Base-ի վրա գործարկել է ԱՄՆ թոքենացված բաժնետոմսեր՝ ԱՄՆ-ից դուրս որակավորված օգտատերերի համար։",
+        "link": "https://news.bitcoin.com/exchanges/coinbase-tokenized-stocks-go-live-for-eligible-non-us-users/",
+        "source": "Bitcoin News",
+        "enTitle": "Coinbase Tokenized Stocks Go Live for Eligible Non-US Users",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/coinbase-1-768x432.jpg"
+      },
+      {
+        "headline": "Bitwise XRP ETF-ի առևտրի ծավալը գերազանցել է $200M-ը",
+        "summary": "Bitwise-ի XRP ETF-ի առևտրի ծավալը երեք անընդմեջ նիստերի ընթացքում գերազանցել է 200 միլիոն դոլարը։",
+        "link": "https://news.bitcoin.com/market-updates/bitwise-xrp-etf-trading-volume-tops-200m-across-three-sessions/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitwise XRP ETF Trading Volume Tops $200M Across Three Sessions",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/xrp-price-aug-24-768x432.jpg"
+      },
+      {
+        "headline": "Fidelity-ն թույլ է տվել ETF-ներին ստեյք անել կրիպտո",
+        "summary": "Fidelity-ն իր ETF-ներին թույլ է տվել ստեյք անել կրիպտոյի 100%-ը՝ միաժամանակ նշելով դուրսբերման ուշացման ռիսկերը։",
+        "link": "https://cryptoslate.com/fidelity-grants-etfs-power-to-stake-100-of-crypto-while-outlining-exit-delay-risks/",
+        "source": "CryptoSlate",
+        "enTitle": "Fidelity grants ETFs power to stake 100% of crypto while outlining exit delay risks",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/fidelity-liquidity-flood-risk.jpg"
+      }
+    ]
   }
 ]
