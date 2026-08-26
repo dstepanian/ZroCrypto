@@ -4111,7 +4111,7 @@
   },
   {
     "date": "2026-08-26",
-    "ts": 1787725882485,
+    "ts": 1787762503620,
     "fng": {
       "value": 65,
       "label": "Greed",
@@ -4121,64 +4121,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 78915,
-        "change24h": -2.2164763748396337
+        "price": 78025,
+        "change24h": -1.4899378065977478
       },
       {
         "label": "Ethereum",
-        "price": 2456.73,
-        "change24h": -2.0770941044641593
+        "price": 2447.2,
+        "change24h": -1.1229859191996965
       }
     ],
-    "overview": "Շուկան ցույց է տալիս աճող ինստիտուցիոնալ հետաքրքրություն և կարգավորող զարգացումներ տարբեր տարածաշրջաններում, ինչպես նաև զգալի ֆինանսավորման փուլեր և իրական ակտիվների թոքենիզացիա:",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների ակտիվությամբ և ինստիտուցիոնալ ընդունման աճով, մինչդեռ նորարարությունները շարունակվում են տեխնիկական և ֆինանսական ճակատներում։ Կան նաև զգուշացումներ թվային ակտիվների հնարավոր ազդեցությունների վերաբերյալ ավանդական ֆինանսական համակարգի վրա։",
     "items": [
       {
-        "headline": "BlackRock-ը նվազեցնում է Bitcoin ETF-ի փոխանակման նվազագույն շեմը",
-        "summary": "BlackRock-ը նվազեցրել է իր Bitcoin ETF-ի փոխանակման նվազագույն շեմը մինչև 1 միլիոն դոլար, ինչը հեշտացնում է խոշոր ներդրողների մուտքը:",
-        "link": "https://www.coindesk.com/markets/2026/08/26/E",
+        "headline": "SEC-ը վերանայման է ուղարկում կրիպտո ակտիվների պահպանման կանոնները",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) Սպիտակ տուն է ուղարկել կրիպտո ակտիվների պահպանման կանոնների փոփոխությունների առաջարկը՝ պարզաբանելու համար, թե ինչպես են ներդրումային խորհրդատուները և հիմնադրամները պահում թվային ակտիվները հաճախորդների համար։",
+        "link": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "SEC sends crypto custody rule overhaul to White House for review",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/political-tokens-into-the-white-house-sec-1.jpg"
+      },
+      {
+        "headline": "Dallas Fed-ը զգուշացնում է թոքենացված ավանդների մասին",
+        "summary": "Dallas Fed-ի հետազոտողները նախազգուշացրել են, որ թոքենացված ավանդների անցումը կարող է 700 միլիարդ դոլարով կրճատել բանկային վարկավորումը, սահմանափակել վարկավորումը և բարձրացնել փոխառությունների արժեքը։",
+        "link": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
+        "source": "Decrypt",
+        "enTitle": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg@png"
+      },
+      {
+        "headline": "Shinhan-ը և Visa-ն համագործակցում են stablecoin-ի թողարկման համար",
+        "summary": "Shinhan Financial Group-ը և Visa-ն Հարավային Կորեայում համագործակցում են stablecoin-ի թողարկումը, դրամական փոխանցումները և մարումները փորձարկելու, ինչպես նաև AI-ով աշխատող վճարային նոր մոդելներ կառուցելու համար։",
+        "link": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b53d077c4e5949d0efd6629978ef575ece087f83-2400x1350.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0b33f1bb25f1192885403a37624d1c465d514180-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Kalshi-ն հավաքել է 1.12 միլիարդ դոլար",
-        "summary": "Կանխատեսումների շուկայի հարթակ Kalshi-ն ապրիլից ի վեր մասնավոր բաժնետոմսերի առաջարկի միջոցով հավաքել է 1.12 միլիարդ դոլար:",
-        "link": "https://www.theblock.co/news/web3/2026-08-26-kalshi-latest-form-d-412749",
-        "source": "The Block",
-        "enTitle": "Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows",
-        "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-1200x675.jpg"
+        "headline": "Ethereum-ի մշակողները առաջարկում են քվանտային պաշտպանություն",
+        "summary": "Ethereum-ի մշակողները առաջարկել են ավանդային պայմանագրի վերանորոգում՝ staking-ը քվանտային հարձակումներից պաշտպանելու համար, ինչը թույլ կտա վավերացնող բանալիներին աճել մինչև 8,192 բայթ։",
+        "link": "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
+        "source": "Decrypt",
+        "enTitle": "Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg@png"
       },
       {
-        "headline": "ԱՄՆ բանկային ասոցիացիաները պլանավորում են բլոկչեյն ցանց",
-        "summary": "ԱՄՆ նահանգային բանկային ասոցիացիաները նախատեսում են մինչև 2027 թվականը գործարկել իրենց սեփական համազգային բլոկչեյն ցանցը՝ stablecoin-ների և վճարումների համար:",
-        "link": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "U.S. state banking associations plan to launch their own nationwide blockchain network",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/21487bcf7e237d1edbf17de7972f9dc7fa1fa204-3000x1688.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Գանձապետարանը թիրախավորում է Իրանի կրիպտո հատվածը",
-        "summary": "ԱՄՆ Գանձապետարանը ընդլայնել է պատժամիջոցները Իրանի թվային ակտիվների հատվածի նկատմամբ՝ թիրախավորելով 100 միլիոն դոլարի նավթի վճարումների ցանցը:",
-        "link": "https://news.bitcoin.com/regulation-and-legal/treasury-targets-iran-crypto-sector-and-100m-oil-payment-network/",
+        "headline": "Blackrock-ը մշակում է $5 միլիարդի Bitcoin-ETF փոխարկումներ",
+        "summary": "Խոշոր կրիպտո ակտիվներ ունեցողները ավելի ու ավելի են Bitcoin-ը ուղղակիորեն փոխանակում ETF բաժնետոմսերի հետ՝ կանխիկ վաճառելու փոխարեն, ինչը ցույց է տալիս ETF-ների ընդունման աճող միտում։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-processes-5-billion-in-direct-bitcoin-to-etf-conversions/",
         "source": "Bitcoin News",
-        "enTitle": "Treasury Targets Iran Crypto Sector and $100M Oil Payment Network",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/treasury-department-768x432.jpg"
+        "enTitle": "Blackrock Processes $5 Billion in Direct Bitcoin-to-ETF Conversions",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/blackrock-processes-5-billion-in-direct-bitcoin-to-etf-conversions-768x432.jpg"
       },
       {
-        "headline": "Թաիլանդի SEC-ը քննարկում է կրիպտո ETF-ների կանոնակարգերը",
-        "summary": "Թաիլանդի Արժեթղթերի և բորսաների հանձնաժողովը (SEC) հանրային քննարկման է ներկայացրել Bitcoin և Ethereum ETF-ների նախագծային կանոնակարգերը:",
-        "link": "https://news.bitcoin.com/regulation-and-legal/thailands-sec-seeks-comment-on-draft-regulations-for-crypto-etfs/",
-        "source": "Bitcoin News",
-        "enTitle": "Thailand’s SEC Seeks Comment on Draft Regulations for Crypto ETFs",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/thailands-sec-seeks-comment-on-draft-regulations-for-crypto-etfs-768x432.png"
-      },
-      {
-        "headline": "POSCO-ն թոքենիզացնում է առևտրային դեբիտորական պարտքերը Avalanche-ում",
-        "summary": "Հարավկորեական առևտրային հսկա POSCO-ն Avalanche բլոկչեյն է տեղափոխել առևտրային դեբիտորական պարտքերը՝ իրական ակտիվների թոքենիզացիայի վերջին քայլով:",
-        "link": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f38eb04a3a04d4c96a01cc44a078bfe971d17b91-2048x1396.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "headline": "Եվրոպական Կենտրոնական Բանկը խոստանում է թվային եվրոյի գաղտնիություն",
+        "summary": "Եվրոպական Կենտրոնական Բանկի (ECB) խորհրդի անդամ Պիերո Չիպոլոնեն հայտարարել է, որ թվային եվրոն կառաջարկի գաղտնիության առավելագույն մակարդակ, քանի որ Eurosystem-ը չի կարողանա անհատներին կապել գործարքների հետ։",
+        "link": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
+        "source": "Decrypt",
+        "enTitle": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ECB-gID_7.jpg@png"
       }
     ]
   }
