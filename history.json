@@ -4181,5 +4181,78 @@
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ECB-gID_7.jpg@png"
       }
     ]
+  },
+  {
+    "date": "2026-08-27",
+    "ts": 1787850438811,
+    "fng": {
+      "value": 71,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 80318,
+        "change24h": 2.9209459190236817
+      },
+      {
+        "label": "Ethereum",
+        "price": 2519.6,
+        "change24h": 3.0252989477824235
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների ակտիվությամբ և ավանդական ֆինանսական հաստատությունների կողմից կրիպտոարժույթների ընդունման աճով։ Կարևոր իրադարձությունները ներառում են ԱՄՆ SEC-ի կողմից կրիպտո ակտիվների պահպանման կանոնների վերանայումը և Մեծ Բրիտանիայի Կենտրոնական բանկի նոր մանդատը՝ կապված ստեյբլքոյնների հետ։",
+    "items": [
+      {
+        "headline": "ԱՄՆ SEC-ը վերանայում է կրիպտո պահպանման կանոնները",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) վերանայում է կրիպտո ակտիվների պահպանման կանոնները և փոփոխված առաջարկն ուղարկել է Սպիտակ տուն՝ քննարկման։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/sec-eyes-sweeping-crypto-custody-rewrite-as-white-house-weighs-in/",
+        "source": "Bitcoin News",
+        "enTitle": "SEC Eyes Sweeping Crypto Custody Rewrite as White House Weighs In",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/sec-chair-paul-atkins-2026-priorities-crypto-768x432.jpg"
+      },
+      {
+        "headline": "Charles Schwab-ը ավելացնում է նոր կրիպտոարժույթներ",
+        "summary": "Ֆինանսական ծառայությունների հսկա Charles Schwab-ը նախատեսում է ընդլայնել իր Schwab Crypto հարթակը՝ ավելացնելով Solana, Avalanche և Chainlink՝ Bitcoin-ից և Ether-ից բացի։",
+        "link": "https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bank-bitcoin-charles-schwab-corp.png"
+      },
+      {
+        "headline": "AI-ի հայտնաբերած խոցելիություններ Bitcoin Lightning-ում",
+        "summary": "Lightning ծրագրային նախագիծը շտկումներ է պատրաստում՝ հաստատելով, որ AI-ի կողմից ստեղծված մի քանի խոցելիության զեկույցներ ճշգրիտ էին։",
+        "link": "https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning",
+        "source": "Decrypt",
+        "enTitle": "AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png"
+      },
+      {
+        "headline": "BlackRock-ի ETF-ները գրավում են հարյուրավոր միլիոններ",
+        "summary": "Bitcoin և Ether ETF-ները շարունակել են ներհոսքերը ութ նիստ անընդմեջ՝ գրավելով $232.12 միլիոն և $192.35 միլիոն համապատասխանաբար։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-captures-322-79m-as-bitcoin-ether-etfs-add-424m/",
+        "source": "Bitcoin News",
+        "enTitle": "Blackrock Captures $322.79M as Bitcoin, Ether ETFs Add $424M",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/blackrock-captures-322-79m-as-bitcoin-ether-etfs-add-424m-768x432.png"
+      },
+      {
+        "headline": "CZ-ը կանխատեսում է Bitcoin-ի գերազանցումը ոսկուն",
+        "summary": "Binance-ի հիմնադիր CZ-ը հայտարարել է, որ Bitcoin-ը կարող է գերազանցել ոսկուն հաջորդ աճի շրջանում, քանի որ երկրները տարիներ կպահանջեն «անցնելու Bitcoin-ի»։",
+        "link": "https://decrypt.co/376717/bitcoin-could-overtake-gold-in-the-next-bull-run-binance-founder-cz",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin Could Overtake Gold in the Next Bull Run: Binance Founder CZ",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/changpeng-zhao-cz-decrypt-style-02-gID_7.jpg@png"
+      },
+      {
+        "headline": "Անգլիայի Բանկը նոր մանդատ կունենա ստեյբլքոյնների համար",
+        "summary": "Միացյալ Թագավորությունը նախատեսում է ընդլայնել Անգլիայի Բանկի լիազորությունները՝ աջակցելու թվային վճարումների նորարարությանը, ներառյալ ստեյբլքոյնները, միաժամանակ պահպանելով ֆինանսական կայունությունը։",
+        "link": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bank of England set for new innovation mandate covering stablecoins",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations2-1.jpg"
+      }
+    ]
   }
 ]
