@@ -1,54 +1,5 @@
 [
   {
-    "date": "2026-06-29",
-    "ts": 1782756262811,
-    "fng": {
-      "value": 12,
-      "label": "Extreme Fear",
-      "hy": "Ծայրահեղ վախ",
-      "dot": "🔴"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 60313,
-        "change24h": 1.260087741657143
-      },
-      {
-        "label": "Ethereum",
-        "price": 1624.89,
-        "change24h": 3.405098531035207
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ներգրավվածության աճով և կարգավորող անորոշություններով։ Մինչ BlackRock-ը և BNY Mellon-ը խորացնում են իրենց կապերը DeFi-ի և stablecoin-ների հետ, ԱՄՆ-ում Clarity Act-ի ընդունման հավանականությունը նվազում է, իսկ ԵՄ-ում MiCA-ի նոր կանոնները զգալի փոփոխություններ են բերում օգտատերերի և բորսաների համար։",
-    "items": [
-      {
-        "headline": "BlackRock-ը խորացնում է իր ներգրավվածությունը DeFi-ում",
-        "summary": "BlackRock-ը ընդլայնում է իր ներգրավվածությունը DeFi-ում՝ ինտեգրելով Ethena-ն իր ռիսկերի կառավարման հարթակում և ստեղծելով $100 միլիոնի լիկվիդայնության հնարավորություն իր թոքենացված դրամական շուկայի ֆոնդի համար։"
-      },
-      {
-        "headline": "Strategy-ն թույլատրում է Bitcoin-ի վաճառք",
-        "summary": "Strategy-ն ներկայացրել է նոր կապիտալի շրջանակ, որը թույլ է տալիս վաճառել Bitcoin՝ USD պահուստը ֆինանսավորելու, արտոնյալ շահաբաժիններ վճարելու և մինչև $2 միլիարդի բաժնետոմսերի հետգնումներ ֆինանսավորելու համար։"
-      },
-      {
-        "headline": "BNY-ն ընդլայնում է USDC ծառայությունները",
-        "summary": "BNY Mellon-ը, աշխարհի խոշորագույն պահառու բանկը, իր Digital Asset Custody հարթակում ավելացնում է USDC-ի թողարկման և մարման հնարավորություններ՝ խորացնելով իր գործընկերությունը Circle-ի հետ։"
-      },
-      {
-        "headline": "Clarity Act-ի ընդունման հավանականությունը նվազում է",
-        "summary": "Galaxy թվային ակտիվների ընկերությունը նվազեցրել է Clarity Act շուկայի կառուցվածքի օրինագծի այս տարի ընդունվելու հավանականությունը մինչև 50%՝ նշելով Սենատի ժամանակացույցի կրճատումը։"
-      },
-      {
-        "headline": "MiCA-ի ազդեցությունը ԵՄ օգտատերերի վրա",
-        "summary": "MiCA-ի լիարժեք ուժի մեջ մտնելու հետ մեկտեղ հուլիսի 1-ից, մինչև 10 միլիոն ԵՄ կրիպտո օգտատերեր կարող են մնալ առանց հարթակի, ինչի հետևանքով Coinbase-ը, Kraken-ը և OKX-ը փորձում են ներգրավել այդ օգտատերերին։"
-      },
-      {
-        "headline": "XRP Ledger-ը ներկայացնում է վարկավորման հնարավորություններ",
-        "summary": "Ripple-ը մանրամասնել է, թե ինչպես XRP Ledger Lending Protocol-ը հաստատություններին կտրամադրի նորարարական միջոց՝ վարկերը անմիջապես շղթայի վրա կառուցելու համար։"
-      }
-    ]
-  },
-  {
     "date": "2026-06-30",
     "ts": 1782849576250,
     "fng": {
@@ -4252,6 +4203,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "Bank of England set for new innovation mandate covering stablecoins",
         "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations2-1.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "ts": 1787939670369,
+    "fng": {
+      "value": 73,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 77942,
+        "change24h": -3.176340726845351
+      },
+      {
+        "label": "Ethereum",
+        "price": 2444.49,
+        "change24h": -3.0128984814524795
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ներդրումների աճով և հիմնական ցանցերի զարգացումներով։ Bitcoin-ի ETF-ները հասել են նշանակալի նվաճումների, մինչդեռ ավանդական ֆինանսական ընկերությունները ընդլայնում են իրենց կրիպտո առաջարկները։",
+    "items": [
+      {
+        "headline": "Solana-ն կրճատում է SOL-ի թողարկումը",
+        "summary": "Solana ցանցի օգտատերերը քվեարկությամբ հաստատել են SOL թոքենի թողարկման կրճատման առաջարկը՝ նպատակ ունենալով նվազեցնել գնաճը։",
+        "link": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
+        "source": "Decrypt",
+        "enTitle": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png"
+      },
+      {
+        "headline": "Bitcoin ETF-ների ակտիվները գերազանցել են $100 միլիարդը",
+        "summary": "Bitcoin ETF-ների ընդհանուր ակտիվները հատել են 100 միլիարդ դոլարի շեմը՝ արձանագրելով զգալի ներհոսքեր։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-cross-100-billion-with-242-million-inflow/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin ETFs Cross $100 Billion With $242 Million Inflow",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-etfs-cross-100-billion-with-242-million-inflow-768x432.jpg"
+      },
+      {
+        "headline": "BlackRock-ի Bitcoin ETF-ը վերականգնում է օպցիոնների ժամկետները",
+        "summary": "BlackRock-ի IBIT Bitcoin ETF-ը վերականգնել է շաբաթական օպցիոնների ժամկետները՝ կանոնների փոփոխությունից հետո, ինչը բարելավում է շուկայի հասանելիությունը։",
+        "link": "https://cryptoslate.com/blackrocks-bitcoin-etf-regains-key-weekly-options-expiries-after-rule-overhaul/",
+        "source": "CryptoSlate",
+        "enTitle": "BlackRock’s Bitcoin ETF regains key weekly options expiries after rule overhaul",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/miax-ibit-pathway.jpg"
+      },
+      {
+        "headline": "Charles Schwab-ը ընդլայնում է կրիպտո առևտուրը",
+        "summary": "Charles Schwab բրոքերային ընկերությունը կընդլայնի իր կրիպտո առևտրի առաջարկները՝ ներառելով Solana, Avalanche և Chainlink թոքենները։",
+        "link": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
+        "source": "Decrypt",
+        "enTitle": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-charles-schwab-gID_7.png@png"
+      },
+      {
+        "headline": "Dunamu-ն և Visa-ն համագործակցում են վճարումների համար",
+        "summary": "Upbit-ի մայր ընկերություն Dunamu-ն ռազմավարական համագործակցություն է սկսել Visa-ի հետ՝ ստեղծելու stablecoin-ի և AI-ի վրա հիմնված վճարային ենթակառուցվածքներ։",
+        "link": "https://news.bitcoin.com/stablecoins/dunamu-visa-stablecoin-ai-payment-partnership/",
+        "source": "Bitcoin News",
+        "enTitle": "Dunamu Partners With Visa to Build Stablecoin, AI Payment Rails",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/dunamu-partners-with-visa-to-build-stablecoin-ai-payment-rails2_nwmk-768x432.jpg"
+      },
+      {
+        "headline": "Ethereum ETF-ները գրավել են $226 միլիոն ներհոսք",
+        "summary": "Ethereum ETF-ները մեկ օրում ներգրավել են 226 միլիոն դոլարի ներհոսք՝ ցույց տալով աճող հետաքրքրություն ինստիտուցիոնալ ներդրողների կողմից։",
+        "link": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul",
+        "source": "Decrypt",
+        "enTitle": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-08-scaled-gID_7.jpeg@png"
       }
     ]
   }
