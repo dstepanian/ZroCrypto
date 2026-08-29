@@ -4220,7 +4220,7 @@
   },
   {
     "date": "2026-08-29",
-    "ts": 1788004739861,
+    "ts": 1788030064776,
     "fng": {
       "value": 68,
       "label": "Greed",
@@ -4230,64 +4230,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 77597,
-        "change24h": -2.5047899462360688
+        "price": 78176,
+        "change24h": 0.830164223969721
       },
       {
         "label": "Ethereum",
-        "price": 2435.71,
-        "change24h": -2.7453960256322696
+        "price": 2452.51,
+        "change24h": 1.0129643280004013
       }
     ],
-    "overview": "Այսօր շուկաներում նկատվեց խառը տրամադրություն, քանի որ Bitcoin ETF-ները գրանցեցին արտահոսքեր, իսկ Դաշնային պահուստային համակարգի նախագահի մեկնաբանությունները հանգեցրին լիկվիդացիաների: Միևնույն ժամանակ, Solana-ն հաստատեց իր արժեզրկման տեմպերի արագացումը, իսկ Ethereum ETF-ների մեկնարկային ծավալները պարզաբանվեցին՝ ընդգծելով շուկայի դինամիկ զարգացումները:",
+    "overview": "Կրիպտո շուկան այսօր ցույց տվեց խառը տրամադրություններ՝ Bitcoin ETF-ների արտահոսքերով և Solana-ի գնաճի տեմպերի փոփոխությամբ։ Դաշնային պահուստային համակարգի պաշտոնյաների գնաճի վերաբերյալ մեկնաբանությունները նույնպես ազդեցին Bitcoin-ի գնի վրա։",
     "items": [
       {
-        "headline": "Solana-ն արագացնում է SOL-ի արժեզրկումը",
-        "summary": "Solana-ի վավերացնողները հավանություն են տվել առաջարկին՝ կրկնապատկելու SOL-ի տարեկան արժեզրկման տեմպը 15%-ից մինչև 30%։",
+        "headline": "Bitcoin ETF-ների արտահոսք, Ethereum-ի ներհոսք",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցեցին 202 միլիոն դոլարի զուտ արտահոսք՝ ընդհատելով իննօրյա ներհոսքերի շարքը, մինչդեռ spot Ethereum ETF-ները նույն օրը ավելացրեցին 102 միլիոն դոլար։",
+        "link": "https://news.bitcoin.com/crypto-news/bitcoin-etf-202-million-outflow-ether-102-million/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin ETFs Snap 9-Day Streak With $202M Exit as Ether Gains $102M",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-etfs-snap-9-day-streak-with-202m-exit-as-ether-gains-102m_nwmk-768x432.jpg"
+      },
+      {
+        "headline": "Solana-ն հաստատեց գնաճի արագացում",
+        "summary": "Solana-ի վալիդատորները հաստատեցին առաջարկը՝ կրկնապատկելու SOL-ի տարեկան դիսինֆլյացիայի տեմպը 15%-ից մինչև 30%։",
         "link": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
         "enTitle": "Solana validators approve proposal to accelerate SOL disinflation",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14TAFCZGB4VMQ151R2N0EKE/hi-bitcoin-vs-fiat-currencies-over-the-past-several-years-have-they-been-hampered-by-the-inflation2-2.png"
       },
       {
-        "headline": "Դաշնային պահուստային համակարգի նախագահի մեկնաբանությունները հանգեցնում են լիկվիդացիաների",
-        "summary": "Դաշնային պահուստային համակարգի նախագահ Քևին Ուորշի մեկնաբանությունները տոկոսադրույքների բարձրացման վերաբերյալ առաջացրել են 488 միլիոն դոլարի կրիպտո լիկվիդացիաներ։",
-        "link": "https://cryptoslate.com/fed-chair-kevin-warsh-triggers-a-488-million-crypto-liquidation-cascade-as-rate-hike-expectations-rise/",
+        "headline": "Bitcoin-ի գինը նվազեց Fed-ի մեկնաբանություններից",
+        "summary": "Bitcoin-ի գինը նահանջեց այն բանից հետո, երբ Fed-ի նախագահ Քևին Ուորշը Jackson Hole-ի իր ելույթում խիստ մեկնաբանություններ արեց գնաճի վերաբերյալ։",
+        "link": "https://news.bitcoin.com/market-updates/bitcoin-price-retreats-after-warshs-hawkish-jackson-hole-keynote/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin Price Retreats After Warsh’s Hawkish Jackson Hole Keynote",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-price-retreats-after-warshs-hawkish-jackson-hole-keynote-768x432.png"
+      },
+      {
+        "headline": "SEC-ը վերանայում է էկզոտիկ ETF-ները",
+        "summary": "SEC-ը վերանայում է ավտոմատ ներկայացման ուղիները այն բանից հետո, երբ շուկան հեղեղվեց էկզոտիկ կրիպտո և իրադարձություններին կապված ETF առաջարկներով։",
+        "link": "https://cryptoslate.com/the-sec-is-reviewing-automatic-filing-pathways-after-exotic-crypto-and-event-linked-etf-proposals-flooded-the-market/",
         "source": "CryptoSlate",
-        "enTitle": "Fed Chair Kevin Warsh triggers a $488 million crypto liquidation cascade as rate-hike expectations rise",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin_fed_pressure_standard_image_wide.jpg"
+        "enTitle": "The SEC is reviewing automatic filing pathways after exotic crypto and event-linked ETF proposals flooded the market",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/cracked-etf-capsule.jpg"
       },
       {
-        "headline": "Bitcoin ETF-ների ներհոսքի շարքը դադարում է",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են 201.8 միլիոն դոլարի զուտ արտահոսք՝ դադարեցնելով ինը օր տևած ներհոսքի շարքը։",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M162QNJPWZZW5MZ2NTH7GFQ2/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf3-1.jpg"
+        "headline": "Grayscale-ը՝ ԱՄՆ պարտքի և կրիպտոյի մասին",
+        "summary": "Grayscale-ը նշում է, որ ԱՄՆ պարտքի անվերահսկելի աճը կարող է թուլացնել վստահությունը ֆիատ արժույթների նկատմամբ և մեծացնել պահանջարկը այլընտրանքային արժեքների պահպանման միջոցների նկատմամբ, ինչպիսիք են Bitcoin-ը, Ethereum-ը և Zcash-ը։",
+        "link": "https://news.bitcoin.com/market-updates/grayscale-names-3-cryptos-that-could-gain-from-surging-us-debt/",
+        "source": "Bitcoin News",
+        "enTitle": "Grayscale Names 3 Cryptos That Could Gain From Surging US Debt",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/grayscale-clarity-act-4-blockchain-networks-to-benefit-768x432.jpg"
       },
       {
-        "headline": "Ethereum ETF-ների մեկնարկային ծավալների պարզաբանում",
-        "summary": "ԱՄՆ-ի spot Ethereum ETF-ների 10 միլիարդ դոլարի մեկնարկային ծավալի մեծ մասը եկել է Grayscale-ի գոյություն ունեցող հիմնադրամներից։",
+        "headline": "Ethereum ETF-ների $10B մեկնարկի պարզաբանում",
+        "summary": "ԱՄՆ-ի spot Ethereum ETF-ների մեկնարկային 10.36 միլիարդ դոլարի մեծ մասը եկել է Grayscale-ի հին տրաստների կողմից արդեն պահվող ETH-ից, այլ ոչ թե նոր ինստիտուցիոնալ գնումներից։",
         "link": "https://cryptoslate.com/crypto-etfs-appeared-to-hit-10b-in-hours-but-filing-data-exposes-where-that-money-really-came-from/",
         "source": "CryptoSlate",
         "enTitle": "Crypto ETFs appeared to hit $10B in hours, but filing data exposes where that money really came from",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-etf-piggy-bank.jpg"
-      },
-      {
-        "headline": "BIS-ի ղեկավարը կասկածի տակ է դնում stablecoin-ների հուսալիությունը",
-        "summary": "BIS-ի ղեկավար Պաբլո Էռնանդես դե Կոսը հայտարարել է, որ stablecoin-ները վճարումների համար լայնածավալ հուսալիություն չունեն։",
-        "link": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Stablecoins not credible for payments at scale, BIS chief says",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M166CFV826H6EC9FT9NRRV7E/hi-stablecoin-has-been-listed-an-exchange-traded-note-in-europe.jpg"
-      },
-      {
-        "headline": "Evernorth-ի XRP գործարքը մոտենում է Nasdaq-ի ցուցակմանը",
-        "summary": "Evernorth-ի XRP գանձապետական գործարքը SEC-ի կողմից հաստատվելուց հետո մեկ քայլով մոտեցել է Nasdaq-ում ցուցակվելուն։",
-        "link": "https://news.bitcoin.com/crypto-news/evernorth-xrp-treasury-deal-advances-after-sec-filing-takes-effect/",
-        "source": "Bitcoin News",
-        "enTitle": "Evernorth XRP Treasury Deal Advances After SEC Filing Takes Effect",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/nasdaq-1-768x432.jpg"
       }
     ]
   }
