@@ -4220,7 +4220,7 @@
   },
   {
     "date": "2026-08-30",
-    "ts": 1788087354540,
+    "ts": 1788116184473,
     "fng": {
       "value": 69,
       "label": "Greed",
@@ -4230,64 +4230,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 78136,
-        "change24h": 0.5328755195509922
+        "price": 79022,
+        "change24h": 1.053152567326646
       },
       {
         "label": "Ethereum",
-        "price": 2458.74,
-        "change24h": 0.9345475955171708
+        "price": 2510.14,
+        "change24h": 2.311948160020149
       }
     ],
-    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս ինստիտուցիոնալ ընդունման աճ և կարգավորող մարմինների ուշադրության կենտրոնացումը, հատկապես stablecoin-ների և թոքենացված ակտիվների վրա։ Կարևոր զարգացումներ կան բանկային ոլորտում և AI-ի հետ կապված ներդրումներում։",
+    "overview": "Կրիպտո շուկան այսօր բնութագրվում է մի քանի անվտանգության խախտումներով և կարգավորող մարմինների ուշադրությամբ stablecoin-ների նկատմամբ, ինչպես նաև ինստիտուցիոնալ խաղացողների կողմից Bitcoin-ի նկատմամբ հետաքրքրության ակնարկներով։",
     "items": [
       {
-        "headline": "Ռուսական Sber բանկը կընդունի USDT վարկերի համար",
-        "summary": "Ռուսաստանի խոշորագույն Sber բանկը նախատեսում է ընդունել USDT և Ether՝ Bitcoin-ի հետ մեկտեղ որպես վարկային գրավ, քանի որ երկիրը ներդնում է կարգավորվող կրիպտո առևտուր նոր օրենքի ներքո։",
-        "link": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Cronos ցանցի դադարեցումը Tectonic-ի շահագործման պատճառով",
+        "summary": "Cronos ցանցը դադարեցվել է Tectonic-ի 75 միլիոն դոլարի շահագործումից հետո, որը կապված է TONIC թոքենի գնի մանիպուլյացիայի հետ։",
+        "link": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
+        "source": "The Block",
+        "enTitle": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
+        "image": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-1200x675.jpg"
+      },
+      {
+        "headline": "Michael Saylor-ը ակնարկում է Bitcoin-ի գնումների մասին",
+        "summary": "Michael Saylor-ը ակնարկել է, որ Strategy-ն կարող է վերսկսել Bitcoin-ի գնումները երկու ամսվա դադարից հետո՝ ընկերության հաշվեկշիռն ամրապնդելուց հետո։",
+        "link": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M190WE0Y455BRFFWWXC00QY4/1-44.png"
+        "enTitle": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M19WS2MWX8WK42HTJNANTQJ5/hi-michael-saylor.png"
       },
       {
-        "headline": "BIS-ի ղեկավարը stablecoin-ները վստահելի չի համարում",
-        "summary": "Բանկերի միջազգային կարգավորումների բանկի (BIS) գլխավոր մենեջեր Պաբլո Էռնանդես դե Կոսը հայտարարել է, որ stablecoin-ները դեռևս չեն կարող ծառայել որպես հուսալի փող լայնածավալ օգտագործման համար։",
-        "link": "https://news.bitcoin.com/crypto-news/bis-chief-stablecoins-tokenized-deposits/",
+        "headline": "Sber-ը նախատեսում է կրիպտո-ապահովված վարկեր տրամադրել",
+        "summary": "Ռուսաստանի խոշորագույն բանկը՝ Sber-ը, նախատեսում է ընդլայնել կրիպտո-ապահովված վարկավորումը՝ ընդունելով Bitcoin, Ether և USDT որպես գրավ։",
+        "link": "https://news.bitcoin.com/finance/russias-largest-bank-sber-eyes-btc-eth-usdt-for-crypto-backed-loans/",
         "source": "Bitcoin News",
-        "enTitle": "BIS Chief: Stablecoins Still Aren’t Credible Money at Scale",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bis-chief-stablecoins-still-arent-credible-money-at-scale_nwmk-768x432.jpg"
+        "enTitle": "Russia’s Largest Bank Sber Eyes BTC, ETH, USDT for Crypto-Backed Loans",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/sberbank-768x432.jpg"
       },
       {
-        "headline": "Bullish-ը 100 միլիոն դոլար է ներդնում AI-ում",
-        "summary": "Ինստիտուցիոնալ ուղղվածության թվային ակտիվների բորսա Bullish-ը 100 միլիոն դոլարի stablecoin վարկ է տրամադրել USD.AI-ին՝ GPU-ներով ապահովված վարկերը ֆինանսավորելու համար։",
-        "link": "https://news.bitcoin.com/featured/bullish-makes-100m-ai-credit-bet-with-gpus-serving-as-collateral/",
+        "headline": "ԱՄՆ գանձապետարանը պահանջում է stablecoin-ների աուդիտ",
+        "summary": "ԱՄՆ գանձապետարանի առաջարկած փոփոխությունը պահանջում է, որ US բորսաները աուդիտ անցկացնեն օտարերկրյա stablecoin-ների նկատմամբ կամ բախվեն դրանց ցուցակից հանելուն։",
+        "link": "https://cryptoslate.com/treasury-proposed-genius-change-forces-us-exchanges-to-audit-foreign-stablecoin-or-face-delisting/",
+        "source": "CryptoSlate",
+        "enTitle": "Treasury proposed GENIUS change forces US exchanges to audit foreign stablecoin or face delisting",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-access-denied.jpg"
+      },
+      {
+        "headline": "Կենտրոնական բանկերը stablecoin-ների մասին",
+        "summary": "Եվրոպական Կենտրոնական Բանկի և Միջազգային Հաշվարկների Բանկի պաշտոնյաները հայտարարել են, որ stablecoin-ները դեռևս վստահելի փող չեն լայնածավալ գործարքների համար։",
+        "link": "https://news.bitcoin.com/crypto-news/ecb-schnabel-central-bank-money-onchain/",
         "source": "Bitcoin News",
-        "enTitle": "Bullish Makes $100M AI Credit Bet With GPUs Serving as Collateral",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bullish-makes-100m-ai-credit-bet-with-gpus-serving-as-collateral-768x432.png"
+        "enTitle": "ECB’s Schnabel Says Central Bank Money ‘Must Go Onchain’",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/ecbs-schnabel-says-central-bank-money-must-go-onchain2_nwmk-768x432.jpg"
       },
       {
-        "headline": "Համայնքային բանկիրները stablecoin պարգևների արգելք են պահանջում",
-        "summary": "Համայնքային բանկերը պահանջում են ամբողջական արգելք դնել stablecoin-ների պարգևների վրա՝ շեշտելով, որ stablecoin-ի եկամտաբերության հարցում միջին ճանապարհ չկա։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/community-bankers-demand-total-ban-on-stablecoin-rewards/",
-        "source": "Bitcoin News",
-        "enTitle": "Community Bankers Demand Total Ban on Stablecoin Rewards",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/icba-logo-768x432.jpg"
-      },
-      {
-        "headline": "Stellar-ի թոքենացված RWA շուկան քառապատկվել է",
-        "summary": "Stellar-ի իրական ակտիվների (RWA) շուկան այս տարի արագորեն ընդլայնվել է՝ հասնելով գրեթե 4 միլիարդ դոլարի, քանի որ ցանցում աճում է ինստիտուցիոնալ ընդունումը և թոքենիզացիայի ակտիվությունը։",
-        "link": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Stellar tokenized RWA market more than quadruples to nearly $4B",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17DHDVASPVRK9KZ8KYFMNK1/hi-how-binance-plans-to-bring-tokenized-us-stocks-3.png"
-      },
-      {
-        "headline": "BitGo-ն ձեռք է բերում NYDIG-ի ինստիտուցիոնալ առևտրային բաժինը",
-        "summary": "BitGo-ն ձեռք է բերել NYDIG-ի ինստիտուցիոնալ առևտրային բաժինը՝ ընդլայնելով իր ածանցյալ գործիքների, կառուցվածքային ապրանքների և կապիտալի շուկաների հնարավորությունները։",
-        "link": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
-        "source": "Decrypt",
-        "enTitle": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitgo-nyse-decrypt-style-gID_7.jpg@png"
+        "headline": "Cosmos Labs-ը սխալմամբ մաքրել է վրիպակը",
+        "summary": "Cosmos Labs-ը հայտարարել է, որ սխալմամբ մաքրել է վրիպակը, որը հանգեցրել է 5.7 միլիոն դոլարի վեց շղթայական հաքի։",
+        "link": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
+        "source": "The Block",
+        "enTitle": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+        "image": "https://www.tbstat.com/wp/uploads/2025/09/extra2-1200x675.jpg"
       }
     ]
   }
