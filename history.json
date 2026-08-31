@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-07-02",
-    "ts": 1783013292973,
-    "fng": {
-      "value": 19,
-      "label": "Extreme Fear",
-      "hy": "Ծայրահեղ վախ",
-      "dot": "🔴"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 61795,
-        "change24h": 2.839054702361858
-      },
-      {
-        "label": "Ethereum",
-        "price": 1701.47,
-        "change24h": 5.037876289595116
-      }
-    ],
-    "overview": "Օրվա նորությունները ընդգծում են ինստիտուցիոնալ կրիպտո ընդունման և իրական ակտիվների թոքենիզացիայի զգալի առաջընթացները, ինչպես նաև կարգավորող մարմինների կողմից շարունակվող հարկադիր միջոցառումները։",
-    "items": [
-      {
-        "headline": "Ondo-ն թոքենիզացնում է BlackRock ETF-ը",
-        "summary": "Ondo Finance-ը թոքենիզացրել է BlackRock-ի iShares Core S&P 500 ETF-ը և Micron-ի բաժնետոմսերը՝ օգտագործելով ԱՄՆ-ի գործող կարգավորող շրջանակները։",
-        "link": "https://news.bitcoin.com/ondo-brings-blackrock-ivv-etf-and-micron-shares-onchain-in-us-regulatory-first/",
-        "source": "Bitcoin News",
-        "enTitle": "Ondo Brings Blackrock IVV ETF and Micron Shares Onchain in US Regulatory First",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/ondo-brings-blackrock-ivv-etf-and-micron-shares-onchain-in-us-regulatory-first-768x432.png"
-      },
-      {
-        "headline": "Standard Chartered-ը USDC մուտք է տրամադրում",
-        "summary": "Standard Chartered-ը դարձել է առաջին գլոբալ բանկը, որը հաստատություններին առաջարկում է Circle-ի USDC-ի ուղղակի մուտք։",
-        "link": "https://decrypt.co/372674/standard-chartered-first-global-bank-direct-usdc-access",
-        "source": "Decrypt",
-        "enTitle": "Standard Chartered Becomes First Global Bank to Offer Direct USDC Access to Institutions",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/USDC-decrypt-style-05-gID_7.png@png"
-      },
-      {
-        "headline": "Tether-ը սառեցնում է ահաբեկչական դրամապանակներ",
-        "summary": "Tether-ը սառեցրել է 134 ISIS-ի հետ կապված դրամապանակ՝ ընդգծելով ստաբիլքոինների դերը պատժամիջոցների կիրառման գործում։",
-        "link": "https://cryptoslate.com/tether-freezes-isis-k-wallets-proving-that-stablecoins-now-side-inside-a-sanctions-machine/",
-        "source": "CryptoSlate",
-        "enTitle": "Tether freezes 134 ISIS terror wallets as stablecoins now sit inside the sanctions machine",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/tether-usdt-tron-freeze-sanctions-compliance-lock-16x9-1.jpg"
-      },
-      {
-        "headline": "Robinhood-ը գործարկում է իր բլոկչեյնը",
-        "summary": "Robinhood-ը գործարկել է իր սեփական բլոկչեյն ցանցի հանրային mainnet-ը՝ ընդլայնելով իր կրիպտո առաջարկները։",
-        "link": "https://cryptoslate.com/robinhoods-expanding-crypto-bet-meets-a-faster-moving-prediction-market-boom/",
-        "source": "CryptoSlate",
-        "enTitle": "Robinhood’s expanding crypto bet meets a faster-moving prediction market boom",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/robinhood-crypto-infrastructure-prediction-market-engine-hero.jpg"
-      },
-      {
-        "headline": "FBI տնօրենի չբացահայտված բաժնետոմսերը",
-        "summary": "Հաղորդվում է, որ FBI-ի տնօրենը ամիսներ ուշացումով է բացահայտել Strategy ընկերության իր բաժնետոմսերի սեփականությունը։",
-        "link": "https://cointelegraph.com/news/fbi-director-kash-patel-strategy-bitcoin-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "FBI director discloses Strategy holdings months after deadline: Report",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-crime-investigation-regulation-police-cybercrime-criminal-detective-bybit.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-03",
     "ts": 1783098870967,
     "fng": {
@@ -4288,6 +4223,79 @@
         "source": "The Block",
         "enTitle": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
         "image": "https://www.tbstat.com/wp/uploads/2025/09/extra2-1200x675.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "ts": 1788178291254,
+    "fng": {
+      "value": 62,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 78466,
+        "change24h": -0.09259467166261805
+      },
+      {
+        "label": "Ethereum",
+        "price": 2454.71,
+        "change24h": -0.5723254018570952
+      }
+    ],
+    "overview": "Անցած 24 ժամվա ընթացքում կրիպտոարժույթների շուկան ցույց է տվել խառը տրամադրություններ՝ նշանավորվելով ցանցի եկամուտների փոփոխություններով, կարգավորող մարմինների որոշումներով և անվտանգության հետ կապված միջադեպերով։ Թեև որոշ ցանցեր զգալի աճ են գրանցել, այլուր դիտվել են զգալի կորուստներ և կարգավորող մարմինների սահմանափակումներ։",
+    "items": [
+      {
+        "headline": "Robinhood Chain-ը գերազանցել է Ethereum-ի եկամուտը",
+        "summary": "Robinhood Chain-ը գերազանցել է Ethereum-ի օրական եկամուտը՝ հիմնականում memecoin-ների առևտրի շնորհիվ, գրանցելով ռեկորդային 5.52 միլիոն գործարք օգոստոսի 30-ին։",
+        "link": "https://www.coindesk.com/markets/2026/08/31/robinhood-chain-beats-ethereum-in-daily-revenue-as-memecoin-trading-takes-over",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/420b7f8ce090d7bdf4a04ea5fa1495a09ff9ce29-6889x4593.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Sberbank-ը կընդունի ETH և USDT որպես գրավ",
+        "summary": "Ռուսաստանի Sberbank-ը նախատեսում է ավելացնել ETH-ը և USDT-ն որպես գրավ կրիպտոարժույթով ապահովված վարկերի համար, քանի որ Ռուսաստանի Կենտրոնական բանկը դրանք ներառել է հանրային առևտրի համար հաստատված կրիպտոարժույթների ցանկում։",
+        "link": "https://www.coindesk.com/business/2026/08/31/sberbank-plans-to-add-ether-and-usdt-as-collateral-for-crypto-backed-loans",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Report",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/69d88d811de6cddb538ec7d407061b9d441d2dd2-2048x1536.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Իռլանդիան արգելում է կրիպտոարժույթները պետական խնայողական սխեմայում",
+        "summary": "Իռլանդիան արգելել է կրիպտոարժույթները նոր պետական խնայողական և ներդրումային սխեմայից, որը նախատեսված է բնակիչներին խրախուսելու համար՝ բանկային հաշիվներից գումարները տեղափոխել կապիտալի շուկաներ։",
+        "link": "https://decrypt.co/376916/ireland-bars-crypto-from-state-savings-scheme-targeting-203b-in-deposits",
+        "source": "Decrypt",
+        "enTitle": "Ireland Bars Crypto From State Savings Scheme Targeting $203B in Deposits",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Cronos բլոկչեյնը դադարեցվել է $75M շահագործումից հետո",
+        "summary": "Cronos բլոկչեյնը դադարեցվել է Tectonic վարկավորման հավելվածի վրա հարձակումից հետո, որի հետևանքով կորել է մոտ 75 միլիոն դոլար, ինչը ստիպել է վալիդատորներին սառեցնել ցանցը։",
+        "link": "https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit",
+        "source": "Decrypt",
+        "enTitle": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png"
+      },
+      {
+        "headline": "Metaplanet-ը $188M Bitcoin է տեղափոխել Coinbase",
+        "summary": "Metaplanet-ը երեք ժամվա ընթացքում 2,400 BTC՝ մոտ 186 միլիոն դոլար արժողությամբ, տեղափոխել է Coinbase Prime, ինչը նրա երրորդ խոշոր փոխանցումն է օգոստոսի 25-ից ի վեր։",
+        "link": "https://news.bitcoin.com/crypto-news/metaplanet-186m-bitcoin-coinbase-prime-third-transfer/",
+        "source": "Bitcoin News",
+        "enTitle": "Metaplanet Sends $188M More Bitcoin to Coinbase in 3 Hours",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/metaplanet-sends-188m-more-bitcoin-to-coinbase-in-3-hours_nwmk-1-768x432.jpg"
+      },
+      {
+        "headline": "Bitcoin ETF-ների ներհոսքը դադարել է, Ethereum-ի՝ շարունակվում է",
+        "summary": "Spot Bitcoin ETF-ները դադարեցրել են ինը օրվա ներհոսքը՝ օգոստոսի 28-ին կորցնելով 201.9 միլիոն դոլար, մինչդեռ Ethereum ֆոնդերը շարունակել են իրենց տասնօրյա ներհոսքը նոր կապիտալով։",
+        "link": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-14-gID_7.png@png"
       }
     ]
   }
