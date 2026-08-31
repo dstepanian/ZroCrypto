@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-03",
-    "ts": 1783098870967,
-    "fng": {
-      "value": 21,
-      "label": "Extreme Fear",
-      "hy": "Ծայրահեղ վախ",
-      "dot": "🔴"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 62178,
-        "change24h": 0.7712563427703671
-      },
-      {
-        "label": "Ethereum",
-        "price": 1734.29,
-        "change24h": 2.201642971552173
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան նշանավորվեց Bitcoin ETF-ների զգալի ներհոսքերով՝ ի պատասխան ԱՄՆ-ի թույլ աշխատատեղերի զեկույցի, ինչը դրական տրամադրություն առաջացրեց: Միաժամանակ, ուշադրության կենտրոնում էին կարգավորող մարմինների զարգացումները և նոր stablecoin-ի շուրջ ծագած սկանդալը:",
-    "items": [
-      {
-        "headline": "Bitcoin ETF-ները գրանցել են զգալի ներհոսք",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են ամենամեծ օրական ներհոսքը մայիսից ի վեր՝ ի պատասխան աշխատատեղերի թույլ զեկույցի, ինչը թուլացրել է տոկոսադրույքների բարձրացման մտահոգությունները և դադարեցրել 10-օրյա արտահոսքը:",
-        "link": "https://cryptoslate.com/bitcoin-etfs-see-biggest-inflow-since-may-after-weak-us-jobs-report-sparks-btc-price-rebound/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitcoin ETFs see biggest inflow since May after weak US jobs report sparks BTC price rebound",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/itcoin-etf-inflow-revives-btc-after-weak-jobs-report.jpg"
-      },
-      {
-        "headline": "Open USD-ի շուրջ սկանդալ՝ կեղծ համագործակցություններ",
-        "summary": "Samsung-ը, Dunamu-ն և Upbit-ը հերքել են իրենց ներգրավվածությունը Open USD stablecoin կոնսորցիումում՝ պնդելով, որ իրենք ընդգրկվել են առանց պաշտոնական խորհրդակցության:",
-        "link": "https://news.bitcoin.com/open-usd-backlash-consortium-faces-allegations-of-faking-key-stablecoin-partnerships/",
-        "source": "Bitcoin News",
-        "enTitle": "Open USD Backlash: Consortium Faces Allegations of Faking Key Stablecoin Partnerships",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/open-usd-partners-768x432.png"
-      },
-      {
-        "headline": "Դոնալդ Թրամփը պաշտպանում է իր կրիպտո եկամուտները",
-        "summary": "ԱՄՆ նախագահ Դոնալդ Թրամփը հայտարարել է, որ իր ընտանիքի 1.4 միլիարդ դոլարի կրիպտո եկամուտների մեջ «ոչ մի սխալ բան չկա», մինչդեռ նա պաշտոնավարում էր:",
-        "link": "https://cointelegraph.com/news/donald-trump-crypto-investments-president-profit-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Donald Trump says ‘nothing wrong’ with $1.4B crypto windfall while in office",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/trump-is-doing-nah-1.jpg"
-      },
-      {
-        "headline": "ԱՄՀ-ն զգուշացնում է tokenization-ի ռիսկերի մասին",
-        "summary": "Արժույթի միջազգային հիմնադրամը (ԱՄՀ) հայտարարել է, որ քաղաքականության ընտրությունները կորոշեն՝ արդյոք tokenization-ը կամրապնդի, թե կտարանջատի ֆինանսական համակարգը՝ ռիսկերը տեղափոխելով դեպի շուկայական ենթակառուցվածքի մատակարարներ:",
-        "link": "https://www.theblock.co/post/407140/imf-says-policy-choices-will-determine-whether-tokenization-strengthens-or-fragments-the-financial-system?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "IMF says policy choices will determine whether tokenization strengthens or fragments the financial system",
-        "image": "https://www.tbstat.com/wp/uploads/2019/04/imf-800x450.jpg"
-      },
-      {
-        "headline": "Հնդկաստանի ԿԲ-ն կրկին մեկուսացնում է բանկերին կրիպտոյից",
-        "summary": "Հնդկաստանի կենտրոնական բանկը, ըստ տեղեկությունների, կրկին կոչ է արել օրենսդիրներին բանկերին մեկուսացնել կրիպտոարժույթներից և մասնավոր stablecoin-ներից՝ միաժամանակ պահպանելով կարգավորվող tokenization-ի հնարավորությունը:",
-        "link": "https://cointelegraph.com/news/rbi-crypto-containment-india-policy-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "India's central bank revives push to isolate banks from crypto: Report",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-india-appears-to-be-pivoting-away-form-a-total-crypto-ban-as-the-number-of-users-grows-steadily.jpg"
-      },
-      {
-        "headline": "Իրավապահ մարմինները պաշտպանում են CLARITY Act-ը",
-        "summary": "Սևամորթ իրավապահ մարմինների ղեկավարների ազգային կազմակերպությունը դարձել է առաջին խոշոր իրավապահ խումբը, որն աջակցել է CLARITY Act կրիպտո օրինագծին՝ նրան նոր թափ հաղորդելով Սենատում քվեարկության համար:",
-        "link": "https://news.bitcoin.com/noble-law-enforcement-backs-clarity-act/",
-        "source": "Bitcoin News",
-        "enTitle": "First Law Enforcement Group Backs CLARITY Act as Lummis Continues to Press for July Senate Vote",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/08/cynthia-lummis-says-fed-is-a-giant-black-hole-of-unaccountability-768x432.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-04",
     "ts": 1783184068263,
     "fng": {
@@ -4296,6 +4223,79 @@
         "source": "Decrypt",
         "enTitle": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-14-gID_7.png@png"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "ts": 1788210873125,
+    "fng": {
+      "value": 62,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 78821,
+        "change24h": 0.4422153366150071
+      },
+      {
+        "label": "Ethereum",
+        "price": 2472.54,
+        "change24h": -0.03109020113653408
+      }
+    ],
+    "overview": "Կրիպտոարժույթների շուկան այսօր ցույց է տվել ուժեղ ինստիտուցիոնալ հետաքրքրություն և ընդլայնում՝ նշանավորվելով խոշոր ընկերությունների ներդրումներով և նոր ծառայությունների մեկնարկով։",
+    "items": [
+      {
+        "headline": "Strive-ը զգալիորեն ավելացրել է իր Bitcoin պահուստները",
+        "summary": "Nasdaq-ում գրանցված Strive ակտիվների կառավարիչը ավելացրել է 143 միլիոն դոլարի Bitcoin՝ հասնելով 23,156 BTC-ի և դառնալով հինգերորդ խոշորագույն հանրային կորպորատիվ սեփականատերը։",
+        "link": "https://decrypt.co/376992/strive-adds-143-million-bitcoin",
+        "source": "Decrypt",
+        "enTitle": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-07-gID_7.png@png"
+      },
+      {
+        "headline": "NYSE-ի սեփականատեր ICE-ը համագործակցում է tZERO-ի հետ",
+        "summary": "Նյու Յորքի ֆոնդային բորսայի սեփականատեր Intercontinental Exchange-ը (ICE) համագործակցում է tZERO-ի հետ՝ ստեղծելու կարգավորվող բլոկչեյն ենթակառուցվածք թոքենացված արժեթղթերի համար։",
+        "link": "https://news.bitcoin.com/blockchain/nyse-owner-ice-taps-tzero-as-24-7-tokenized-stock-race-ignites/",
+        "source": "Bitcoin News",
+        "enTitle": "NYSE Owner ICE Taps Tzero as 24/7 Tokenized Stock Race Ignites",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/nyse-owner-ice-taps-tzero-as-247-tokenized-stock-race-ignites-768x432.png"
+      },
+      {
+        "headline": "Ռուսական Sberbank-ը կանխատեսում է 46 միլիարդ դոլարի կրիպտո առևտուր",
+        "summary": "Ռուսաստանի խոշորագույն բանկը՝ Sberbank-ը, կանխատեսում է 46 միլիարդ դոլարի կրիպտոարժույթի առևտուր առաջին տարում և նախատեսում է Ethereum-ով և USDT-ով ապահովված վարկեր տրամադրել։",
+        "link": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
+        "source": "Decrypt",
+        "enTitle": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "BlackRock-ի BUIDL ֆոնդը հասել է 2.8 միլիարդ դոլարի",
+        "summary": "BlackRock-ի BUIDL ֆոնդը կրկին դարձել է ԱՄՆ գանձապետական թղթերի ամենամեծ թոքենացված արտադրանքը՝ իր ակտիվները հասցնելով մոտ 2.8 միլիարդ դոլարի։",
+        "link": "https://news.bitcoin.com/finance/blackrock-buidl-2-8-billion-tokenized-treasury-crown/",
+        "source": "Bitcoin News",
+        "enTitle": "Blackrock’s BUIDL Hits $2.8B, Reclaims Treasury Crown",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/blackrocks-buidl-hits-2-8b-reclaims-treasury-crown2_nwmk-768x432.jpg"
+      },
+      {
+        "headline": "Hyperliquid-ը բանակցում է ԱՄՆ շուկա մուտք գործելու համար",
+        "summary": "Ապակենտրոնացված բորսա Hyperliquid-ը բանակցություններ է վարում Kraken-ի մայր ընկերության՝ Payward-ի հետ՝ ԱՄՆ-ում կրիպտոարժույթի մշտական ֆյուչերսներ առաջարկելու համար։",
+        "link": "https://www.theblock.co/news/markets/2026-08-31-hyperliquid-eyes-us-entry-kraken-parent-payward-perpetual-futures-deal-bloomberg-413129",
+        "source": "The Block",
+        "enTitle": "Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg",
+        "image": "https://www.tbstat.com/wp/uploads/2024/11/hype-hyperliquid-1200x675.jpg"
+      },
+      {
+        "headline": "Կրիպտո ETF-ները ներգրավել են 2.07 միլիարդ դոլար",
+        "summary": "ԱՄՆ-ի spot Bitcoin, Ether, Solana և XRP ETF-ները մեկ շաբաթվա ընթացքում ներգրավել են ընդհանուր առմամբ 2.07 միլիարդ դոլարի ներհոսք՝ ցույց տալով ուժեղ ինստիտուցիոնալ հետաքրքրություն։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/crypto-etfs-pull-in-2-07-billion-as-bitcoin-and-ether-lead-the-week/",
+        "source": "Bitcoin News",
+        "enTitle": "Crypto ETFs Pull in $2.07 Billion as Bitcoin and Ether Lead the Week",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/crypto-etfs-pull-in-2-07-billion-as-bitcoin-and-ether-lead-the-week-768x432.png"
       }
     ]
   }
