@@ -4228,9 +4228,9 @@
   },
   {
     "date": "2026-09-01",
-    "ts": 1788210873125,
+    "ts": 1788259678410,
     "fng": {
-      "value": 62,
+      "value": 69,
       "label": "Greed",
       "hy": "Ագահություն",
       "dot": "🟢"
@@ -4238,64 +4238,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 78821,
-        "change24h": 0.4422153366150071
+        "price": 78114,
+        "change24h": -0.4848663259454238
       },
       {
         "label": "Ethereum",
-        "price": 2472.54,
-        "change24h": -0.03109020113653408
+        "price": 2460.2,
+        "change24h": 0.42929429588667856
       }
     ],
-    "overview": "Կրիպտոարժույթների շուկան այսօր ցույց է տվել ուժեղ ինստիտուցիոնալ հետաքրքրություն և ընդլայնում՝ նշանավորվելով խոշոր ընկերությունների ներդրումներով և նոր ծառայությունների մեկնարկով։",
+    "overview": "Շուկան ցույց է տալիս կարևոր կարգավորող զարգացումների և աճող ինստիտուցիոնալ որդեգրման խառնուրդ: Սինգապուրը և Ռուսաստանը ներկայացնում են կրիպտոարժույթների նոր կանոնակարգեր, մինչդեռ Վիետնամը բացում է իր շուկան թոքենիզացիայի համար: Միևնույն ժամանակ, խոշոր ֆինանսական հաստատությունները շարունակում են ներդրումներ կատարել Bitcoin ETF-ներում և ուսումնասիրել բլոկչեյնի ինտեգրումը:",
     "items": [
       {
-        "headline": "Strive-ը զգալիորեն ավելացրել է իր Bitcoin պահուստները",
-        "summary": "Nasdaq-ում գրանցված Strive ակտիվների կառավարիչը ավելացրել է 143 միլիոն դոլարի Bitcoin՝ հասնելով 23,156 BTC-ի և դառնալով հինգերորդ խոշորագույն հանրային կորպորատիվ սեփականատերը։",
-        "link": "https://decrypt.co/376992/strive-adds-143-million-bitcoin",
-        "source": "Decrypt",
-        "enTitle": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-07-gID_7.png@png"
+        "headline": "Սինգապուրը կայուն մետաղադրամների նոր կանոններ է առաջարկում",
+        "summary": "Սինգապուրի ֆինանսական վերահսկիչ մարմինն առաջարկում է կայուն մետաղադրամների թողարկողների համար 100% պահուստներ և եկամտաբերության արգելք՝ համահունչ ԱՄՆ և ԵՄ շրջանակներին:",
+        "link": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8d846e2133aa83a7cc8c40a8d6391ac0c3050bc-6192x4128.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "NYSE-ի սեփականատեր ICE-ը համագործակցում է tZERO-ի հետ",
-        "summary": "Նյու Յորքի ֆոնդային բորսայի սեփականատեր Intercontinental Exchange-ը (ICE) համագործակցում է tZERO-ի հետ՝ ստեղծելու կարգավորվող բլոկչեյն ենթակառուցվածք թոքենացված արժեթղթերի համար։",
-        "link": "https://news.bitcoin.com/blockchain/nyse-owner-ice-taps-tzero-as-24-7-tokenized-stock-race-ignites/",
+        "headline": "Ռուսաստանում ուժի մեջ է մտնում կրիպտոարժույթի նոր օրենքը",
+        "summary": "Ռուսաստանի նոր թվային ակտիվների օրենքն ուժի մեջ է մտել սեպտեմբերի 1-ին՝ օրինականացնելով կարգավորվող կրիպտո առևտուրը և սահմանափակելով մանրածախ ներդրողներին տարեկան մոտ $3,700-ով:",
+        "link": "https://news.bitcoin.com/regulation-and-legal/russia-crypto-law-takes-effect-investor-cap/",
         "source": "Bitcoin News",
-        "enTitle": "NYSE Owner ICE Taps Tzero as 24/7 Tokenized Stock Race Ignites",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/nyse-owner-ice-taps-tzero-as-247-tokenized-stock-race-ignites-768x432.png"
+        "enTitle": "Russia’s New Crypto Law Takes Effect, Caps Investors at $3,700",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bankofrussia-768x432.jpg"
       },
       {
-        "headline": "Ռուսական Sberbank-ը կանխատեսում է 46 միլիարդ դոլարի կրիպտո առևտուր",
-        "summary": "Ռուսաստանի խոշորագույն բանկը՝ Sberbank-ը, կանխատեսում է 46 միլիարդ դոլարի կրիպտոարժույթի առևտուր առաջին տարում և նախատեսում է Ethereum-ով և USDT-ով ապահովված վարկեր տրամադրել։",
-        "link": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
-        "source": "Decrypt",
-        "enTitle": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png"
+        "headline": "LSE-ը կտեղափոխի Մեծ Բրիտանիայի բաժնետոմսերը բլոկչեյն",
+        "summary": "London Stock Exchange-ը համագործակցում է Kraken-ի սեփականատեր Payward-ի հետ՝ Մեծ Բրիտանիայի խոշորագույն բաժնետոմսերը xStocks թոքենիզացված արժեթղթերի շրջանակի միջոցով բլոկչեյն տեղափոխելու համար:",
+        "link": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/e02406bce2b87ba004fa28bcfc12c3ae039a12c9-1200x675.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "BlackRock-ի BUIDL ֆոնդը հասել է 2.8 միլիարդ դոլարի",
-        "summary": "BlackRock-ի BUIDL ֆոնդը կրկին դարձել է ԱՄՆ գանձապետական թղթերի ամենամեծ թոքենացված արտադրանքը՝ իր ակտիվները հասցնելով մոտ 2.8 միլիարդ դոլարի։",
-        "link": "https://news.bitcoin.com/finance/blackrock-buidl-2-8-billion-tokenized-treasury-crown/",
+        "headline": "Վիետնամը բացում է կրիպտո շուկան թոքենիզացիայի համար",
+        "summary": "Վիետնամը գործարկում է կրիպտո ակտիվները կարգավորող ազգային փորձնական շրջանակ՝ կենտրոնանալով իրական ակտիվների թոքենիզացիայի վրա՝ օտարերկրյա ներդրումներ ներգրավելու և տնտեսական աճը խթանելու համար:",
+        "link": "https://news.bitcoin.com/regulation-and-legal/vietnam-opens-crypto-floodgates-with-14t-tokenization-gamble/",
         "source": "Bitcoin News",
-        "enTitle": "Blackrock’s BUIDL Hits $2.8B, Reclaims Treasury Crown",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/blackrocks-buidl-hits-2-8b-reclaims-treasury-crown2_nwmk-768x432.jpg"
+        "enTitle": "Vietnam Opens Crypto Floodgates With $14T Tokenization Gamble",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/03/deputy-finance-minister-768x432.png"
       },
       {
-        "headline": "Hyperliquid-ը բանակցում է ԱՄՆ շուկա մուտք գործելու համար",
-        "summary": "Ապակենտրոնացված բորսա Hyperliquid-ը բանակցություններ է վարում Kraken-ի մայր ընկերության՝ Payward-ի հետ՝ ԱՄՆ-ում կրիպտոարժույթի մշտական ֆյուչերսներ առաջարկելու համար։",
-        "link": "https://www.theblock.co/news/markets/2026-08-31-hyperliquid-eyes-us-entry-kraken-parent-payward-perpetual-futures-deal-bloomberg-413129",
-        "source": "The Block",
-        "enTitle": "Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg",
-        "image": "https://www.tbstat.com/wp/uploads/2024/11/hype-hyperliquid-1200x675.jpg"
-      },
-      {
-        "headline": "Կրիպտո ETF-ները ներգրավել են 2.07 միլիարդ դոլար",
-        "summary": "ԱՄՆ-ի spot Bitcoin, Ether, Solana և XRP ETF-ները մեկ շաբաթվա ընթացքում ներգրավել են ընդհանուր առմամբ 2.07 միլիարդ դոլարի ներհոսք՝ ցույց տալով ուժեղ ինստիտուցիոնալ հետաքրքրություն։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/crypto-etfs-pull-in-2-07-billion-as-bitcoin-and-ether-lead-the-week/",
-        "source": "Bitcoin News",
-        "enTitle": "Crypto ETFs Pull in $2.07 Billion as Bitcoin and Ether Lead the Week",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/crypto-etfs-pull-in-2-07-billion-as-bitcoin-and-ether-lead-the-week-768x432.png"
+        "headline": "BlackRock-ը խթանում է Bitcoin ETF-ի վերականգնումը",
+        "summary": "BlackRock-ը նպաստում է Bitcoin ETF-ի $217 միլիոնի ներհոսքին, մինչդեռ Ether, XRP և Solana ETF-ները շարունակում են ներհոսքերի շարքը:",
+        "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DMR8D8Q7DJ0ETNYGBE2SEM/bitco-etf.png"
       }
     ]
   }
