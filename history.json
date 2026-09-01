@@ -4228,7 +4228,7 @@
   },
   {
     "date": "2026-09-01",
-    "ts": 1788259678410,
+    "ts": 1788289326577,
     "fng": {
       "value": 69,
       "label": "Greed",
@@ -4238,56 +4238,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 78114,
-        "change24h": -0.4848663259454238
+        "price": 77010,
+        "change24h": -2.5521543146891705
       },
       {
         "label": "Ethereum",
-        "price": 2460.2,
-        "change24h": 0.42929429588667856
+        "price": 2410.17,
+        "change24h": -2.741686350033892
       }
     ],
-    "overview": "Շուկան ցույց է տալիս կարևոր կարգավորող զարգացումների և աճող ինստիտուցիոնալ որդեգրման խառնուրդ: Սինգապուրը և Ռուսաստանը ներկայացնում են կրիպտոարժույթների նոր կանոնակարգեր, մինչդեռ Վիետնամը բացում է իր շուկան թոքենիզացիայի համար: Միևնույն ժամանակ, խոշոր ֆինանսական հաստատությունները շարունակում են ներդրումներ կատարել Bitcoin ETF-ներում և ուսումնասիրել բլոկչեյնի ինտեգրումը:",
+    "overview": "Շուկաներում նկատվում է անկայունություն՝ կապված աշխարհաքաղաքական իրադարձությունների և ԱՄՆ-ում տոկոսադրույքների փոփոխության հնարավորության հետ։ Միևնույն ժամանակ, ֆինանսական հաստատությունները շարունակում են ակտիվորեն ներդրումներ կատարել կրիպտոարժույթների ոլորտում և մշակել նոր տեխնոլոգիաներ։",
     "items": [
       {
-        "headline": "Սինգապուրը կայուն մետաղադրամների նոր կանոններ է առաջարկում",
-        "summary": "Սինգապուրի ֆինանսական վերահսկիչ մարմինն առաջարկում է կայուն մետաղադրամների թողարկողների համար 100% պահուստներ և եկամտաբերության արգելք՝ համահունչ ԱՄՆ և ԵՄ շրջանակներին:",
-        "link": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8d846e2133aa83a7cc8c40a8d6391ac0c3050bc-6192x4128.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Ռուսաստանում ուժի մեջ է մտնում կրիպտոարժույթի նոր օրենքը",
-        "summary": "Ռուսաստանի նոր թվային ակտիվների օրենքն ուժի մեջ է մտել սեպտեմբերի 1-ին՝ օրինականացնելով կարգավորվող կրիպտո առևտուրը և սահմանափակելով մանրածախ ներդրողներին տարեկան մոտ $3,700-ով:",
-        "link": "https://news.bitcoin.com/regulation-and-legal/russia-crypto-law-takes-effect-investor-cap/",
+        "headline": "ԱՄՆ-ի հարվածները Իրանին՝ ազդեցություն շուկաների վրա",
+        "summary": "ԱՄՆ-ի ռազմական գործողությունները Իրանի դեմ հանգեցրել են բացասական արձագանքի ֆինանսական շուկաներում, ներառյալ բիթքոյնի գնի անկումը։",
+        "link": "https://news.bitcoin.com/finance/markets-buckle-after-us-strikes-iran-dow-sinks-400-points/",
         "source": "Bitcoin News",
-        "enTitle": "Russia’s New Crypto Law Takes Effect, Caps Investors at $3,700",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bankofrussia-768x432.jpg"
+        "enTitle": "Markets Buckle After US Strikes Iran, Dow Sinks 400 Points",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/markets-buckle-after-us-strikes-iran-dow-sinks-400-points-768x432.png"
       },
       {
-        "headline": "LSE-ը կտեղափոխի Մեծ Բրիտանիայի բաժնետոմսերը բլոկչեյն",
-        "summary": "London Stock Exchange-ը համագործակցում է Kraken-ի սեփականատեր Payward-ի հետ՝ Մեծ Բրիտանիայի խոշորագույն բաժնետոմսերը xStocks թոքենիզացված արժեթղթերի շրջանակի միջոցով բլոկչեյն տեղափոխելու համար:",
-        "link": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/e02406bce2b87ba004fa28bcfc12c3ae039a12c9-1200x675.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "headline": "SEC-ը թարմացնում է կանոնները բլոկչեյնի համար",
+        "summary": "ԱՄՆ-ի Արժեթղթերի և բորսաների հանձնաժողովը (SEC) առաջարկում է արդիականացնել փոխանցման գործակալների կանոնները՝ հաշվի առնելով բլոկչեյն տեխնոլոգիան և թոքենիզացված արժեթղթերը։",
+        "link": "https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278",
+        "source": "The Block",
+        "enTitle": "SEC seeks to update its 1970s-era transfer agent rules for the blockchain age",
+        "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg"
       },
       {
-        "headline": "Վիետնամը բացում է կրիպտո շուկան թոքենիզացիայի համար",
-        "summary": "Վիետնամը գործարկում է կրիպտո ակտիվները կարգավորող ազգային փորձնական շրջանակ՝ կենտրոնանալով իրական ակտիվների թոքենիզացիայի վրա՝ օտարերկրյա ներդրումներ ներգրավելու և տնտեսական աճը խթանելու համար:",
-        "link": "https://news.bitcoin.com/regulation-and-legal/vietnam-opens-crypto-floodgates-with-14t-tokenization-gamble/",
-        "source": "Bitcoin News",
-        "enTitle": "Vietnam Opens Crypto Floodgates With $14T Tokenization Gamble",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/03/deputy-finance-minister-768x432.png"
-      },
-      {
-        "headline": "BlackRock-ը խթանում է Bitcoin ETF-ի վերականգնումը",
-        "summary": "BlackRock-ը նպաստում է Bitcoin ETF-ի $217 միլիոնի ներհոսքին, մինչդեռ Ether, XRP և Solana ETF-ները շարունակում են ներհոսքերի շարքը:",
-        "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Խոշոր բանկերը մշակում են stablecoin",
+        "summary": "BofA, Citi, Goldman Sachs-ը և ևս 18 խոշոր ֆինանսական հաստատություններ ծրագրում են թողարկել stablecoin՝ սկզբում ԱՄՆ դոլարով, այնուհետև՝ եվրոյով։",
+        "link": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DMR8D8Q7DJ0ETNYGBE2SEM/bitco-etf.png"
+        "enTitle": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ERC5JF5XKZ3F15CXNCAGXJ/hi-what-is-a-decentralized-money-market-and-how-does-it-work-stablecoin-1.jpg"
+      },
+      {
+        "headline": "Bitcoin ETF-ները գրավում են ներդրումներ",
+        "summary": "Bitcoin ETF-ները վերադարձել են ներհոսքերի միտումին՝ գրավելով 216.70 միլիոն դոլար, մինչդեռ Ether ETF-ները շարունակում են իրենց հաջողությունները։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-ether-xrp-etfs-pull-in-310m-as-blackrock-drives-demand/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin, Ether, XRP ETFs Pull In $310M as Blackrock Drives Demand",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-ether-xrp-etfs-pull-in-310m-as-blackrock-drives-demand-768x432.jpg"
+      },
+      {
+        "headline": "Ռուսաստանը գործարկում է թվային ռուբլին",
+        "summary": "Ռուսաստանի կենտրոնական բանկը հասանելի է դարձնում իր թվային արժույթը միլիոնավոր քաղաքացիների համար՝ 12 խոշոր բանկերի և խոշոր մանրածախ առևտրականների մասնակցությամբ։",
+        "link": "https://cryptoslate.com/russia-opens-central-bank-digital-currency-to-millions-as-12-major-banks-and-top-retailers-face-rollout-rules/",
+        "source": "CryptoSlate",
+        "enTitle": "Russia opens central bank digital currency to millions as 12 major banks and top retailers face rollout rules",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/digital-ruble-choice-map.jpg"
+      },
+      {
+        "headline": "Ethena-ն առաջարկում է 6% պարգևատրում",
+        "summary": "Ethena-ն թողարկել է USDe վճարային հավելված, որը առաջարկում է մինչև 6% տարեկան պարգևատրում՝ հեշտացնելով ամենօրյա վճարումները և խաչաձև սահմանային փոխանցումները։",
+        "link": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Ethena launches USDe payments app, offers 6% rewards",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ESRB24SSYCV2PQDNVNCJ2Z/blockchain-coin-crypto-payment-logistics.png"
       }
     ]
   }
