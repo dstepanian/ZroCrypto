@@ -4228,7 +4228,7 @@
   },
   {
     "date": "2026-09-02",
-    "ts": 1788343969747,
+    "ts": 1788375995841,
     "fng": {
       "value": 63,
       "label": "Greed",
@@ -4238,56 +4238,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 76592,
-        "change24h": -1.612440818524868
+        "price": 77313,
+        "change24h": 0.09680362968690875
       },
       {
         "label": "Ethereum",
-        "price": 2371.22,
-        "change24h": -3.244098412518958
+        "price": 2393.25,
+        "change24h": -0.9777334794327402
       }
     ],
-    "overview": "Այսօրվա նորությունները ցույց են տալիս ավանդական ֆինանսների և կրիպտոարժույթների ոլորտների աճող ինտեգրումը, ինչպես նաև կարգավորող մարմինների ակտիվությունը թվային ակտիվների շուրջ։ Շուկաները շարունակում են զարգանալ՝ նոր հնարավորություններ ստեղծելով։",
+    "overview": "Այսօրվա նորությունները ցույց են տալիս կարգավորող մարմինների և ավանդական ֆինանսների աճող հետաքրքրությունը բլոկչեյն տեխնոլոգիայի նկատմամբ, միաժամանակ արծարծելով Bitcoin մայնինգի և DeFi անվտանգության հետ կապված մարտահրավերները:",
     "items": [
       {
-        "headline": "SEC-ը քննարկում է 24-ժամյա առևտուրը Wall Street-ում",
-        "summary": "SEC-ը սեպտեմբերի 17-ին կկազմակերպի կլոր սեղան՝ քննարկելու Wall Street-ը 24-ժամյա առևտրի համար պատրաստելու հարցը՝ ներգրավելով BlackRock-ին, Robinhood-ին և NYSE-ին։",
-        "link": "https://news.bitcoin.com/finance/sec-24-hour-trading-roundtable-september-17/",
+        "headline": "SEC-ը վերաշարադրում է Wall Street-ի կանոնները",
+        "summary": "SEC-ը վերանայում է 50-ամյա կանոնները՝ հնարավորություն տալով հանրային բլոկչեյններին որոշել բաժնետոմսերի իրավական սեփականությունը:",
+        "link": "https://cryptoslate.com/the-sec-is-rewriting-50-year-old-wall-street-rules-to-let-public-blockchains-decide-who-legally-owns-a-stock/",
+        "source": "CryptoSlate",
+        "enTitle": "The SEC is rewriting 50-year-old Wall Street rules to let public blockchains decide who legally owns a stock",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/recordkeeping-gate-blockchain.jpg"
+      },
+      {
+        "headline": "Blackrock-ը և Nasdaq-ը կմիանան SEC-ի քննարկմանը",
+        "summary": "Blackrock-ը, Nasdaq-ը և Citadel-ը կմասնակցեն SEC-ի կազմակերպած կլոր սեղանին՝ քննարկելու 24/7 առևտուրը:",
+        "link": "https://news.bitcoin.com/finance/blackrock-nasdaq-citadel-to-join-secs-24-7-trading-roundtable/",
         "source": "Bitcoin News",
-        "enTitle": "SEC Taps Blackrock, Robinhood, NYSE and More for 24-Hour Trading Push",
+        "enTitle": "Blackrock, Nasdaq, Citadel to Join SEC’s 24/7 Trading Roundtable",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/sec-logo-on-building-768x432.jpg"
       },
       {
-        "headline": "LSE-ը և Payward-ը կթվայնացնեն Մեծ Բրիտանիայի բաժնետոմսերը",
-        "summary": "London Stock Exchange-ը և Payward-ը համագործակցում են՝ 100 խոշոր բրիտանական բաժնետոմսերի թոքենացված տարբերակները բլոկչեյնի վրա տեղադրելու համար՝ հնարավորություն տալով 24/7 առևտուր։",
-        "link": "https://news.bitcoin.com/crypto-news/london-stock-exchange-payward-target-100-uk-stocks-for-24-7-trading/",
-        "source": "Bitcoin News",
-        "enTitle": "London Stock Exchange, Payward Target 100 UK Stocks for 24/7 Trading",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/london-stock-exchange-payward-target-100-uk-stocks-for-247-trading-768x432.jpg"
+        "headline": "Նյու Ջերսին դիմում է Գերագույն դատարան",
+        "summary": "Նյու Ջերսին դարձել է առաջին նահանգը, որը դիմել է ԱՄՆ Գերագույն դատարան՝ կանխատեսումների շուկաների կարգավորման հարցով:",
+        "link": "https://www.coindesk.com/policy/2026/09/02/new-jersey-becomes-first-state-to-ask-supreme-court-to-weigh-in-on-prediction-markets",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/7912f8af2cf1731212d8aac5aa93c6fbbde00c1e-1280x622.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Binance-ը ընդլայնվում է դեպի Wall Street",
-        "summary": "Binance-ը ընդլայնում է իր առաջարկները՝ ավելացնելով ֆիզիկապես մարվող օպցիոններ ավելի քան 1,000 ԱՄՆ բաժնետոմսերի և ETF-ների համար՝ իրավասու օգտատերերի համար ԱՄՆ-ից դուրս։",
-        "link": "https://news.bitcoin.com/crypto-news/binance-pushes-into-wall-street-adds-options-on-1000-us-stocks/",
+        "headline": "Bitcoin Hashrate-ը մտնում է «արջի շուկա»",
+        "summary": "Bitcoin-ի հաշրեյթը մտնում է իր առաջին կայուն «արջի շուկա», քանի որ AI-ն հեռացնում է մայնինգի օպերատորներին:",
+        "link": "https://news.bitcoin.com/mining/bitcoin-hashrate-enters-first-bear-market-as-ai-pulls-miners-away/",
         "source": "Bitcoin News",
-        "enTitle": "Binance Pushes Into Wall Street, Adds Options on 1,000+ US Stocks",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/binance-pushes-into-wall-street-adds-options-on-1000-us-stocks-768x432.jpg"
+        "enTitle": "Bitcoin Hashrate Enters First Bear Market as AI Pulls Miners Away",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-hashrate-enters-first-bear-market-as-ai-pulls-miners-away-768x432.png"
       },
       {
-        "headline": "G20-ը խոստանում է հստակ ուղիներ թվային ակտիվների համար",
-        "summary": "G20-ի ֆինանսական ղեկավարները խոստացել են ստեղծել «հստակ ուղիներ» թվային ակտիվների նորարարության համար՝ ընդունելով դրանց ներուժը տնտեսական աճի համար։",
-        "link": "https://www.theblock.co/news/regulation/2026-09-02-g20-finance-leaders-digital-assets-413310",
-        "source": "The Block",
-        "enTitle": "G20 finance leaders vow to establish ‘clear pathways’ for digital assets innovation",
-        "image": "https://www.tbstat.com/wp/uploads/2025/01/20250115_Tokens_News-1200x675.jpg"
+        "headline": "Հյուսիսային Կորեայի կրիպտո գործարքը և DeFi-ն",
+        "summary": "Հյուսիսային Կորեայի 30 միլիոն դոլարի կրիպտո դուրսբերումը լրջագույն մարտահրավեր է ստեղծում DeFi-ի համար ԱՄՆ-ում:",
+        "link": "https://cryptoslate.com/north-koreas-30m-crypto-cashout-just-handed-legacy-finance-its-best-weapon-to-kill-defis-us-debut/",
+        "source": "CryptoSlate",
+        "enTitle": "North Korea’s $30M crypto cashout just handed legacy finance its best weapon to kill DeFi’s US debut",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-regulation-turnstile-1.jpg"
       },
       {
-        "headline": "Սինգապուրը կարգավորում է MAS-ի կողմից կարգավորվող Stablecoin-ները",
-        "summary": "Սինգապուրն առաջարկում է արգելել տոկոսավճարները MAS-ի կողմից կարգավորվող stablecoin-ների համար՝ միաժամանակ ավելացնելով սթրես-թեստեր և հաճախորդների պաշտպանության միջոցներ։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/singapore-plan-would-ban-interest-on-mas-regulated-stablecoins/",
-        "source": "Bitcoin News",
-        "enTitle": "Singapore Plan Would Ban Interest on MAS-Regulated Stablecoins",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/singapore-central-bank-768x432.jpg"
+        "headline": "Վայոմինգը Chainlink-ի հետ համագործակցում է",
+        "summary": "Վայոմինգը Chainlink-ի միջոցով ավելացնում է FRNT նահանգային ստաբիլ թոքենի պահուստների գրեթե իրական ժամանակի ստուգումը:",
+        "link": "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Wyoming adds Chainlink reserve verification to state-issued stable token",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HMS4JRWZ5GYFS8E74WQ8XR/hi-wyoming-crypto.jpg"
       }
     ]
   }
