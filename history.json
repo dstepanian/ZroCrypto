@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-04",
-    "ts": 1783184068263,
-    "fng": {
-      "value": 22,
-      "label": "Extreme Fear",
-      "hy": "Ծայրահեղ վախ",
-      "dot": "🔴"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 62882,
-        "change24h": 1.404940243892971
-      },
-      {
-        "label": "Ethereum",
-        "price": 1787.09,
-        "change24h": 3.1944777396134016
-      }
-    ],
-    "overview": "Շուկան խառը ազդանշաններ է ցույց տալիս. համաշխարհային մակարդակով տեղի են ունենում կարգավորող զարգացումներ, մինչդեռ որոշ DeFi արձանագրություններ ուժեղ աճ են գրանցում, և Bitcoin ETF-ների նկատմամբ ինստիտուցիոնալ հետաքրքրությունը շարունակվում է։",
-    "items": [
-      {
-        "headline": "Aave-ի Monad շուկան գերազանցել է $100 միլիոնը",
-        "summary": "Aave-ի նոր Monad շուկան գործարկումից երկու օր անց գերազանցել է 100 միլիոն դոլարի ավանդները՝ ցույց տալով DeFi արձանագրության ուժեղ աճ։",
-        "link": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Aave’s new Monad market tops $100 million in deposits two days after launch",
-        "image": "https://www.tbstat.com/wp/uploads/2024/08/20240819_Aave_News-800x450.jpg"
-      },
-      {
-        "headline": "Zcash-ը պատրաստվում է Ironwood թարմացմանը",
-        "summary": "Zcash ցանցը պատրաստվում է Ironwood թարմացմանը, որը նախատեսված է հուլիսի 21-ին և թույլ կտա ցանկացած հանգույցի օպերատորի ստուգել մետաղադրամի շրջանառվող մատակարարումը։",
-        "link": "https://news.bitcoin.com/zcash-price-climbs-13-in-a-week-as-network-preps-ironwood-upgrade/",
-        "source": "Bitcoin News",
-        "enTitle": "Zcash Price Climbs 13% in a Week as Network Preps Ironwood Upgrade",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/zcash-price-climbs-13-in-a-week-as-network-preps-ironwood-upgrade-768x432.png"
-      },
-      {
-        "headline": "Bitcoin-ի $293 միլիարդ դոլարի հայցը փորձության տակ",
-        "summary": "3.8 միլիոն BTC-ի սեփականության վերաբերյալ Նյու Յորքի դատական հայցը լուրջ փորձության է ենթարկվում, քանի որ առաջին դրամապանակի սեփականատերը միջնորդություն է ներկայացրել այն մերժելու համար։",
-        "link": "https://news.bitcoin.com/293b-bitcoin-noah-doe-lawsuit-faces-major-test-after-first-wallet-holder-files-motion-to-dismiss/",
-        "source": "Bitcoin News",
-        "enTitle": "$293B Bitcoin ‘Noah Doe’ Lawsuit Faces Major Test After First Wallet Holder Files Motion to Dismiss",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/293b-bitcoin-noah-doe-lawsuit-faces-major-test-after-first-wallet-holder-files-motion-to-dismiss-768x432.png"
-      },
-      {
-        "headline": "ԵՄ-ն արգելում է մանրածախ ներդրողներին կանխատեսումների շուկաներում",
-        "summary": "Եվրոպական Միությունը քայլեր է ձեռնարկում՝ արգելելու մանրածախ ներդրողներին բազմամիլիարդանոց կանխատեսումների շուկաներում մասնակցությունից՝ կարգավորող մտահոգությունների պատճառով։",
-        "link": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4b2b0c4fb42c84e87e79191a60ccfaa14114efd5-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Revolut-ը կհանի USDT-ն օգոստոսին",
-        "summary": "Revolut-ը որոշ հաճախորդների տեղեկացրել է, որ օգոստոսի 31-ից հետո կհանի USDT-ն՝ պատճառաբանելով կարգավորող և ռիսկային մտահոգությունները։",
-        "link": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Revolut to delist USDT in August, citing regulatory and risk concerns",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-kraken-to-delist-tether-usdt.png"
-      },
-      {
-        "headline": "Bitcoin-ի և Ether-ի աճը ETF գնումներով",
-        "summary": "Bitcoin-ը և Ether-ը վերականգնվել են բազմամյա նվազագույններից, քանի որ ներդրողները սկսել են գնել, և spot BTC ETF-ները հուլիսի 2-ին գրանցել են 221 միլիոն դոլարի ներհոսք։",
-        "link": "https://cointelegraph.com/markets/bitcoin-ether-extend-relief-rallies-as-extreme-fear-meets-renewed-etf-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-etf-is-now-superior-over-dollar-2.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-05",
     "ts": 1783270642024,
     "fng": {
@@ -4296,6 +4223,71 @@
         "source": "Cointelegraph.com News",
         "enTitle": "Ethena launches USDe payments app, offers 6% rewards",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ESRB24SSYCV2PQDNVNCJ2Z/blockchain-coin-crypto-payment-logistics.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "ts": 1788343969747,
+    "fng": {
+      "value": 63,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 76592,
+        "change24h": -1.612440818524868
+      },
+      {
+        "label": "Ethereum",
+        "price": 2371.22,
+        "change24h": -3.244098412518958
+      }
+    ],
+    "overview": "Այսօրվա նորությունները ցույց են տալիս ավանդական ֆինանսների և կրիպտոարժույթների ոլորտների աճող ինտեգրումը, ինչպես նաև կարգավորող մարմինների ակտիվությունը թվային ակտիվների շուրջ։ Շուկաները շարունակում են զարգանալ՝ նոր հնարավորություններ ստեղծելով։",
+    "items": [
+      {
+        "headline": "SEC-ը քննարկում է 24-ժամյա առևտուրը Wall Street-ում",
+        "summary": "SEC-ը սեպտեմբերի 17-ին կկազմակերպի կլոր սեղան՝ քննարկելու Wall Street-ը 24-ժամյա առևտրի համար պատրաստելու հարցը՝ ներգրավելով BlackRock-ին, Robinhood-ին և NYSE-ին։",
+        "link": "https://news.bitcoin.com/finance/sec-24-hour-trading-roundtable-september-17/",
+        "source": "Bitcoin News",
+        "enTitle": "SEC Taps Blackrock, Robinhood, NYSE and More for 24-Hour Trading Push",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/sec-logo-on-building-768x432.jpg"
+      },
+      {
+        "headline": "LSE-ը և Payward-ը կթվայնացնեն Մեծ Բրիտանիայի բաժնետոմսերը",
+        "summary": "London Stock Exchange-ը և Payward-ը համագործակցում են՝ 100 խոշոր բրիտանական բաժնետոմսերի թոքենացված տարբերակները բլոկչեյնի վրա տեղադրելու համար՝ հնարավորություն տալով 24/7 առևտուր։",
+        "link": "https://news.bitcoin.com/crypto-news/london-stock-exchange-payward-target-100-uk-stocks-for-24-7-trading/",
+        "source": "Bitcoin News",
+        "enTitle": "London Stock Exchange, Payward Target 100 UK Stocks for 24/7 Trading",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/london-stock-exchange-payward-target-100-uk-stocks-for-247-trading-768x432.jpg"
+      },
+      {
+        "headline": "Binance-ը ընդլայնվում է դեպի Wall Street",
+        "summary": "Binance-ը ընդլայնում է իր առաջարկները՝ ավելացնելով ֆիզիկապես մարվող օպցիոններ ավելի քան 1,000 ԱՄՆ բաժնետոմսերի և ETF-ների համար՝ իրավասու օգտատերերի համար ԱՄՆ-ից դուրս։",
+        "link": "https://news.bitcoin.com/crypto-news/binance-pushes-into-wall-street-adds-options-on-1000-us-stocks/",
+        "source": "Bitcoin News",
+        "enTitle": "Binance Pushes Into Wall Street, Adds Options on 1,000+ US Stocks",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/binance-pushes-into-wall-street-adds-options-on-1000-us-stocks-768x432.jpg"
+      },
+      {
+        "headline": "G20-ը խոստանում է հստակ ուղիներ թվային ակտիվների համար",
+        "summary": "G20-ի ֆինանսական ղեկավարները խոստացել են ստեղծել «հստակ ուղիներ» թվային ակտիվների նորարարության համար՝ ընդունելով դրանց ներուժը տնտեսական աճի համար։",
+        "link": "https://www.theblock.co/news/regulation/2026-09-02-g20-finance-leaders-digital-assets-413310",
+        "source": "The Block",
+        "enTitle": "G20 finance leaders vow to establish ‘clear pathways’ for digital assets innovation",
+        "image": "https://www.tbstat.com/wp/uploads/2025/01/20250115_Tokens_News-1200x675.jpg"
+      },
+      {
+        "headline": "Սինգապուրը կարգավորում է MAS-ի կողմից կարգավորվող Stablecoin-ները",
+        "summary": "Սինգապուրն առաջարկում է արգելել տոկոսավճարները MAS-ի կողմից կարգավորվող stablecoin-ների համար՝ միաժամանակ ավելացնելով սթրես-թեստեր և հաճախորդների պաշտպանության միջոցներ։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/singapore-plan-would-ban-interest-on-mas-regulated-stablecoins/",
+        "source": "Bitcoin News",
+        "enTitle": "Singapore Plan Would Ban Interest on MAS-Regulated Stablecoins",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/singapore-central-bank-768x432.jpg"
       }
     ]
   }
