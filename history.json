@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-05",
-    "ts": 1783270642024,
-    "fng": {
-      "value": 23,
-      "label": "Extreme Fear",
-      "hy": "Ծայրահեղ վախ",
-      "dot": "🔴"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 62566,
-        "change24h": -0.49290780974190396
-      },
-      {
-        "label": "Ethereum",
-        "price": 1770.35,
-        "change24h": -0.8682706167745219
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս ոլորտի աճող ինտեգրումը ավանդական ֆինանսների հետ և կարգավորող մարմինների ուշադրությունը։ Կարևոր են նաև կրիպտոարժույթների շուկայի դինամիկայի փոփոխությունները և անօրինական գործունեության դեմ պայքարը։",
-    "items": [
-      {
-        "headline": "Michael Saylor-ը Bitcoin-ի ցիկլի փոփոխության մասին",
-        "summary": "Michael Saylor-ը պնդում է, որ Bitcoin-ի քառամյա ցիկլը կորցնում է իր գերակայությունը, քանի որ ակտիվն ավելի ու ավելի է ինտեգրվում համաշխարհային ֆինանսներին։",
-        "link": "https://news.bitcoin.com/michael-saylor-says-bitcoins-four-year-cycle-is-losing-power-what-matters-more/",
-        "source": "Bitcoin News",
-        "enTitle": "Michael Saylor Says Bitcoin’s Four-Year Cycle Is Losing Power: What Matters More",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/michael-saylor-bitcoin-4-year-cycle-768x432.jpg"
-      },
-      {
-        "headline": "Հիմնադրամները գնում են կրիպտո բաժնետոմսեր",
-        "summary": "Cathie Wood-ի ARK Invest-ը հունիսին գնել է մոտ 77 միլիոն դոլարի կրիպտո բաժնետոմսեր, ներառյալ Coinbase-ի, Circle-ի և Bullish-ի բաժնետոմսերը։",
-        "link": "https://cryptoslate.com/funds-are-buying-crypto-stocks-are-they-getting-less-risk-or-more/",
-        "source": "CryptoSlate",
-        "enTitle": "Funds are buying crypto stocks. Are they exposed to less risk — or more?",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/crypto-stocks-vs-bitcoin-volatility-risk-comparison-ark-invest-buying.jpg"
-      },
-      {
-        "headline": "Բանկերը քննարկում են stablecoin-ների ինտեգրումը",
-        "summary": "Ֆինանսական հաստատությունները ձգտում են դառնալ stablecoin-ների անվտանգ դարպասներ, քանի որ թվային ակտիվների ծավալը կանխատեսվում է, որ կտրուկ կաճի մինչև 2030 թվականը։",
-        "link": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/126370357bab503bb185dc1c4df52756ebf449e2-1280x960.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Հարավային Աֆրիկան առաջարկում է կրիպտո հարկային ուղեցույց",
-        "summary": "Հարավային Աֆրիկայի հարկային մարմինն առաջարկել է նախագիծ՝ պարզաբանելու, թե ինչպես են կրիպտո ակտիվները հարկվում գոյություն ունեցող եկամտահարկի և կապիտալի շահույթի հարկի կանոնների համաձայն։",
-        "link": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "South Africa proposes crypto tax guidance under existing framework",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/booksouth-africa.png"
-      },
-      {
-        "headline": "Բրազիլիայի ոստիկանությունը բացահայտել է կրիպտո լվացման ցանց",
-        "summary": "Բրազիլիայի դաշնային ոստիկանությունը ոչնչացրել է 2 միլիարդ դոլար արժողությամբ կրիպտոարժույթների փողերի լվացման ցանց, որը կապված է PCC կարտելի հետ։",
-        "link": "https://news.bitcoin.com/brazilian-federal-police-dismantle-2-billion-crypto-money-laundering-ring-linked-to-the-pcc-cartel/",
-        "source": "Bitcoin News",
-        "enTitle": "Brazilian Federal Police Dismantle $2 Billion Crypto Money Laundering Ring Linked to the PCC Cartel",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/brazilian-federal-police-768x432.jpg"
-      },
-      {
-        "headline": "Ռուսաստանը պատրաստ է CBDC-ի ներդրմանը",
-        "summary": "Ռուսաստանի Կենտրոնական բանկի կառավարիչ Էլվիրա Նաբիուլինան հայտարարել է, որ հիմնական բանկերը և խոշոր մանրածախ բիզնեսները պատրաստ են թվային ռուբլու լայնածավալ օգտագործմանը։",
-        "link": "https://news.bitcoin.com/everything-is-ready-russia-finalizes-preparations-for-nationwide-cbdc-rollout/",
-        "source": "Bitcoin News",
-        "enTitle": "“Everything is Ready”: Russia Finalizes Preparations for Nationwide CBDC Rollout",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/bankofrussia-768x432.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-06",
     "ts": 1783361127324,
     "fng": {
@@ -4296,6 +4223,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "Wyoming adds Chainlink reserve verification to state-issued stable token",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HMS4JRWZ5GYFS8E74WQ8XR/hi-wyoming-crypto.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "ts": 1788431073561,
+    "fng": {
+      "value": 65,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 77643,
+        "change24h": 1.3090492757257912
+      },
+      {
+        "label": "Ethereum",
+        "price": 2396.24,
+        "change24h": 0.9631274088412698
+      }
+    ],
+    "overview": "Այսօրվա նորությունները ցույց են տալիս ինստիտուցիոնալ ներգրավվածության աճ և թվային ակտիվների կարգավորման ուժեղացում ամբողջ աշխարհում։ Երկարաժամկետ անվտանգության մտահոգությունները նույնպես օրակարգում են։",
+    "items": [
+      {
+        "headline": "Standard Chartered-ը գործարկում է Bitcoin և Ether առևտուր",
+        "summary": "Standard Chartered-ը դարձել է առաջին խոշոր գլոբալ բանկը, որն ԱՄԷ-ում առաջարկում է ինստիտուցիոնալ մուտք դեպի spot Bitcoin և Ether առևտուր։",
+        "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KANTKWQNSCNEMJXC5A98C8/hi-crypto-assets-regulation-in-dubai-is-cryptocurrency-regulated-in-uae.jpg"
+      },
+      {
+        "headline": "Ավստրալիան նախազգուշացնում է չլիցենզավորված կրիպտո ընկերություններին",
+        "summary": "Ավստրալիան զգուշացրել է չլիցենզավորված կրիպտո ընկերություններին, որ սեպտեմբերի 30-ից հետո կարող են տուգանվել տարեկան շրջանառության մինչև 10%-ի չափով։",
+        "link": "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K3G0K6ACW549NXWWTXAETH/hi-time-to-switch-license-australia-1.jpg"
+      },
+      {
+        "headline": "Թաիլանդը նոր կանոններ է սահմանում կրիպտո փոխանցումների համար",
+        "summary": "Թաիլանդի նոր կանոնները պահանջում են լիցենզավորված օպերատորներից ավելացնել ստացողի տվյալները փոխանցումներին և հավելյալ մանրամասներ հավաքել 30,000 բատից բարձր գումարների համար։",
+        "link": "https://cryptoslate.com/thailand-puts-private-wallets-and-offshore-crypto-transfers-on-notice-in-a-major-new-crypto-rule/",
+        "source": "CryptoSlate",
+        "enTitle": "Thailand puts private wallets and offshore crypto transfers on notice in a major new crypto rule",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/thailand-crypto-identity-checks.jpg"
+      },
+      {
+        "headline": "G20-ը աջակցում է թվային ակտիվների կարգավորմանը",
+        "summary": "G20-ի ֆինանսական ղեկավարները հավանություն են տվել թվային ակտիվների աճի համար հստակ կարգավորող ուղիներին՝ միաժամանակ ապահովելով ֆինանսական կայունություն։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/g20-backs-clear-regulatory-pathways-for-digital-asset-growth/",
+        "source": "Bitcoin News",
+        "enTitle": "G20 Backs Clear Regulatory Pathways for Digital Asset Growth",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/g20-768x432.jpg"
+      },
+      {
+        "headline": "Fidelity-ն զգուշացնում է Bitcoin-ի քվանտային ռիսկի մասին",
+        "summary": "Fidelity Digital Assets-ը նախազգուշացնում է, որ ապագա քվանտային համակարգիչները կարող են Bitcoin-ի մասնավոր բանալիները ստանալ բացահայտված հանրային բանալիներից՝ սպառնալով միջոցներին։",
+        "link": "https://news.bitcoin.com/security/fidelity-warns-bitcoins-private-keys-face-future-quantum-risk/",
+        "source": "Bitcoin News",
+        "enTitle": "Fidelity Warns Bitcoin’s Private Keys Face Future Quantum Risk",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/fidelity-investments-768x432.jpg"
+      },
+      {
+        "headline": "Remixpoint-ը անցնում է միայն Bitcoin-ի",
+        "summary": "Ճապոնական Remixpoint ընկերությունը վաճառել է իր ETH, SOL, XRP և DOGE պահուստները՝ կենտրոնանալով միայն Bitcoin-ի վրա և գրանցելով 117.8 միլիոն իեն շահույթ։",
+        "link": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
+        "source": "Decrypt",
+        "enTitle": "Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg@png"
       }
     ]
   }
