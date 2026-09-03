@@ -4228,7 +4228,7 @@
   },
   {
     "date": "2026-09-03",
-    "ts": 1788431073561,
+    "ts": 1788461971233,
     "fng": {
       "value": 65,
       "label": "Greed",
@@ -4238,64 +4238,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 77643,
-        "change24h": 1.3090492757257912
+        "price": 81224,
+        "change24h": 5.043662319205307
       },
       {
         "label": "Ethereum",
-        "price": 2396.24,
-        "change24h": 0.9631274088412698
+        "price": 2510.79,
+        "change24h": 4.916887047649452
       }
     ],
-    "overview": "Այսօրվա նորությունները ցույց են տալիս ինստիտուցիոնալ ներգրավվածության աճ և թվային ակտիվների կարգավորման ուժեղացում ամբողջ աշխարհում։ Երկարաժամկետ անվտանգության մտահոգությունները նույնպես օրակարգում են։",
+    "overview": "Bitcoin-ը վերականգնել է $80,000-ի շեմը՝ ի պատասխան Fed-ի տոկոսադրույքների դադարի ազդանշանների, մինչդեռ ինստիտուցիոնալ խաղացողները շարունակում են ընդլայնել իրենց ներկայությունը կրիպտո շուկայում։",
     "items": [
       {
-        "headline": "Standard Chartered-ը գործարկում է Bitcoin և Ether առևտուր",
-        "summary": "Standard Chartered-ը դարձել է առաջին խոշոր գլոբալ բանկը, որն ԱՄԷ-ում առաջարկում է ինստիտուցիոնալ մուտք դեպի spot Bitcoin և Ether առևտուր։",
-        "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KANTKWQNSCNEMJXC5A98C8/hi-crypto-assets-regulation-in-dubai-is-cryptocurrency-regulated-in-uae.jpg"
-      },
-      {
-        "headline": "Ավստրալիան նախազգուշացնում է չլիցենզավորված կրիպտո ընկերություններին",
-        "summary": "Ավստրալիան զգուշացրել է չլիցենզավորված կրիպտո ընկերություններին, որ սեպտեմբերի 30-ից հետո կարող են տուգանվել տարեկան շրջանառության մինչև 10%-ի չափով։",
-        "link": "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K3G0K6ACW549NXWWTXAETH/hi-time-to-switch-license-australia-1.jpg"
-      },
-      {
-        "headline": "Թաիլանդը նոր կանոններ է սահմանում կրիպտո փոխանցումների համար",
-        "summary": "Թաիլանդի նոր կանոնները պահանջում են լիցենզավորված օպերատորներից ավելացնել ստացողի տվյալները փոխանցումներին և հավելյալ մանրամասներ հավաքել 30,000 բատից բարձր գումարների համար։",
-        "link": "https://cryptoslate.com/thailand-puts-private-wallets-and-offshore-crypto-transfers-on-notice-in-a-major-new-crypto-rule/",
-        "source": "CryptoSlate",
-        "enTitle": "Thailand puts private wallets and offshore crypto transfers on notice in a major new crypto rule",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/thailand-crypto-identity-checks.jpg"
-      },
-      {
-        "headline": "G20-ը աջակցում է թվային ակտիվների կարգավորմանը",
-        "summary": "G20-ի ֆինանսական ղեկավարները հավանություն են տվել թվային ակտիվների աճի համար հստակ կարգավորող ուղիներին՝ միաժամանակ ապահովելով ֆինանսական կայունություն։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/g20-backs-clear-regulatory-pathways-for-digital-asset-growth/",
-        "source": "Bitcoin News",
-        "enTitle": "G20 Backs Clear Regulatory Pathways for Digital Asset Growth",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/g20-768x432.jpg"
-      },
-      {
-        "headline": "Fidelity-ն զգուշացնում է Bitcoin-ի քվանտային ռիսկի մասին",
-        "summary": "Fidelity Digital Assets-ը նախազգուշացնում է, որ ապագա քվանտային համակարգիչները կարող են Bitcoin-ի մասնավոր բանալիները ստանալ բացահայտված հանրային բանալիներից՝ սպառնալով միջոցներին։",
-        "link": "https://news.bitcoin.com/security/fidelity-warns-bitcoins-private-keys-face-future-quantum-risk/",
-        "source": "Bitcoin News",
-        "enTitle": "Fidelity Warns Bitcoin’s Private Keys Face Future Quantum Risk",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/fidelity-investments-768x432.jpg"
-      },
-      {
-        "headline": "Remixpoint-ը անցնում է միայն Bitcoin-ի",
-        "summary": "Ճապոնական Remixpoint ընկերությունը վաճառել է իր ETH, SOL, XRP և DOGE պահուստները՝ կենտրոնանալով միայն Bitcoin-ի վրա և գրանցելով 117.8 միլիոն իեն շահույթ։",
-        "link": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
+        "headline": "Bitcoin-ը բարձրացել է $80,000-ից",
+        "summary": "Bitcoin-ի գինը բարձրացել է $80,000-ից՝ այն բանից հետո, երբ Fed-ը ազդանշաններ է տվել տոկոսադրույքները կայուն պահելու մասին։",
+        "link": "https://decrypt.co/377314/bitcoin-pump-fed-rate-pause-shorts-get-rekt",
         "source": "Decrypt",
-        "enTitle": "Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg@png"
+        "enTitle": "Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-07-gID_7.png@png"
+      },
+      {
+        "headline": "Bitcoin ETF-ները վերականգնվել են",
+        "summary": "Bitcoin ETF-ները վերականգնվել են՝ գրանցելով $101.15 միլիոն մեկ օրում, մինչդեռ Ethereum և XRP ETF-ների շահող շարքերը դադարել են։",
+        "link": "https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
+      },
+      {
+        "headline": "Revolut-ը քայլ է անում դեպի ԱՄՆ բանկ",
+        "summary": "Revolut-ը ստացել է նախնական հավանություն ԱՄՆ-ի կարևոր բանկային կարգավորող մարմնից՝ երկրում բանկ դառնալու իր ձգտման շրջանակներում։",
+        "link": "https://www.theblock.co/news/regulation/2026-09-03-revolut-takes-important-step-toward-becoming-a-us-bank-with-conditional-occ-approval-413474",
+        "source": "The Block",
+        "enTitle": "Revolut takes ‘important’ step toward becoming a US bank with conditional OCC approval",
+        "image": "https://www.tbstat.com/wp/uploads/2022/11/20221118_Revolut-1200x675.jpg"
+      },
+      {
+        "headline": "Kraken-ը և SoFi-ը համագործակցում են",
+        "summary": "Kraken-ի մայր ընկերություն Payward-ը համագործակցում է SoFi-ի հետ՝ SoFiUSD stablecoin-ի և շուրջօրյա հաշվարկների համար։",
+        "link": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KYWSE94CPJJA8YZQS23VKP/hi-what-is-a-decentralized-money-market-and-kraken.png"
+      },
+      {
+        "headline": "Standard Chartered-ը՝ կրիպտո առևտուր Դուբայում",
+        "summary": "Standard Chartered բանկն այժմ առաջարկում է ինստիտուցիոնալ կրիպտո spot առևտուր Դուբայում՝ BTC-ն և ETH-ն ներառելով իր eFX հարթակում։",
+        "link": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Standard Chartered brings spot crypto trading to Dubai FX platform",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/340d393dde0aee90bc02178a19a6f92588da4886-3200x1800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Bitget-ը բանակցում է BlackRock-ի հետ",
+        "summary": "Bitget-ը բանակցություններ է վարում Wall Street-ի հսկաների, այդ թվում՝ BlackRock-ի հետ, Ասիայում իրենց tokenized ETF-ների տարածումն ընդլայնելու համար։",
+        "link": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b211dc0a2c42f8c64487bc73e191e498111d9fed-7737x5161.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
