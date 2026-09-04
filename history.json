@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-06",
-    "ts": 1783361127324,
-    "fng": {
-      "value": 24,
-      "label": "Extreme Fear",
-      "hy": "Ծայրահեղ վախ",
-      "dot": "🔴"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 63572,
-        "change24h": 1.5897323782820265
-      },
-      {
-        "label": "Ethereum",
-        "price": 1786.77,
-        "change24h": 0.4838970617457358
-      }
-    ],
-    "overview": "Շուկան այսօր խառը ազդանշաններ է ստացել՝ նշանավոր ինստիտուցիոնալ տեղաշարժերով և արձանագրության կարևոր զարգացումներով։ Bitcoin ETF-ները գրանցել են իրենց առաջին բացասական կիսամյակը, մինչդեռ խոշոր DeFi արձանագրությունը ենթարկվել է շահագործման։",
-    "items": [
-      {
-        "headline": "Strategy-ն վաճառում է Bitcoin",
-        "summary": "Strategy ընկերությունը վաճառել է 3,588 Bitcoin՝ մոտ 216 միլիոն դոլար արժողությամբ, իր նախընտրելի բաժնետոմսերի շահաբաժինները ֆինանսավորելու համար։",
-        "link": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Strategy selling hundreds of millions worth of bitcoin raises question about its capital-allocation playbook",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/12959ff7ebd2b686ec6ec4a46460734ac710ab18-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Bitmine-ը գնում է Ether",
-        "summary": "Bitmine-ը հայտարարել է 74 միլիոն դոլարի Ether գնումների մասին, քանի որ նրա նախագահը նշել է Clarity Act-ի ընդունման ավելի մեծ հնարավորությունների մասին։",
-        "link": "https://cointelegraph.com/news/bitmine-ether-treasury-chances-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bitmine announces $74M Ether buys as chair says ‘greater chances of Clarity Act passage’",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdings-bitmine-2.jpg"
-      },
-      {
-        "headline": "Vitalik Buterin-ի նոր Ethereum առաջարկը",
-        "summary": "Vitalik Buterin-ն առաջարկել է «Extremely Lean» Ethereum-ի հայեցակարգը՝ նպատակ ունենալով կրճատել շղթայի վիճակը գրեթե զրոյի՝ օգտագործելով ZK proofs-եր։",
-        "link": "https://www.theblock.co/post/407319/vitalik-buterin-extremely-lean-ethereum-shrinking-chain-to-near-zero-state-zk-proofs?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs",
-        "image": "https://www.tbstat.com/wp/uploads/2020/05/20200511_Vitalik-Buterin-ETH-Ethereum-800x450.jpg"
-      },
-      {
-        "headline": "Summer Finance-ի շահագործումը",
-        "summary": "DeFi արձանագրություն Summer Finance-ը դադարեցրել է իր vaults-երի աշխատանքը 65.4 միլիոն դոլարի flash loan հարձակումից հետո, որը հանգեցրել է 6 միլիոն դոլարի կորստի։",
-        "link": "https://news.bitcoin.com/summer-finance-pauses-vaults-after-65-4m-flash-loan-attack-triggers-6m-loss/",
-        "source": "Bitcoin News",
-        "enTitle": "Summer Finance Pauses Vaults After $65.4M Flash Loan Attack Triggers $6M Loss",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/summer-finance-pauses-vaults-after-65-4m-flash-loan-triggers-6m-loss-768x432.jpg"
-      },
-      {
-        "headline": "Ripple-ը MiCA-ի հետ համապատասխան է",
-        "summary": "XRP-ն ստացել է զգալի ինստիտուցիոնալ խթան, քանի որ Ripple-ը լիովին համապատասխանել է Եվրոպական Միության Markets in Crypto-Assets (MiCA) շրջանակին։",
-        "link": "https://news.bitcoin.com/xrp-gets-major-institutional-boost-as-ripple-becomes-fully-mica-compliant/",
-        "source": "Bitcoin News",
-        "enTitle": "XRP Gets Major Institutional Boost as Ripple Becomes Fully MiCA Compliant",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/xrp-ripple-mica-license-768x432.jpg"
-      },
-      {
-        "headline": "Bitcoin ETF-ների բացասական կիսամյակ",
-        "summary": "Spot Bitcoin ETF-ները 2026 թվականի առաջին կիսամյակում գրանցել են 5.4 միլիարդ դոլարի զուտ արտահոսք՝ նշանավորելով իրենց գործարկումից ի վեր առաջին բացասական կիսամյակը։",
-        "link": "https://news.bitcoin.com/bitcoin-etfs-post-first-negative-half-with-5-4-billion-in-outflows-dwf-labs-says/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin ETFs Post First Negative Half With $5.4 Billion in Outflows, DWF Labs Says",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/bitcoin-etfs-post-first-negative-half-with-5-4-billion-in-outflows-dwf-labs-says-768x432.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-07",
     "ts": 1783453710912,
     "fng": {
@@ -4296,6 +4223,71 @@
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
         "enTitle": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution",
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/b211dc0a2c42f8c64487bc73e191e498111d9fed-7737x5161.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "ts": 1788547372072,
+    "fng": {
+      "value": 74,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 79576,
+        "change24h": -1.7425857125028685
+      },
+      {
+        "label": "Ethereum",
+        "price": 2450.87,
+        "change24h": -1.9575587249785995
+      }
+    ],
+    "overview": "Կրիպտո շուկան այսօր ցույց է տվել խառը տրամադրություններ՝ ինստիտուցիոնալ ներհոսքերի և կարգավորող մարմինների դրական տեղաշարժերի ֆոնին, սակայն նաև բախվել է մակրոտնտեսական տվյալներով պայմանավորված գների անկման և անվտանգության մտահոգությունների հետ։",
+    "items": [
+      {
+        "headline": "ԱՄՆ Շերիֆների Ասոցիացիան փոխում է դիրքորոշումը CLARITY Act-ի վերաբերյալ",
+        "summary": "Ազգային Շերիֆների Ասոցիացիան չեզոք դիրքորոշում է որդեգրել CLARITY Act օրինագծի նկատմամբ՝ հանելով նախկին դիմադրությունը Սենատում քվեարկությունից առաջ։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/sheriffs-go-neutral-on-clarity-act-easing-pressure-on-senate-vote/",
+        "source": "Bitcoin News",
+        "enTitle": "Sheriffs Go Neutral on CLARITY Act, Easing Pressure on Senate Vote",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/congress-clarity-act-768x432.jpg"
+      },
+      {
+        "headline": "OpenReserve-ը ստացել է ԱՄՆ ազգային բանկի հաստատում",
+        "summary": "a16z-ի կողմից աջակցվող OpenReserve ստարտափը ստացել է լիարժեք ազգային բանկի կանոնադրություն՝ ճանապարհ հարթելով ապահովագրված ավանդների և ստանդարտ վարկավորման համար։",
+        "link": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
+        "source": "Decrypt",
+        "enTitle": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg@png"
+      },
+      {
+        "headline": "Bitcoin-ի ETF-ները մեծ ներհոսքեր են գրանցել, ապա գինը նվազել է",
+        "summary": "ԱՄՆ Bitcoin ETF-ները գրանցել են 731 միլիոն դոլարի զուտ ներհոսքեր, սակայն Bitcoin-ի գինը հետագայում նվազել է՝ ԱՄՆ-ի աշխատատեղերի ուժեղ տվյալների պատճառով, որոնք մեծացրել են Fed-ի տոկոսադրույքների բարձրացման հավանականությունը։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-pull-in-731m-as-bitcoin-price-breaks-above-80k/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin ETFs Pull in $731M as Bitcoin Price Breaks Above $80K",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-etfs-pull-in-731m-as-bitcoin-price-breaks-above-80k-768x432.jpg"
+      },
+      {
+        "headline": "Մեծ Բրիտանիայի խոշորագույն ներդրումային հարթակը բացում է մուտքը կրիպտո ETN-ների համար",
+        "summary": "Մեծ Բրիտանիայի խոշորագույն մանրածախ ներդրումային հարթակ Hargreaves Lansdown-ը թույլատրել է մուտք դեպի կրիպտո ETN-ներ՝ հետևելով FCA-ի որոշմանը՝ հանելու մանրածախ արգելքը։",
+        "link": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee3c156fd6556c91ea2313190a0bb068f3590737-1264x794.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Trezor-ի տվյալների արտահոսքը ազդել է ևս 67,000 հաճախորդի վրա",
+        "summary": "Trezor ապարատային դրամապանակի արտադրողը հայտարարել է, որ Shipmonk առաքման գործընկերոջ հետ կապված խախտումը բացահայտել է ևս մոտ 67,000 ԱՄՆ հաճախորդների անձնական տվյալները։",
+        "link": "https://news.bitcoin.com/security/trezor-data-leak-spirals-as-67000-more-us-buyers-get-exposed/",
+        "source": "Bitcoin News",
+        "enTitle": "Trezor Data Leak Spirals as 67,000 More US Buyers Get Exposed",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2022/08/trezor-768x432.jpg"
       }
     ]
   }
