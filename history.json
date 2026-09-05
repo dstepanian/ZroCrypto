@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-07",
-    "ts": 1783453710912,
-    "fng": {
-      "value": 27,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 63795,
-        "change24h": -0.04937608238270507
-      },
-      {
-        "label": "Ethereum",
-        "price": 1788.86,
-        "change24h": -0.39246769311834173
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների ակտիվությամբ և ավանդական ֆինանսական հաստատությունների կողմից թվային ակտիվների նկատմամբ աճող հետաքրքրությամբ: Կարգավորման նորություններ կան Ռուսաստանից և ԱՄՆ SEC-ից, մինչդեռ խոշոր ընկերությունները, ինչպիսիք են Kraken-ը և Vanguard-ը, ընդլայնում են իրենց ներկայությունը կրիպտո ոլորտում:",
-    "items": [
-      {
-        "headline": "Ռուսաստանը կգործարկի պետական կրիպտո հարթակ",
-        "summary": "Ռուսաստանը նախատեսում է դեկտեմբերին գործարկել կրիպտոարժույթների օրինական մուտքի հարթակ՝ պետական բանկի միջոցով, ինչը կներառի պահպանման, սահմանափակումների և համապատասխանության պահանջներ։",
-        "link": "https://cryptoslate.com/sberbanks-crypto-wallet-plan-could-pull-russian-users-into-a-bank-controlled-on-ramp/",
-        "source": "CryptoSlate",
-        "enTitle": "Russia’s legal crypto on-ramp to arrive with a state-owned bank holding the keys",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/sberbank-crypto-wallet-bank-controlled-onramp-russia.jpg"
-      },
-      {
-        "headline": "Kraken-ը շահել է $22M արբիտրաժային գործ",
-        "summary": "Կրիպտո փոխանակման Kraken-ի մայր ընկերությունը շահել է $22 միլիոն դոլարի արբիտրաժային գործ իր նախկին աուդիտոր Mazars-ի դեմ՝ 2022 թվականի աուդիտից նրանց դուրս գալու պատճառով։",
-        "link": "https://cointelegraph.com/news/kraken-wins-22m-arbitration-against-former-auditor-mazars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Kraken wins $22M arbitration against former auditor Mazars",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-breaking-news.png"
-      },
-      {
-        "headline": "Kraken-ը ձգտում է բանկ դառնալ Եվրոպայում",
-        "summary": "Կրիպտո փոխանակման Kraken-ը ձգտում է բանկային լիցենզիա ստանալ Եվրոպայում, ընդ որում Լիտվան դիտարկվում է որպես հնարավոր իրավասություն։",
-        "link": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Crypto exchange Kraken is trying to become a bank in Europe",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "BonkDAO-ի $20M կորուստը բացահայտում է խոցելիություն",
-        "summary": "BonkDAO-ի գանձարանից մոտ $20 միլիոնի արտահոսքը ցույց է տալիս, թե ինչպես memecoin-ների գանձարանները կարող են թալանվել պարզ քվեարկության միջոցով, երբ DAO-ի վերահսկողությունը թույլ է։",
-        "link": "https://cryptoslate.com/bonkdaos-estimated-20m-drain-exposes-a-serious-security-fault-line-for-memecoin-treasuries/",
-        "source": "CryptoSlate",
-        "enTitle": "BonkDAO’s estimated $20M drain exposes how memecoin treasuries can be raided by a simple vote",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bonkdao-governance-exploit-treasury-vault-drain.jpg"
-      },
-      {
-        "headline": "ԱՄՆ SEC-ը կառաջարկի կրիպտո կանոններ",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) նախատեսում է այս ամիս առաջարկել նոր կրիպտո կանոններ՝ ստարտափների և դրամահավաքի գործընթացները հեշտացնելու համար։",
-        "link": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/82c63d25c774161ab6ecc7ce74e066578a78b0c5-1955x1100.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Vanguard-ը փնտրում է թվային ակտիվների ղեկավար",
-        "summary": "Multi-trillion-dollar ակտիվներ կառավարող Vanguard-ը փնտրում է թվային ակտիվների ղեկավար՝ ազդելու շուկայի վրա և վերանայելու իր կրիպտո ռազմավարությունը։",
-        "link": "https://www.coindesk.com/markets/2026/07/07/vanguard-opens-search-for-digital-assets-leader-in-sign-of-evolving-crypto-strategy",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Vanguard opens search for digital assets leader in sign of evolving crypto strategy",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/bab22288f6f49ac88c31fef527a24710bf6ee3fa-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      }
-    ]
-  },
-  {
     "date": "2026-07-08",
     "ts": 1783531241133,
     "fng": {
@@ -4288,6 +4215,79 @@
         "source": "Bitcoin News",
         "enTitle": "Trezor Data Leak Spirals as 67,000 More US Buyers Get Exposed",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2022/08/trezor-768x432.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-05",
+    "ts": 1788630533937,
+    "fng": {
+      "value": 73,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 80041,
+        "change24h": 0.7134976832095057
+      },
+      {
+        "label": "Ethereum",
+        "price": 2476.78,
+        "change24h": 1.2428069532221901
+      }
+    ],
+    "overview": "Կրիպտոարժույթների շուկան այսօր ցույց է տվել խառը տրամադրություններ։ Մինչ Bitcoin ETF-ները շարունակում են զգալի ներհոսքեր գրանցել, որոշ ալտքոյններ, ինչպիսին է Zcash-ը, զգալի աճ են ապրել։ Միևնույն ժամանակ, նորարարական ապրանքները և կարգավորող մարմինների վերահսկողությունը մնում են ուշադրության կենտրոնում։",
+    "items": [
+      {
+        "headline": "Bitcoin ETF-ների ներհոսքը շարունակվում է",
+        "summary": "ԱՄՆ-ի Bitcoin ETF-ները գրանցել են զգալի ներհոսքեր, ընդհանուր առմամբ ավելի քան $3.8 միլիարդ վերջին երեք շաբաթվա ընթացքում, նույնիսկ երբ Bitcoin-ի գինը ժամանակավորապես իջել է $80,000-ից։",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1R63FX0B48YA7B473RBB8TA/hi-bitcoin-etf-infrastructure-investment-2.jpg"
+      },
+      {
+        "headline": "Zcash-ը հատում է $1,000 շեմը",
+        "summary": "Zcash-ի գինը հատել է $1,000-ը՝ առաջին անգամ 2016 թվականի իր գործարկումից ի վեր, իսկ նրա Grayscale ETF-ի ակտիվները գերազանցել են $400 միլիոնը։",
+        "link": "https://cryptoslate.com/zcash-breaks-1000-as-its-spot-etf-crosses-400-million-in-assets/",
+        "source": "CryptoSlate",
+        "enTitle": "Zcash breaks $1,000 as its spot ETF crosses $400 million in assets",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/zcash-1000-zcsh-etf-privacy-rally.jpg"
+      },
+      {
+        "headline": "Robinhood Chain-ի շուրջ վեճ է բռնկվել",
+        "summary": "AMC Entertainment-ի գործադիր տնօրենը կոչ է արել Robinhood-ին դադարեցնել AMC բաժնետոմսերին կապված թոքենի առևտուրը, ինչը հանգեցրել է հանրային բախման և Robinhood Chain-ի անսարքության։",
+        "link": "https://cryptoslate.com/a-major-outage-and-corporate-backlash-hit-robinhood-chain-at-the-peak-of-its-growth/",
+        "source": "CryptoSlate",
+        "enTitle": "A major outage and corporate backlash hit Robinhood Chain at the peak of its growth",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/robinhood-chain-broken-bridge.jpg"
+      },
+      {
+        "headline": "IMF-ը կասկածի տակ է դնում Էլ Սալվադորի Bitcoin-ի ֆինանսավորումը",
+        "summary": "Արժույթի միջազգային հիմնադրամը հայտարարել է, որ Էլ Սալվադորի կողմից ավելացված 1,540 Bitcoin-ը չի ֆինանսավորվել պետական միջոցներով, ինչը հակասում է երկրի պաշտոնական հաղորդագրությանը։",
+        "link": "https://cryptoslate.com/el-salvador-added-1540-bitcoin-but-the-imf-says-bukeles-government-didnt-pay-for-them/",
+        "source": "CryptoSlate",
+        "enTitle": "El Salvador added 1,540 Bitcoin, but the IMF says Bukele’s government didn’t pay for them",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-donation-reservoir.jpg"
+      },
+      {
+        "headline": "Polymarket-ը գործարկում է անժամկետ ֆյուչերսներ",
+        "summary": "Կանխատեսումների շուկայի հարթակ Polymarket-ը գործարկել է նոր Perps արտադրանք՝ մինչև 20x լծակով, ընդլայնելով իր առաջարկները և գրավելով հայտնի անունների ուշադրությունը։",
+        "link": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures",
+        "source": "Decrypt",
+        "enTitle": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Կենտրոնական բանկերը ուսումնասիրում են stablecoin-ների ազդեցությունը",
+        "summary": "Դաշնային պահուստային համակարգի և Կորեայի Բանկի ուսումնասիրությունները ցույց են տալիս, որ դոլարով ապահովված stablecoin-ները կարող են կրկնակի հաշվարկվել M1 կամ M2-ում և իջեցնել տեղական արժույթները։",
+        "link": "https://cryptoslate.com/fed-economists-stablecoin-research-exposes-how-the-same-dollar-could-count-twice-in-m1-or-m2/",
+        "source": "CryptoSlate",
+        "enTitle": "Fed stablecoin research exposes how the same dollar could count twice in M1 or M2",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/fed-stablecoin-money-pipes.jpg"
       }
     ]
   }
