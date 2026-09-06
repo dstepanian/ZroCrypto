@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-08",
-    "ts": 1783531241133,
-    "fng": {
-      "value": 20,
-      "label": "Extreme Fear",
-      "hy": "Ծայրահեղ վախ",
-      "dot": "🔴"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 62016,
-        "change24h": -2.9319571256631543
-      },
-      {
-        "label": "Ethereum",
-        "price": 1733.57,
-        "change24h": -3.6374460809880333
-      }
-    ],
-    "overview": "Այսօրվա նորությունները արտացոլում են կարգավորող զարգացումների, ինստիտուցիոնալ հետաքրքրության և աշխարհաքաղաքական իրադարձությունների խառնուրդը կրիպտո շուկայում։ Մինչ որոշ տարածաշրջաններ արագացնում են կրիպտոյի ընդունումը, խոշոր տնտեսությունները կատարելագործում են իրենց կարգավորող շրջանակները, իսկ մակրո իրադարձությունները շարունակում են ազդել ակտիվների գների վրա։",
-    "items": [
-      {
-        "headline": "Paradigm-ը 1.2 միլիարդ դոլար է հավաքել նոր հիմնադրամի համար",
-        "summary": "Կրիպտո վենչուրային Paradigm ընկերությունը հավաքել է 1.2 միլիարդ դոլար իր չորրորդ հիմնադրամի համար, որը կներդնի կրիպտո, AI, ռոբոտաշինության և այլ ստարտափներում։",
-        "link": "https://www.theblock.co/post/407617/paradigm-raises-1-2-billion-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Paradigm raises $1.2 billion fourth fund, expanding beyond crypto into AI and robotics",
-        "image": "https://www.tbstat.com/wp/uploads/2024/06/paradigm-reth-800x450.jpg"
-      },
-      {
-        "headline": "Bitcoin-ի գինը նվազել է Իրանի հրադադարի խախտման պատճառով",
-        "summary": "Bitcoin-ի գինը նվազել է մինչև $61,000-ի շեմը, քանի որ ԱՄՆ-Իրան հրադադարի խախտումը հանգեցրել է նավթի գների կտրուկ աճի։",
-        "link": "https://cointelegraph.com/markets/bitcoin-slides-as-iran-ceasefire-collapse-brings-back-hormuz-blockade-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin slides as Iran ceasefire collapse sees $75 oil on Hormuz blockade threats",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-make-a-profit-when-bitcoin-prices-are-stagnant-oil.jpg"
-      },
-      {
-        "headline": "Եվրոպական հանձնաժողովը նախատեսում է ընդլայնել MiCA կանոնները",
-        "summary": "Եվրոպական հանձնաժողովը, ըստ տեղեկությունների, ձգտում է ընդլայնել MiCA կանոնները՝ ընդգրկելու tokenization-ը և ոչ ԵՄ stablecoin-ի թողարկողներին։",
-        "link": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "European Commission looks to expand MiCA to cover emergence of tokenization, non-EU stablecoin issuers: report",
-        "image": "https://www.tbstat.com/wp/uploads/2022/10/20221012_EuropeanVC_CryptoFunds_Feature-800x450.jpg"
-      },
-      {
-        "headline": "Vanguard-ը փնտրում է թվային ակտիվների ղեկավար",
-        "summary": "Vanguard-ը հայտարարել է «Թվային ակտիվների, անձնական հարստության ղեկավարի» թափուր աշխատատեղի մասին, ինչը կարող է որոշել, թե ինչպես կրիպտոն կհասնի 50 միլիոն ներդրողի։",
-        "link": "https://cryptoslate.com/one-vanguard-job-posting-could-decide-how-crypto-reaches-50-million-investors/",
-        "source": "CryptoSlate",
-        "enTitle": "New Vanguard job posting could decide how crypto reaches 50 million investors",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/vanguard-digital-assets-vault-bitcoin-pathway.jpg"
-      },
-      {
-        "headline": "Ղազախստանը արագացնում է կրիպտոյի ընդունումը",
-        "summary": "Ղազախստանի նախագահը հրամանագիր է ստորագրել՝ արագացնելու կրիպտոյի ընդունումը, ներառյալ հարկային արտոնությունները և cross-border stablecoin վճարումները։",
-        "link": "https://cointelegraph.com/news/kazakhstan-president-decree-accelerate-crypto-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Kazakhstan president signs decree to accelerate crypto adoption",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/kazachstan-almaty-bitcoin.jpg"
-      },
-      {
-        "headline": "ԱՄՆ Սենատը քննարկում է CLARITY Act-ը",
-        "summary": "ԱՄՆ Սենատը հաջորդ շաբաթ կվերադառնա աշխատանքի՝ 20 օր ունենալով որոշելու CLARITY Act-ի ճակատագիրը, որը կրիպտո շուկայի կառուցվածքի ամենաառաջադեմ օրինագիծն է։",
-        "link": "https://cryptoslate.com/bitcoins-rally-has-four-weeks-to-get-its-washington-clarity-catalyst-before-the-clock-runs-out/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitcoin’s rally has 4 weeks to get its Washington CLARITY catalyst before the clock runs out",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bitcoin-clarity-act-senate-deadline-countdown.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-09",
     "ts": 1783619298382,
     "fng": {
@@ -4288,6 +4215,79 @@
         "source": "CryptoSlate",
         "enTitle": "Fed stablecoin research exposes how the same dollar could count twice in M1 or M2",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/09/fed-stablecoin-money-pipes.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-06",
+    "ts": 1788688538091,
+    "fng": {
+      "value": 73,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 79858,
+        "change24h": 0.2620421144796185
+      },
+      {
+        "label": "Ethereum",
+        "price": 2497.08,
+        "change24h": 1.530046906514838
+      }
+    ],
+    "overview": "Կրիպտոարժույթների շուկայում այսօր նկատվում են ինչպես կարգավորող մարմինների գործողություններ, այնպես էլ ինստիտուցիոնալ ներդրումների աճ: Միաժամանակ, անվտանգության հետ կապված մտահոգությունները և անօրինական գործունեության դեմ պայքարը շարունակում են մնալ օրակարգում:",
+    "items": [
+      {
+        "headline": "Orionx բորսան դադարեցրել է գործունեությունը",
+        "summary": "Orionx կրիպտոարժույթների բորսան դադարեցրել է իր գործունեությունը և կասեցրել դուրսբերումները՝ աուդիտի արդյունքում 7 միլիոն դոլարի անհայտ գործարքներ հայտնաբերելուց հետո։",
+        "link": "https://news.bitcoin.com/exchanges/orionx-halts-operations-after-audit-uncovers-7m-financial-hole/",
+        "source": "Bitcoin News",
+        "enTitle": "Orionx Halts Operations After Audit Uncovers $7M Financial Hole",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/orionx-message-768x432.jpg"
+      },
+      {
+        "headline": "FBI-ը առգրավել է 560K դոլարի կրիպտոարժույթ",
+        "summary": "FBI-ը առգրավել է ավելի քան 560,000 դոլար արժողությամբ կրիպտոարժույթ, որը նախատեսված էր Hamas-ի համար, և բացահայտել հազարավոր հնարավոր դոնորների։",
+        "link": "https://news.bitcoin.com/featured/560k-in-crypto-seized-as-fbi-identifies-thousands-of-hamas-donors/",
+        "source": "Bitcoin News",
+        "enTitle": "$560K in Crypto Seized as FBI Identifies Thousands of Hamas Donors",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/fbi-2-768x432.jpg"
+      },
+      {
+        "headline": "Լեհաստանը պահպանել է կրիպտո օրինագծի վետոն",
+        "summary": "Լեհաստանի խորհրդարանը չկարողացավ չեղարկել նախագահական վետոն կրիպտոարժույթների մասին օրինագծի վերաբերյալ, քանի որ Zondacrypto սկանդալը շարունակում է ընդլայնվել։",
+        "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1RDG59G42A1KT2B2MD6EQRF/poland.png"
+      },
+      {
+        "headline": "Բացահայտվել են XRP ETF-ի խոշորագույն սեփականատերերը",
+        "summary": "Goldman Sachs-ը, Jane Street-ը և Millennium Management-ը գլխավորում են XRP ETF-ի բացահայտված սեփականատերերի ցուցակը՝ երկրորդ եռամսյակի հաշվետվությունների համաձայն։",
+        "link": "https://news.bitcoin.com/featured/top-xrp-etf-holders-revealed-goldman-jane-street-lead-the-list/",
+        "source": "Bitcoin News",
+        "enTitle": "Top XRP ETF Holders Revealed: Goldman, Jane Street Lead the List",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/wall-street-etfs-768x432.jpg"
+      },
+      {
+        "headline": "Zcash-ը հատել է $1,000 շեմը",
+        "summary": "Zcash-ի գինը հատել է 1,000 դոլարը, քանի որ նրա spot ETF-ի ակտիվները գերազանցել են 400 միլիոն դոլարը՝ դեբյուտից երկու շաբաթ չանցած։",
+        "link": "https://cryptoslate.com/zcash-breaks-1000-as-its-spot-etf-crosses-400-million-in-assets/",
+        "source": "CryptoSlate",
+        "enTitle": "Zcash breaks $1,000 as its spot ETF crosses $400 million in assets",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/zcash-1000-zcsh-etf-privacy-rally.jpg"
+      },
+      {
+        "headline": "Trezor-ի տվյալների արտահոսքը մեծացել է",
+        "summary": "Trezor-ի տվյալների արտահոսքից տուժած օգտատերերի թիվը վեց անգամ աճել է՝ ենթադրաբար ջնջված առաքման գրառումների հայտնաբերումից հետո։",
+        "link": "https://cryptoslate.com/users-exposed-by-trezor-breach-grows-sixfold-after-supposedly-deleted-shipping-logs-are-found/",
+        "source": "CryptoSlate",
+        "enTitle": "Users exposed by Trezor breach grows sixfold after supposedly deleted shipping logs are found",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/trezor-shipping-breach.jpg"
       }
     ]
   }
