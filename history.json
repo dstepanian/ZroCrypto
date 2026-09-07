@@ -4220,7 +4220,7 @@
   },
   {
     "date": "2026-09-07",
-    "ts": 1788779186501,
+    "ts": 1788809376692,
     "fng": {
       "value": 71,
       "label": "Greed",
@@ -4230,64 +4230,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 79364,
-        "change24h": -0.7787567773463235
+        "price": 79221,
+        "change24h": -0.7737253085412135
       },
       {
         "label": "Ethereum",
-        "price": 2489.41,
-        "change24h": -0.4891455983615061
+        "price": 2492.01,
+        "change24h": 0.022684668286704006
       }
     ],
-    "overview": "Ամփոփելով շաբաթը, կրիպտո շուկան դրական միտումներ է ցույց տվել, որի Bitcoin-ը պահպանել է իր դիրքերը, իսկ Zcash-ը զգալի աճ է գրանցել: Միևնույն ժամանակ, Liquid Network-ը բախվել է անվտանգության լուրջ միջադեպի, որը հանգեցրել է միջոցների կորստի, իսկ որոշ նախագծեր վերանայում են իրենց գործունեությունը՝ անվտանգության և տնտեսական մոդելների հետ կապված մարտահրավերների պատճառով:",
+    "overview": "Այսօրվա կրիպտո նորությունները ներառում են հաքերների կողմից Liquid Network-ից գողացված Bitcoin-ի մեծ մասի վերադարձը, Bitcoin ETF-ների զգալի ներհոսքերը և Zcash-ի գնի աճը՝ պայմանավորված ETF-ի փոխակերպմամբ։ Շուկան ցույց է տալիս ինչպես ինստիտուցիոնալ հետաքրքրություն, այնպես էլ էկոհամակարգի զարգացումներ։",
     "items": [
       {
-        "headline": "Liquid Network-ը կորցրել է 320 միլիոն դոլար՝ անվտանգության խոցելիության պատճառով",
-        "summary": "Liquid Network-ը դադարեցրել է իր գործունեությունը՝ անվտանգության խոցելիության պատճառով կորցնելով 320 միլիոն դոլարի Bitcoin, իսկ հաքերները հայտարարել են, որ կվերադարձնեն միջոցները՝ բացթողումը շտկելուց հետո:",
-        "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Zcash-ը գերազանցել է 1,200 դոլարը՝ շուկայական կապիտալիզացիան հասցնելով 20 միլիարդ դոլարի",
-        "summary": "Zcash-ը գերազանցել է 1,200 դոլարի նշագիծը՝ հասնելով իր ամենաբարձր մակարդակին 2016 թվականից ի վեր և գրանցելով շաբաթական ավելի քան 45% աճ, ինչը նրա շուկայական կապիտալիզացիան հասցրել է 20 միլիարդ դոլարի:",
-        "link": "https://news.bitcoin.com/altcoins/zcash-breaches-1200-as-market-cap-hits-20-billion/",
+        "headline": "Liquid հաքերները վերադարձրել են BTC-ի մեծ մասը",
+        "summary": "Liquid Network-ի հաքերները վերադարձրել են գողացված Bitcoin-ի մոտ $270 միլիոնը, սակայն մոտ 600 BTC դեռևս բացակայում է։",
+        "link": "https://news.bitcoin.com/security/liquid-hackers-return-3400-btc-keep-47m-as-network-stays-frozen/",
         "source": "Bitcoin News",
-        "enTitle": "Zcash Breaches $1,200 as Market Cap Hits $20 Billion",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/zcash-bug-discovered-binance-predictions-trillions-in-tokenized-equity-inflows-and-more--week-in-review_nwmk-768x432.png"
+        "enTitle": "Liquid Hackers Return 3,400 BTC, Keep $47M as Network Stays Frozen",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/liquid-hackers-return-3400-btc-keep-47m-as-network-stays-frozen-768x432.png"
       },
       {
-        "headline": "Bitcoin ETF-ները գրավել են 987 միլիոն դոլար՝ ինստիտուցիոնալ պահանջարկի վերականգնմամբ",
-        "summary": "Spot Bitcoin ETF-ները նախորդ շաբաթ գրավել են 987 միլիոն դոլարի ներհոսք, ինչը վկայում է ինստիտուցիոնալ պահանջարկի վերականգնման մասին:",
-        "link": "https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639",
-        "source": "The Block",
-        "enTitle": "Spot bitcoin ETFs pull in $987 million last week as institutional demand recovers",
-        "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_5-1200x675.jpg"
+        "headline": "Bitcoin ETF-ները գրավել են $1.24 միլիարդ ներհոսք",
+        "summary": "ԱՄՆ-ի կրիպտո ETF-ները, հիմնականում Bitcoin ֆոնդերը, օգոստոսի 31-ից սեպտեմբերի 4-ն ընկած ժամանակահատվածում գրավել են մոտ $1.24 միլիարդ զուտ ներհոսք։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-takes-79-of-crypto-etf-weekly-inflows-as-funds-add-1-24b/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin Takes 79% of Crypto ETF Weekly Inflows as Funds Add $1.24B",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-takes-79-of-crypto-etf-inflows-as-funds-add-1-24-billion-768x432.jpg"
       },
       {
-        "headline": "Citi-ն և DBS-ը կատարել են առաջին թոքենիզացված միջսահմանային դեպոզիտը Swift-ով",
-        "summary": "Citi-ն և DBS-ը հաջողությամբ իրականացրել են իրենց առաջին թոքենիզացված միջսահմանային փոխանցումը՝ օգտագործելով Swift-ի բլոկչեյն- հիմքով գրանցամատյանը՝ շրջանցելով ավանդական բանկային ժամերի սահմանափակումները:",
-        "link": "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Հանթեր Բայդենը LAPTOP մեմքոին է թողարկում",
+        "summary": "Ջո Բայդենի որդին՝ Հանթեր Բայդենը, թողարկում է LAPTOP անունով մեմքոին՝ թիրախավորելով TRUMP թոքենի սեփականատերերին։",
+        "link": "https://news.bitcoin.com/crypto-news/hunter-biden-unleashes-laptop-meme-coin-in-direct-shot-at-trump/",
+        "source": "Bitcoin News",
+        "enTitle": "Hunter Biden Unleashes Laptop Meme Coin in Direct Shot at Trump",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/hunter-biden-unleashes-laptop-meme-coin-in-direct-shot-at-trump-768x432.png"
+      },
+      {
+        "headline": "Zcash-ի գինը հասել է 2016-ի ամենաբարձր մակարդակին",
+        "summary": "Zcash-ի (ZEC) գինը հասել է 2016 թվականից ի վեր ամենաբարձր մակարդակին, քանի որ Grayscale-ը իր Zcash Trust-ը վերածել է ETF-ի։",
+        "link": "https://cointelegraph.com/markets/zcash-highest-price-market-cap-20-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Citi, DBS complete first weekend tokenized cross-border deposit on Swift",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg"
+        "enTitle": "Zcash hits highest price since 2016 as market cap tops $20B",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XWJSJ8XM9PBWB2HGFX3KCS/zcash-rally-etf-grayscale-privacy-coins.jpg"
       },
       {
-        "headline": "Coinbase-ի աջակցությամբ կրիպտո կամուրջը փակվում է բիզնես մոդելի ձախողումից հետո",
-        "summary": "Coinbase-ի կողմից աջակցվող կրիպտո կամուրջը՝ Cross-chain project-ը, փակվում է, քանի որ նրա բիզնես մոդելը, որը հիմնված է կամրջի վճարների վրա, չի կարողացել ապահովել մշտական ​​գործունեություն:",
-        "link": "https://cryptoslate.com/a-coinbase-backed-crypto-bridge-is-shutting-down-after-its-business-model-stopped-working/",
-        "source": "CryptoSlate",
-        "enTitle": "A Coinbase-backed crypto bridge is shutting down after its business model stopped working",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/router-protocol-broken-link.jpg"
+        "headline": "Chainlink-ը կմիացնի 600+ բանկ SWIFT-ին",
+        "summary": "Bottomline-ը՝ SWIFT ծառայություններ մատուցող խոշորագույն ընկերություններից մեկը, ընտրել է Chainlink-ը՝ ավելի քան 600 բանկեր բլոկչեյն հաշվարկներին միացնելու համար։",
+        "link": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin Starts the Week Flat, But Chainlink Is Flying—Here's Why",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg@png"
       },
       {
-        "headline": "Harmony-ն առաջարկում է փակել Layer 1-ը և մեկնարկել AI վիդեո նախաձեռնություն",
-        "summary": "Harmony նախագիծը առաջարկում է փակել իր Layer 1 բլոկչեյնը և ONE թոքենները տեղափոխել Ethereum՝ նոր AI վիդեո նախաձեռնությանը աջակցելու համար:",
-        "link": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
-        "source": "The Block",
-        "enTitle": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
-        "image": "https://www.tbstat.com/wp/uploads/2024/11/20241104_ZK-proofs_News_2-1200x675.jpg"
+        "headline": "Harmony-ն առաջարկում է փակել բլոկչեյնը",
+        "summary": "Harmony թիմը առաջարկում է փակել իր բլոկչեյնը և ONE թոքենը տեղափոխել Ethereum՝ մտնելով AI-վիդեո բիզնես։",
+        "link": "https://decrypt.co/377579/harmony-ai-threats-blockchain-shutdown",
+        "source": "Decrypt",
+        "enTitle": "Harmony Cites AI Threats in Proposed Blockchain Shutdown",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/06/harmony-gID_7.jpg@png"
       }
     ]
   }
