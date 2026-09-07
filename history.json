@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-09",
-    "ts": 1783619298382,
-    "fng": {
-      "value": 22,
-      "label": "Extreme Fear",
-      "hy": "Ծայրահեղ վախ",
-      "dot": "🔴"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 62977,
-        "change24h": 1.2600884365851068
-      },
-      {
-        "label": "Ethereum",
-        "price": 1748.09,
-        "change24h": 0.5692417844373945
-      }
-    ],
-    "overview": "Այսօրվա նորությունները ցույց են տալիս կրիպտո շուկայի աճող ինտեգրումը ավանդական ֆինանսների հետ, ինչպես նաև կարգավորող մարմինների կողմից ակտիվ քայլերը։ Կարևոր է նաև Bitcoin մայնինգ ընկերությունների շարունակական անցումը դեպի AI ոլորտ։",
-    "items": [
-      {
-        "headline": "Sony Bank-ը մտնում է stablecoin շուկա",
-        "summary": "Sony Bank-ը ստացել է ԱՄՆ Արժույթի Վերահսկիչի Գրասենյակի (OCC) պայմանական հավանությունը՝ stablecoin բիզնեսի համար ազգային վստահության բանկ բացելու համար։",
-        "link": "https://news.bitcoin.com/occ-clears-sony-bank-to-open-connectia-trust-for-usd-stablecoin-business/",
-        "source": "Bitcoin News",
-        "enTitle": "OCC Clears Sony Bank to Open Connectia Trust for USD Stablecoin Business",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2200496233-768x432.jpg"
-      },
-      {
-        "headline": "MARA-ն ընդլայնում է AI հավակնությունները",
-        "summary": "Bitcoin մայնինգ ընկերության բաժնետոմսերն աճել են մոտ 15%-ով՝ Տեխասում մինչև 2 ԳՎտ հզորությամբ տարածք ձեռք բերելու մասին հայտարարելուց հետո՝ իր AI և թվային ենթակառուցվածքների ռազմավարությունն ընդլայնելու համար։",
-        "link": "https://cointelegraph.com/news/mara-shares-jump-10-after-2-gw-texas-infrastructure-deal-expands-ai-ambitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "MARA shares surge after 2 GW Texas infrastructure deal expands AI ambitions",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-eu-vote-on-bitcoin-mining-ai.png"
-      },
-      {
-        "headline": "Robinhood-ը գործարկում է Layer 2",
-        "summary": "Robinhood-ը այս ամիս գործարկել է Robinhood Chain-ի հանրային հիմնական ցանցը՝ այն նկարագրելով որպես Arbitrum-ի վրա կառուցված թույլտվություն չպահանջող Layer 2՝ թոքենիզացված բաժնետոմսերի, իրական ակտիվների, DeFi վարկավորման և AI-native ֆինանսների համար։",
-        "link": "https://cryptoslate.com/robinhood-launched-a-wall-street-layer-2-chain-and-the-market-crowned-a-150m-cat-coin-first/",
-        "source": "CryptoSlate",
-        "enTitle": "Robinhood launched a Wall Street layer 2 chain and the market crowned a $150M cat coin first",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/cashcat-robinhood-chain-liquidity-gateway.jpg"
-      },
-      {
-        "headline": "Swift-ը փորձարկում է թոքենի փոխանցումներ",
-        "summary": "Swift-ի փորձնական ծրագիրը թույլ է տալիս 17 գլոբալ բանկերին հանգստյան օրերին թոքենիզացված ավանդներ փոխանցել, սակայն վերջնական հաշվարկը դեռևս հիմնված է հին համակարգերի վրա։",
-        "link": "https://decrypt.co/373147/swift-readies-ledger-f24-7-token-transfers-settlement-old-rails",
-        "source": "Decrypt",
-        "enTitle": "Swift Readies Ledger for 24/7 Token Transfers—Though True Settlement Is Stuck on Old Rails",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/swift-decrypt-style-01-gID_7.jpg@png"
-      },
-      {
-        "headline": "PayPal-ը ընդլայնում է PYUSD-ի հասանելիությունը",
-        "summary": "Ընկերությունը հայտարարել է, որ իր stablecoin-ն այժմ բնիկ կերպով կթողարկվի Polygon-ում, ի լրումն Polygon-ի Open Money Stack-ի միջոցով հասանելի դառնալու։",
-        "link": "https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon",
-        "image": "https://www.tbstat.com/wp/uploads/2022/11/20221104_PayPal-800x450.jpg"
-      },
-      {
-        "headline": "ԵՄ-ն կվերանայի MiCA կանոնակարգը",
-        "summary": "ԵՄ դիվանագետները նշում են, որ Թրամփի կողմից stablecoin-ների ընդունումը Բրյուսելին դրդում է ընդլայնել իր կրիպտո օրենքը՝ ներառելով ոչ ԵՄ թողարկողներին և թոքենիզացված վճարումները։",
-        "link": "https://decrypt.co/373113/eu-set-to-revise-mica-in-2027-to-cover-foreign-stablecoin-issuers",
-        "source": "Decrypt",
-        "enTitle": "EU Set to Revise MiCA in 2027 to Cover Foreign Stablecoin Issuers",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/eu-flag-gID_7.jpg@png"
-      }
-    ]
-  },
-  {
     "date": "2026-07-10",
     "ts": 1783705288351,
     "fng": {
@@ -4288,6 +4215,79 @@
         "source": "Bitcoin News",
         "enTitle": "Orionx Halts Operations After Audit Uncovers $7M Financial Hole",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/orionx-message-768x432.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-07",
+    "ts": 1788779186501,
+    "fng": {
+      "value": 71,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 79364,
+        "change24h": -0.7787567773463235
+      },
+      {
+        "label": "Ethereum",
+        "price": 2489.41,
+        "change24h": -0.4891455983615061
+      }
+    ],
+    "overview": "Ամփոփելով շաբաթը, կրիպտո շուկան դրական միտումներ է ցույց տվել, որի Bitcoin-ը պահպանել է իր դիրքերը, իսկ Zcash-ը զգալի աճ է գրանցել: Միևնույն ժամանակ, Liquid Network-ը բախվել է անվտանգության լուրջ միջադեպի, որը հանգեցրել է միջոցների կորստի, իսկ որոշ նախագծեր վերանայում են իրենց գործունեությունը՝ անվտանգության և տնտեսական մոդելների հետ կապված մարտահրավերների պատճառով:",
+    "items": [
+      {
+        "headline": "Liquid Network-ը կորցրել է 320 միլիոն դոլար՝ անվտանգության խոցելիության պատճառով",
+        "summary": "Liquid Network-ը դադարեցրել է իր գործունեությունը՝ անվտանգության խոցելիության պատճառով կորցնելով 320 միլիոն դոլարի Bitcoin, իսկ հաքերները հայտարարել են, որ կվերադարձնեն միջոցները՝ բացթողումը շտկելուց հետո:",
+        "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Zcash-ը գերազանցել է 1,200 դոլարը՝ շուկայական կապիտալիզացիան հասցնելով 20 միլիարդ դոլարի",
+        "summary": "Zcash-ը գերազանցել է 1,200 դոլարի նշագիծը՝ հասնելով իր ամենաբարձր մակարդակին 2016 թվականից ի վեր և գրանցելով շաբաթական ավելի քան 45% աճ, ինչը նրա շուկայական կապիտալիզացիան հասցրել է 20 միլիարդ դոլարի:",
+        "link": "https://news.bitcoin.com/altcoins/zcash-breaches-1200-as-market-cap-hits-20-billion/",
+        "source": "Bitcoin News",
+        "enTitle": "Zcash Breaches $1,200 as Market Cap Hits $20 Billion",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/zcash-bug-discovered-binance-predictions-trillions-in-tokenized-equity-inflows-and-more--week-in-review_nwmk-768x432.png"
+      },
+      {
+        "headline": "Bitcoin ETF-ները գրավել են 987 միլիոն դոլար՝ ինստիտուցիոնալ պահանջարկի վերականգնմամբ",
+        "summary": "Spot Bitcoin ETF-ները նախորդ շաբաթ գրավել են 987 միլիոն դոլարի ներհոսք, ինչը վկայում է ինստիտուցիոնալ պահանջարկի վերականգնման մասին:",
+        "link": "https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639",
+        "source": "The Block",
+        "enTitle": "Spot bitcoin ETFs pull in $987 million last week as institutional demand recovers",
+        "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_5-1200x675.jpg"
+      },
+      {
+        "headline": "Citi-ն և DBS-ը կատարել են առաջին թոքենիզացված միջսահմանային դեպոզիտը Swift-ով",
+        "summary": "Citi-ն և DBS-ը հաջողությամբ իրականացրել են իրենց առաջին թոքենիզացված միջսահմանային փոխանցումը՝ օգտագործելով Swift-ի բլոկչեյն- հիմքով գրանցամատյանը՝ շրջանցելով ավանդական բանկային ժամերի սահմանափակումները:",
+        "link": "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Citi, DBS complete first weekend tokenized cross-border deposit on Swift",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg"
+      },
+      {
+        "headline": "Coinbase-ի աջակցությամբ կրիպտո կամուրջը փակվում է բիզնես մոդելի ձախողումից հետո",
+        "summary": "Coinbase-ի կողմից աջակցվող կրիպտո կամուրջը՝ Cross-chain project-ը, փակվում է, քանի որ նրա բիզնես մոդելը, որը հիմնված է կամրջի վճարների վրա, չի կարողացել ապահովել մշտական ​​գործունեություն:",
+        "link": "https://cryptoslate.com/a-coinbase-backed-crypto-bridge-is-shutting-down-after-its-business-model-stopped-working/",
+        "source": "CryptoSlate",
+        "enTitle": "A Coinbase-backed crypto bridge is shutting down after its business model stopped working",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/router-protocol-broken-link.jpg"
+      },
+      {
+        "headline": "Harmony-ն առաջարկում է փակել Layer 1-ը և մեկնարկել AI վիդեո նախաձեռնություն",
+        "summary": "Harmony նախագիծը առաջարկում է փակել իր Layer 1 բլոկչեյնը և ONE թոքենները տեղափոխել Ethereum՝ նոր AI վիդեո նախաձեռնությանը աջակցելու համար:",
+        "link": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
+        "source": "The Block",
+        "enTitle": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
+        "image": "https://www.tbstat.com/wp/uploads/2024/11/20241104_ZK-proofs_News_2-1200x675.jpg"
       }
     ]
   }
