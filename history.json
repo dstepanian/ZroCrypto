@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-07-10",
-    "ts": 1783705288351,
-    "fng": {
-      "value": 23,
-      "label": "Extreme Fear",
-      "hy": "Ծայրահեղ վախ",
-      "dot": "🔴"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 63834,
-        "change24h": 1.4002744728822842
-      },
-      {
-        "label": "Ethereum",
-        "price": 1789.73,
-        "change24h": 2.409274831207896
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող զարգացումներով ԱՄՆ-ում և Հոնկոնգում, ինչպես նաև stablecoin-ների ընդունման և նոր ֆինանսական ապրանքների առաջընթացներով։",
-    "items": [
-      {
-        "headline": "AscendEX-ը դադարեցնում է գործունեությունը",
-        "summary": "Կրիպտո փոխանակման AscendEX հարթակը դադարեցրել է իր գործունեությունը՝ նախազգուշացնելով, որ որոշ դուրսբերումներ կարող են չմշակվել MiCA-ի պահանջները չկատարելու պատճառով։",
-        "link": "https://cryptoslate.com/ascendex-shuts-down-after-mica-miss-and-warns-some-withdrawals-may-not-be-processed/",
-        "source": "CryptoSlate",
-        "enTitle": "AscendEX shuts down after MiCA miss and warns some withdrawals may not be processed",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/ascendex-platform-shutdown-withdrawal-timeline.jpg"
-      },
-      {
-        "headline": "ԱՄՆ-ում CBDC-ի արգելքը ուժի մեջ է մտնում",
-        "summary": "Նախագահ Թրամփի կողմից բնակարանային օրինագիծը չստորագրելու դեպքում այն ուժի մեջ կմտնի կեսգիշերին՝ արգելելով Դաշնային պահուստային համակարգին մինչև 2031 թվականը CBDC մշակել։",
-        "link": "https://decrypt.co/373230/trump-wont-sign-housing-bill-cbdc-ban-become-law-anyway",
-        "source": "Decrypt",
-        "enTitle": "Trump Won't Sign Housing Bill With CBDC Ban—Will It Become Law Tonight Anyway?",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png"
-      },
-      {
-        "headline": "Circle-ը ստացել է OCC-ի հաստատումը",
-        "summary": "Stablecoin-ի թողարկող Circle-ը ստացել է OCC-ի վերջնական հաստատումը՝ ստեղծելու ազգային վստահության բանկ, որը կամրապնդի USDC-ի ենթակառուցվածքը։",
-        "link": "https://news.bitcoin.com/circle-wins-occ-approval-for-national-trust-bank-to-strengthen-usdc-infrastructure/",
-        "source": "Bitcoin News",
-        "enTitle": "Circle Wins OCC Approval for National Trust Bank to Strengthen USDC Infrastructure",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/circle-wins-occ-approval-for-national-trust-bank-to-strengthen-usdc-infrastructure-768x432.jpg"
-      },
-      {
-        "headline": "Հոնկոնգը խստացնում է կրիպտո հարթակների կանոնները",
-        "summary": "Հոնկոնգի SFC-ն կրիպտո հարթակներին մեկ տարի ժամանակ է տվել՝ հրաժարվելու միանվագ գաղտնաբառերից կամ ծածկելու օգտատերերի կորուստները՝ անվտանգությունն ուժեղացնելու համար։",
-        "link": "https://cryptoslate.com/hong-kong-gives-crypto-platforms-one-year-to-ditch-one-time-passwords-or-cover-user-losses/",
-        "source": "CryptoSlate",
-        "enTitle": "Hong Kong gives crypto platforms one year to ditch one-time passwords or cover user losses",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/hong-kong-golden-yuan-financial-route.jpg"
-      },
-      {
-        "headline": "Ճապոնական վարկատուն առաջարկում է Bitcoin-ով ապահովված վարկեր",
-        "summary": "Ճապոնական CRYL վարկատուն սկսել է առաջարկել Bitcoin-ով ապահովված վարկեր մինչև $6.2 միլիոն անհատներին և ձեռնարկություններին։",
-        "link": "https://cointelegraph.com/news/japan-cryl-bitcoin-backed-loans-6-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Japanese lender launches Bitcoin-backed loans of up to $6.2M",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/loan-cash-bitcoin-yen.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-11",
     "ts": 1783788263950,
     "fng": {
@@ -4288,6 +4223,79 @@
         "source": "Decrypt",
         "enTitle": "Harmony Cites AI Threats in Proposed Blockchain Shutdown",
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/06/harmony-gID_7.jpg@png"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-08",
+    "ts": 1788862687520,
+    "fng": {
+      "value": 69,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 78717,
+        "change24h": -0.8452051999064323
+      },
+      {
+        "label": "Ethereum",
+        "price": 2488.86,
+        "change24h": 0.013874346975658211
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների ակտիվությամբ, որոնք ազդում են ինչպես կրիպտոարժույթների ընդունման, այնպես էլ հարկային քաղաքականության վրա։ Միաժամանակ, շարունակվում են անվտանգության հետ կապված միջադեպերը, սակայն կան նաև կարևոր տեխնոլոգիական զարգացումներ։",
+    "items": [
+      {
+        "headline": "Ուզբեկիստանը փորձարկում է stablecoin վճարումներ",
+        "summary": "Ուզբեկիստանը սկսել է կառավարական պարտատոմսերով ապահովված stablecoin-ի վճարումների փորձնական ծրագիր՝ Humo Digital-ի միջոցով ավելի քան 20 առևտրականների հետ։",
+        "link": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Uzbekistan begins government bond-backed stablecoin payment pilot",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M206SWCMNKXPJXWKTH0HCEYH/s.jpg"
+      },
+      {
+        "headline": "Հարավային Կորեան խնայողություններ է տեսնում stablecoin-ներից",
+        "summary": "Հարավային Կորեայի բյուջետային գրասենյակը հայտարարել է, որ stablecoin-ները կարող են տարեկան մինչև 3.8 միլիարդ դոլար խնայել առևտրականների համար, սակայն նախազգուշացրել է բանկերի դերի նվազման և կայունության հնարավոր ռիսկերի մասին։",
+        "link": "https://www.coindesk.com/business/2026/09/08/stablecoins-could-save-south-korean-merchants-up-to-usd3-8-billion-a-year-budget-office-says",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d942a1634dad0f09e3b8e09b5f0184eaa796bc57-4240x2385.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Cronos-ը հաստատում է $9.2M կորուստը",
+        "summary": "Cronos-ը հաստատել է, որ Tectonic-ի շահագործման արդյունքում 9.2 միլիոն դոլար է կորել, նախքան վավերացնողների միջամտությունը։",
+        "link": "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Cronos confirms $9.2M slipped away before Tectonic exploit rollback",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg"
+      },
+      {
+        "headline": "Liquid Network-ը վերադարձրել է Bitcoin-ի մի մասը",
+        "summary": "Liquid Network-ը սպիտակ գլխարկավոր հաքերներից հետ է ստացել 3,400 Bitcoin, սակայն մոտ 47 միլիոն դոլարի Bitcoin դեռևս չի վերադարձվել։",
+        "link": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/715902191aa8f46558dbd6a00c7b125cde303fe5-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Ethereum-ը ձգտում է քվանտային անվտանգության",
+        "summary": "Ethereum-ը նպատակ ունի մինչև 2029 թվականը հասնել ամբողջական հետքվանտային անվտանգության՝ սկսելով Hegotá արդիականացման շրջանակներում հաշվի աբստրակցիայից և գրաքննության դիմադրությունից։",
+        "link": "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716",
+        "source": "The Block",
+        "enTitle": "Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form",
+        "image": "https://www.tbstat.com/wp/uploads/2024/05/20240523_Ethereum_News_2-1200x675.jpg"
+      },
+      {
+        "headline": "Շվեդիան $51M հարկ է պահանջում կրիպտո ընկերություններից",
+        "summary": "Շվեդիայի հարկային գործակալությունը վեց կրիպտոարժույթի մայնինգ ընկերություններից պահանջել է վճարել մոտ 51 միլիոն դոլար հետին հարկեր և տույժեր։",
+        "link": "https://news.bitcoin.com/crypto-news/sweden-hits-6-crypto-firms-with-51m-back-tax-demand/",
+        "source": "Bitcoin News",
+        "enTitle": "Sweden Hits 6 Crypto Firms With $51M Back Tax Demand",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/sweden-hits-6-crypto-firms-with-51m-back-tax-demand-768x432.jpg"
       }
     ]
   }
