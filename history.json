@@ -4228,7 +4228,7 @@
   },
   {
     "date": "2026-09-08",
-    "ts": 1788862687520,
+    "ts": 1788894508286,
     "fng": {
       "value": 69,
       "label": "Greed",
@@ -4238,64 +4238,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 78717,
-        "change24h": -0.8452051999064323
+        "price": 78476,
+        "change24h": -0.8857439363878974
       },
       {
         "label": "Ethereum",
-        "price": 2488.86,
-        "change24h": 0.013874346975658211
+        "price": 2488.22,
+        "change24h": -0.09666416986757527
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների ակտիվությամբ, որոնք ազդում են ինչպես կրիպտոարժույթների ընդունման, այնպես էլ հարկային քաղաքականության վրա։ Միաժամանակ, շարունակվում են անվտանգության հետ կապված միջադեպերը, սակայն կան նաև կարևոր տեխնոլոգիական զարգացումներ։",
+    "overview": "Կրիպտո շուկան այսօր նշանավորվել է ինստիտուցիոնալ ընդունման և ավանդական ֆինանսների հետ ինտեգրման զարգացումներով։ Կարևոր գործընկերություններն ու ձեռքբերումները ցույց են տալիս ոլորտի աճը, չնայած որոշ անվտանգության միջադեպերին։",
     "items": [
       {
-        "headline": "Ուզբեկիստանը փորձարկում է stablecoin վճարումներ",
-        "summary": "Ուզբեկիստանը սկսել է կառավարական պարտատոմսերով ապահովված stablecoin-ի վճարումների փորձնական ծրագիր՝ Humo Digital-ի միջոցով ավելի քան 20 առևտրականների հետ։",
-        "link": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Uzbekistan begins government bond-backed stablecoin payment pilot",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M206SWCMNKXPJXWKTH0HCEYH/s.jpg"
-      },
-      {
-        "headline": "Հարավային Կորեան խնայողություններ է տեսնում stablecoin-ներից",
-        "summary": "Հարավային Կորեայի բյուջետային գրասենյակը հայտարարել է, որ stablecoin-ները կարող են տարեկան մինչև 3.8 միլիարդ դոլար խնայել առևտրականների համար, սակայն նախազգուշացրել է բանկերի դերի նվազման և կայունության հնարավոր ռիսկերի մասին։",
-        "link": "https://www.coindesk.com/business/2026/09/08/stablecoins-could-save-south-korean-merchants-up-to-usd3-8-billion-a-year-budget-office-says",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d942a1634dad0f09e3b8e09b5f0184eaa796bc57-4240x2385.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Cronos-ը հաստատում է $9.2M կորուստը",
-        "summary": "Cronos-ը հաստատել է, որ Tectonic-ի շահագործման արդյունքում 9.2 միլիոն դոլար է կորել, նախքան վավերացնողների միջամտությունը։",
-        "link": "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Cronos confirms $9.2M slipped away before Tectonic exploit rollback",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg"
-      },
-      {
-        "headline": "Liquid Network-ը վերադարձրել է Bitcoin-ի մի մասը",
-        "summary": "Liquid Network-ը սպիտակ գլխարկավոր հաքերներից հետ է ստացել 3,400 Bitcoin, սակայն մոտ 47 միլիոն դոլարի Bitcoin դեռևս չի վերադարձվել։",
-        "link": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/715902191aa8f46558dbd6a00c7b125cde303fe5-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Ethereum-ը ձգտում է քվանտային անվտանգության",
-        "summary": "Ethereum-ը նպատակ ունի մինչև 2029 թվականը հասնել ամբողջական հետքվանտային անվտանգության՝ սկսելով Hegotá արդիականացման շրջանակներում հաշվի աբստրակցիայից և գրաքննության դիմադրությունից։",
-        "link": "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716",
-        "source": "The Block",
-        "enTitle": "Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form",
-        "image": "https://www.tbstat.com/wp/uploads/2024/05/20240523_Ethereum_News_2-1200x675.jpg"
-      },
-      {
-        "headline": "Շվեդիան $51M հարկ է պահանջում կրիպտո ընկերություններից",
-        "summary": "Շվեդիայի հարկային գործակալությունը վեց կրիպտոարժույթի մայնինգ ընկերություններից պահանջել է վճարել մոտ 51 միլիոն դոլար հետին հարկեր և տույժեր։",
-        "link": "https://news.bitcoin.com/crypto-news/sweden-hits-6-crypto-firms-with-51m-back-tax-demand/",
+        "headline": "Robinhood-ը բաժնետոմսեր է ձեռք բերում Crypto.com-ում",
+        "summary": "Robinhood-ը բաժնետոմսեր է ձեռք բերել Crypto.com-ում և OG.com-ում՝ ընդլայնելու իր կանխատեսումների շուկաների բիզնեսը։",
+        "link": "https://news.bitcoin.com/igaming/robinhood-takes-stakes-in-crypto-com-and-its-5b-prediction-spinout/",
         "source": "Bitcoin News",
-        "enTitle": "Sweden Hits 6 Crypto Firms With $51M Back Tax Demand",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/sweden-hits-6-crypto-firms-with-51m-back-tax-demand-768x432.jpg"
+        "enTitle": "Robinhood Takes Stakes in Crypto.com and Its $5B Prediction Spinout",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/crypto-com-prediction-exchange-seeks-federal-shield-ahead-of-washington-crackdown-768x432.jpg"
+      },
+      {
+        "headline": "Visa-ն ինտեգրում է onchain վարկավորումը",
+        "summary": "Visa-ն օգտագործում է բլոկչեյն վարկավորման գործիքներ՝ ֆինտեխ ընկերություններին և stablecoin-ի հետ կապված քարտային ծրագրերին աշխատանքային կապիտալ տրամադրելու համար։",
+        "link": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
+        "source": "Decrypt",
+        "enTitle": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg@png"
+      },
+      {
+        "headline": "Strive-ը գնում է 109 միլիոն դոլարի Bitcoin",
+        "summary": "Strive ակտիվների կառավարիչը անցյալ շաբաթ ավելացրել է 1,375 BTC՝ շարունակելով իր Bitcoin-ի կուտակումը։",
+        "link": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion",
+        "source": "Decrypt",
+        "enTitle": "Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-03-gID_7.png@png"
+      },
+      {
+        "headline": "Cronos-ը չեղարկել է գործարքները",
+        "summary": "Cronos-ը չեղարկել է երկու ժամվա գործարքները՝ 111 միլիոն դոլարի DeFi շահագործումը հետ շրջելու համար, սակայն 9.19 միլիոն դոլար մնում է չվերականգնված։",
+        "link": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
+        "source": "Decrypt",
+        "enTitle": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cronos-decrypt-style-01-gID_7.png@png"
+      },
+      {
+        "headline": "Bitmine-ը ավելացնում է Ethereum-ի պահուստները",
+        "summary": "Tom Lee-ի Bitmine ընկերությունը ավելացրել է 70 միլիոն դոլարի Ethereum՝ իր պահուստները հասցնելով 5.93 միլիոն ETH-ի։",
+        "link": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
+        "source": "Decrypt",
+        "enTitle": "Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg@png"
+      },
+      {
+        "headline": "Circle-ը ձեռք է բերում Tazapay-ը",
+        "summary": "Circle-ը համաձայնել է 400 միլիոն դոլարով ձեռք բերել Tazapay-ը՝ ընդլայնելով իր սահմանային վճարումների ենթակառուցվածքը։",
+        "link": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0738e13835f743ba2e3a2f26f7579b27661d1eac-4608x2592.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
