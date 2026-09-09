@@ -4236,7 +4236,7 @@
   },
   {
     "date": "2026-09-09",
-    "ts": 1788949527267,
+    "ts": 1788980191970,
     "fng": {
       "value": 66,
       "label": "Greed",
@@ -4246,64 +4246,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 79061,
-        "change24h": 0.22907253305365924
+        "price": 78480,
+        "change24h": 0.14876973186562106
       },
       {
         "label": "Ethereum",
-        "price": 2491.02,
-        "change24h": -0.10515991548842647
+        "price": 2485.58,
+        "change24h": 0.10252493891217392
       }
     ],
-    "overview": "Կրիպտոարժույթների շուկայում այսօր նկատվում է կարգավորող մարմինների մարտահրավերների և ինստիտուցիոնալ ընդունման ու ընդլայնման խառը պատկեր։ Մի կողմից, ԱՄՆ-ում կարգավորող օրենքների ընդունման շուրջ անորոշություն կա, մյուս կողմից՝ ընկերությունները շարունակում են ընդլայնել իրենց ծառայությունները և նոր ապրանքներ առաջարկել։",
+    "overview": "Օրը նշանավորվել է կրիպտոարժույթների կարգավորման և ինստիտուցիոնալ որդեգրման զգալի զարգացումներով, ինչպես նաև խոշոր կորպորատիվ վերակազմավորումներով և նոր ֆինանսական նախաձեռնություններով։",
     "items": [
       {
-        "headline": "Իրանը թույլ է տալիս կրիպտոարժույթով վճարումներ",
-        "summary": "Իրանը մեղմացրել է արտարժույթի վերահսկողությունը՝ թույլ տալով առևտրականներին իրենց արտասահմանյան եկամուտները կրիպտոարժույթով տուն բերել՝ շրջանցելով պաշտոնական արտարժույթի համակարգը։",
-        "link": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/55b2ffa92f9021ee7ab57d729b1cea64704b9552-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "CLARITY Act-ի ընդունման հավանականությունը նվազում է",
-        "summary": "Հանրապետական սենատորները հայտարարել են, որ Digital Asset Market Clarity Act օրենքի ընդունման հավանականությունը Սենատում սեպտեմբերի 15-ին կայանալիք քվեարկության ժամանակ լավ չի թվում։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/clarity-act-republican-senators-fail-white-house-ethics/",
+        "headline": "MetaMask-ը առանձնանում է Consensys-ից",
+        "summary": "Consensys-ը հայտարարել է երկու անկախ ընկերությունների բաժանման մասին, որի արդյունքում MetaMask-ը կդառնա առանձին սպառողական դրամապանակի հարթակ։",
+        "link": "https://news.bitcoin.com/crypto-news/metamask-breaks-free-from-consensys-as-2027-ipo-buzz-heats-up/",
         "source": "Bitcoin News",
-        "enTitle": "Republican Senators Say CLARITY ACT Passage Odds Aren’t Looking Good",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/capitol-768x432.jpg"
+        "enTitle": "Metamask Breaks Free From Consensys as 2027 IPO Buzz Heats Up",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/metamask-breaks-free-from-consensys-as-2027-ipo-buzz-heats-up-768x432.png"
       },
       {
-        "headline": "XRP ETF-ները որպես գրավ Charles Schwab-ում",
-        "summary": "Չորս ԱՄՆ spot XRP ETF-ների բաժնետոմսերն օգտագարծվում են որպես գրավ Charles Schwab-ի դրամական ֆոնդից գրեթե 4 միլիարդ դոլարի փոխառությունների դիմաց։",
-        "link": "https://news.bitcoin.com/crypto-news/xrp-etf-repo-collateral-schwab-money-fund-jp-morgan-bofa/",
-        "source": "Bitcoin News",
-        "enTitle": "Four XRP ETFs Now Sit in a Schwab Money Fund’s Repo Collateral",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/xrp-768x432.jpg"
-      },
-      {
-        "headline": "Block-ը դիմում է բանկային լիցենզիայի համար",
-        "summary": "Jack Dorsey-ի Block ընկերությունը դիմել է բանկային լիցենզիայի համար՝ Bitcoin-ի պահպանման ծառայություններ մատուցելու նպատակով։",
-        "link": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
-        "source": "Decrypt",
-        "enTitle": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/jack-dorsey-twitter-square-bitcoin-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "Gemini-ն լիցենզիա է ստացել Սինգապուրում",
-        "summary": "Gemini-ի տեղական կազմակերպությունը Սինգապուրում ստացել է վճարային լիցենզիա՝ թվային վճարային նշանների և անդրսահմանային դրամական փոխանցումների ծառայություններ մատուցելու համար։",
-        "link": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "TRM Labs-ի արժեքը կրկնապատկվել է",
+        "summary": "Բլոկչեյն հետախուզական TRM Labs ընկերությունը Series C ֆինանսավորման փուլում կրկնապատկել է իր գնահատված արժեքը՝ հասնելով 2 միլիարդ դոլարի։",
+        "link": "https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Gemini receives Singapore payment license for crypto services",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22A0GM1G22S8VPZXWGBQS1G/hi-time-to-switch-license-singapore.jpg"
+        "enTitle": "TRM Labs doubles valuation to $2B in Series C expansion",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23JCY6CREQKFY9A4SRB13GG/hi-institutional-trading-and-cryptocurrency-industry-investment.png"
       },
       {
-        "headline": "Առաջին staked ETF-ը Tron-ի համար ԱՄՆ-ում",
-        "summary": "Tron-ի հետ կապված առաջին staked ETF-ը չորեքշաբթի օրը կմտնի ԱՄՆ շուկա՝ ներդրողներին TRX-ի նկատմամբ նոր հնարավորություն տալով։",
-        "link": "https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935",
-        "source": "The Block",
-        "enTitle": "First staked ETF tied to Tron hits the US markets on Wednesday",
-        "image": "https://www.tbstat.com/wp/uploads/2022/06/22020627_Tron-1200x675.jpg"
+        "headline": "U.S. Bank-ը փորձարկում է stablecoin-ը Stellar-ում",
+        "summary": "U.S. Bank-ը փորձարկել է իր սեփական USBDC stablecoin-ը՝ իր հյուսիսամերիկյան և եվրոպական կառույցների միջև անդրսահմանային գործարքներ կատարելով հանրային Stellar բլոկչեյնի վրա։",
+        "link": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-swift-2.png"
+      },
+      {
+        "headline": "Tether-ը $400 մլն ֆոնդ է ստեղծում",
+        "summary": "Tether-ը Fasanara-ի հետ համատեղ գործարկել է 400 միլիոն դոլար արժողությամբ մասնավոր վարկային ֆոնդ՝ նպատակ ունենալով ընդլայնել իր ազդեցությունը մասնավոր վարկավորման ոլորտում։",
+        "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Tether pushes into private credit with $400 million fund with Fasanara",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfd80702a660a5deef3d056a315228038910dde5-1405x790.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել Xinbi-ի դեմ",
+        "summary": "ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել Xinbi Guarantee կիբերխարդախության կենտրոնի դեմ՝ մեղադրելով այն կրիպտոարժույթների գործարքների միջոցով հանցավոր ցանցերին ծառայություններ մատուցելու մեջ։",
+        "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/5b751c64af19824fc862118663629188f655c38e-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Գերմանիան կրիպտո շահույթի հարկ է սահմանում",
+        "summary": "Գերմանիայի ֆինանսների նախարարությունը նախագիծ է մշակել՝ 2027 թվականից կրիպտոարժույթների շահույթի վրա 25% հարկ սահմանելու համար, որը կազդի ապագա գնորդների վրա։",
+        "link": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
+        "source": "Decrypt",
+        "enTitle": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/cryptocurrency-world-decrypt-style-gID_7.jpg@png"
       }
     ]
   }
