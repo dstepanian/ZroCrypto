@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-07-11",
-    "ts": 1783788263950,
-    "fng": {
-      "value": 26,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 64074,
-        "change24h": 0.25903616440725247
-      },
-      {
-        "label": "Ethereum",
-        "price": 1816.16,
-        "change24h": 1.4877877989974846
-      }
-    ],
-    "overview": "Շուկան վերականգնման նշաններ է ցույց տալիս՝ Bitcoin և Ether ETF-ների զգալի ներհոսքերով, ինչը վկայում է ներդրողների նոր հետաքրքրության մասին։ Այնուամենայնիվ, կան նաև նշանավոր իրադարձություններ, ինչպիսիք են Hedera ցանցի վրա տեղի ունեցած խոշոր շահագործումը և Nasdaq-ում ցուցակված ընկերության կողմից իր Bitcoin պահուստների մեծ մասի վաճառքը, ինչպես նաև նոր կարգավորող զարգացումներ, օրինակ՝ ԱՄՆ-ում CBDC-ի արգելքի օրենք դառնալը։",
-    "items": [
-      {
-        "headline": "Bitcoin և Ether ETF-ների զգալի ներհոսքեր",
-        "summary": "ԱՄՆ-ի spot Bitcoin և Ether ETF-ները գրանցել են զգալի ներհոսքեր՝ ավարտելով ութշաբաթյա արտահոսքի շրջանը և նշելով Bitcoin ETF-ների առաջին դրական շաբաթը մայիսից ի վեր։",
-        "link": "https://news.bitcoin.com/blackrock-vaneck-90-million-bitcoin-etf-inflow-first-green-week/",
-        "source": "Bitcoin News",
-        "enTitle": "Blackrock and Vaneck Lead $90 Million Bitcoin ETF Inflow as Funds Notch First Green Week Since May",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/bitcoin-and-ether-etfs-attract-286-million-as-blackrock-funds-spark-broad-recovery-768x432.jpg"
-      },
-      {
-        "headline": "Hedera ցանցում խոշոր շահագործում",
-        "summary": "Hedera ցանցում ենթադրյալ շահագործման հետևանքով Bonzo Lend-ից գողացվել է մոտ 9 միլիոն դոլար, որի մի մասը փոխանցվել է Ethereum։",
-        "link": "https://news.bitcoin.com/peckshield-hedera-exploit-5-25-million-bridged-ethereum/",
-        "source": "Bitcoin News",
-        "enTitle": "Peckshield: $5.25 Million Drained From Hedera and Bridged to Ethereum in Suspected Exploit",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/peckshield-5-25-million-drained-from-hedera-and-bridged-to-ethereum-in-suspected-exploit2_nwmk-768x432.jpg"
-      },
-      {
-        "headline": "ԱՄՆ-ում CBDC արգելքը դարձավ օրենք",
-        "summary": "21st Century ROAD to Housing Act օրինագիծը, որը ներառում է ԱՄՆ-ում կենտրոնական բանկի թվային արժույթի (CBDC) արգելքի դրույթ, դարձել է օրենք՝ առանց նախագահի ստորագրության։",
-        "link": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "US CBDC ban to go into effect without Trump signoff on housing bill",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/top-10-congresspeople-involved-in-crypto-cbdc.png"
-      },
-      {
-        "headline": "Metaplanet-ը ուսումնասիրում է Bitcoin-ով ապահովված պարտատոմսեր",
-        "summary": "Ճապոնական Metaplanet ընկերությունը կուսումնասիրի Bitcoin-ով ապահովված թվային վարկային ապրանքներ, ներառյալ թվային կորպորատիվ պարտատոմսեր, որոնք կկարգավորվեն իեն stablecoin-ի միջոցով։",
-        "link": "https://news.bitcoin.com/metaplanet-to-research-bitcoin-collateral-for-round-the-clock-bond-settlement/",
-        "source": "Bitcoin News",
-        "enTitle": "Metaplanet to Research Bitcoin Collateral for Round-the-Clock Bond Settlement",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/metaplanet-to-research-bitcoin-collateral-for-round-the-clock-bond-settlement-768x432.png"
-      },
-      {
-        "headline": "Empery Digital-ը վաճառել է իր Bitcoin-ի կեսը",
-        "summary": "Nasdaq-ում ցուցակված Empery Digital ընկերությունը վաճառել է իր Bitcoin-ի պահուստների գրեթե կեսը՝ 1400 BTC՝ 87 միլիոն դոլարով, AI տվյալների կենտրոնի գործարքը ֆինանսավորելու համար։",
-        "link": "https://decrypt.co/373278/bitcoin-firm-empery-digital-dumps-half-btc-holdings-87-million",
-        "source": "Decrypt",
-        "enTitle": "Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-25-gID_7.png@png"
-      }
-    ]
-  },
-  {
     "date": "2026-07-12",
     "ts": 1783874858764,
     "fng": {
@@ -4296,6 +4231,79 @@
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
         "enTitle": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/0738e13835f743ba2e3a2f26f7579b27661d1eac-4608x2592.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-09",
+    "ts": 1788949527267,
+    "fng": {
+      "value": 66,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 79061,
+        "change24h": 0.22907253305365924
+      },
+      {
+        "label": "Ethereum",
+        "price": 2491.02,
+        "change24h": -0.10515991548842647
+      }
+    ],
+    "overview": "Կրիպտոարժույթների շուկայում այսօր նկատվում է կարգավորող մարմինների մարտահրավերների և ինստիտուցիոնալ ընդունման ու ընդլայնման խառը պատկեր։ Մի կողմից, ԱՄՆ-ում կարգավորող օրենքների ընդունման շուրջ անորոշություն կա, մյուս կողմից՝ ընկերությունները շարունակում են ընդլայնել իրենց ծառայությունները և նոր ապրանքներ առաջարկել։",
+    "items": [
+      {
+        "headline": "Իրանը թույլ է տալիս կրիպտոարժույթով վճարումներ",
+        "summary": "Իրանը մեղմացրել է արտարժույթի վերահսկողությունը՝ թույլ տալով առևտրականներին իրենց արտասահմանյան եկամուտները կրիպտոարժույթով տուն բերել՝ շրջանցելով պաշտոնական արտարժույթի համակարգը։",
+        "link": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/55b2ffa92f9021ee7ab57d729b1cea64704b9552-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "CLARITY Act-ի ընդունման հավանականությունը նվազում է",
+        "summary": "Հանրապետական սենատորները հայտարարել են, որ Digital Asset Market Clarity Act օրենքի ընդունման հավանականությունը Սենատում սեպտեմբերի 15-ին կայանալիք քվեարկության ժամանակ լավ չի թվում։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/clarity-act-republican-senators-fail-white-house-ethics/",
+        "source": "Bitcoin News",
+        "enTitle": "Republican Senators Say CLARITY ACT Passage Odds Aren’t Looking Good",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/capitol-768x432.jpg"
+      },
+      {
+        "headline": "XRP ETF-ները որպես գրավ Charles Schwab-ում",
+        "summary": "Չորս ԱՄՆ spot XRP ETF-ների բաժնետոմսերն օգտագարծվում են որպես գրավ Charles Schwab-ի դրամական ֆոնդից գրեթե 4 միլիարդ դոլարի փոխառությունների դիմաց։",
+        "link": "https://news.bitcoin.com/crypto-news/xrp-etf-repo-collateral-schwab-money-fund-jp-morgan-bofa/",
+        "source": "Bitcoin News",
+        "enTitle": "Four XRP ETFs Now Sit in a Schwab Money Fund’s Repo Collateral",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/xrp-768x432.jpg"
+      },
+      {
+        "headline": "Block-ը դիմում է բանկային լիցենզիայի համար",
+        "summary": "Jack Dorsey-ի Block ընկերությունը դիմել է բանկային լիցենզիայի համար՝ Bitcoin-ի պահպանման ծառայություններ մատուցելու նպատակով։",
+        "link": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
+        "source": "Decrypt",
+        "enTitle": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/jack-dorsey-twitter-square-bitcoin-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Gemini-ն լիցենզիա է ստացել Սինգապուրում",
+        "summary": "Gemini-ի տեղական կազմակերպությունը Սինգապուրում ստացել է վճարային լիցենզիա՝ թվային վճարային նշանների և անդրսահմանային դրամական փոխանցումների ծառայություններ մատուցելու համար։",
+        "link": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Gemini receives Singapore payment license for crypto services",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22A0GM1G22S8VPZXWGBQS1G/hi-time-to-switch-license-singapore.jpg"
+      },
+      {
+        "headline": "Առաջին staked ETF-ը Tron-ի համար ԱՄՆ-ում",
+        "summary": "Tron-ի հետ կապված առաջին staked ETF-ը չորեքշաբթի օրը կմտնի ԱՄՆ շուկա՝ ներդրողներին TRX-ի նկատմամբ նոր հնարավորություն տալով։",
+        "link": "https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935",
+        "source": "The Block",
+        "enTitle": "First staked ETF tied to Tron hits the US markets on Wednesday",
+        "image": "https://www.tbstat.com/wp/uploads/2022/06/22020627_Tron-1200x675.jpg"
       }
     ]
   }
