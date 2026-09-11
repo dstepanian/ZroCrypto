@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-13",
-    "ts": 1783964941580,
-    "fng": {
-      "value": 28,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 62054,
-        "change24h": -3.21997215648618
-      },
-      {
-        "label": "Ethereum",
-        "price": 1765.95,
-        "change24h": -2.97938422504763
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան նշանավորվեց կայուն մետաղադրամների ընդունման աճով և կարգավորող մարմինների ու խոշոր ընկերությունների կողմից թոքենացման նկատմամբ հետաքրքրությամբ։ Բացի այդ, նկատվեց ինստիտուցիոնալ ներդրումների վերականգնում և նոր պլատֆորմների զարգացում։",
-    "items": [
-      {
-        "headline": "USDT-ի ընդունման աճ",
-        "summary": "Բոլիվիան դիտարկում է USDT-ն որպես վճարային արժույթ ճանաչելու հնարավորությունը, մինչդեռ Hyundai-ը փորձարկել է USDT-ով անդրսահմանային գանձապետական հաշվարկները։",
-        "link": "https://cointelegraph.com/news/bolivia-weighs-usdt-payment-currency-amid-dollar-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bolivia mulls recognizing USDT as payment currency amid dollar shortage",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-157300-bolivia-banco-bisa-usdt-custody.jpg"
-      },
-      {
-        "headline": "Robinhood Chain-ի մեմ մետաղադրամների գերակայությունը",
-        "summary": "Robinhood Chain-ի վրա առևտրի ծավալի մեծ մասը բաժին է ընկնում մեմ մետաղադրամներին, այլ ոչ թե թոքենացված բաժնետոմսերին, որոնց համար այն ստեղծվել էր։",
-        "link": "https://news.bitcoin.com/robinhood-chain-surges-l2-posts-more-than-3-billion-in-dex-volume-with-7-million-daily-transfers/",
-        "source": "Bitcoin News",
-        "enTitle": "Robinhood Chain Surges: L2 Posts More Than $3 Billion in DEX Volume With 7 Million Daily Transfers",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/robinhood-chain-surges-l2-posts-more-than-3-billion-in-dex-volume-with-7-million-daily-transfers-768x432.png"
-      },
-      {
-        "headline": "ԱՄՆ-ում կրիպտո կանոնակարգման մղում",
-        "summary": "Նախագահ Թրամփը և Սպիտակ տունը ճնշում են Սենատին՝ առաջ մղելու CLARITY Act-ը՝ զգուշացնելով ԱՄՆ-ի կրիպտո առաջատար դիրքի վրա Չինաստանի սպառնալիքի մասին։",
-        "link": "https://news.bitcoin.com/trump-escalates-clarity-act-push-as-china-threatens-us-crypto-lead/",
-        "source": "Bitcoin News",
-        "enTitle": "Trump Escalates CLARITY Act Push as China Threatens US Crypto Lead",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/donald-trump-768x432.jpg"
-      },
-      {
-        "headline": "Bitcoin և Ether ETF-ների ներհոսքեր",
-        "summary": "Bitcoin և Ether ETF-ները դադարեցրել են ութշաբաթյա արտահոսքերը՝ գրանցելով 282 միլիոն դոլարի համակցված ներհոսքեր։",
-        "link": "https://news.bitcoin.com/bitcoin-and-ether-etfs-snap-8-week-outflow-run-with-combined-inflows-of-282-million/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin and Ether ETFs Snap 8-Week Outflow Run With Combined Inflows of $282 Million",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/bitcoin-and-ether-etfs-snap-8-week-outflow-run-with-combined-inflows-of-282-million-768x432.jpg"
-      },
-      {
-        "headline": "SBI Holdings-ը և Solana Foundation-ը համագործակցում են",
-        "summary": "SBI Holdings-ը և Solana Foundation-ը համագործակցում են Ճապոնիայի on-chain ֆինանսական շուկաները գործարկելու համար՝ կենտրոնանալով վճարումների և RWA-ների վրա։",
-        "link": "https://news.bitcoin.com/sbi-holdings-and-solana-foundation-partner-to-launch-japans-on-chain-financial-markets/",
-        "source": "Bitcoin News",
-        "enTitle": "SBI Holdings and Solana Foundation Partner to Launch Japan’s On-Chain Financial Markets",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/sbi-holdings-768x432.jpg"
-      },
-      {
-        "headline": "Tether-ի ոսկու պահուստները վարկավորման համար",
-        "summary": "Tether-ի 20 միլիարդ դոլար արժողությամբ ոսկու պահուստները, որոնք հավասար են ազգային պահուստին, կօգտագործվեն վարկավորման համար։",
-        "link": "https://cryptoslate.com/tethers-23-billion-mountain-of-gold-equivalent-to-a-top-20-nation-state-reserve-to-be-used-for-lending/",
-        "source": "CryptoSlate",
-        "enTitle": "Tether’s $20 billion mountain of gold – equal to a national reserve – to be used for lending",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/tether-gold-reserves-xaut-vault-stablecoin-strategy.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-14",
     "ts": 1784048653173,
     "fng": {
@@ -4304,6 +4231,79 @@
         "source": "Bitcoin News",
         "enTitle": "Bitcoin Fund Lost 36% of Its Backing, Nobody Noticed for 74 Days",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-fund-lost-36-of-its-backing-nobody-noticed-for-74-days-768x432.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "ts": 1789121717070,
+    "fng": {
+      "value": 56,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 77081,
+        "change24h": -1.113044034080167
+      },
+      {
+        "label": "Ethereum",
+        "price": 2468.94,
+        "change24h": 0.03711463298185177
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է խառը տրամադրություններով՝ կարևոր իրավական զարգացումներով և անվտանգության հետ կապված մտահոգություններով, բայց նաև նշանակալի առաջընթացով ավանդական ֆինանսական համակարգերում ակտիվների ինտեգրման և ընդունման գործում։",
+    "items": [
+      {
+        "headline": "SBF-ը Գերագույն Դատարան է դիմել",
+        "summary": "Սեմ Բենքման-Ֆրիդը Գերագույն Դատարանին խնդրել է չեղարկել FTX-ի խարդախության մեղադրանքը և 11 միլիարդ դոլարի բռնագրավումը։",
+        "link": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction",
+        "source": "Decrypt",
+        "enTitle": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/sam-bankman-fried-ftx-sbf-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Blockstream-ը հրաժարվում է փրկագնից",
+        "summary": "Blockstream-ը հայտարարել է, որ կհամագործակցի իրավապահ մարմինների հետ՝ Liquid ցանցի հաքերների կողմից գողացված գրեթե 600 BTC-ն վերականգնելու համար։",
+        "link": "https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27QFNQHXK4AQ23CPKY39BZF/hi-can-bitcoin-be-hacked-3.jpg"
+      },
+      {
+        "headline": "Հնդկաստանը սկսում է պարտատոմսերի թոքենիզացիան",
+        "summary": "Հնդկաստանը սկսել է 620 միլիարդ դոլար արժողությամբ կորպորատիվ պարտատոմսերի շուկայի թոքենիզացիան՝ օգտագործելով թվային ռուփիով հաշվարկներ։",
+        "link": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/a3eceb8aeec24d03372ed17e149a9e6c5b546972-2304x1296.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Bitwise-ը փակում է Dogecoin ETF-ը",
+        "summary": "Bitwise-ը մեկ տարուց էլ քիչ ժամանակ անց փակում է իր Dogecoin ETF-ը (BWOW)՝ ցածր ակտիվների և առևտրի ծավալների պատճառով։",
+        "link": "https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitwise to put down Dogecoin ETF less than a year after launch",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27PG6K246A1E33FQTARMGXQ/hi-how-to-buy-and-sell-dogecoin-etf.png"
+      },
+      {
+        "headline": "Coinbase-ը ընդլայնում է Stablecoin-ի հասանելիությունը",
+        "summary": "Coinbase-ի և Moov-ի համագործակցությունը հնարավորություն կտա ավելի քան 1,000 բանկերին և վարկային միություններին մուտք ունենալ stablecoin վճարումներին և պահպանմանը։",
+        "link": "https://news.bitcoin.com/featured/coinbase-moov-deal-opens-stablecoins-to-1000-banks-and-credit-unions/",
+        "source": "Bitcoin News",
+        "enTitle": "Coinbase-Moov Deal Opens Stablecoins to 1,000+ Banks and Credit Unions",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/coinbase-inc-768x432.jpg"
+      },
+      {
+        "headline": "XRP նախագիծը փակվում է հաքերային հարձակումից հետո",
+        "summary": "Մի XRP նախագիծ փակվում է դրամապանակի խոցելիության պատճառով, որը բացահայտել է 4,000 հաշիվ և արտահոսել 450,000 դոլար։",
+        "link": "https://cryptoslate.com/this-xrp-project-is-shutting-down-after-wallet-flaw-exposed-4000-accounts-and-drained-450000/",
+        "source": "CryptoSlate",
+        "enTitle": "This XRP project is shutting down after wallet flaw exposed 4,000 accounts and drained $450,000",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/xrph-weak-key-exploit.jpg"
       }
     ]
   }
