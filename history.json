@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-15",
-    "ts": 1784135212034,
-    "fng": {
-      "value": 25,
-      "label": "Extreme Fear",
-      "hy": "Ծայրահեղ վախ",
-      "dot": "🔴"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 65074,
-        "change24h": 0.7952225626426868
-      },
-      {
-        "label": "Ethereum",
-        "price": 1920.99,
-        "change24h": 2.95819223028462
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ավանդական ֆինանսների հետ բլոկչեյնի ինտեգրման զգալի առաջընթացով, հատկապես թոքենիզացված արժեթղթերի ոլորտում։ Միաժամանակ, շարունակվում են DeFi տարածքի անվտանգության մարտահրավերները, ինչպես նաև դրական հոսքեր են նկատվում Bitcoin և Ether ETF-ներում։",
-    "items": [
-      {
-        "headline": "DTCC-ն սկսում է թոքենիզացված արժեթղթերի առևտուրը",
-        "summary": "DTCC-ն իրականացրել է թոքենիզացված արժեթղթերի առաջին արտադրական առևտուրը՝ նշանավորելով բլոկչեյնի ներուժը Wall Street-ի ենթակառուցվածքը վերափոխելու համար։",
-        "link": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/017c04b0a6f702fccd76ffd5aa923321e5b66146-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "BlackRock-ը ներկայացնում է կրիպտո-TradFi միաձուլման տեսլականը",
-        "summary": "BlackRock-ը նպատակ ունի առաջարկել թոքենիզացված երկարաժամկետ ներդրումներ, ինչպիսիք են գանձապետական ֆոնդերը, iShares ETF-ները և նույնիսկ մասնավոր շուկաները։",
-        "link": "https://www.theblock.co/post/408436/blackrock-outlines-vision-crypto-tradfi-convergence-product-pipeline-grows?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "BlackRock outlines vision for crypto-TradFi convergence as product pipeline grows",
-        "image": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Blackrock2-800x450.jpg"
-      },
-      {
-        "headline": "Ostium-ը կորցրել է $18 միլիոն oracle հարձակման հետևանքով",
-        "summary": "Հաքերները շահարկել են Ostium-ի գների հոսքը՝ վտանգելով oracle ստորագրողի բանալին, ինչը թույլ է տվել նրանց մոտ 18 միլիոն դոլար հանել Arbitrum-ի վրա հիմնված բորսայից։",
-        "link": "https://decrypt.co/373566/defi-exploit-ostium-oracle-hack",
-        "source": "Decrypt",
-        "enTitle": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png"
-      },
-      {
-        "headline": "Bitcoin և Ether ETF-ները դրական հոսքեր են գրանցել",
-        "summary": "Կրիպտո ETF-ների հոսքերը հուլիսի 14-ին դրական են դարձել, քանի որ Bitcoin ֆոնդերը ներգրավել են $181.08 միլիոն, իսկ Ether ETF-ները՝ $58.34 միլիոն։",
-        "link": "https://news.bitcoin.com/bitcoin-and-ether-etfs-turn-green-with-239m-in-inflows-as-japan-moves-toward-crypto-etfs/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin and Ether ETFs Turn Green With $239M in Inflows as Japan Moves Toward Crypto ETFs",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/bitcoin-and-ether-etfs-turn-green-with-239m-in-inflows-as-japan-moves-toward-crypto-etfs-768x432.jpg"
-      },
-      {
-        "headline": "Հարավային Կորեան կրիպտոարժույթները կդասակարգի որպես ազգային ակտիվներ",
-        "summary": "Հարավային Կորեայի կառավարությունը կփոփոխի 76-ամյա օրենքը՝ կրիպտոարժույթները որպես ազգային ակտիվներ դասակարգելու համար և կփորձարկի թոքենիզացված պետական պարտատոմսեր։",
-        "link": "https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "South Korea to modify 76-year-old law to classify cryptocurrencies as national assets",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/5341695125430c39d79f4aad26f660a9eb8122af-6240x4160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Aave V4-ը գործարկվել է Avalanche-ում",
-        "summary": "Aave V4-ի տեղակայումը Avalanche-ում նշանավորում է նրա առաջին ընդլայնումը Ethereum-ից դուրս և ներկայացնում է վարկավորման ենթակառուցվածք՝ ապագա թոքենիզացված իրական ակտիվների շուկաներին աջակցելու համար։",
-        "link": "https://cointelegraph.com/news/aave-brings-v4-to-avalanche-laying-groundwork-for-tokenized-asset-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-credit-1.png"
-      }
-    ]
-  },
-  {
     "date": "2026-07-16",
     "ts": 1784221448330,
     "fng": {
@@ -4304,6 +4231,79 @@
         "source": "CryptoSlate",
         "enTitle": "Blockstream bets 600 Bitcoin by rejecting Liquid hacker’s $50 million bounty demand",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/09/blockstream-bitcoin-bounty-gap.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-13",
+    "ts": 1789296543640,
+    "fng": {
+      "value": 61,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 76701,
+        "change24h": -0.8470787309819705
+      },
+      {
+        "label": "Ethereum",
+        "price": 2476.82,
+        "change24h": -2.2402544231047523
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների զգալի գործողություններով, անվտանգության հետ կապված մտահոգություններով և կրիպտոարժույթների աճող քաղաքական ազդեցությամբ։ Կայուն մետաղադրամների կարգավորման շուրջ նույնպես որոշակի պարզություն է նկատվում։",
+    "items": [
+      {
+        "headline": "Բրազիլիայի կրիպտո ընկերությունները լքում են շուկան",
+        "summary": "Բրազիլիայի կենտրոնական բանկի կողմից սահմանված նոր խիստ կապիտալի կանոնների պատճառով երկրի կրիպտո ընկերությունների մեծ մասը ստիպված է լինում լքել շուկան։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/strict-capital-rules-trigger-mass-exit-of-brazil-crypto-firms/",
+        "source": "Bitcoin News",
+        "enTitle": "Strict Capital Rules Trigger Mass Exit of Brazil Crypto Firms",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/central-bank-of-brazil-logo-768x432.jpg"
+      },
+      {
+        "headline": "Revolut-ի հաճախորդների տվյալների արտահոսք",
+        "summary": "Revolut ֆինտեխ ընկերությունը հայտնել է, որ հաճախորդների անձնագրերի, սելֆիների և ֆինանսական գործարքների պատմությունները բացահայտվել են խարդախի կողմից՝ կեղծ կառավարական էլեկտրոնային փոստի միջոցով։",
+        "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Revolut says customer data exposed through fake government email",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2D17VM4EG7ZBFYRBDRS7SSC/revolut-data-disclosure.png"
+      },
+      {
+        "headline": "Դաշնայինները սառեցրել են $938M խարդախ կրիպտո",
+        "summary": "Դաշնային մարմինները սառեցրել են մոտ 938 միլիոն դոլարի խարդախության հետ կապված կրիպտոարժույթ՝ Xinbi Guarantee-ի դեմ պայքարի շրջանակներում։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/feds-have-now-frozen-938m-in-scam-crypto-after-telegram-market-bust/",
+        "source": "Bitcoin News",
+        "enTitle": "Feds Have Now Frozen $938M in Scam Crypto After Telegram Market Bust",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/doj-1-2-768x432.jpg"
+      },
+      {
+        "headline": "Կրիպտո միլիարդատերերը խոշոր նվիրատվություններ են կատարել Reform UK-ին",
+        "summary": "Երկու կրիպտո միլիարդատերեր՝ Բեն Դելոն և Քրիստոֆեր Հարբորնը, ռեկորդային 97 միլիոն դոլար են նվիրաբերել Նայջել Ֆարաժի Reform UK կուսակցությանը։",
+        "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/54d425afad71df8d6e1593c490cf930909b6742f-640x360.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Ripple-ը պարզաբանում է RLUSD կայուն մետաղադրամի կանոնները",
+        "summary": "Ripple-ը մանրամասնել է իր RLUSD կայուն մետաղադրամի կարգավորող կառուցվածքը և տեսնում է 13 տրիլիոն դոլարի կորպորատիվ գանձապետական հնարավորություն։",
+        "link": "https://news.bitcoin.com/featured/ripple-breaks-down-stablecoin-rules-as-institutions-evaluate-rlusd/",
+        "source": "Bitcoin News",
+        "enTitle": "Ripple Breaks Down Stablecoin Rules as Institutions Evaluate RLUSD",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/ripple-768x432.jpg"
+      },
+      {
+        "headline": "Սենատոր Լումիսը կոչ է անում քվեարկել CLARITY Act-ի օգտին",
+        "summary": "Սենատոր Սինթիա Լումիսը դեմոկրատներին կոչ է անում քվեարկել CLARITY Act-ի օգտին, որը նպատակ ունի կարգավորել ԱՄՆ կրիպտո շուկան։",
+        "link": "https://news.bitcoin.com/crypto-news/lummis-to-democrats-you-helped-build-the-clarity-act-now-vote-for-it/",
+        "source": "Bitcoin News",
+        "enTitle": "Lummis to Democrats: You Helped Build the CLARITY Act, Now Vote for It",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/lummis-to-democrats-you-helped-build-the-clarity-act-now-vote-for-it-768x432.png"
       }
     ]
   }
