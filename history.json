@@ -4236,7 +4236,7 @@
   },
   {
     "date": "2026-09-13",
-    "ts": 1789296543640,
+    "ts": 1789323951507,
     "fng": {
       "value": 61,
       "label": "Greed",
@@ -4246,20 +4246,52 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 76701,
-        "change24h": -0.8470787309819705
+        "price": 77342,
+        "change24h": 0.21681509884575184
       },
       {
         "label": "Ethereum",
-        "price": 2476.82,
-        "change24h": -2.2402544231047523
+        "price": 2507.41,
+        "change24h": -0.7294680245580969
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների զգալի գործողություններով, անվտանգության հետ կապված մտահոգություններով և կրիպտոարժույթների աճող քաղաքական ազդեցությամբ։ Կայուն մետաղադրամների կարգավորման շուրջ նույնպես որոշակի պարզություն է նկատվում։",
+    "overview": "Այսօրվա կրիպտոարժույթների շուկան բնութագրվում է անվտանգության հետ կապված մտահոգություններով և կարգավորող մարմինների աճող ուշադրությամբ: Տեղի են ունեցել խոշոր շահագործումներ և տվյալների արտահոսքեր, մինչդեռ տարբեր երկրներում ներդրվում են նոր կանոնակարգեր:",
     "items": [
       {
-        "headline": "Բրազիլիայի կրիպտո ընկերությունները լքում են շուկան",
-        "summary": "Բրազիլիայի կենտրոնական բանկի կողմից սահմանված նոր խիստ կապիտալի կանոնների պատճառով երկրի կրիպտո ընկերությունների մեծ մասը ստիպված է լինում լքել շուկան։",
+        "headline": "Symbiosis Bitcoin կամրջի խոցելիություն",
+        "summary": "Symbiosis-ի Bitcoin կամուրջը շահագործվել է, ինչի հետևանքով միլիարդավոր չապահովված syBTC է ստեղծվել, և հաքերները կարողացել են կանխիկացնել մոտ 210,000 դոլար։",
+        "link": "https://news.bitcoin.com/security/another-bitcoin-bridge-broke-and-this-time-billions-were-minted/",
+        "source": "Bitcoin News",
+        "enTitle": "Another Bitcoin Bridge Broke, and This Time Billions Were Minted",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/another-bitcoin-bridge-broke-and-this-time-billions-were-minted-768x432.png"
+      },
+      {
+        "headline": "Bitcoin Lightning-ի կրիտիկական սխալներ",
+        "summary": "Bitcoin Lightning Network-ում հայտնաբերվել են կրիտիկական սխալներ, որոնք կարող էին հանգեցնել միջոցների գողության և հանգույցների վերագործարկման խափանումների։",
+        "link": "https://cryptoslate.com/critical-bitcoin-lightning-bugs-exposed-nodes-to-fund-theft-and-restart-failure/",
+        "source": "CryptoSlate",
+        "enTitle": "Critical Bitcoin Lightning bugs exposed nodes to fund theft and restart failure",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-lightning-patch.jpg"
+      },
+      {
+        "headline": "Կրիպտո դրամապանակների նոր կանոնակարգեր",
+        "summary": "Կրիպտո դրամապանակներ ստեղծողները այժմ պարտավոր են 24 ժամվա ընթացքում տեղեկացնել կարգավորող մարմիններին անվտանգության լուրջ խնդիրների շահագործման մասին։",
+        "link": "https://cryptoslate.com/crypto-wallet-creators-now-have-just-24-hours-to-alert-regulators-when-flaws-are-exploited/",
+        "source": "CryptoSlate",
+        "enTitle": "Crypto wallet creators now have just 24 hours to alert regulators when flaws are exploited",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-cra-compliance-path.jpg"
+      },
+      {
+        "headline": "Կրիպտո միլիարդատերերի նվիրատվությունները Մեծ Բրիտանիայում",
+        "summary": "Կրիպտոարժույթների ոլորտի մագնատները խոստացել են 72 միլիոն ֆունտ ստերլինգ նվիրաբերել Reform UK կուսակցության ընտրական քարոզարշավին։",
+        "link": "https://news.bitcoin.com/crypto-news/crypto-moguls-pledge-72m-to-fund-reform-uk-election-campaign/",
+        "source": "Bitcoin News",
+        "enTitle": "Crypto Moguls Pledge £72M to Fund Reform UK Election Campaign",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/reform-uk-logo-768x432.jpg"
+      },
+      {
+        "headline": "Բրազիլիայի կրիպտո ընկերությունների արտագաղթ",
+        "summary": "Բրազիլիայում խիստ կապիտալի պահանջները հանգեցրել են կրիպտո ընկերությունների զանգվածային արտագաղթի, քանի որ քչերն են կարողանում բավարարել նոր կանոնները։",
         "link": "https://news.bitcoin.com/regulation-and-legal/strict-capital-rules-trigger-mass-exit-of-brazil-crypto-firms/",
         "source": "Bitcoin News",
         "enTitle": "Strict Capital Rules Trigger Mass Exit of Brazil Crypto Firms",
@@ -4267,43 +4299,11 @@
       },
       {
         "headline": "Revolut-ի հաճախորդների տվյալների արտահոսք",
-        "summary": "Revolut ֆինտեխ ընկերությունը հայտնել է, որ հաճախորդների անձնագրերի, սելֆիների և ֆինանսական գործարքների պատմությունները բացահայտվել են խարդախի կողմից՝ կեղծ կառավարական էլեկտրոնային փոստի միջոցով։",
+        "summary": "Revolut-ը հայտարարել է, որ հաճախորդների տվյալները, ներառյալ անձնագրերը և ֆինանսական գործարքների պատմությունները, բացահայտվել են կեղծ կառավարական էլ. փոստի միջոցով խարդախի կողմից։",
         "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
         "enTitle": "Revolut says customer data exposed through fake government email",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2D17VM4EG7ZBFYRBDRS7SSC/revolut-data-disclosure.png"
-      },
-      {
-        "headline": "Դաշնայինները սառեցրել են $938M խարդախ կրիպտո",
-        "summary": "Դաշնային մարմինները սառեցրել են մոտ 938 միլիոն դոլարի խարդախության հետ կապված կրիպտոարժույթ՝ Xinbi Guarantee-ի դեմ պայքարի շրջանակներում։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/feds-have-now-frozen-938m-in-scam-crypto-after-telegram-market-bust/",
-        "source": "Bitcoin News",
-        "enTitle": "Feds Have Now Frozen $938M in Scam Crypto After Telegram Market Bust",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/doj-1-2-768x432.jpg"
-      },
-      {
-        "headline": "Կրիպտո միլիարդատերերը խոշոր նվիրատվություններ են կատարել Reform UK-ին",
-        "summary": "Երկու կրիպտո միլիարդատերեր՝ Բեն Դելոն և Քրիստոֆեր Հարբորնը, ռեկորդային 97 միլիոն դոլար են նվիրաբերել Նայջել Ֆարաժի Reform UK կուսակցությանը։",
-        "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/54d425afad71df8d6e1593c490cf930909b6742f-640x360.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Ripple-ը պարզաբանում է RLUSD կայուն մետաղադրամի կանոնները",
-        "summary": "Ripple-ը մանրամասնել է իր RLUSD կայուն մետաղադրամի կարգավորող կառուցվածքը և տեսնում է 13 տրիլիոն դոլարի կորպորատիվ գանձապետական հնարավորություն։",
-        "link": "https://news.bitcoin.com/featured/ripple-breaks-down-stablecoin-rules-as-institutions-evaluate-rlusd/",
-        "source": "Bitcoin News",
-        "enTitle": "Ripple Breaks Down Stablecoin Rules as Institutions Evaluate RLUSD",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/ripple-768x432.jpg"
-      },
-      {
-        "headline": "Սենատոր Լումիսը կոչ է անում քվեարկել CLARITY Act-ի օգտին",
-        "summary": "Սենատոր Սինթիա Լումիսը դեմոկրատներին կոչ է անում քվեարկել CLARITY Act-ի օգտին, որը նպատակ ունի կարգավորել ԱՄՆ կրիպտո շուկան։",
-        "link": "https://news.bitcoin.com/crypto-news/lummis-to-democrats-you-helped-build-the-clarity-act-now-vote-for-it/",
-        "source": "Bitcoin News",
-        "enTitle": "Lummis to Democrats: You Helped Build the CLARITY Act, Now Vote for It",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/lummis-to-democrats-you-helped-build-the-clarity-act-now-vote-for-it-768x432.png"
       }
     ]
   }
