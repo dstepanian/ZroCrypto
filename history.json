@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-16",
-    "ts": 1784221448330,
-    "fng": {
-      "value": 25,
-      "label": "Extreme Fear",
-      "hy": "Ծայրահեղ վախ",
-      "dot": "🔴"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 64386,
-        "change24h": -0.9798098361973491
-      },
-      {
-        "label": "Ethereum",
-        "price": 1876.12,
-        "change24h": -2.150638344868777
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ընդունման աճով և կարգավորող մարմինների ուշադրության կենտրոնում: Խոշոր ֆինանսական հաստատությունները շարունակում են ընդլայնել իրենց առաջարկները, մինչդեռ միջազգային մարմինները խստացնում են կանոնակարգերը։",
-    "items": [
-      {
-        "headline": "E*TRADE-ը սկսում է կրիպտո առևտուր",
-        "summary": "Morgan Stanley-ի E*TRADE հարթակը Zero Hash-ի հետ համագործակցությամբ իր հաճախորդներին հնարավորություն է տալիս առևտուր անել Bitcoin, Ether և Solana-ով։",
-        "link": "https://cointelegraph.com/news/morgan-stanleys-etrade-rolls-out-spot-crypto-trading-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Morgan Stanley’s E*TRADE launches spot crypto trading through Zero Hash",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-vs-stocks-breaking-news-1.png"
-      },
-      {
-        "headline": "Visa-ն գործարկում է նոր stablecoin հարթակ",
-        "summary": "Visa-ն գործարկել է stablecoin հարթակ, որը բանկերին և ֆինտեխ ընկերություններին թույլ է տալիս թողարկել, կառավարել և հաշվարկներ կատարել թվային դոլարներով իր վճարային ցանցի միջոցով։",
-        "link": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/989b5d9f334511be32f765ead619e6010b3c17ff-1200x675.avif?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "T. Rowe Price-ը գործարկում է կրիպտո ETF",
-        "summary": "1.9 տրիլիոն դոլարի ակտիվներով կառավարող T. Rowe Price-ը գործարկել է իր առաջին ակտիվորեն կառավարվող բազմաթիվ թոքեններով կրիպտո ETF-ը՝ TKNZ Active Crypto ETF-ը։",
-        "link": "https://www.theblock.co/post/408667/t-rowe-price-launches-first-actively-managed-multi-token-crypto-etf?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "$1.9 trillion asset manager T. Rowe Price launches first actively managed multi-token crypto ETF",
-        "image": "https://www.tbstat.com/wp/uploads/2022/02/20220224_Funding_Cryptocurrency-800x450.jpg"
-      },
-      {
-        "headline": "ԱՄՆ Սենատը դեմ է SBF-ի ներմանը",
-        "summary": "ԱՄՆ Սենատը միաձայն դեմ է արտահայտվել FTX-ի նախկին գործադիր տնօրեն Sam Bankman-Fried-ի նախագահական ներմանը կամ պատժի մեղմացմանը։",
-        "link": "https://news.bitcoin.com/us-senate-unanimously-opposes-any-pardon-for-sam-bankman-fried-after-ftx-fraud/",
-        "source": "Bitcoin News",
-        "enTitle": "US Senate Unanimously Opposes Any Pardon for Sam Bankman-Fried After FTX Fraud",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/senate-resolution-sam-bankman-fried-1-768x432.jpg"
-      },
-      {
-        "headline": "Tradable-ը Stellar-ին է բերում $1B ակտիվներ",
-        "summary": "Tradable-ը մինչև 1 միլիարդ դոլարի մասնավոր վարկային ակտիվներ կբերի Stellar բլոկչեյն՝ ընդլայնելով դրա ներկայությունը ինստիտուցիոնալ ֆինանսներում և թոքենիզացված իրական ակտիվներում։",
-        "link": "https://cointelegraph.com/news/tradables-1b-stellar-deal-adds-to-institutional-tokenization-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Tradable’s $1B Stellar deal adds to institutional tokenization boom",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-are-smart-contracts-stellar.jpg"
-      },
-      {
-        "headline": "FATF-ը կոչ է անում ուժեղացնել AML-ը",
-        "summary": "FATF-ը կոչ է արել արագացնել կրիպտո հակաՓողերի լվացման (AML) կանոնների կիրարկումը, քանի որ stablecoin-ների հետ կապված հանցագործությունները աճում են։",
-        "link": "https://cointelegraph.com/news/fatf-urges-crypto-aml-enforcement-stablecoin-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "FATF urges faster crypto AML enforcement as stablecoin crime increases",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/interrogation-lamp-stablecoin-1.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-17",
     "ts": 1784307684882,
     "fng": {
@@ -4304,6 +4231,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "Revolut says customer data exposed through fake government email",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2D17VM4EG7ZBFYRBDRS7SSC/revolut-data-disclosure.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-14",
+    "ts": 1789384735394,
+    "fng": {
+      "value": 57,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 77763,
+        "change24h": 1.622633157308882
+      },
+      {
+        "label": "Ethereum",
+        "price": 2510.91,
+        "change24h": 1.6194450983566695
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող զարգացումներով և ինստիտուցիոնալ ընդունմամբ, մինչդեռ Bitcoin-ը դիմակայում է տեխնոլոգիական բաժնետոմսերի անկմանը։",
+    "items": [
+      {
+        "headline": "CLARITY Act-ի վերջնական նախագիծը և Թրամփի համաձայնությունը",
+        "summary": "ԱՄՆ Սենատի հանրապետականները հրապարակել են CLARITY Act-ի վերջնական նախագիծը, որը ներառում է էթիկայի դրույթներ, որոնց համաձայնել է նախագահ Դոնալդ Թրամփը, ինչը մեծացնում է օրինագծի ընդունման հավանականությունը։",
+        "link": "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575",
+        "source": "The Block",
+        "enTitle": "Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions",
+        "image": "https://www.tbstat.com/wp/uploads/2019/07/washington-dc-capitol-1-1200x675.jpg"
+      },
+      {
+        "headline": "Հնդկաստանը սկսում է կորպորատիվ պարտատոմսերի թոքենիզացիան",
+        "summary": "Հնդկաստանը սկսել է իր 620 միլիարդ դոլար արժողությամբ կորպորատիվ պարտատոմսերի շուկայի թոքենիզացիան՝ SEBI-ի և RBI-ի «Demat 2.0» պիլոտային ծրագրի շրջանակներում, որտեղ արդեն երեք ընկերություն հավաքել է մոտ 107 միլիոն դոլար։",
+        "link": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market",
+        "source": "Decrypt",
+        "enTitle": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-india-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Bitcoin ETF-ները կորցրել են 463 միլիոն դոլար",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են 462.7 միլիոն դոլարի շաբաթական արտահոսք՝ դադարեցնելով ներդրողների մեծ պահանջարկի երեքշաբաթյա շրջանը։",
+        "link": "https://cryptoslate.com/bitcoin-etfs-just-lost-463-million-as-the-fed-puts-btcs-75000-breakout-at-risk/",
+        "source": "CryptoSlate",
+        "enTitle": "Bitcoin ETFs just lost $463 million as the Fed puts BTC at risk of losing $75,000",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-breakout-balance.jpg"
+      },
+      {
+        "headline": "Ռուսաստանը գործարկում է թվային ռուբլին",
+        "summary": "Ռուսաստանի Կենտրոնական բանկը հայտարարել է թվային ռուբլու համազգային գործարկման մասին, որի արդյունքում տասը օրվա ընթացքում բացվել է գրեթե 87,000 նոր հաշիվ։",
+        "link": "https://news.bitcoin.com/crypto-news/russia-launches-digital-ruble-nationwide-with-87k-new-accounts/",
+        "source": "Bitcoin News",
+        "enTitle": "Russia Launches Digital Ruble Nationwide With 87K New Accounts",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/nabiullina-768x432.jpg"
+      },
+      {
+        "headline": "Bitcoin-ը բարձրանում է AI-ի անկման ֆոնին",
+        "summary": "Bitcoin-ը բարձրացել է մինչև 78,000 դոլար, քանի որ կրիպտո շուկան անտարբեր է մնացել AI-ի զարգացումը դանդաղեցնելու կոչերի պատճառով տեխնոլոգիական բաժնետոմսերի անկման նկատմամբ։",
+        "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/29e39b5373dac797eed5f3d1e7dfde22b01c70b1-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Coinbase-ը բանկերին առաջարկում է stablecoin կամուրջ",
+        "summary": "Coinbase-ը համայնքային բանկերին տրամադրում է stablecoin կամուրջ՝ միաժամանակ ապահովելով հիմնական ենթակառուցվածքը, ինչը թույլ է տալիս բանկերին պահպանել հաճախորդների հետ շփումը։",
+        "link": "https://cryptoslate.com/coinbase-gives-community-banks-a-stablecoin-bridge-while-supplying-infrastructure-underneath/",
+        "source": "CryptoSlate",
+        "enTitle": "Coinbase gives community banks a stablecoin bridge while supplying infrastructure underneath",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/main-street-money-pipeline.jpg"
       }
     ]
   }
