@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-17",
-    "ts": 1784307684882,
-    "fng": {
-      "value": 27,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 63544,
-        "change24h": -1.2372690492999945
-      },
-      {
-        "label": "Ethereum",
-        "price": 1834.47,
-        "change24h": -2.1717219039020375
-      }
-    ],
-    "overview": "Շուկաներում նկատվում է անկայունություն, քանի որ Bitcoin-ի գինը նվազում է, սակայն կրիպտոարժույթների ոլորտում շարունակվում են կարևոր զարգացումները՝ կապված կարգավորումների և ավանդական ֆինանսների ինտեգրման հետ։",
-    "items": [
-      {
-        "headline": "OKX Europe-ը MiCA-ին համապատասխան USDC է առաջարկում",
-        "summary": "OKX Europe-ը հնարավորություն է տալիս եվրոպացի օգտատերերին փոխարկել USDT-ն MiCA-ի կանոնակարգերին համապատասխան USDC-ի։",
-        "link": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-decentralized-exchanges-101-2.png"
-      },
-      {
-        "headline": "Cardano-ն ապակենտրոնացնում է հիմնական մշակումը",
-        "summary": "Cardano-ն իր հիմնական մշակումը փոխանցում է արտաքին թիմերին՝ որպես ցանցի ապակենտրոնացմանն ուղղված քայլ։",
-        "link": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Cardano hands core development to outside teams in decentralization push",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/9466d917b25b934e5b30836d6b9ce6c812da4cac-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Հոլանդական կրիպտո բորսան սնանկ է ճանաչվել",
-        "summary": "Հոլանդական Knaken կրիպտո բորսան սնանկ է ճանաչվել՝ բացահայտելով հաճախորդների միջոցների բազմամիլիոնանոց պակասորդ։",
-        "link": "https://cryptoslate.com/dutch-crypto-exchange-collapses-exposing-customer-balances-true-value-amid-multi-million-euro-hole/",
-        "source": "CryptoSlate",
-        "enTitle": "Dutch crypto exchange collapses exposing customer balances’ true value amid multi-million-euro hole",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/knaken-bankruptcy-vault-7-million-claim.jpg"
-      },
-      {
-        "headline": "Bitcoin ETF-ները ներհոսք են գրանցում, Ether-ը՝ արտահոսք",
-        "summary": "Ներդրողները $79 միլիոն են ներդրել Bitcoin ETF-ներում, մինչդեռ Ether ֆոնդերը կորցրել են $28 միլիոն։",
-        "link": "https://news.bitcoin.com/investors-push-79m-into-bitcoin-etfs-as-ether-funds-lose-28m/",
-        "source": "Bitcoin News",
-        "enTitle": "Investors Push $79M Into Bitcoin ETFs as Ether Funds Lose $28M",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/investors-push-79m-into-bitcoin-etfs-as-ether-funds-lose-28m-768x432.jpg"
-      },
-      {
-        "headline": "SBI-ը ձեռք է բերում սինգապուրյան Coinhako-ն",
-        "summary": "SBI Holdings-ը MAS-ի հավանությունից հետո ձեռք է բերել սինգապուրյան Coinhako կրիպտո հարթակը՝ ընդլայնելով իր թվային ակտիվների ցանցը։",
-        "link": "https://cointelegraph.com/news/sbi-receives-mas-approval-to-acquire-singaporean-coinhako?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "SBI acquires Singaporean crypto platform Coinhako after MAS approval",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sbi-virtual-currencies-the-bank-backed-japanese-exchange-with-big-plans.jpg"
-      },
-      {
-        "headline": "Morgan Stanley-ն ավարտում է E*Trade կրիպտո գործարկումը",
-        "summary": "Morgan Stanley-ի E*Trade-ը ավարտել է Bitcoin-ի, Ether-ի և Solana-ի սփոթ առևտրի ներդրումը ԱՄՆ հաճախորդների համար՝ առաջարկելով 50 բազիսային կետի վճարներ։",
-        "link": "https://news.bitcoin.com/morgan-stanley-etrade-crypto-rollout-complete/",
-        "source": "Bitcoin News",
-        "enTitle": "Morgan Stanley Completes E*Trade Crypto Rollout With 50 Basis Point Fees: Here’s What Clients Get",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/morgan-stanley-building-768x432.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-18",
     "ts": 1784393100938,
     "fng": {
@@ -4304,6 +4231,71 @@
         "source": "CryptoSlate",
         "enTitle": "Coinbase gives community banks a stablecoin bridge while supplying infrastructure underneath",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/09/main-street-money-pipeline.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-15",
+    "ts": 1789416242259,
+    "fng": {
+      "value": 57,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 78994,
+        "change24h": 2.2336195599070354
+      },
+      {
+        "label": "Ethereum",
+        "price": 2540.67,
+        "change24h": 1.3708835477642283
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկայի հիմնական ուշադրությունը կենտրոնացած է CLARITY օրենքի շուրջ Սենատում շարունակվող բանավեճերի և դրա դեմ աճող ընդդիմության վրա: Միևնույն ժամանակ, նկատվում է ինստիտուցիոնալ ներդրումների աճ և Bitcoin-ի օպցիոնների շուկայում դրական տրամադրություն:",
+    "items": [
+      {
+        "headline": "CLARITY օրենքը բախվում է ուժեղ ընդդիմության",
+        "summary": "CLARITY օրենքի «վերջնական» տարբերակը, չնայած փոփոխություններին, բախվում է բանկերի, դեմոկրատների և 18 նահանգի գլխավոր դատախազների ընդդիմությանը՝ Սենատի քվեարկությունից առաջ։",
+        "link": "https://cryptoslate.com/clarity-acts-final-deal-is-already-breaking-down-before-tomorrows-senate-vote/",
+        "source": "CryptoSlate",
+        "enTitle": "CLARITY Act’s ‘final’ deal is already breaking down before tomorrow’s Senate vote",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-act-60-vote-gate-standard-image.jpg"
+      },
+      {
+        "headline": "CLARITY օրենքի նոր տարբերակը՝ 126 փոփոխություններով",
+        "summary": "Սենատի հանրապետականները հրապարակել են CLARITY օրենքի վերջնական նախագիծը, որը ներառում է 126 փոփոխություն՝ պահանջված դեմոկրատների կողմից, և ստացել է նախագահ Trump-ի աջակցությունը էթիկայի կանոնների վերաբերյալ։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/final-clarity-act-packs-126-changes-requested-by-senate-democrats/",
+        "source": "Bitcoin News",
+        "enTitle": "Final CLARITY Act Packs 126 Changes Requested by Senate Democrats",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/126-democratic-wins-for-clarity-act-768x432.jpg"
+      },
+      {
+        "headline": "S&P Global-ը ղեկավարում է Kaiko-ի $110M ներդրումը",
+        "summary": "S&P Global-ը ղեկավարել է Kaiko-ի Series B ներդրումային փուլը, որը հասել է $110 միլիոնի՝ ցույց տալով ավանդական ֆինանսական հաստատությունների աճող հետաքրքրությունը onchain ենթակառուցվածքների նկատմամբ։",
+        "link": "https://news.bitcoin.com/finance/sp-global-leads-110m-kaiko-round-as-wall-street-goes-onchain/",
+        "source": "Bitcoin News",
+        "enTitle": "S&P Global Leads $110M Kaiko Round as Wall Street Goes Onchain",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/sp-global-leads-110m-kaiko-round-as-wall-street-goes-onchain-768x432.jpg"
+      },
+      {
+        "headline": "BlackRock-ի Ether Staking ETF-ը գերազանցում է $1B-ը",
+        "summary": "BlackRock-ի Ether Staking ETF-ը 20 օրվա ընթացքում ներգրավել է $308 միլիոն՝ հասնելով $1 միլիարդից ավելի ակտիվների, ինչը վկայում է ETH-ի նկատմամբ ինստիտուցիոնալ պահանջարկի աճի մասին։",
+        "link": "https://news.bitcoin.com/finance/blackrock-ether-staking-etf-draws-308m-over-20-days-as-assets-top-1b/",
+        "source": "Bitcoin News",
+        "enTitle": "Blackrock Ether Staking ETF Draws $308M Over 20 Days as Assets Top $1B",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/blackrock-ether-staking-etf-draws-308m-over-20-days-as-assets-top-1b-768x432.jpg"
+      },
+      {
+        "headline": "Bitcoin-ի օպցիոնների թրեյդերները դարձել են բուլիշ",
+        "summary": "Bitcoin-ի դերիվատիվների շուկայում թրեյդերները մեկ տարվա ընթացքում առաջին անգամ ավելի շատ են վճարում աճի, քան անկման պաշտպանության համար՝ ցույց տալով դրական տրամադրություն։",
+        "link": "https://news.bitcoin.com/market-updates/bitcoin-options-traders-turn-bullish-for-the-first-time-in-12-months/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin Options Traders Turn Bullish for the First Time in 12 Months",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-options-traders-turn-bullish-for-the-first-time-in-12-months-768x432.png"
       }
     ]
   }
