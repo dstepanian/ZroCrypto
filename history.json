@@ -4236,7 +4236,7 @@
   },
   {
     "date": "2026-09-15",
-    "ts": 1789468940145,
+    "ts": 1789500161981,
     "fng": {
       "value": 69,
       "label": "Greed",
@@ -4246,64 +4246,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 76908,
-        "change24h": -1.2866103668886801
+        "price": 76139,
+        "change24h": -3.84658651066866
       },
       {
         "label": "Ethereum",
-        "price": 2474.52,
-        "change24h": -1.6219436646473688
+        "price": 2410.9,
+        "change24h": -5.214517571299069
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող փոփոխություններով և տեխնիկական զարգացումներով։ Մինչ CLARITY Act-ի ընդունման հավանականությունը նվազում է, ԱՄՆ-ում քննարկվում են կրիպտո հարկային նոր օրինագծեր և Bitcoin պահուստի մասին օրենք։",
+    "overview": "ԱՄՆ Սենատում CLARITY օրենքի ձախողումը օրվա հիմնական իրադարձությունն էր, որը որոշակի ազդեցություն ունեցավ շուկայի վրա։ Միևնույն ժամանակ, Bitcoin ETF-ները շարունակեցին դրական ներհոսքեր գրանցել, իսկ ոլորտում նկատվում էին նաև այլ կարևոր զարգացումներ։",
     "items": [
       {
-        "headline": "CLARITY Act-ի հավանականությունը նվազում է",
-        "summary": "CLARITY Act-ի ընդունման հավանականությունը նվազել է մինչև 16%, քանի որ հիմնական դեմոկրատները դիմադրում են Հանրապետականների «վերջնական» առաջարկին։",
-        "link": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HQJ6Z513GQZPG3QPPMTZFF/clarity.png"
+        "headline": "CLARITY օրենքը չանցավ Սենատում",
+        "summary": "ԱՄՆ Սենատը չկարողացավ հավաքել բավարար ձայներ՝ CLARITY օրենքը առաջ մղելու համար, ինչը հանգեցրեց Bitcoin-ի գնի անկմանը։",
+        "link": "https://decrypt.co/378283/clarity-act-fails-senate-hurdle",
+        "source": "Decrypt",
+        "enTitle": "Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png"
       },
       {
-        "headline": "ԱՄՆ կրիպտո հարկային փաթեթի մանրամասները",
-        "summary": "ԱՄՆ Ներկայացուցիչների պալատի կրիպտո հարկային փաթեթը փոփոխում է կրիպտո վճարների, stablecoins-ի և վարկավորման հարկային ռեժիմը՝ թողնելով պարգևների հարկման ժամկետները անփոփոխ։",
-        "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "US House crypto tax package omits mining, staking reward deferral",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J6TX6A7KEPZNSA4AMER8KE/regulations-us-tax.jpg"
+        "headline": "Robinhood-ի ինժեներները մեղադրվում են խարդախության մեջ",
+        "summary": "Երկու Robinhood-ի աշխատակից մեղադրվում են խարդախության մեջ՝ Hyperliquid-ում կրիպտոարժույթների ցուցակագրումից առաջ առևտուր անելու համար։",
+        "link": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
+        "source": "Decrypt",
+        "enTitle": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png"
       },
       {
-        "headline": "CoinEx փոխանակումը դադարեցնում է գործունեությունը",
-        "summary": "Հոնկոնգյան CoinEx կրիպտո փոխանակումը դադարեցնում է իր գործունեությունը 9 տարի աշխատելուց հետո՝ վկայակոչելով անվտանգության և համապատասխանության աճող ռիսկերը։",
-        "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
+        "headline": "Bitcoin ETF-ները գրանցել են զգալի ներհոսքեր",
+        "summary": "ԱՄՆ-ի կրիպտո ETF-ները շաբաթը սկսել են դրական տրամադրությամբ, ընդ որում Bitcoin ֆոնդերը ներգրավել են 160 միլիոն դոլարի ներհոսք։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-snap-four-day-slide-with-160-million-inflow/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin ETFs Snap Four-Day Slide With $160 Million Inflow",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-etfs-snap-four-day-slide-with-160-million-inflow-768x432.jpg"
+      },
+      {
+        "headline": "Bitdeer-ը ընդլայնում է AI տվյալների կենտրոնները",
+        "summary": "Bitcoin մայնինգի ընկերություն Bitdeer-ը Մալայզիայում ավելացրել է 65.1 մեգավատ AI տվյալների կենտրոնի հզորություն՝ ընդգծելով արդյունաբերության դիվերսիֆիկացիան դեպի AI եկամուտներ։",
+        "link": "https://news.bitcoin.com/mining/bitcoin-miner-bitdeer-adds-65-1mw-for-nvidia-ai-as-pipeline-hits-7b/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin Miner Bitdeer Adds 65.1MW for Nvidia AI as Pipeline Hits $7B",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-miner-bitdeer-adds-65-1mw-for-nvidia-ai-as-pipeline-hits-7b-768x432.jpg"
+      },
+      {
+        "headline": "ԵԿԲ-ն կոչ է անում մասնակցել թվային եվրոյի փորձնական ծրագրին",
+        "summary": "Եվրոպական Կենտրոնական Բանկը կոչ է անում առևտրականներին մասնակցել թվային եվրոյի 12-ամսյա փորձնական ծրագրին, որը կներառի առցանց, բջջային և խանութային վճարումներ։",
+        "link": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/bd826ce3a449dbf6a021b11b1fd3117ac2127196-2560x1707.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "ԱՄՆ-ը հետապնդում է Իրանի կրիպտո միջոցները",
-        "summary": "ԱՄՆ-ը փնտրում է 61.19 միլիոն դոլար USDT, որը ենթադրաբար կապված է Իրանի պատժամիջոցների տակ գտնվող նավթի վաճառքից ստացված անօրինական եկամուտների հետ։",
-        "link": "https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J0JSDM845NTQMSBRH4G509/stablecoin-tetherr.png"
-      },
-      {
-        "headline": "Solana-ի գործարքների չափի աճ",
-        "summary": "Solana-ն բարձրացրել է իր գործարքների չափի սահմանաչափը մինչև 4,096 բայթ՝ մշակողներին ավելի շատ հնարավորություն տալով zero-knowledge proofs-ի և բազմաթիվ ստորագրություններով գործարքների համար։",
-        "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Solana more than triples transaction size limit with mainnet upgrade",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J0C2PCAGZC7WZDC6R7BJFX/hi-solana-ecosystem-expands-institutional-push-with-europe-focused-research-arm-1.jpg"
-      },
-      {
-        "headline": "ԱՄՆ Bitcoin պահուստի օրենք",
-        "summary": "American Reserve Modernization Act (ARMA) օրինագիծը առաջին անգամ օրենքով կամրագրի դաշնային կառավարության Bitcoin պահուստը, սակայն այն դեռևս քիչ դեմոկրատական աջակցություն ունի։",
-        "link": "https://cryptoslate.com/us-bitcoin-reserve-faces-crucial-bipartisan-test-wednesday/",
-        "source": "CryptoSlate",
-        "enTitle": "The US Bitcoin reserve faces a crucial bipartisan test Wednesday",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-reserve-bridge.webp"
+        "enTitle": "European Central Bank calls for merchants to participate in digital euro pilot",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
