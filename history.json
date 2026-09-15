@@ -4236,9 +4236,9 @@
   },
   {
     "date": "2026-09-15",
-    "ts": 1789416242259,
+    "ts": 1789468940145,
     "fng": {
-      "value": 57,
+      "value": 69,
       "label": "Greed",
       "hy": "Ագահություն",
       "dot": "🟢"
@@ -4246,56 +4246,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 78994,
-        "change24h": 2.2336195599070354
+        "price": 76908,
+        "change24h": -1.2866103668886801
       },
       {
         "label": "Ethereum",
-        "price": 2540.67,
-        "change24h": 1.3708835477642283
+        "price": 2474.52,
+        "change24h": -1.6219436646473688
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկայի հիմնական ուշադրությունը կենտրոնացած է CLARITY օրենքի շուրջ Սենատում շարունակվող բանավեճերի և դրա դեմ աճող ընդդիմության վրա: Միևնույն ժամանակ, նկատվում է ինստիտուցիոնալ ներդրումների աճ և Bitcoin-ի օպցիոնների շուկայում դրական տրամադրություն:",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող փոփոխություններով և տեխնիկական զարգացումներով։ Մինչ CLARITY Act-ի ընդունման հավանականությունը նվազում է, ԱՄՆ-ում քննարկվում են կրիպտո հարկային նոր օրինագծեր և Bitcoin պահուստի մասին օրենք։",
     "items": [
       {
-        "headline": "CLARITY օրենքը բախվում է ուժեղ ընդդիմության",
-        "summary": "CLARITY օրենքի «վերջնական» տարբերակը, չնայած փոփոխություններին, բախվում է բանկերի, դեմոկրատների և 18 նահանգի գլխավոր դատախազների ընդդիմությանը՝ Սենատի քվեարկությունից առաջ։",
-        "link": "https://cryptoslate.com/clarity-acts-final-deal-is-already-breaking-down-before-tomorrows-senate-vote/",
+        "headline": "CLARITY Act-ի հավանականությունը նվազում է",
+        "summary": "CLARITY Act-ի ընդունման հավանականությունը նվազել է մինչև 16%, քանի որ հիմնական դեմոկրատները դիմադրում են Հանրապետականների «վերջնական» առաջարկին։",
+        "link": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HQJ6Z513GQZPG3QPPMTZFF/clarity.png"
+      },
+      {
+        "headline": "ԱՄՆ կրիպտո հարկային փաթեթի մանրամասները",
+        "summary": "ԱՄՆ Ներկայացուցիչների պալատի կրիպտո հարկային փաթեթը փոփոխում է կրիպտո վճարների, stablecoins-ի և վարկավորման հարկային ռեժիմը՝ թողնելով պարգևների հարկման ժամկետները անփոփոխ։",
+        "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US House crypto tax package omits mining, staking reward deferral",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J6TX6A7KEPZNSA4AMER8KE/regulations-us-tax.jpg"
+      },
+      {
+        "headline": "CoinEx փոխանակումը դադարեցնում է գործունեությունը",
+        "summary": "Հոնկոնգյան CoinEx կրիպտո փոխանակումը դադարեցնում է իր գործունեությունը 9 տարի աշխատելուց հետո՝ վկայակոչելով անվտանգության և համապատասխանության աճող ռիսկերը։",
+        "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/bd826ce3a449dbf6a021b11b1fd3117ac2127196-2560x1707.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "ԱՄՆ-ը հետապնդում է Իրանի կրիպտո միջոցները",
+        "summary": "ԱՄՆ-ը փնտրում է 61.19 միլիոն դոլար USDT, որը ենթադրաբար կապված է Իրանի պատժամիջոցների տակ գտնվող նավթի վաճառքից ստացված անօրինական եկամուտների հետ։",
+        "link": "https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J0JSDM845NTQMSBRH4G509/stablecoin-tetherr.png"
+      },
+      {
+        "headline": "Solana-ի գործարքների չափի աճ",
+        "summary": "Solana-ն բարձրացրել է իր գործարքների չափի սահմանաչափը մինչև 4,096 բայթ՝ մշակողներին ավելի շատ հնարավորություն տալով zero-knowledge proofs-ի և բազմաթիվ ստորագրություններով գործարքների համար։",
+        "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Solana more than triples transaction size limit with mainnet upgrade",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J0C2PCAGZC7WZDC6R7BJFX/hi-solana-ecosystem-expands-institutional-push-with-europe-focused-research-arm-1.jpg"
+      },
+      {
+        "headline": "ԱՄՆ Bitcoin պահուստի օրենք",
+        "summary": "American Reserve Modernization Act (ARMA) օրինագիծը առաջին անգամ օրենքով կամրագրի դաշնային կառավարության Bitcoin պահուստը, սակայն այն դեռևս քիչ դեմոկրատական աջակցություն ունի։",
+        "link": "https://cryptoslate.com/us-bitcoin-reserve-faces-crucial-bipartisan-test-wednesday/",
         "source": "CryptoSlate",
-        "enTitle": "CLARITY Act’s ‘final’ deal is already breaking down before tomorrow’s Senate vote",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-act-60-vote-gate-standard-image.jpg"
-      },
-      {
-        "headline": "CLARITY օրենքի նոր տարբերակը՝ 126 փոփոխություններով",
-        "summary": "Սենատի հանրապետականները հրապարակել են CLARITY օրենքի վերջնական նախագիծը, որը ներառում է 126 փոփոխություն՝ պահանջված դեմոկրատների կողմից, և ստացել է նախագահ Trump-ի աջակցությունը էթիկայի կանոնների վերաբերյալ։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/final-clarity-act-packs-126-changes-requested-by-senate-democrats/",
-        "source": "Bitcoin News",
-        "enTitle": "Final CLARITY Act Packs 126 Changes Requested by Senate Democrats",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/126-democratic-wins-for-clarity-act-768x432.jpg"
-      },
-      {
-        "headline": "S&P Global-ը ղեկավարում է Kaiko-ի $110M ներդրումը",
-        "summary": "S&P Global-ը ղեկավարել է Kaiko-ի Series B ներդրումային փուլը, որը հասել է $110 միլիոնի՝ ցույց տալով ավանդական ֆինանսական հաստատությունների աճող հետաքրքրությունը onchain ենթակառուցվածքների նկատմամբ։",
-        "link": "https://news.bitcoin.com/finance/sp-global-leads-110m-kaiko-round-as-wall-street-goes-onchain/",
-        "source": "Bitcoin News",
-        "enTitle": "S&P Global Leads $110M Kaiko Round as Wall Street Goes Onchain",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/sp-global-leads-110m-kaiko-round-as-wall-street-goes-onchain-768x432.jpg"
-      },
-      {
-        "headline": "BlackRock-ի Ether Staking ETF-ը գերազանցում է $1B-ը",
-        "summary": "BlackRock-ի Ether Staking ETF-ը 20 օրվա ընթացքում ներգրավել է $308 միլիոն՝ հասնելով $1 միլիարդից ավելի ակտիվների, ինչը վկայում է ETH-ի նկատմամբ ինստիտուցիոնալ պահանջարկի աճի մասին։",
-        "link": "https://news.bitcoin.com/finance/blackrock-ether-staking-etf-draws-308m-over-20-days-as-assets-top-1b/",
-        "source": "Bitcoin News",
-        "enTitle": "Blackrock Ether Staking ETF Draws $308M Over 20 Days as Assets Top $1B",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/blackrock-ether-staking-etf-draws-308m-over-20-days-as-assets-top-1b-768x432.jpg"
-      },
-      {
-        "headline": "Bitcoin-ի օպցիոնների թրեյդերները դարձել են բուլիշ",
-        "summary": "Bitcoin-ի դերիվատիվների շուկայում թրեյդերները մեկ տարվա ընթացքում առաջին անգամ ավելի շատ են վճարում աճի, քան անկման պաշտպանության համար՝ ցույց տալով դրական տրամադրություն։",
-        "link": "https://news.bitcoin.com/market-updates/bitcoin-options-traders-turn-bullish-for-the-first-time-in-12-months/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Options Traders Turn Bullish for the First Time in 12 Months",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-options-traders-turn-bullish-for-the-first-time-in-12-months-768x432.png"
+        "enTitle": "The US Bitcoin reserve faces a crucial bipartisan test Wednesday",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-reserve-bridge.webp"
       }
     ]
   }
