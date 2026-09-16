@@ -4228,7 +4228,7 @@
   },
   {
     "date": "2026-09-16",
-    "ts": 1789554647956,
+    "ts": 1789585999461,
     "fng": {
       "value": 51,
       "label": "Neutral",
@@ -4238,64 +4238,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 75909,
-        "change24h": -1.2695845238781698
+        "price": 75826,
+        "change24h": -0.21716671425637035
       },
       {
         "label": "Ethereum",
-        "price": 2400.35,
-        "change24h": -2.995137599860541
+        "price": 2407.21,
+        "change24h": 0.06321059445783832
       }
     ],
-    "overview": "Կրիպտոարժույթների շուկան վերջին 24 ժամվա ընթացքում ցույց է տվել խառը պատկեր՝ ԱՄՆ-ում կարգավորող մարմինների կողմից CLARITY Act-ի մերժման հետևանքով առաջացած անկումների և ինստիտուցիոնալ ընդունման ու պահպանման ոլորտում դրական զարգացումների միջև:",
+    "overview": "Օրը նշանավորվել է ԱՄՆ-ում կարգավորող զարգացումներով՝ CLARITY Act-ի ձախողումից հետո, ինչպես նաև Դաշնային պահուստային համակարգի կողմից կայացված առանցքային մակրոտնտեսական որոշմամբ։ Ինստիտուցիոնալ ընդունումը շարունակում է աճել, մինչդեռ կրիպտո ETF-ները զգալի արտահոսքեր են գրանցել։",
     "items": [
       {
-        "headline": "Circle-ը գործարկում է Arc mainnet-ը BlackRock-ի հետ",
-        "summary": "Circle-ը գործարկել է Arc mainnet-ը, որի վավերացնողների թվում են BlackRock-ը և Visa-ն, և թողարկել է 10 միլիարդ ARC թոքեն։",
-        "link": "https://www.theblock.co/news/ecosystems/2026-09-16-circle-launches-arc-mainnet-with-blackrock-and-visa-among-validators-mints-10-billion-arc-tokens-415250",
+        "headline": "Դաշնային պահուստային համակարգը բարձրացրել է տոկոսադրույքները",
+        "summary": "Դաշնային պահուստային համակարգը բարձրացրել է տոկոսադրույքները 25 բազիսային կետով՝ հասցնելով 3.75%-4%-ի, ինչը 2023 թվականի հուլիսից ի վեր առաջին բարձրացումն է։",
+        "link": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
+        "source": "Decrypt",
+        "enTitle": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png"
+      },
+      {
+        "headline": "SEC-ը և CFTC-ն պատրաստվում են կրիպտո կանոններ մշակել",
+        "summary": "CLARITY Act-ի ձախողումից հետո SEC-ը և CFTC-ն հայտարարել են, որ պատրաստ են առաջ մղել կրիպտոարժույթների կարգավորման իրենց կանոնները՝ օգտագործելով գործող լիազորությունները։",
+        "link": "https://www.theblock.co/news/regulation/2026-09-16-go-time-sec-cftc-prepare-push-crypto-rules-clarity-act-stalls-senate-415281",
         "source": "The Block",
-        "enTitle": "Circle launches Arc mainnet with BlackRock and Visa among validators, mints 10 billion ARC tokens",
-        "image": "https://www.tbstat.com/wp/uploads/2020/12/20201218_Circle-2-1200x675.jpg"
+        "enTitle": "‘Go time’: SEC, CFTC prepare to push crypto rules as Clarity Act stalls in Senate",
+        "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News_2-1200x675.jpg"
       },
       {
-        "headline": "Deutsche Bank-ը կտրամադրի կրիպտո պահպանման ծառայություններ",
-        "summary": "Deutsche Bank-ը նախատեսում է Եվրոպայում ինստիտուցիոնալ հաճախորդների համար գործարկել Bitcoin-ի և Ether-ի պահպանման ծառայություններ։",
-        "link": "https://www.theblock.co/news/business/2026-09-16-deutsche-bank-plans-bitcoin-ether-custody-for-institutional-clients-in-europe-415251",
-        "source": "The Block",
-        "enTitle": "Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe",
-        "image": "https://www.tbstat.com/wp/uploads/2020/11/2020113_Deutsche-Bank-1200x675.jpg"
+        "headline": "ԱՄՆ Ներկայացուցիչների պալատը հավանություն է տվել կրիպտո հարկային օրինագծին",
+        "summary": "ԱՄՆ Ներկայացուցիչների պալատի հարկային հանձնաժողովը հավանություն է տվել օրենսդրությանը, որը կվերաձևավորի դաշնային հարկային կանոնները stablecoin-ների, staking-ի, կրիպտո վարկավորման և թվային ակտիվների գործարքների համար։",
+        "link": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US House tax committee advances crypto tax overhaul in 38–5 vote",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NKZPXXHGWMSP41E47Q6TRZ/hi-more-irs-crypto-reporting-more-danger.jpg"
       },
       {
-        "headline": "CLARITY Act-ի մերժումը հանգեցրել է Bitcoin-ի անկման",
-        "summary": "ԱՄՆ Սենատի կողմից CLARITY Act-ի մերժումից հետո Bitcoin-ի գինը նվազել է՝ հասնելով $76,000-ից ցածր։",
-        "link": "https://cryptoslate.com/bitcoin-drops-below-76000-as-senate-rejects-clarity-act-motion/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitcoin drops below $76,000 as Senate rejects CLARITY Act motion",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-clarity-vote-pressure-standard-image.jpg"
-      },
-      {
-        "headline": "Solana ցանցը գրեթե սառել է խնդրի պատճառով",
-        "summary": "Solana ցանցը գրեթե դադարեցրել է աշխատանքը մեկ երթուղային սխալի պատճառով, որը անջատել է ցանցի մասնակցության 29%-ը։",
-        "link": "https://cryptoslate.com/solana-nearly-froze-as-a-single-routing-error-took-29-of-the-network-stake-offline/",
-        "source": "CryptoSlate",
-        "enTitle": "Solana nearly froze as a single routing error took 29% of the network stake offline",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-routing-failure-standard-image.jpg"
-      },
-      {
-        "headline": "ԱՄՆ-ը բռնագրավում է Իրանի կրիպտոարժույթը",
-        "summary": "ԱՄՆ դատախազները ձգտում են բռնագրավել մոտ 61 միլիոն դոլարի կրիպտոարժույթ, որը, ենթադրաբար, կապված է Իրանի պատժամիջոցների տակ գտնվող նավթի վաճառքի հետ։",
-        "link": "https://news.bitcoin.com/crypto-news/us-moves-to-forfeit-61m-in-crypto-linked-to-irans-oil-sales/",
+        "headline": "Bitcoin ETF-ները գրանցել են զգալի արտահոսքեր",
+        "summary": "ԱՄՆ կրիպտո ETF-ները, հատկապես Bitcoin ETF-ները, գրանցել են 450.33 միլիոն դոլարի զուտ արտահոսք՝ CLARITY Act-ի ձախողված քվեարկությունից հետո, ինչը ամենամեծ օրական արտահոսքն է հունիսի 25-ից ի վեր։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/fidelity-leads-450m-bitcoin-etf-exit-as-senate-vote-fails/",
         "source": "Bitcoin News",
-        "enTitle": "US Moves to Forfeit $61M in Crypto Linked to Iran’s Oil Sales",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/doj-1-3-768x432.jpg"
+        "enTitle": "Fidelity Leads $450M Bitcoin ETF Exit as Senate Vote Fails",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/fidelity-leads-450m-bitcoin-etf-exit-as-senate-vote-fails-768x432.jpg"
       },
       {
-        "headline": "SEC-ի նախագահը խթանում է կրիպտո ինքնապահպանումը",
-        "summary": "SEC-ի նախագահը առաջարկել է նոր կարգավորող շրջանակ, որը թույլ կտա ներդրումային խորհրդատուներին ինքնուրույն պահպանել կրիպտո ակտիվները որոշակի պայմաններում։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/sec-chair-pushes-crypto-self-custody-in-new-regulatory-framework/",
+        "headline": "Deutsche Bank-ը կսկսի Bitcoin-ի պահպանումը Եվրոպայում",
+        "summary": "Deutsche Bank-ը նախատեսում է 2026 թվականի վերջին սկսել Bitcoin-ի, Ethereum-ի և ընտրված stablecoin-ների պահպանումը ինստիտուցիոնալ հաճախորդների համար Եվրոպայում։",
+        "link": "https://news.bitcoin.com/finance/deutsche-bank-brings-bitcoin-custody-to-europes-institutional-set/",
         "source": "Bitcoin News",
-        "enTitle": "SEC Chair Pushes Crypto Self-Custody in New Regulatory Framework",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/sec-1-768x432.jpg"
+        "enTitle": "Deutsche Bank Brings Bitcoin Custody to Europe’s Institutional Set",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/03/deutsche-bank-1-768x432.jpg"
+      },
+      {
+        "headline": "Circle-ը գործարկել է Arc Mainnet-ը BlackRock-ի հետ",
+        "summary": "Circle-ը գործարկել է Arc Layer 1 ցանցի mainnet-ը՝ BlackRock-ի, DTCC-ի և Visa-ի մասնակցությամբ որպես վալիդատորներ։",
+        "link": "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
+        "source": "Decrypt",
+        "enTitle": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png@png"
       }
     ]
   }
