@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-18",
-    "ts": 1784393100938,
-    "fng": {
-      "value": 25,
-      "label": "Extreme Fear",
-      "hy": "Ծայրահեղ վախ",
-      "dot": "🔴"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 64090,
-        "change24h": 0.9990827711527857
-      },
-      {
-        "label": "Ethereum",
-        "price": 1841.82,
-        "change24h": 0.36151436630353034
-      }
-    ],
-    "overview": "Օրվա կրիպտո նորությունները ընդգծում են ինստիտուցիոնալ ներգրավվածության աճը և stablecoin-ների կարգավորման զարգացումները, ինչպես նաև Bitcoin-ի շուկայական զգալի տրամադրությունները։",
-    "items": [
-      {
-        "headline": "Circle-ը դարձել է դաշնային վստահության բանկ",
-        "summary": "Circle-ը ստացել է դաշնային վստահության բանկ բացելու վերջնական հավանություն, մինչդեռ ԵԿԲ-ն զգուշացնում է, որ stablecoin-ները կարող են դատարկել բանկային ավանդները։",
-        "link": "https://cryptoslate.com/circle-became-a-federal-trust-bank-now-lenders-warn-stablecoins-is-projected-to-drain-500-billion/",
-        "source": "CryptoSlate",
-        "enTitle": "Circle became a federal trust bank – now lenders warn stablecoins is projected to drain $500 billion",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/circle-usdc-federal-trust-bank-washington-charter.jpg"
-      },
-      {
-        "headline": "T. Rowe Price-ը գործարկել է Spot Crypto ETF",
-        "summary": "T. Rowe Price-ը, որը կառավարում է 1.89 տրիլիոն դոլարի ակտիվներ, գործարկել է TKNZ անվանումով ակտիվորեն կառավարվող բազմաթիվ թոքեններով Spot ETF՝ առաջարկելով մուտք դեպի Bitcoin, Ether և XRP։",
-        "link": "https://news.bitcoin.com/t-rowe-price-launches-active-spot-crypto-etf-with-btc-eth-xrp-among-top-holdings/",
-        "source": "Bitcoin News",
-        "enTitle": "T. Rowe Price Launches Active Spot Crypto ETF With BTC, ETH, XRP Among Top Holdings",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/t-rowe-price-crypto-etf-768x432.jpg"
-      },
-      {
-        "headline": "Ֆինանսական ընկերությունները առաջնահերթություն են տալիս թոքենիզացիային",
-        "summary": "Broadridge-ի հարցումը ցույց է տվել, որ ֆինանսական ընկերությունների 84%-ը թոքենիզացիան համարում է ռազմավարական առաջնահերթություն՝ արագացնելով իրենց ջանքերը։",
-        "link": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Tokenization has become a strategic priority for 84% of financial firms",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d57549b03e21590f600945be64a4c0c6ed82f901-3000x1842.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Խոշոր թրեյդերները թիրախավորում են Bitcoin-ի $72,000 գինը",
-        "summary": "Օպցիոնների շուկայի վերջին տվյալները ցույց են տալիս, որ խոշոր թրեյդերները խաղադրույք են կատարում Bitcoin-ի գնի բարձրացման վրա մինչև $72,000 մինչև ամսվա վերջ։",
-        "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/03792fc9d1555286ba718334a78aecdfd1914d58-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "FTX-ը 900 միլիոն դոլար կբաշխի պարտատերերին",
-        "summary": "FTX Recovery Trust-ը և ընկերությունը նախատեսում են բաշխել մոտ 900 միլիոն դոլար պարտատերերին՝ որպես վճարումների հինգերորդ փուլ։",
-        "link": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "FTX to distribute $900M to creditors in fifth payment round",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ftx-distribution.png"
-      },
-      {
-        "headline": "Stablecoin-ները տարածվում են Լատինական Ամերիկայում",
-        "summary": "Բրազիլիայում դոլարային stablecoin-ները գերազանցում են երկրի վճարումները, իսկ Բոլիվիան ճանաչում է USDT-ն՝ դոլարի պակասի պայմաններում։",
-        "link": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/65bd684b67415bb4f57438bede69bae09f26621d-5031x3354.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      }
-    ]
-  },
-  {
     "date": "2026-07-19",
     "ts": 1784479590480,
     "fng": {
@@ -4296,6 +4223,79 @@
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
         "enTitle": "European Central Bank calls for merchants to participate in digital euro pilot",
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-16",
+    "ts": 1789554647956,
+    "fng": {
+      "value": 51,
+      "label": "Neutral",
+      "hy": "Չեզոք",
+      "dot": "🟡"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 75909,
+        "change24h": -1.2695845238781698
+      },
+      {
+        "label": "Ethereum",
+        "price": 2400.35,
+        "change24h": -2.995137599860541
+      }
+    ],
+    "overview": "Կրիպտոարժույթների շուկան վերջին 24 ժամվա ընթացքում ցույց է տվել խառը պատկեր՝ ԱՄՆ-ում կարգավորող մարմինների կողմից CLARITY Act-ի մերժման հետևանքով առաջացած անկումների և ինստիտուցիոնալ ընդունման ու պահպանման ոլորտում դրական զարգացումների միջև:",
+    "items": [
+      {
+        "headline": "Circle-ը գործարկում է Arc mainnet-ը BlackRock-ի հետ",
+        "summary": "Circle-ը գործարկել է Arc mainnet-ը, որի վավերացնողների թվում են BlackRock-ը և Visa-ն, և թողարկել է 10 միլիարդ ARC թոքեն։",
+        "link": "https://www.theblock.co/news/ecosystems/2026-09-16-circle-launches-arc-mainnet-with-blackrock-and-visa-among-validators-mints-10-billion-arc-tokens-415250",
+        "source": "The Block",
+        "enTitle": "Circle launches Arc mainnet with BlackRock and Visa among validators, mints 10 billion ARC tokens",
+        "image": "https://www.tbstat.com/wp/uploads/2020/12/20201218_Circle-2-1200x675.jpg"
+      },
+      {
+        "headline": "Deutsche Bank-ը կտրամադրի կրիպտո պահպանման ծառայություններ",
+        "summary": "Deutsche Bank-ը նախատեսում է Եվրոպայում ինստիտուցիոնալ հաճախորդների համար գործարկել Bitcoin-ի և Ether-ի պահպանման ծառայություններ։",
+        "link": "https://www.theblock.co/news/business/2026-09-16-deutsche-bank-plans-bitcoin-ether-custody-for-institutional-clients-in-europe-415251",
+        "source": "The Block",
+        "enTitle": "Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe",
+        "image": "https://www.tbstat.com/wp/uploads/2020/11/2020113_Deutsche-Bank-1200x675.jpg"
+      },
+      {
+        "headline": "CLARITY Act-ի մերժումը հանգեցրել է Bitcoin-ի անկման",
+        "summary": "ԱՄՆ Սենատի կողմից CLARITY Act-ի մերժումից հետո Bitcoin-ի գինը նվազել է՝ հասնելով $76,000-ից ցածր։",
+        "link": "https://cryptoslate.com/bitcoin-drops-below-76000-as-senate-rejects-clarity-act-motion/",
+        "source": "CryptoSlate",
+        "enTitle": "Bitcoin drops below $76,000 as Senate rejects CLARITY Act motion",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-clarity-vote-pressure-standard-image.jpg"
+      },
+      {
+        "headline": "Solana ցանցը գրեթե սառել է խնդրի պատճառով",
+        "summary": "Solana ցանցը գրեթե դադարեցրել է աշխատանքը մեկ երթուղային սխալի պատճառով, որը անջատել է ցանցի մասնակցության 29%-ը։",
+        "link": "https://cryptoslate.com/solana-nearly-froze-as-a-single-routing-error-took-29-of-the-network-stake-offline/",
+        "source": "CryptoSlate",
+        "enTitle": "Solana nearly froze as a single routing error took 29% of the network stake offline",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-routing-failure-standard-image.jpg"
+      },
+      {
+        "headline": "ԱՄՆ-ը բռնագրավում է Իրանի կրիպտոարժույթը",
+        "summary": "ԱՄՆ դատախազները ձգտում են բռնագրավել մոտ 61 միլիոն դոլարի կրիպտոարժույթ, որը, ենթադրաբար, կապված է Իրանի պատժամիջոցների տակ գտնվող նավթի վաճառքի հետ։",
+        "link": "https://news.bitcoin.com/crypto-news/us-moves-to-forfeit-61m-in-crypto-linked-to-irans-oil-sales/",
+        "source": "Bitcoin News",
+        "enTitle": "US Moves to Forfeit $61M in Crypto Linked to Iran’s Oil Sales",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/doj-1-3-768x432.jpg"
+      },
+      {
+        "headline": "SEC-ի նախագահը խթանում է կրիպտո ինքնապահպանումը",
+        "summary": "SEC-ի նախագահը առաջարկել է նոր կարգավորող շրջանակ, որը թույլ կտա ներդրումային խորհրդատուներին ինքնուրույն պահպանել կրիպտո ակտիվները որոշակի պայմաններում։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/sec-chair-pushes-crypto-self-custody-in-new-regulatory-framework/",
+        "source": "Bitcoin News",
+        "enTitle": "SEC Chair Pushes Crypto Self-Custody in New Regulatory Framework",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/sec-1-768x432.jpg"
       }
     ]
   }
