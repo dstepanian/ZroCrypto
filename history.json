@@ -4236,7 +4236,7 @@
   },
   {
     "date": "2026-09-17",
-    "ts": 1789641629880,
+    "ts": 1789673284067,
     "fng": {
       "value": 50,
       "label": "Neutral",
@@ -4246,64 +4246,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 76317,
-        "change24h": 0.5213649341799237
+        "price": 76523,
+        "change24h": 1.5035243627379247
       },
       {
         "label": "Ethereum",
-        "price": 2432.63,
-        "change24h": 1.2612157576812013
+        "price": 2450.8,
+        "change24h": 2.7061422746169357
       }
     ],
-    "overview": "Այսօրվա կրիպտո նորությունները հիմնականում կենտրոնացած են կարգավորող մարմինների զարգացումների վրա՝ ԵՄ-ում, Մեծ Բրիտանիայում և ԱՄՆ-ում, ինչպես նաև շուկայի կարևոր իրադարձությունների և նշանավոր ֆինանսական միջադեպերի վրա։",
+    "overview": "Ամերիկյան կարգավորողները ակտիվացել են կրիպտո ոլորտում՝ թե՛ թույլտվություններ տալով նորարարություններին, թե՛ խստացնելով վերահսկողությունը։ Միևնույն ժամանակ, ակնկալվում է, որ Բիթքոյնը կշարունակի ամրապնդել իր դիրքերը՝ որպես ոսկու այլընտրանք, իսկ աշխարհի խոշորագույն ֆինանսական ընկերությունները ավելի են խորանում թվային ակտիվների մեջ։",
     "items": [
       {
-        "headline": "Ֆրանսիական դատարանը մերժել է ԵՄ կրիպտո տվյալների կանոնները կասեցնելու հայցը",
-        "summary": "Ֆրանսիայի Պետական խորհուրդը մերժել է Bull Bitcoin-ի և Paymium-ի արտակարգ հայցը՝ կասեցնելու ԵՄ-ի DAC8 կրիպտո հարկային թափանցիկության կանոնները կիրարկող հրամանագիրը։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/french-court-rejects-emergency-bid-to-halt-eu-crypto-data-rules/",
-        "source": "Bitcoin News",
-        "enTitle": "French Court Rejects Emergency Bid to Halt EU Crypto Data Rules",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/frances-top-court-rejects-emergency-bid-to-halt-eu-crypto-data-rules-768x432.jpg"
+        "headline": "SEC-ը թույլ է տվել թոքենացված բաժնետոմսերի առևտուրը",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) թույլ է տվել որոշ հարթակներին առևտուր անել թոքենացված ամերիկյան բաժնետոմսերով՝ նոր «նորարարական բացառության» շրջանակներում, որը նախատեսված է DeFi-ի նման առևտրային հարթակների համար։",
+        "link": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "SEC grants temporary exemption for tokenized US stock trading",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQZ3RZHH74529R6BGMH1T9/hi-who-is-mark-uyeda-trumps-new-face-for-the-sec.jpg"
       },
       {
-        "headline": "ԱՄՆ Ներկայացուցիչների պալատի կոմիտեն առաջ է մղում Bitcoin պահուստի օրինագիծը",
-        "summary": "Ներկայացուցիչների պալատի կոմիտեն առաջ է մղել օրինագիծ՝ ստեղծելու ռազմավարական Bitcoin պահուստ, որը կամրագրի Թրամփի մշտական Bitcoin պահումների ծրագիրը։",
-        "link": "https://decrypt.co/378457/house-committee-advances-us-bitcoin-reserve-bill-on-party-line-split",
-        "source": "Decrypt",
-        "enTitle": "House Committee Advances US Bitcoin Reserve Bill on Party-Line Split",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png"
+        "headline": "CFTC-ն ավելի է մոտենում կրիպտո մշակողներին",
+        "summary": "ԱՄՆ Առևտրի ֆյուչերսային հանձնաժողովը (CFTC) հայտարարել է, որ ծրագրային ապահովման մշակողները կարող են ածանցյալ գործիքներ առաջարկել առանց բրոքեր գրանցվելու, ինչը նոր հնարավորություններ է բացում կրիպտո ոլորտի համար։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/cftc-gives-crypto-wallet-developers-a-new-regulatory-escape-hatch/",
+        "source": "Bitcoin News",
+        "enTitle": "CFTC Gives Crypto Wallet Developers a New Regulatory Escape Hatch",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/cftc-building-768x432.jpg"
       },
       {
-        "headline": "Kraken-ի մայր ընկերությունը ԱՄՆ-ում կգործարկի onchain perpetuals",
-        "summary": "Kraken կրիպտո փոխանակման մայր ընկերությունը՝ Payward-ը, հայտարարել է Hyperliquid ապակենտրոնացված առևտրային արձանագրության միջոցով ԱՄՆ հաճախորդների համար onchain perpetual futures շուկաներ տեղակայելու իր ծրագրերի մասին։",
-        "link": "https://news.bitcoin.com/crypto-news/kraken-parent-payward-to-launch-us-onchain-perpetuals/",
-        "source": "Bitcoin News",
-        "enTitle": "Kraken Parent Payward to Launch US Onchain Perpetuals",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/kraken-parent-payward-to-launch-u-s--onchain-perpetuals-768x432.jpg"
+        "headline": "JPMorgan-ը կանխատեսում է Բիթքոյնի աճը՝ որպես ոսկու այլընտրանք",
+        "summary": "JPMorgan-ի վերլուծաբանների կարծիքով՝ եթե ներդրողները նվազեցնեն իրենց ETF ռիսկերը, ապա Բիթքոյնը կարող է ավելի մեծ աջակցություն ստանալ, քան ոսկին։",
+        "link": "https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421",
+        "source": "The Block",
+        "enTitle": "JPMorgan says bitcoin could get more support than gold if ETF hedging eases",
+        "image": "https://www.tbstat.com/wp/uploads/2024/05/20240501_JpMorgan_News_3-1200x673.jpg"
       },
       {
-        "headline": "FCA-ն հաստատել է կրիպտո կանոնները, բայց բանկերը կարող են արգելափակել փոխանցումները",
-        "summary": "Մեծ Բրիտանիայի Ֆինանսական վարքագծի մարմինը (FCA) հրապարակել է վերջնական ուղեցույց՝ սահմանելով, թե որ կրիպտո բիզնեսներին կպահանջվի թույլտվություն Մեծ Բրիտանիայի նոր կարգավորող ռեժիմի ներքո, սակայն բանկերը դեռ կարող են սահմանափակել հաճախորդների կողմից կրիպտո հարթակներին գումար ուղարկելը։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/fca-clears-crypto-rulebook-but-uk-banks-can-still-block-transfers/",
-        "source": "Bitcoin News",
-        "enTitle": "FCA Clears Crypto Rulebook, but UK Banks Can Still Block Transfers",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/fca-clears-crypto-rulebook-but-uk-banks-can-still-block-transfers-1-768x432.jpg"
+        "headline": "S&P Global-ը մեծացնում է ներդրումները կրիպտո ոլորտում",
+        "summary": "Ֆինանսական տվյալների հսկա S&P Global-ը ձեռք է բերում OpenZeppelin-ը՝ ընդլայնելով իր ներկայությունը թվային ակտիվների շուկայում և բարելավելով իր հնարավորությունները ռիսկերի գնահատման ոլորտում։",
+        "link": "https://www.theblock.co/news/business/2026-09-17-sp-global-agrees-to-acquire-openzeppelin-in-onchain-security-push-415360",
+        "source": "The Block",
+        "enTitle": "S&P Global agrees to acquire OpenZeppelin in onchain security push",
+        "image": "https://www.tbstat.com/wp/uploads/2026/09/sandp-openzeppelin-deal-1200x675.jpg"
       },
       {
-        "headline": "Ժողովրդավար սենատորները կշարունակեն CLARITY Act-ի առաջխաղացումը",
-        "summary": "Ժողովրդավար սենատորների մի խումբ հայտարարել է, որ CLARITY Act-ի ձախողված Սենատի քվեարկությունը չի դադարեցնի կրիպտոարժույթների շուկաների համար դաշնային շրջանակ ստեղծելու ջանքերը։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/7-democratic-senators-vow-to-keep-pushing-clarity-act-after-setback/",
-        "source": "Bitcoin News",
-        "enTitle": "7 Democratic Senators Vow to Keep Pushing CLARITY Act After Setback",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/congress-clarity-act-1-1-768x432.jpg"
+        "headline": "Stellar-ը ակտիվացրել է Protocol 28-ը՝ ռեկորդային ցուցանիշներով",
+        "summary": "Stellar ցանցը հաջողությամբ ակտիվացրել է Protocol 28-ը, որը նպաստել է ցանցի արդյունավետության ռեկորդային աճին և իրական աշխարհի ակտիվների (RWA) արժեքի բարձրացմանը։",
+        "link": "https://cryptoslate.com/stellar-activates-protocol-28-as-network-hits-record-throughput-and-rwa-value-climbs/",
+        "source": "CryptoSlate",
+        "enTitle": "Stellar activates Protocol 28 as network hits record throughput and RWA value climbs",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/protocol-zip-upgrade.webp"
       },
       {
-        "headline": "Ինչպես անհետացավ $230 մլն կրիպտոարժույթը վենեսուելական նավթի համար",
-        "summary": "Լեհաստանի պետական էներգետիկ ընկերությունը՝ Orlen-ը, հարյուր միլիոնավոր դոլարներ է կորցրել այն բանից հետո, երբ tether-ի միջոցով զեղչված վենեսուելական հում նավթ գնելու գաղտնի ծրագիրը ձախողվել է։",
-        "link": "https://news.bitcoin.com/crypto-news/how-230m-in-crypto-for-venezuelan-oil-vanished-on-usb-drives/",
-        "source": "Bitcoin News",
-        "enTitle": "How $230M in Crypto for Venezuelan Oil Vanished on USB Drives",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/how-230m-in-crypto-for-venezuelan-oil-vanished-on-usb-drives-768x432.png"
+        "headline": "Կրիպտո հարկային օրինագիծը առաջ է շարժվում Կոնգրեսում",
+        "summary": "Կոնգրեսը կվերանայի կրիպտո շուկայի կառուցվածքի մասին օրենսդրությունը, քանի որ այն առաջ է շարժվում թվային ակտիվների հարկային կանոնների սահմանման ուղղությամբ։",
+        "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/505704d1a47d7213aefc3317f6a074231b0ddaf8-7894x5263.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
