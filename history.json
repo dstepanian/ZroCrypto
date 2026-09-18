@@ -4236,7 +4236,7 @@
   },
   {
     "date": "2026-09-18",
-    "ts": 1789726594169,
+    "ts": 1789757104055,
     "fng": {
       "value": 56,
       "label": "Greed",
@@ -4246,64 +4246,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 78073,
-        "change24h": 2.254996022799032
+        "price": 80986,
+        "change24h": 5.840791622854624
       },
       {
         "label": "Ethereum",
-        "price": 2510.93,
-        "change24h": 3.1601220783989907
+        "price": 2615.64,
+        "change24h": 6.655746831651429
       }
     ],
-    "overview": "Այսօրվա կրիպտո նորությունները նշանավորվեցին կարգավորող մարմինների կողմից ձեռնարկված կարևոր գործողություններով և ինստիտուցիոնալ ներգրավվածության աճով։ Կարևոր իրադարձությունները ներառում են խոշոր բորսաների լիցենզավորման խնդիրներ, պատժամիջոցներ անօրինական գործունեության համար և ավանդական ֆինանսական հաստատությունների կողմից Web3 անվտանգության ոլորտում ներդրումներ։",
+    "overview": "Այսօր կրիպտո շուկան դրական տրամադրություն է ցուցաբերել՝ պայմանավորված ԱՄՆ կարգավորող մարմինների կողմից նոր քայլերով և ինստիտուցիոնալ ներհոսքերով։ Սակայն Եվրոպայում կարգավորող մարմինների միջամտությունները շարունակում են մարտահրավերներ ստեղծել։",
     "items": [
       {
-        "headline": "Binance-ի ԵՄ լիցենզիան արգելափակվել է",
-        "summary": "Wall Street Journal-ը հաղորդում է, որ Եվրոպական կենտրոնական բանկի նախագահ Քրիստին Լագարդը անձամբ միջամտել է՝ Binance-ին Եվրոպական միությունից դուրս պահելու համար։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/lagarde-blocked-binance-eu-license-greece-mica/",
+        "headline": "CFTC-ն կարգավորման ծրագիր է ներկայացրել",
+        "summary": "ԱՄՆ-ի Ապրանքային ֆյուչերսների առևտրի հանձնաժողովը (CFTC) Սպիտակ տուն է ներկայացրել կրիպտո ակտիվների շուկաների կարգավորման ծրագիրը՝ շրջանցելով Կոնգրեսը։",
+        "link": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
+        "source": "Decrypt",
+        "enTitle": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "SEC-ը հաստատել է թոքենացված արժեթղթերը",
+        "summary": "ԱՄՆ-ի Արժեթղթերի և բորսաների հանձնաժողովը (SEC) հաստատել է «Նորարարության բացառություն»՝ առաջ մղելով թոքենացված արժեթղթերի առևտուրը։",
+        "link": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
+        "source": "Decrypt",
+        "enTitle": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png"
+      },
+      {
+        "headline": "Bitcoin ETF-ները վերադարձել են ներհոսքերի",
+        "summary": "ԱՄՆ-ի Bitcoin ETF-ները հինգշաբթի օրը վերադարձել են ներհոսքերի՝ գրանցելով 159 միլիոն դոլար, որը գլխավորել է BlackRock-ի IBIT-ը։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-returns-to-inflows-with-159m-as-zcash-etf-draws-46-6m/",
         "source": "Bitcoin News",
-        "enTitle": "WSJ: Lagarde Blocked Binance’s EU License and Left It Locked Out",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/09/lagarde_ecb_stablecoins-768x432.jpg"
+        "enTitle": "Bitcoin Returns to Inflows With $159M as Zcash ETF Draws $46.6M",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-returns-to-inflows-with-159m-as-zcash-etf-draws-46-6m-768x432.jpg"
       },
       {
-        "headline": "ԱՄՆ-ը պատժամիջոցներ է կիրառել իրանական BitBank-ի նկատմամբ",
-        "summary": "ԱՄՆ գանձապետարանը պատժամիջոցներ է կիրառել BitBank կրիպտո փոխանակման հարթակի նկատմամբ՝ հայտարարելով, որ այն հարյուր միլիոնավոր դոլարներ է փոխանցել Իրանի հեղափոխական գվարդիային։",
-        "link": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
-        "source": "Decrypt",
-        "enTitle": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg@png"
-      },
-      {
-        "headline": "S&P Global-ը ձեռք է բերել OpenZeppelin-ը",
-        "summary": "S&P Global-ը ձեռք է բերել Web3 անվտանգության OpenZeppelin ընկերությունը՝ ընդլայնելով իր թվային ակտիվների բիզնեսը թոքենիզացված ֆինանսների հիմքում ընկած տեխնոլոգիաներում։",
-        "link": "https://cryptoslate.com/wall-street-gains-direct-oversight-of-web3-security-as-sp-global-buys-openzeppelin/",
-        "source": "CryptoSlate",
-        "enTitle": "Wall Street gains direct oversight of Web3 security as S&P Global buys OpenZeppelin",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/sp-global-openzeppelin-standard-image.jpg"
-      },
-      {
-        "headline": "Կրիպտո փողերի լվացման համար ձերբակալություններ",
-        "summary": "ԱՄԷ-ն և Շվեդիան ձերբակալել են յոթ անձի՝ 7.1 միլիոն դոլար արժողությամբ կրիպտո փողերի լվացման ցանցի համար, որը կապված է պայմանագրային սպանությունների հետ։",
-        "link": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
-        "source": "Decrypt",
-        "enTitle": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png@png"
-      },
-      {
-        "headline": "Քևին Օ'Լիրին կրկին կրիպտո է գնում",
-        "summary": "Քևին Օ'Լիրին հայտարարել է, որ կրկին կրիպտո է գնում և հետևում է խոշոր ֆոնդային բորսաների կողմից բլոկչեյն ցանցի ընդունմանը։",
-        "link": "https://www.theblock.co/news/business/2026-09-18-kevin-oleary-is-buying-crypto-again-says-major-stock-exchange-adoption-is-the-watershed-moment-to-watch-415491",
+        "headline": "Grayscale Zcash ETF-ը բաժանում է նախատեսում",
+        "summary": "Grayscale-ի Zcash ETF-ը (ZCSH) նախատեսում է 3-ը 1-ի բաժանում՝ 233 միլիոն դոլարի ներհոսքի աճից հետո։",
+        "link": "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
         "source": "The Block",
-        "enTitle": "Kevin O’Leary is buying crypto again, says major stock exchange adoption is the ‘watershed moment’ to watch",
-        "image": "https://www.tbstat.com/wp/uploads/2022/04/Screen-Shot-2022-04-06-at-1.40.50-PM-1184x675.png"
+        "enTitle": "Grayscale’s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251202_ZCash_News.jpg"
       },
       {
-        "headline": "Saylor-ը SEC-ի բացառությունը համարում է կարևոր",
-        "summary": "Մայքլ Սեյլորը հայտարարել է, որ ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովի (SEC) նոր նորարարական բացառությունը թույլ է տալիս MSTR և STRC թոքենիզացված արժեթղթերի շուրջօրյա առևտուրը։",
-        "link": "https://news.bitcoin.com/finance/saylor-sec-innovation-exemption-tokenized-mstr-strc/",
-        "source": "Bitcoin News",
-        "enTitle": "Saylor Says SEC Exemption Puts Tokenized MSTR and STRC Onchain 24/7",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/saylor-says-sec-exemption-puts-tokenized-mstr-and-strc-onchain-247-768x432.jpg"
+        "headline": "NYSE-ն փորձարկում է Avalanche տեխնոլոգիան",
+        "summary": "Ava Labs-ի նախագահը հայտարարել է, որ NYSE-ն մեկ տարի փորձարկել է Avalanche տեխնոլոգիան թոքենիզացիայի իր ծրագրերի համար։",
+        "link": "https://www.theblock.co/news/ecosystems/2026-09-18-ava-labs-president-says-nyse-spent-a-year-testing-avalanche-technology-tokenization-plans-415509",
+        "source": "The Block",
+        "enTitle": "Ava Labs president says NYSE spent a year testing Avalanche technology for tokenization plans",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/02/nyse.jpg"
+      },
+      {
+        "headline": "ԵԿԲ-ն արգելափակել է Binance-ի լիցենզիան",
+        "summary": "Եվրոպական Կենտրոնական Բանկի (ԵԿԲ) նախագահ Քրիստին Լագարդը միջամտել է՝ արգելափակելու Binance-ի ԵՄ MiCA լիցենզիան։",
+        "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
