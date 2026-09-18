@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-20",
-    "ts": 1784568417619,
-    "fng": {
-      "value": 29,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 65422,
-        "change24h": 1.2563010573569084
-      },
-      {
-        "label": "Ethereum",
-        "price": 1897.22,
-        "change24h": 1.553497963839893
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող զարգացումներով տարբեր երկրներում, ինչպես նաև խոշոր ընկերությունների ռազմավարական փոփոխություններով։ Արհեստական ինտելեկտի և կրիպտո մայնինգի աճող ինտեգրումը շարունակում է մնալ ուշադրության կենտրոնում։",
-    "items": [
-      {
-        "headline": "CLARITY Act-ը կպաշտպանի հաճախորդների կրիպտո ակտիվները",
-        "summary": "Սենատոր Սինթիա Լումիսը հայտարարել է, որ CLARITY Act-ը կապահովի, որ հաճախորդների կրիպտո ակտիվները մնան նրանց սեփականությունը բորսաների սնանկության դեպքում։",
-        "link": "https://news.bitcoin.com/clarity-act-would-protect-customer-crypto-from-exchange-bankruptcies-senator-says/",
-        "source": "Bitcoin News",
-        "enTitle": "CLARITY Act Would Protect Customer Crypto From Exchange Bankruptcies, Senator Says",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/senator-cynthia-lummis-768x432.jpg"
-      },
-      {
-        "headline": "Ռուսաստանը մոտ է կրիպտո օրենքի ընդունմանը",
-        "summary": "Ռուսաստանի Պետական Դուման պատրաստվում է քվեարկել կրիպտո օրինագծի շուրջ, որը կօրինականացնի կարգավորվող առևտուրը և միջսահմանային հաշվարկները։",
-        "link": "https://news.bitcoin.com/russia-nears-final-crypto-vote-with-retail-caps-licensed-exchanges-and-bitcoin-trade/",
-        "source": "Bitcoin News",
-        "enTitle": "Russia Nears Final Crypto Vote With Retail Caps, Licensed Exchanges and Bitcoin Trade",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/russia-nears-final-crypto-vote-with-retail-caps-licensed-exchanges-and-bitcoin-trade-768x432.png"
-      },
-      {
-        "headline": "Նիգերիայի նախագահը ստորագրել է կրիպտո կարգավորման հրաման",
-        "summary": "Նիգերիայի նախագահը գործադիր հրաման է ստորագրել, որը ստեղծում է վիրտուալ ակտիվների խորհուրդ և լուծում կրիպտո կարգավորման մասնատվածության խնդիրը։",
-        "link": "https://cointelegraph.com/news/nigeria-order-crypto-regulatory-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Nigerian president signs order on approach to crypto regulation, taxes",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-nigeria.jpg"
-      },
-      {
-        "headline": "Hyperliquid-ը ընդլայնում է կանխատեսումների շուկաները",
-        "summary": "Hyperliquid-ը հայտարարել է, որ իր HIP-4 արդյունքների շուկաների արտադրանքը կանցնի թույլտվություն չպահանջող տեղակայման՝ ցանցի առաջիկա թարմացման ժամանակ։",
-        "link": "https://news.bitcoin.com/hyperliquid-bets-big-on-prediction-markets-with-permissionless-hip-4-push/",
-        "source": "Bitcoin News",
-        "enTitle": "Hyperliquid Bets Big on Prediction Markets With Permissionless HIP-4 Push",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/hyperliquid-bets-big-on-prediction-markets-with-permissionless-hip-4-push-768x432.png"
-      },
-      {
-        "headline": "MicroStrategy-ն ավելացնում է կանխիկ պահուստները",
-        "summary": "Saylor-ի Strategy ընկերությունը երկրորդ շաբաթն անընդմեջ պահպանել է Bitcoin-ի իր պահուստները անփոփոխ՝ ավելացնելով կանխիկ միջոցները մինչև 3.2 միլիարդ դոլար։",
-        "link": "https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Saylor's Strategy raises cash reserves to $3.2 billion, leaving bitcoin holdings unchanged",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/a57323d92b3fa599df2ee442af800248477423c0-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Hut 8-ը և IREN-ը ստորագրում են AI պայմանագրեր",
-        "summary": "Hut 8-ը և IREN-ը միլիարդավոր դոլարների նոր պայմանագրեր են կնքել AI տվյալների կենտրոնների համար, ինչը խթանում է նրանց բաժնետոմսերի աճը։",
-        "link": "https://www.theblock.co/post/408920/hut-8-fully-commercializes-1-gw-texas-ai-campus-with-second-9-8b-lease-as-iren-signs-2-8b-in-contracts-shares-climb-double-digits?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Hut 8 fully commercializes 1 GW Texas AI campus with second $9.8B lease as IREN signs $2.8B in contracts; shares climb double digits",
-        "image": "https://www.tbstat.com/wp/uploads/2024/08/20240819_Funding_News_2-800x450.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-21",
     "ts": 1784653633650,
     "fng": {
@@ -4304,6 +4231,79 @@
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
         "enTitle": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/505704d1a47d7213aefc3317f6a074231b0ddaf8-7894x5263.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-18",
+    "ts": 1789726594169,
+    "fng": {
+      "value": 56,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 78073,
+        "change24h": 2.254996022799032
+      },
+      {
+        "label": "Ethereum",
+        "price": 2510.93,
+        "change24h": 3.1601220783989907
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո նորությունները նշանավորվեցին կարգավորող մարմինների կողմից ձեռնարկված կարևոր գործողություններով և ինստիտուցիոնալ ներգրավվածության աճով։ Կարևոր իրադարձությունները ներառում են խոշոր բորսաների լիցենզավորման խնդիրներ, պատժամիջոցներ անօրինական գործունեության համար և ավանդական ֆինանսական հաստատությունների կողմից Web3 անվտանգության ոլորտում ներդրումներ։",
+    "items": [
+      {
+        "headline": "Binance-ի ԵՄ լիցենզիան արգելափակվել է",
+        "summary": "Wall Street Journal-ը հաղորդում է, որ Եվրոպական կենտրոնական բանկի նախագահ Քրիստին Լագարդը անձամբ միջամտել է՝ Binance-ին Եվրոպական միությունից դուրս պահելու համար։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/lagarde-blocked-binance-eu-license-greece-mica/",
+        "source": "Bitcoin News",
+        "enTitle": "WSJ: Lagarde Blocked Binance’s EU License and Left It Locked Out",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/09/lagarde_ecb_stablecoins-768x432.jpg"
+      },
+      {
+        "headline": "ԱՄՆ-ը պատժամիջոցներ է կիրառել իրանական BitBank-ի նկատմամբ",
+        "summary": "ԱՄՆ գանձապետարանը պատժամիջոցներ է կիրառել BitBank կրիպտո փոխանակման հարթակի նկատմամբ՝ հայտարարելով, որ այն հարյուր միլիոնավոր դոլարներ է փոխանցել Իրանի հեղափոխական գվարդիային։",
+        "link": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
+        "source": "Decrypt",
+        "enTitle": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg@png"
+      },
+      {
+        "headline": "S&P Global-ը ձեռք է բերել OpenZeppelin-ը",
+        "summary": "S&P Global-ը ձեռք է բերել Web3 անվտանգության OpenZeppelin ընկերությունը՝ ընդլայնելով իր թվային ակտիվների բիզնեսը թոքենիզացված ֆինանսների հիմքում ընկած տեխնոլոգիաներում։",
+        "link": "https://cryptoslate.com/wall-street-gains-direct-oversight-of-web3-security-as-sp-global-buys-openzeppelin/",
+        "source": "CryptoSlate",
+        "enTitle": "Wall Street gains direct oversight of Web3 security as S&P Global buys OpenZeppelin",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/sp-global-openzeppelin-standard-image.jpg"
+      },
+      {
+        "headline": "Կրիպտո փողերի լվացման համար ձերբակալություններ",
+        "summary": "ԱՄԷ-ն և Շվեդիան ձերբակալել են յոթ անձի՝ 7.1 միլիոն դոլար արժողությամբ կրիպտո փողերի լվացման ցանցի համար, որը կապված է պայմանագրային սպանությունների հետ։",
+        "link": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
+        "source": "Decrypt",
+        "enTitle": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png@png"
+      },
+      {
+        "headline": "Քևին Օ'Լիրին կրկին կրիպտո է գնում",
+        "summary": "Քևին Օ'Լիրին հայտարարել է, որ կրկին կրիպտո է գնում և հետևում է խոշոր ֆոնդային բորսաների կողմից բլոկչեյն ցանցի ընդունմանը։",
+        "link": "https://www.theblock.co/news/business/2026-09-18-kevin-oleary-is-buying-crypto-again-says-major-stock-exchange-adoption-is-the-watershed-moment-to-watch-415491",
+        "source": "The Block",
+        "enTitle": "Kevin O’Leary is buying crypto again, says major stock exchange adoption is the ‘watershed moment’ to watch",
+        "image": "https://www.tbstat.com/wp/uploads/2022/04/Screen-Shot-2022-04-06-at-1.40.50-PM-1184x675.png"
+      },
+      {
+        "headline": "Saylor-ը SEC-ի բացառությունը համարում է կարևոր",
+        "summary": "Մայքլ Սեյլորը հայտարարել է, որ ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովի (SEC) նոր նորարարական բացառությունը թույլ է տալիս MSTR և STRC թոքենիզացված արժեթղթերի շուրջօրյա առևտուրը։",
+        "link": "https://news.bitcoin.com/finance/saylor-sec-innovation-exemption-tokenized-mstr-strc/",
+        "source": "Bitcoin News",
+        "enTitle": "Saylor Says SEC Exemption Puts Tokenized MSTR and STRC Onchain 24/7",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/saylor-says-sec-exemption-puts-tokenized-mstr-and-strc-onchain-247-768x432.jpg"
       }
     ]
   }
