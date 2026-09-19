@@ -4236,7 +4236,7 @@
   },
   {
     "date": "2026-09-19",
-    "ts": 1789811900184,
+    "ts": 1789841904470,
     "fng": {
       "value": 71,
       "label": "Greed",
@@ -4246,64 +4246,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 81298,
-        "change24h": 4.069559972972517
+        "price": 81355,
+        "change24h": 0.6637750514457841
       },
       {
         "label": "Ethereum",
-        "price": 2641.81,
-        "change24h": 5.434323086305523
+        "price": 2637.69,
+        "change24h": 1.3018798336816728
       }
     ],
-    "overview": "Չնայած օրենսդրական որոշ խոչընդոտների, կրիպտոարժույթների շուկան շարունակում է զարգանալ կարգավորման և ինստիտուցիոնալ ընդունման ուղղությամբ։ ԱՄՆ կարգավորող մարմինները առաջ են շարժվում, իսկ ավանդական ֆինանսական հաստատությունները ուսումնասիրում են կրիպտո հավելվածները։",
+    "overview": "Կրիպտո շուկան այսօր ցույց է տվել խառը տրամադրություններ՝ ինստիտուցիոնալ ներհոսքերի և նոր ապրանքների առաջարկների կողքին նկատվել են նաև կարգավորող մարմինների կողմից մարտահրավերներ։ ԱՄՆ-ում Clarity Act-ի ձախողումը և Բրազիլիայում stablecoin-ների սահմանափակումները հակադրվում են Bitcoin ETF-ների դրական ցուցանիշներին և նոր բանկային հավանություններին։",
     "items": [
       {
-        "headline": "CFTC-ն սկսում է կրիպտոարժույթների կարգավորումը",
-        "summary": "ԱՄՆ Commodity Futures Trading Commission-ը (CFTC) Սպիտակ տուն է ներկայացրել կրիպտոարժույթների շուկաների կարգավորման նախագիծ՝ շրջանցելով Կոնգրեսի կողմից CLARITY Act-ի դադարեցումը։",
-        "link": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
+        "headline": "Bitcoin ETF-ները դրական շաբաթ են գրանցել",
+        "summary": "Անցյալ շաբաթ Bitcoin ETF-ները գրանցել են 433 միլիոն դոլարի զուտ ներհոսք, ինչը ցույց է տալիս շուկայի դրական տրամադրությունները։",
+        "link": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
+        "source": "The Block",
+        "enTitle": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/08/20230726_BitcoinVEthereum_News.jpg"
+      },
+      {
+        "headline": "Clarity Act-ի ձախողումը ուժեղացնում է կարգավորումը",
+        "summary": "Clarity Act-ի ձախողումը Սենատում հանգեցրել է նրան, որ SEC-ը և CFTC-ն ավելի մեծ վերահսկողություն կունենան կրիպտո շուկայի նկատմամբ։",
+        "link": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
         "source": "Decrypt",
-        "enTitle": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png"
+        "enTitle": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png@png"
       },
       {
-        "headline": "NYSE-ն քննարկում է Avalanche-ը թոքենացված առևտրի համար",
-        "summary": "NYSE-ի մայր ընկերություն ICE-ը քննարկում է Avalanche-ը՝ որպես իր մշակվող թոքենացված արժեթղթերի առևտրի և շղթայական հաշվարկների հարթակի հյուրընկալող։",
-        "link": "https://news.bitcoin.com/crypto-news/ice-considers-avalanche-to-launch-nyse-tokenized-trading-engine/",
-        "source": "Bitcoin News",
-        "enTitle": "ICE Considers Avalanche to Launch NYSE Tokenized Trading Engine",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/nyse-avalanche-768x432.jpg"
+        "headline": "Grayscale-ի Zcash ETF-ը մոտենում է 1 միլիարդ դոլարին",
+        "summary": "ZEC-ի 100% աճի ֆոնին Grayscale-ի Zcash ETF-ի արժեքը մոտենում է 1 միլիարդ դոլարի շեմին՝ գրավելով ներդրողների ուշադրությունը։",
+        "link": "https://cryptoslate.com/zecs-100-rally-above-1500-sends-grayscales-zcash-etf-within-85-million-of-1-billion/",
+        "source": "CryptoSlate",
+        "enTitle": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/zcash-etf-split-conveyor.webp"
       },
       {
-        "headline": "Coinbase-ը դիմել է մեկ բաժնետոմսի պերպերի ցուցակագրման համար",
-        "summary": "Coinbase-ը դիմել է CFTC-ին՝ Apple-ի, Tesla-ի և Nvidia-ի մեկ բաժնետոմսի վրա հիմնված շուրջօրյա լծակային ֆյուչերսային պայմանագրեր ԱՄՆ թրեյդերներին առաջարկելու թույլտվություն ստանալու համար։",
+        "headline": "Bastion-ը ստացել է OCC-ի հավանությունը",
+        "summary": "Bastion Platforms National Trust Company-ն ստացել է OCC-ի պայմանական հավանությունը՝ գործարկելու ազգային վստահության բանկային կանոնադրություն՝ առաջարկելով stablecoin-ների պահպանում և վճարային ենթակառուցվածք։",
+        "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bastion wins conditional OCC approval for national trust bank charter",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WQCDKA6YPC5SXBN3P1FPAN/hi-cryptocom-is-granted-conditional-approval-for-bank-trust-charter1.png"
+      },
+      {
+        "headline": "Բրազիլիան արգելափակում է stablecoin-ները",
+        "summary": "Բրազիլիայի կենտրոնական բանկը հոկտեմբերի 1-ից կարգելափակի վիրտուալ ակտիվների, ներառյալ stablecoin-ների օգտագործումը որոշակի միջազգային վճարումների համար։",
+        "link": "https://cryptoslate.com/brazil-blocks-stablecoins-from-key-cross-border-payment-rail-as-1-1-trillion-market-faces-new-limits/",
+        "source": "CryptoSlate",
+        "enTitle": "Brazil blocks stablecoins from key cross-border payment rail as $1.1 trillion market faces new limits",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/brazil-usdt-regulatory-cut.webp"
+      },
+      {
+        "headline": "Coinbase-ը դիմում է Single-Stock Perps-ի համար",
+        "summary": "Coinbase-ը դիմել է CFTC-ին՝ ԱՄՆ շուկայում Apple, Tesla և Nvidia բաժնետոմսերի համար Single-Stock Perps-ը ցուցակագրելու թույլտվություն ստանալու համար։",
         "link": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
         "source": "Decrypt",
         "enTitle": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_flag-gID_7.png@png"
-      },
-      {
-        "headline": "Վիետնամը և Ավստրիան համագործակցում են կրիպտո վերահսկողության շուրջ",
-        "summary": "Վիետնամը և Ավստրիան համագործակցում են կրիպտոարժույթների կարգավորման շրջանակ ստեղծելու համար, որի շրջանակներում Վիետնամը նախատեսում է 2026 թվականին լիցենզավորել իր առաջին կրիպտո ակտիվների ծառայություններ մատուցողներին։",
-        "link": "https://news.bitcoin.com/crypto-news/vietnam-and-austria-partner-on-crypto-oversight/",
-        "source": "Bitcoin News",
-        "enTitle": "Vietnam and Austria Partner on Crypto Oversight",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/vietnam-and-austria-partner-on-crypto-oversight-768x432.jpg"
-      },
-      {
-        "headline": "SBI-ը ներդրում է կատարում Dtcpay-ում՝ stablecoin-ների համար",
-        "summary": "SBI Group-ը ներդրում է կատարել Սինգապուրի Dtcpay ընկերությունում՝ ընդլայնելու նրա stablecoin վճարումների ցանցը և արտադրանքի տեսականին Ասիայում։",
-        "link": "https://news.bitcoin.com/crypto-news/sbi-invests-in-singapores-dtcpay-to-scale-stablecoin-rails/",
-        "source": "Bitcoin News",
-        "enTitle": "SBI Invests in Singapore’s Dtcpay to Scale Stablecoin Rails",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/sbi-group-1-768x432.jpg"
-      },
-      {
-        "headline": "ԵՄ MiCA ցուցակում բանկերի թիվը կրկնապատկվել է",
-        "summary": "Բանկերը կրկնապատկել են իրենց ներկայությունը ԵՄ MiCA կրիպտո ծառայություններ մատուցողների ցուցակում՝ հունիսի վերջից ի վեր հասնելով ընդհանուրի 23%-ին։",
-        "link": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Banks double on EU MiCA crypto provider list as share hits 23%",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T9WY6ZEBREY64C7KQFFW2D/2222222.png"
       }
     ]
   }
