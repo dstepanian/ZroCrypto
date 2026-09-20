@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-07-22",
-    "ts": 1784740077384,
-    "fng": {
-      "value": 33,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 66202,
-        "change24h": -0.40290104801778126
-      },
-      {
-        "label": "Ethereum",
-        "price": 1947.6,
-        "change24h": 1.0897503067210463
-      }
-    ],
-    "overview": "Օրը նշանավորվեց կրիպտո ոլորտում կարգավորող և օրենսդրական զարգացումներով, հատկապես ԱՄՆ-ում, ինչպես նաև DeFi հատվածի համար նախազգուշացումներով ինչպես ԱՄՆ, այնպես էլ միջազգային մարմինների կողմից։ Ինստիտուցիոնալ որդեգրումը նույնպես նոր առաջընթաց գրանցեց։",
-    "items": [
-      {
-        "headline": "SEC-ը և Coinbase-ը հաշտության համաձայնագիր կնքեցին",
-        "summary": "SEC-ը և Coinbase-ը հաշտության համաձայնագիր կնքեցին՝ դրանով իսկ ավարտելով գործակալության կողմից տվյալների հարցումների շուրջ տարիներ տևած իրավական վեճը։",
-        "link": "https://www.theblock.co/post/409437/sec-reaches-settlement-coinbase-over-records-requests-gensler-era?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "SEC reaches settlement with Coinbase over records requests from Gensler era",
-        "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Coinbase_News_2-800x450.jpg"
-      },
-      {
-        "headline": "Սենատը ներկայացրեց Clarity Act-ի նոր տարբերակը",
-        "summary": "ԱՄՆ Սենատը հրապարակել է Clarity Act-ի վերջին տեքստը, որը ներառում է ծրագրային ապահովման մշակողների պաշտպանություն և էթիկայի դրույթ՝ մինչև 2029 թվականը գործողության ժամկետով։",
-        "link": "https://www.theblock.co/post/409442/senate-releases-latest-clarity-act-software-developer-protections-ethics-provision-sunset-date-2029?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Senate releases latest version of Clarity Act including software developer protections and ethics provision with ‘sunset’ date in 2029",
-        "image": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-800x450.jpg"
-      },
-      {
-        "headline": "BitGo-ն և OTC Markets-ը կապահովեն թոքենացված արժեթղթերի հասանելիություն",
-        "summary": "BitGo-ն և OTC Markets-ը նախատեսում են համագործակցել՝ ապահովելու թոքենացված արժեթղթերի հասանելիություն ավելի քան 150 բրոքեր-դիլերների համար՝ օգտագարծելով BitGo-ի պահպանման ենթակառուցվածքը։",
-        "link": "https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "BitGo, OTC Markets plan tokenized securities access for broker-dealers",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/handshake-agreement-partnership-merger.png"
-      },
-      {
-        "headline": "SEC-ի Peirce-ը զգուշացնում է DeFi պլատֆորմներին",
-        "summary": "SEC-ի հանձնակատար Հեսթեր Փիրսը զգուշացրել է, որ որոշ DeFi պահոցներ և onchain վարկավորում կարող են ընկնել արժեթղթերի մասին օրենքների տակ՝ կախված դրանց կառուցվածքից։",
-        "link": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ddfd06ec680c813ea4ac27abca23ed850fa0990a-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "FATF-ը կոչ է անում կարգավորել DeFi-ի կենտրոնացված տարրերը",
-        "summary": "FATF-ը հայտարարել է, որ DeFi-ում հաճախ պահպանվում են կենտրոնացված տարրեր, որոնք պետք է կարգավորվեն, և զգուշացրել է չհամապատասխանող պլատֆորմների արգելքների մասին։",
-        "link": "https://decrypt.co/374041/centralized-elements-frequently-persist-in-defi-and-should-be-regulated-fatf",
-        "source": "Decrypt",
-        "enTitle": "Centralized Elements 'Frequently Persist' in DeFi and Should Be Regulated: FATF",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/fatf-decrypt-style-1-gID_7.jpg@png"
-      }
-    ]
-  },
-  {
     "date": "2026-07-23",
     "ts": 1784826629289,
     "fng": {
@@ -4304,6 +4239,79 @@
         "source": "Decrypt",
         "enTitle": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_flag-gID_7.png@png"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "ts": 1789899519335,
+    "fng": {
+      "value": 71,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 80379,
+        "change24h": -1.0755082934085998
+      },
+      {
+        "label": "Ethereum",
+        "price": 2575.68,
+        "change24h": -2.4478258819106853
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է խառը տրամադրություններով, որտեղ ինստիտուցիոնալ ներդրումների աճը և հարթակների ինտեգրումը հակադրվում են կարգավորող անորոշություններին և անվտանգության մարտահրավերներին։",
+    "items": [
+      {
+        "headline": "Grayscale Zcash ETF-ը բաժանում է բաժնետոմսերը և աճում",
+        "summary": "ZEC-ի 100% աճը մինչև $1500-ը Grayscale-ի Zcash ETF-ը մոտեցրել է $1 միլիարդին, իսկ հիմնադրամը նախատեսում է 3-ը 1-ի դիմաց բաժնետոմսերի բաժանում՝ մատչելիությունը բարձրացնելու համար։",
+        "link": "https://cryptoslate.com/zecs-100-rally-above-1500-sends-grayscales-zcash-etf-within-85-million-of-1-billion/",
+        "source": "CryptoSlate",
+        "enTitle": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/zcash-etf-split-conveyor.webp"
+      },
+      {
+        "headline": "Bitcoin ETF-ները դրական շաբաթ են գրանցել",
+        "summary": "Bitcoin ETF-ները շաբաթն ավարտել են դրական հոսքերով՝ ուրբաթ օրը գրանցելով $433 միլիոնի զուտ ներհոսք, մինչդեռ Ether հիմնադրամները դադարեցրել են չորսշաբաթյա ներհոսքերի շարքը։",
+        "link": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
+        "source": "The Block",
+        "enTitle": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/08/20230726_BitcoinVEthereum_News.jpg"
+      },
+      {
+        "headline": "CLARITY Act-ի ձախողումը փոխում է կարգավորումը",
+        "summary": "CLARITY Act-ի ձախողումը Սենատում հանգեցրել է նրան, որ կրիպտո արդյունաբերության ուշադրությունը տեղափոխվել է SEC-ի և CFTC-ի կողմից նոր գործողությունների ալիքի վրա։",
+        "link": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
+        "source": "Decrypt",
+        "enTitle": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png@png"
+      },
+      {
+        "headline": "Հյուսիսային Կորեան կրիպտո է գողանում կեղծ հարցազրույցներով",
+        "summary": "Հյուսիսային Կորեայի կողմից հովանավորվող հաքերային խումբը կեղծ IT աշխատանքի հարցազրույցների միջոցով վարակել է ավելի քան 30,000 համակարգիչ՝ գողանալով միլիոնավոր դոլարների կրիպտոարժույթ։",
+        "link": "https://news.bitcoin.com/crypto-news/fake-it-job-interviews-help-north-korea-steal-millions-in-crypto/",
+        "source": "Bitcoin News",
+        "enTitle": "Fake IT Job Interviews Help North Korea Steal Millions in Crypto",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/fake-tech-interviews-help-north-korea-steal-millions-in-crypto-768x432.jpg"
+      },
+      {
+        "headline": "X-ը կրիպտո առևտուրը մոտեցնում է սոցիալական հարթակին",
+        "summary": "X-ի Cashtag հղումներն այժմ կրճատում են կրիպտո զրույցներից մինչև կրիպտո փոխանակումների ճանապարհը՝ Kraken-ի միացումով X-ի ԱՄՆ Cashtag գործընկերային ծրագրին։",
+        "link": "https://cryptoslate.com/x-brings-crypto-trading-closer-to-your-social-feed/",
+        "source": "CryptoSlate",
+        "enTitle": "X brings crypto trading closer to your social feed",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/social-crypto-megaphone.webp"
+      },
+      {
+        "headline": "Ripple-ը պատրաստվում է XRP Ledger-ի թարմացմանը",
+        "summary": "Ripple-ը հայտարարում է, որ ակտիվների կառավարիչները պատրաստվում են XRP Ledger-ի հաջորդ վճարային թարմացմանը՝ Batch V1.1-ին, որը թույլ կտա կապված ակտիվների և վճարումների փոխանցումների միաժամանակյա հաջողություն կամ ձախողում։",
+        "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
