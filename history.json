@@ -4244,7 +4244,7 @@
   },
   {
     "date": "2026-09-20",
-    "ts": 1789899519335,
+    "ts": 1789928634899,
     "fng": {
       "value": 71,
       "label": "Greed",
@@ -4254,64 +4254,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 80379,
-        "change24h": -1.0755082934085998
+        "price": 81190,
+        "change24h": -0.31178679787603664
       },
       {
         "label": "Ethereum",
-        "price": 2575.68,
-        "change24h": -2.4478258819106853
+        "price": 2632.48,
+        "change24h": -0.3318913465432236
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է խառը տրամադրություններով, որտեղ ինստիտուցիոնալ ներդրումների աճը և հարթակների ինտեգրումը հակադրվում են կարգավորող անորոշություններին և անվտանգության մարտահրավերներին։",
+    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս կարգավորող մարմինների աճող ուշադրությունը ոլորտի նկատմամբ, ինչպես նաև շուկայում առկա անվտանգության մարտահավերները։ Միաժամանակ, դիտվում է ինստիտուցիոնալ ներդրողների հետաքրքրության շարունակական աճ և նոր ֆինանսական ապրանքների զարգացում։",
     "items": [
       {
-        "headline": "Grayscale Zcash ETF-ը բաժանում է բաժնետոմսերը և աճում",
-        "summary": "ZEC-ի 100% աճը մինչև $1500-ը Grayscale-ի Zcash ETF-ը մոտեցրել է $1 միլիարդին, իսկ հիմնադրամը նախատեսում է 3-ը 1-ի դիմաց բաժնետոմսերի բաժանում՝ մատչելիությունը բարձրացնելու համար։",
-        "link": "https://cryptoslate.com/zecs-100-rally-above-1500-sends-grayscales-zcash-etf-within-85-million-of-1-billion/",
+        "headline": "ԵՄ-ն քննարկում է սթեյքինգի կարգավորումը",
+        "summary": "Եվրոպական հանձնաժողովը քննարկում է սթեյքինգի ծառայությունների կարգավորումը, ինչը կարող է ազդել կրիպտո եկամտաբերության և ցանցի անվտանգության վրա։",
+        "link": "https://cryptoslate.com/staking-is-becoming-too-large-for-europe-to-leave-alone/",
         "source": "CryptoSlate",
-        "enTitle": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/zcash-etf-split-conveyor.webp"
+        "enTitle": "EU staking review threatens crypto yields and network security could pay the price",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/eu-staking-lockdown.webp"
       },
       {
-        "headline": "Bitcoin ETF-ները դրական շաբաթ են գրանցել",
-        "summary": "Bitcoin ETF-ները շաբաթն ավարտել են դրական հոսքերով՝ ուրբաթ օրը գրանցելով $433 միլիոնի զուտ ներհոսք, մինչդեռ Ether հիմնադրամները դադարեցրել են չորսշաբաթյա ներհոսքերի շարքը։",
-        "link": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
-        "source": "The Block",
-        "enTitle": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/08/20230726_BitcoinVEthereum_News.jpg"
-      },
-      {
-        "headline": "CLARITY Act-ի ձախողումը փոխում է կարգավորումը",
-        "summary": "CLARITY Act-ի ձախողումը Սենատում հանգեցրել է նրան, որ կրիպտո արդյունաբերության ուշադրությունը տեղափոխվել է SEC-ի և CFTC-ի կողմից նոր գործողությունների ալիքի վրա։",
-        "link": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
-        "source": "Decrypt",
-        "enTitle": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png@png"
-      },
-      {
-        "headline": "Հյուսիսային Կորեան կրիպտո է գողանում կեղծ հարցազրույցներով",
-        "summary": "Հյուսիսային Կորեայի կողմից հովանավորվող հաքերային խումբը կեղծ IT աշխատանքի հարցազրույցների միջոցով վարակել է ավելի քան 30,000 համակարգիչ՝ գողանալով միլիոնավոր դոլարների կրիպտոարժույթ։",
-        "link": "https://news.bitcoin.com/crypto-news/fake-it-job-interviews-help-north-korea-steal-millions-in-crypto/",
-        "source": "Bitcoin News",
-        "enTitle": "Fake IT Job Interviews Help North Korea Steal Millions in Crypto",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/fake-tech-interviews-help-north-korea-steal-millions-in-crypto-768x432.jpg"
-      },
-      {
-        "headline": "X-ը կրիպտո առևտուրը մոտեցնում է սոցիալական հարթակին",
-        "summary": "X-ի Cashtag հղումներն այժմ կրճատում են կրիպտո զրույցներից մինչև կրիպտո փոխանակումների ճանապարհը՝ Kraken-ի միացումով X-ի ԱՄՆ Cashtag գործընկերային ծրագրին։",
-        "link": "https://cryptoslate.com/x-brings-crypto-trading-closer-to-your-social-feed/",
-        "source": "CryptoSlate",
-        "enTitle": "X brings crypto trading closer to your social feed",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/social-crypto-megaphone.webp"
-      },
-      {
-        "headline": "Ripple-ը պատրաստվում է XRP Ledger-ի թարմացմանը",
-        "summary": "Ripple-ը հայտարարում է, որ ակտիվների կառավարիչները պատրաստվում են XRP Ledger-ի հաջորդ վճարային թարմացմանը՝ Batch V1.1-ին, որը թույլ կտա կապված ակտիվների և վճարումների փոխանցումների միաժամանակյա հաջողություն կամ ձախողում։",
-        "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+        "headline": "SEC-ը խթանում է թոքենիզացված բաժնետոմսերը",
+        "summary": "Վերլուծաբանները նշում են, որ SEC-ի կողմից թոքենիզացված բաժնետոմսերի խթանումը նոր հնարավորություններ է ստեղծում Coinbase-ի, Robinhood-ի և Circle-ի համար։",
+        "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/419fc7b18585acc0821aefb3c6973a9391cfaa86-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Visa-ն փակում է մեմ քոինի բացը",
+        "summary": "Visa-ն քայլեր է ձեռնարկում՝ կանխելու մեմ քոինների գնումները որպես «թվային մեդիա» կոդավորելուց և քարտի պարգևավճարներ ստանալուց։",
+        "link": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
+        "source": "Decrypt",
+        "enTitle": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg@png"
+      },
+      {
+        "headline": "Polymarket-ը բախվել է խարդախության",
+        "summary": "Polymarket կանխատեսումների շուկան բախվել է 10 միլիոն դոլարի խարդախության փորձի, մինչդեռ հաքերները կոտրել են մոտ 500 օգտատերերի հաշիվներ։",
+        "link": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
+        "source": "The Block",
+        "enTitle": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/10/20201007_Polymarket-Daily.png"
+      },
+      {
+        "headline": "Saylor-ը ազդանշան է տալիս Bitcoin գնելու մասին",
+        "summary": "Michael Saylor-ը նոր «նարնջագույն» ազդանշանով և հոլդինգների աղյուսակով վերակենդանացրել է MicroStrategy-ի կողմից ևս մեկ Bitcoin գնելու շահարկումները։",
+        "link": "https://news.bitcoin.com/featured/a-little-more-orange-saylor-signals-fresh-strategy-bitcoin-buy/",
+        "source": "Bitcoin News",
+        "enTitle": "A Little More Orange: Saylor Signals Fresh Strategy Bitcoin Buy",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/strategy-orange-dot-chart-sept-20-768x432.jpg"
+      },
+      {
+        "headline": "Կեղծ USDT-ն Վենեսուելայում",
+        "summary": "Զեկույցները ցույց են տալիս, որ խարդախները Վենեսուելայում օգտագործում են կեղծ USDT թոքեններ՝ առևտրականներից գողանալու համար։",
+        "link": "https://news.bitcoin.com/stablecoins/scammers-use-fake-usdt-tokens-to-steal-from-venezuelan-merchants/",
+        "source": "Bitcoin News",
+        "enTitle": "Scammers Use Fake USDT Tokens to Steal From Venezuelan Merchants",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/us-dollars-768x432.jpg"
       }
     ]
   }
