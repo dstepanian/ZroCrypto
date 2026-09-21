@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-23",
-    "ts": 1784826629289,
-    "fng": {
-      "value": 31,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 64716,
-        "change24h": -2.276947461816823
-      },
-      {
-        "label": "Ethereum",
-        "price": 1885.28,
-        "change24h": -3.2364103959254447
-      }
-    ],
-    "overview": "Շուկան այսօր բնութագրվում է ինստիտուցիոնալ խաղացողների ակտիվությամբ՝ ուղղված Bitcoin-ի անվտանգության ամրապնդմանը և կարգավորող շրջանակների աջակցությանը։ Միաժամանակ, նկատվում են նորարարություններ DeFi-ում և զգուշացումներ կարգավորող մարմինների կողմից։",
-    "items": [
-      {
-        "headline": "Bitcoin-ի անվտանգությունը քվանտային սպառնալիքներից",
-        "summary": "BlackRock-ը, Coinbase-ը և Strategy-ն այլ ընկերությունների հետ միասին 15 միլիոն դոլար են հատկացրել Bitcoin-ը քվանտային հաշվարկների սպառնալիքներից պաշտպանելու համար։",
-        "link": "https://cryptoslate.com/460-billion-bitcoin-risk-draws-blackrock-coinbase-and-strategy-into-15m-quantum-computing-defense-push/",
-        "source": "CryptoSlate",
-        "enTitle": "$460 billion Bitcoin risk draws BlackRock, Coinbase and Strategy into $15M quantum defense mission",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bitcoin-quantum-threat-shield-institutional-defense.jpg"
-      },
-      {
-        "headline": "Goldman Sachs-ի աջակցությունը CLARITY Act-ին",
-        "summary": "Goldman Sachs-ի գործադիր տնօրենը հայտարարել է CLARITY Act օրինագծին իր աջակցության մասին՝ չնայած բանկային ոլորտի մտահոգություններին stablecoin-ների վերաբերյալ դրույթների շուրջ։",
-        "link": "https://cointelegraph.com/news/goldman-sachs-ceo-clarity-act-stablecoin-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Goldman Sachs CEO backs ‘not perfect’ CLARITY Act as vote expected soon",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-goldman-sachs-and-crypto-recap.jpg"
-      },
-      {
-        "headline": "BitMEX բորսայի փակումը",
-        "summary": "Կրիպտոարժույթների BitMEX բորսան հայտարարել է 2026 թվականի սեպտեմբերի 23-ին իր գործունեության մշտական դադարեցման մասին։",
-        "link": "https://news.bitcoin.com/end-of-an-era-bitmex-announcing-full-shutdown-as-traders-race-to-withdraw-funds/",
-        "source": "Bitcoin News",
-        "enTitle": "BitMEX’s Final Countdown: What the Shutdown Means and When You Should Withdraw",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2020/10/CNwxY4ER-open-interest-on-bitmex-drops-16-investors-withdraw-37000-btc-in-less-than-24-hours-768x432.jpg"
-      },
-      {
-        "headline": "Coinbase-ը թույլ է տալիս AI վճարումներ",
-        "summary": "Coinbase Business օգտատերերն այժմ կարող են ընդունել վճարումներ AI գործակալներից՝ x402 արձանագրության միջոցով, ինչը բորսայի համար «ամենահամոզիչ խաղադրույքն» է։",
-        "link": "https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Coinbase's corporate customers can now accept payments from AI agents",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/01b078cd684ca9805f71cae842b6ed11cbf91ed4-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Uniswap-ը խորացնում է թոքենիզացված ակտիվները",
-        "summary": "Uniswap-ը ներկայացրել է թույլտվություն ունեցող առևտրային պուլեր՝ Superstate-ի, Securitize-ի և Dowgo-ի հետ համատեղ՝ կարգավորվող ֆոնդերին հնարավորություն տալով առևտուր անել Uniswap-ում։",
-        "link": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/360fef2ec03b8a5acf252fa76d45c375526936f8-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "SEC-ի զգուշացումը կրիպտո պահոցների մասին",
-        "summary": "SEC-ի հանձնակատար Հեսթեր Փիրսը զգուշացրել է, որ որոշ կրիպտո պահոցներ և onchain վարկավորման ռազմավարություններ կարող են ենթարկվել դաշնային արժեթղթերի օրենքներին։",
-        "link": "https://cryptoslate.com/131-billion-crypto-vault-boom-will-test-the-limits-of-secs-friendlier-crypto-stance/",
-        "source": "CryptoSlate",
-        "enTitle": "$131 billion crypto vault boom will test the limits of SEC’s friendlier crypto stance",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/sec-crypto-vaults-131-billion-assets.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-24",
     "ts": 1784913658797,
     "fng": {
@@ -4312,6 +4239,79 @@
         "source": "Bitcoin News",
         "enTitle": "Scammers Use Fake USDT Tokens to Steal From Venezuelan Merchants",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/us-dollars-768x432.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "ts": 1789990137692,
+    "fng": {
+      "value": 70,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 84648,
+        "change24h": 5.384961789271622
+      },
+      {
+        "label": "Ethereum",
+        "price": 2720.7,
+        "change24h": 5.827259208297107
+      }
+    ],
+    "overview": "Կրիպտո շուկան այսօր նշանավորվել է ֆինանսական հաստատությունների կողմից բլոկչեյն տեխնոլոգիաների ինտեգրմամբ և կարգավորող մարմինների միջամտություններով, մինչդեռ անվտանգության խոցելիությունները և կիբերհանցագործությունները շարունակում են մնալ օրակարգում։",
+    "items": [
+      {
+        "headline": "ԵԿԲ-ն գործարկում է Pontes հարթակը",
+        "summary": "Եվրոպական Կենտրոնական Բանկը (ECB) գործարկել է Pontes հարթակը՝ կենտրոնական բանկի փողերով մեծածախ թոքենացված ակտիվների հաշվարկների համար։",
+        "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Bitcoin Lightning-ի անվտանգության խոցելիություն",
+        "summary": "Bitcoin Lightning ցանցում հայտնաբերվել է թերություն, որը կարող է հանգեցնել նոդի ամբողջ հաշվեկշռի փոխանցմանը մայնորներին։",
+        "link": "https://cryptoslate.com/a-bitcoin-lightning-flaw-could-send-a-nodes-entire-balance-straight-to-miners/",
+        "source": "CryptoSlate",
+        "enTitle": "A Bitcoin Lightning flaw could send a node’s entire balance straight to miners",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/eclair-peer-risk-shield.webp"
+      },
+      {
+        "headline": "Hana Bank-ը թողարկում է թվային պարտատոմս",
+        "summary": "Հարավկորեական Hana Bank-ը թողարկել է երկրի առաջին թվային պարտատոմսը՝ օգտագործելով Euroclear-ի բլոկչեյն ենթակառուցվածքը։",
+        "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ca0c5227db16e3f89f1df6c7b19698cc547c9f6-3192x1772.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "ԱՄՆ-ը սև ցուցակում է ներառել Bitbank-ը",
+        "summary": "Միացյալ Նահանգները սև ցուցակում է ներառել իրանական կրիպտո փոխանակման Bitbank-ը՝ հարյուր միլիոնավոր դոլարների Bitcoin փոխանցումների համար՝ իբրև պատժամիջոցներից խուսափելու նպատակով։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/us-blacklists-bitbank-over-hundreds-of-millions-in-bitcoin-transfers/",
+        "source": "Bitcoin News",
+        "enTitle": "US Blacklists Bitbank Over Hundreds of Millions in Bitcoin Transfers",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/treasury-department-2-768x432.jpg"
+      },
+      {
+        "headline": "ԱՄՆ Կոնգրեսը առաջ է տանում Bitcoin պահուստի օրինագիծը",
+        "summary": "ԱՄՆ Կոնգրեսի հանձնաժողովը առաջ է տվել օրենսդրություն, որը կամրագրի ԱՄՆ ռազմավարական Bitcoin պահուստը և կարգելի դրա վաճառքը 20 տարի ժամկետով։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/house-panel-advances-us-bitcoin-reserve-bill-with-20-year-hold/",
+        "source": "Bitcoin News",
+        "enTitle": "House Panel Advances US Bitcoin Reserve Bill With 20-Year Hold",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/congress-building-3-768x432.jpg"
+      },
+      {
+        "headline": "Հյուսիսկորեական հաքերները գողացել են $10.7M կրիպտո",
+        "summary": "Հյուսիսկորեական WaterPlum կիբերխումբը վարակել է ավելի քան 30,000 սարք և գողացել 10.7 միլիոն դոլար կրիպտո՝ կեղծ աշխատանքի առաջարկների միջոցով։",
+        "link": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M30SCR3TXMTSM58MCQ6E0A8X/north-korea-it.jpg"
       }
     ]
   }
