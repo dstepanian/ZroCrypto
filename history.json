@@ -4244,7 +4244,7 @@
   },
   {
     "date": "2026-09-22",
-    "ts": 1790073394729,
+    "ts": 1790105277003,
     "fng": {
       "value": 78,
       "label": "Extreme Greed",
@@ -4254,64 +4254,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 85779,
-        "change24h": 1.776251617339378
+        "price": 86500,
+        "change24h": 0.22643271159324938
       },
       {
         "label": "Ethereum",
-        "price": 2735.79,
-        "change24h": 0.8199546344240922
+        "price": 2760.78,
+        "change24h": -0.18167078230788175
       }
     ],
-    "overview": "Օրը նշանավորվել է Bitcoin-ի համար շուկայական զգալի դրական շարժերով, որոնք պայմանավորված են ETF-ների մեծ ներհոսքերով, սակայն նաև խոշոր բորսաների նկատմամբ շարունակվող կարգավորողական վերահսկողությամբ։",
+    "overview": "Ամփոփելով վերջին 24 ժամվա իրադարձությունները, կրիպտո շուկան տեսել է ակտիվություն Bitcoin-ի շուրջ, հատկապես ETF-ների ներհոսքերի և գնի կայունացման առումով, մինչդեռ այլ ակտիվներ և նորարարություններ նույնպես գրավել են ուշադրություն։",
     "items": [
       {
-        "headline": "Binance-ը հետաքննվում է ԱՄՆ դատախազների կողմից",
-        "summary": "ԱՄՆ դաշնային դատախազները հետաքննում են, թե արդյոք Binance կրիպտո փոխանակումը գիտակցաբար թույլ է տվել օգտատերերին շրջանցել ԱՄՆ պատժամիջոցները Իրանի նկատմամբ։",
-        "link": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/8524e860085e53902a998b3545d3aa7e9f9192c9-1440x810.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "headline": "Bitcoin ETF-ները գրանցել են ռեկորդային ներհոսք",
+        "summary": "ԱՄՆ-ի Bitcoin ETF-ները երկուշաբթի օրը գրանցել են ամենամեծ մեկօրյա ներհոսքը 2026 թվականին՝ գրեթե 1 միլիարդ դոլարի չափով, ինչը նպաստել է Bitcoin-ի գնի՝ 86,000 դոլարը գերազանցելուն։",
+        "link": "https://news.bitcoin.com/market-updates/bitcoin-etfs-hit-2026-high-with-999m-inflow-as-bitcoin-price-tops-86k/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin ETFs Hit 2026 High With $999M Inflow as Bitcoin Price Tops $86K",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-etfs-hit-2026-high-with-999m-inflow-as-bitcoin-price-tops-86k-768x432.jpg"
       },
       {
-        "headline": "Spot Bitcoin ETF-ները գրեթե $1 միլիարդ ներհոսք են գրանցել",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները երկուշաբթի օրը գրանցել են $999 միլիոն զուտ ներհոսք, ինչը ամենամեծ մեկօրյա գումարն է եղել 2025 թվականի հոկտեմբերի 6-ից ի վեր։",
-        "link": "https://www.theblock.co/news/markets/2026-09-22-spot-bitcoin-etfs-1-billion-daily-inflow-416005",
+        "headline": "Bitcoin-ի գինը կայունացել է 86,000 դոլարի շրջանում",
+        "summary": "Bitcoin-ի գինը կայունացել է 86,000 դոլարի շրջանում՝ նախորդ գագաթնակետից հետո, մինչդեռ ածանցյալ գործիքների շուկան հանգստացել է՝ վկայելով շուկայի կայունացման միտումների մասին։",
+        "link": "https://news.bitcoin.com/market-updates/bitcoin-liquidations-drop-sharply-price-holds-above-86000/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin Liquidations Drop Sharply as BTC Price Holds Above $86,000",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-liquidations-fall-as-price-holds-above-86000-768x432.jpg"
+      },
+      {
+        "headline": "Coinbase-ը և Circle-ը կայունացնում են դիրքերը կրիպտո վերականգնման համար",
+        "summary": "William Blair-ը նշում է, որ Coinbase-ի բաժնետոմսերն առաջարկում են գրավիչ մուտք, մինչդեռ Circle-ի USDC-ի աճը կշարունակի խթանել ընկերության զարգացումը։",
+        "link": "https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083",
         "source": "The Block",
-        "enTitle": "Spot bitcoin ETFs attract nearly $1 billion in largest daily inflow in 11 months",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240509_Bitcoin_News_5.jpg"
+        "enTitle": "Coinbase, Circle shares positioned for crypto recovery as estimates stabilize: William Blair",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News.jpg"
       },
       {
-        "headline": "Bitcoin-ի $87,000-ի բեկումը $90,000-ը տեսանելի է դարձնում",
-        "summary": "Bitcoin-ը սեպտեմբերի 20-ի շաբաթը փակեց $81,178-ով, ինչը 2025 թվականի նոյեմբերից ի վեր առաջին շաբաթական հաշվարկն էր 50-շաբաթյա շարժվող միջինից բարձր, և հաջորդ օրը հասավ $87,000-ից բարձր ներօրյա առավելագույնի։",
-        "link": "https://cryptoslate.com/bitcoins-87000-breakout-puts-90000-in-sight-but-history-comes-with-a-catch/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitcoin’s $87,000 breakout puts $90,000 in sight, but history comes with a catch",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-market-doorways.webp"
+        "headline": "Ռուսաստանի խոշորագույն բորսան ցուցակում է XRP-ի պերպետուալ ֆյուչերսներ",
+        "summary": "Մոսկվայի բորսան սկսել է XRP-ի պերպետուալ ֆյուչերսների առևտուրը, սակայն այս պայմանագրերը հասանելի են միայն որակյալ ներդրողներին։",
+        "link": "https://news.bitcoin.com/altcoins/moscow-exchange-xrp-perpetual-futures-qualified-investors/",
+        "source": "Bitcoin News",
+        "enTitle": "Russia’s Largest Exchange Lists XRP Perpetuals, but There Is a Caveat",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/russias-largest-exchange-lists-xrp-perpetuals--but-there-are-caveats-768x432.jpg"
       },
       {
-        "headline": "CLARITY Act-ը չի անցել Սենատում",
-        "summary": "CLARITY Act-ը Սենատում չի հավաքել անհրաժեշտ ձայները՝ 49-50 հարաբերակցությամբ, չնայած նախնական աջակցությանը։",
-        "link": "https://cryptoslate.com/clarity-act-needs-11-more-senate-votes-but-4-of-the-49-it-already-has-want-the-bill-changed/",
-        "source": "CryptoSlate",
-        "enTitle": "CLARITY Act needs 11 more Senate votes, but 4 of the 49 it already has want the bill changed",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-senate-tug.webp"
-      },
-      {
-        "headline": "Animoca Brands-ը հետաձգում է IPO-ի պլանները",
-        "summary": "Animoca Brands-ը դադարեցրել է Currenc-ի հետ հակադարձ միաձուլման բանակցությունները, սակայն հայտարարել է, որ հավատարիմ է մնում խոշոր բորսայում ցուցակագրվելու իր նպատակին։",
-        "link": "https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Binance-ը ներդրում է կատարում Circle-ում՝ ընդլայնելով USDC գործընկերությունը",
+        "summary": "Binance-ը 100 միլիոն դոլարի ներդրում է կատարել Circle-ում և երկարաձգել է USDC գործընկերությունը հինգ տարով՝ խթանելու համար USDC-ի օգտագործումը իր հարթակում։",
+        "link": "https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Animoca puts Currenc merger on ice, delaying its Nasdaq debut",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33XRC7JHD8TZAH4J6TMBQ8Q/hi-crypto-goes-for-nasdaq-whos-next-and-why-only-mining-firms-go-public.png"
+        "enTitle": "Binance takes $100M stake in Circle under expanded USDC deal",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34EG4VHJABBH8BW3DK0M075/binance-circle.jpg"
       },
       {
-        "headline": "Կրիպտո չափորոշիչը ազդարարում է Altseason",
-        "summary": "Glassnode-ի Altcoin Cycle Signal-ը նոր altseason ազդանշան է տպել Bitcoin-ի և altcoin-ների շուկայական կապիտալի մեկամսյա աճից հետո։",
-        "link": "https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Եվրոպական կենտրոնական բանկերը փոփոխություններ են առաջարկում stablecoin-ների համար",
+        "summary": "Եվրոպական կենտրոնական բանկերը և ԵՄ-ի այլ կենտրոնական բանկեր առաջարկում են փոխարինել MiCA-ի stablecoin-ների համար նախատեսված բանկային ավանդների նվազագույն պահանջները՝ իրացվելիության շեմերով։",
+        "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M348REMRPFT3JRDK7677JZW0/hi-btc-the-most-popular-crypto-for-purchases-but-bch-and-dash-for-selling-1.jpg"
+        "enTitle": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg"
       }
     ]
   }
