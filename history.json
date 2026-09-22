@@ -4244,74 +4244,74 @@
   },
   {
     "date": "2026-09-22",
-    "ts": 1790021533516,
+    "ts": 1790073394729,
     "fng": {
-      "value": 70,
-      "label": "Greed",
-      "hy": "Ագահություն",
+      "value": 78,
+      "label": "Extreme Greed",
+      "hy": "Ծայրահեղ ագահություն",
       "dot": "🟢"
     },
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 86703,
-        "change24h": 6.818352167645019
+        "price": 85779,
+        "change24h": 1.776251617339378
       },
       {
         "label": "Ethereum",
-        "price": 2769.89,
-        "change24h": 5.202913343511991
+        "price": 2735.79,
+        "change24h": 0.8199546344240922
       }
     ],
-    "overview": "Այսօր կրիպտո շուկան նշանավորվեց քաղաքական ակտիվությամբ, ինստիտուցիոնալ ներդրումների աճով և նորարարական տեխնոլոգիաների զարգացմամբ։ Bitcoin-ի գինը բարձրացավ, իսկ կենտրոնական բանկերը և խոշոր ընկերությունները շարունակում են ուսումնասիրել թոքենացված ակտիվները։",
+    "overview": "Օրը նշանավորվել է Bitcoin-ի համար շուկայական զգալի դրական շարժերով, որոնք պայմանավորված են ETF-ների մեծ ներհոսքերով, սակայն նաև խոշոր բորսաների նկատմամբ շարունակվող կարգավորողական վերահսկողությամբ։",
     "items": [
       {
-        "headline": "Կրիպտո PAC-ը 30 մլն դոլար է ծախսում",
-        "summary": "Fairshake կրիպտո PAC-ը, ի պատասխան CLARITY Act-ի ձախողման, 30 միլիոն դոլար է հատկացնում սենատոր Sherrod Brown-ի դեմ քարոզարշավի համար։",
-        "link": "https://news.bitcoin.com/crypto-news/fairshake-pac-targets-sherrod-brown-with-30m-war-chest/",
-        "source": "Bitcoin News",
-        "enTitle": "Fairshake PAC Targets Sherrod Brown With $30M War Chest",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/fairshake-logo-768x432.jpg"
+        "headline": "Binance-ը հետաքննվում է ԱՄՆ դատախազների կողմից",
+        "summary": "ԱՄՆ դաշնային դատախազները հետաքննում են, թե արդյոք Binance կրիպտո փոխանակումը գիտակցաբար թույլ է տվել օգտատերերին շրջանցել ԱՄՆ պատժամիջոցները Իրանի նկատմամբ։",
+        "link": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/8524e860085e53902a998b3545d3aa7e9f9192c9-1440x810.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Slowmist-ը զգուշացնում է iOS-ի խոցելիության մասին",
-        "summary": "Slowmist-ը զգուշացրել է Darksword iOS-ի նոր խոցելիության մասին, որը թույլ է տալիս գողանալ կրիպտո դրամապանակների գաղտնի բանալիները։",
-        "link": "https://news.bitcoin.com/security/slowmist-warns-darksword-ios-exploit-targets-crypto-wallet-keys/",
-        "source": "Bitcoin News",
-        "enTitle": "Slowmist Warns Darksword iOS Exploit Targets Crypto Wallet Keys",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/ios-logo-768x432.jpg"
+        "headline": "Spot Bitcoin ETF-ները գրեթե $1 միլիարդ ներհոսք են գրանցել",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները երկուշաբթի օրը գրանցել են $999 միլիոն զուտ ներհոսք, ինչը ամենամեծ մեկօրյա գումարն է եղել 2025 թվականի հոկտեմբերի 6-ից ի վեր։",
+        "link": "https://www.theblock.co/news/markets/2026-09-22-spot-bitcoin-etfs-1-billion-daily-inflow-416005",
+        "source": "The Block",
+        "enTitle": "Spot bitcoin ETFs attract nearly $1 billion in largest daily inflow in 11 months",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240509_Bitcoin_News_5.jpg"
       },
       {
-        "headline": "ԵԿԲ-ն կներդնի թոքենացված արժեթղթերում",
-        "summary": "Եվրոպական Կենտրոնական Բանկը (ECB) նախատեսում է սեփական միջոցները ներդնել եվրոյով արտահայտված պետական պարտքի թոքենացված արժեթղթերում։",
-        "link": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
-        "source": "Decrypt",
-        "enTitle": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/christine-lagarde-ecb-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "Ondo-ն թոքենացնում է բաժնետոմսերը",
-        "summary": "Ondo-ի նոր համակարգը թույլ է տալիս հաստատված ինստիտուտներին ուղղակիորեն փոխարկել բաժնետոմսերը և ETF-ները թոքենացված բաժնետոմսերի։",
-        "link": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Ondo lets institutions convert stocks directly into tokenized shares",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32JXF7GPH4P1K65TA97BYB4/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-2.png"
-      },
-      {
-        "headline": "Bitcoin-ը հասել է 86,000 դոլարի",
-        "summary": "Bitcoin-ի գինը հասել է 86,000 դոլարի, ինչը թույլ է տվել ԱՄՆ-ի spot ETF ներդրողներին կրկին շահույթ ստանալ։",
-        "link": "https://cryptoslate.com/bitcoin-hits-86000-putting-etf-investors-back-in-profit-after-86-billion-wipeout/",
+        "headline": "Bitcoin-ի $87,000-ի բեկումը $90,000-ը տեսանելի է դարձնում",
+        "summary": "Bitcoin-ը սեպտեմբերի 20-ի շաբաթը փակեց $81,178-ով, ինչը 2025 թվականի նոյեմբերից ի վեր առաջին շաբաթական հաշվարկն էր 50-շաբաթյա շարժվող միջինից բարձր, և հաջորդ օրը հասավ $87,000-ից բարձր ներօրյա առավելագույնի։",
+        "link": "https://cryptoslate.com/bitcoins-87000-breakout-puts-90000-in-sight-but-history-comes-with-a-catch/",
         "source": "CryptoSlate",
-        "enTitle": "Bitcoin hits $86,000 putting ETF investors back in profit after $86 billion wipeout",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-profit-press.webp"
+        "enTitle": "Bitcoin’s $87,000 breakout puts $90,000 in sight, but history comes with a catch",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-market-doorways.webp"
       },
       {
-        "headline": "Bitmine-ը մեծ քանակությամբ Ethereum է գնել",
-        "summary": "Bitmine-ը ձեռք է բերել 74 միլիոն դոլարի Ethereum, հասցնելով իր պահուստները գրեթե 5.99 միլիոն ETH-ի, ինչը կազմում է ընդհանուր մատակարարման 4.9%-ը։",
-        "link": "https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market",
-        "source": "Decrypt",
-        "enTitle": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/tom-lee-decrypt-style-gID_7.jpg@png"
+        "headline": "CLARITY Act-ը չի անցել Սենատում",
+        "summary": "CLARITY Act-ը Սենատում չի հավաքել անհրաժեշտ ձայները՝ 49-50 հարաբերակցությամբ, չնայած նախնական աջակցությանը։",
+        "link": "https://cryptoslate.com/clarity-act-needs-11-more-senate-votes-but-4-of-the-49-it-already-has-want-the-bill-changed/",
+        "source": "CryptoSlate",
+        "enTitle": "CLARITY Act needs 11 more Senate votes, but 4 of the 49 it already has want the bill changed",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-senate-tug.webp"
+      },
+      {
+        "headline": "Animoca Brands-ը հետաձգում է IPO-ի պլանները",
+        "summary": "Animoca Brands-ը դադարեցրել է Currenc-ի հետ հակադարձ միաձուլման բանակցությունները, սակայն հայտարարել է, որ հավատարիմ է մնում խոշոր բորսայում ցուցակագրվելու իր նպատակին։",
+        "link": "https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Animoca puts Currenc merger on ice, delaying its Nasdaq debut",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33XRC7JHD8TZAH4J6TMBQ8Q/hi-crypto-goes-for-nasdaq-whos-next-and-why-only-mining-firms-go-public.png"
+      },
+      {
+        "headline": "Կրիպտո չափորոշիչը ազդարարում է Altseason",
+        "summary": "Glassnode-ի Altcoin Cycle Signal-ը նոր altseason ազդանշան է տպել Bitcoin-ի և altcoin-ների շուկայական կապիտալի մեկամսյա աճից հետո։",
+        "link": "https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M348REMRPFT3JRDK7677JZW0/hi-btc-the-most-popular-crypto-for-purchases-but-bch-and-dash-for-selling-1.jpg"
       }
     ]
   }
