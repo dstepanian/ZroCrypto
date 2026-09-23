@@ -4244,7 +4244,7 @@
   },
   {
     "date": "2026-09-23",
-    "ts": 1790159359161,
+    "ts": 1790191212056,
     "fng": {
       "value": 71,
       "label": "Greed",
@@ -4254,56 +4254,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 85725,
-        "change24h": -0.13537915387436125
+        "price": 84324,
+        "change24h": -2.5595391254409425
       },
       {
         "label": "Ethereum",
-        "price": 2729.75,
-        "change24h": -0.33457390069068255
+        "price": 2665.98,
+        "change24h": -3.4446985296520833
       }
     ],
-    "overview": "Այսօրվա նորությունները ընդգծում են կրիպտոարժույթների աճող ինտեգրումը ավանդական ֆինանսական համակարգին և կարգավորող մարմինների ուշադրությունը թոքենիզացիայի նկատմամբ։ Կարևոր համագործակցությունները և բանկերի կողմից թվային ակտիվների ուսումնասիրությունը վկայում են շուկայի շարունակական զարգացման մասին։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ հետաքրքրության աճով և նորարարական զարգացումներով, ինչպես նաև անվտանգության հետ կապված մտահոգություններով։ Bitcoin ETF-ները շարունակում են զգալի ներհոսքեր գրանցել, մինչդեռ խոշոր ֆինանսական հաստատությունները ուսումնասիրում են թվային ակտիվների ինտեգրումը։",
     "items": [
       {
-        "headline": "CFTC-ն և SEC-ը խթանում են թոքենիզացիան",
-        "summary": "CFTC-ի նախագահը խթանում է թոքենիզացիան, քանի որ SEC-ը ճանապարհ է բացում onchain բաժնետոմսերի համար։",
-        "link": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "XRP դրամապանակներից գողացվել է $20 միլիոն",
+        "summary": "Վերջին հարձակումների արդյունքում մոտ 20 միլիոն դոլարի XRP է գողացվել 6,678 դրամապանակներից։",
+        "link": "https://cryptoslate.com/nearly-20-million-in-xrp-drained-from-6678-wallets-across-six-attack-waves/",
+        "source": "CryptoSlate",
+        "enTitle": "Nearly $20 million in XRP drained from 6,678 wallets across six attack waves",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-wallet-hacker-drain.webp"
+      },
+      {
+        "headline": "ԱՄՆ-ում stablecoin-ների ընդունումը կարող է աճել",
+        "summary": "Visa-ի հարցումը ցույց է տվել, որ բանկային պաշտպանությունը կարող է զգալիորեն մեծացնել stablecoin-ների ընդունումը ԱՄՆ-ում։",
+        "link": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36T3PBMVAR1PDJC7TZ5HKG0/hi-big-executives-that-joined-crypto-cftc-sec-1.jpg"
+        "enTitle": "US stablecoin adoption could surge with bank-like protections: Visa survey",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37J1B2V73G566QY4TGVRJ04/hi-why-the-us-is-one-of-the-most-crypto-friendly-countries-in-the-world2.jpg"
       },
       {
-        "headline": "Raiffeisen-ը կրիպտո առևտուր կառաջարկի Եվրոպայում",
-        "summary": "Raiffeisen-ը Bitpanda-ի միջոցով կառաջարկի կրիպտո առևտուր Եվրոպայի 11 շուկաներում՝ պոտենցիալ հասանելիություն տալով մոտ 18 միլիոն հաճախորդի։",
-        "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg"
+        "headline": "Կանադայի խոշորագույն բանկերը համագործակցում են թվային դոլարի շուրջ",
+        "summary": "Կանադայի վեց խոշորագույն բանկերը համատեղ ուսումնասիրում են կանադական դոլարի թոքենիզացված ավանդային համակարգ՝ սկսելով բանկերի միջև փոխանցումներից։",
+        "link": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network",
+        "source": "Decrypt",
+        "enTitle": "Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/blockchain-decrypt-style-gID_7.jpg@png"
       },
       {
-        "headline": "Chainlink-ը համագործակցում է Infosys-ի հետ",
-        "summary": "Chainlink ապակենտրոնացված oracle ցանցը հայտարարել է ռազմավարական համագործակցություն Infosys IT հսկայի հետ՝ ավանդական ֆինանսական հաստատություններին օգնելու համար։",
-        "link": "https://news.bitcoin.com/blockchain/chainlink-partners-with-infosys-the-it-giant-behind-1-7b-accounts/",
+        "headline": "NYSE-ը և Blockchain.com-ը կներկայացնեն թոքենիզացված բաժնետոմսեր",
+        "summary": "NYSE-ը և Blockchain.com-ը նախնական համաձայնագիր են ստորագրել՝ թոքենիզացված ԱՄՆ բաժնետոմսեր և ETF-ներ կրիպտո ներդրողներին հասանելի դարձնելու համար՝ սպասելով կարգավորող մարմինների հաստատմանը։",
+        "link": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
+        "source": "Decrypt",
+        "enTitle": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "BlackRock. AI-ն կխթանի կրիպտոյի պահանջարկը",
+        "summary": "BlackRock-ը պնդում է, որ ինքնավար AI գործակալները կարող են դառնալ կրիպտոյի հաջորդ պահանջարկի հիմնական շարժիչ ուժը։",
+        "link": "https://decrypt.co/379070/blackrock-ai-agents-crypto-next-demand-wave",
+        "source": "Decrypt",
+        "enTitle": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-Larry-Fink-decrypt-style-02-gID_7.png@png"
+      },
+      {
+        "headline": "Bitcoin ETF-ները գրանցել են $715 միլիոնի ներհոսք",
+        "summary": "Bitcoin ETF-ները երեքշաբթի օրը ներգրավել են ևս 714.75 միլիոն դոլար՝ չորս օրվա ընթացքում հասնելով 2.3 միլիարդ դոլարի ներհոսքի։",
+        "link": "https://news.bitcoin.com/market-updates/bitcoin-etfs-add-715m-as-4-day-inflow-streak-hits-2-3b/",
         "source": "Bitcoin News",
-        "enTitle": "Chainlink Partners With Infosys, the IT Giant Behind 1.7B Accounts",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/chainlink-partners-with-infosys-the-it-giant-behind-1-7b-accounts-768x432.png"
-      },
-      {
-        "headline": "Կանադական բանկերը ուսումնասիրում են թոքենիզացված ավանդներ",
-        "summary": "Կանադայի վեց խոշորագույն բանկերը ուսումնասիրում են թոքենիզացված ավանդային համակարգ՝ վճարումները արդիականացնելու համար։",
-        "link": "https://www.theblock.co/news/business/2026-09-23-canada-banks-tokenized-deposit-system-416129",
-        "source": "The Block",
-        "enTitle": "Canada’s big six banks explore tokenized deposit system to modernize payments",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/canada-1.jpg"
-      },
-      {
-        "headline": "Binance-ը խորացնում է համագործակցությունը Circle-ի հետ",
-        "summary": "Binance-ը գնել է Circle-ի բաժնետոմսերից 100 միլիոն դոլարի չափով և ստորագրել է նոր հնգամյա առևտրային համաձայնագիր՝ USDC-ի ընդունումն ընդլայնելու համար։",
-        "link": "https://news.bitcoin.com/stablecoins/binance-buys-100m-in-circle-stock-deepens-usdc-alliance/",
-        "source": "Bitcoin News",
-        "enTitle": "Binance Buys $100M in Circle Stock, Deepens USDC Alliance",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/binance-buys-100m-in-circle-stock-deepens-usdc-alliance-768x432.jpg"
+        "enTitle": "Bitcoin ETFs Add $715M as 4-Day Inflow Streak Hits $2.3B",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-etfs-add-715m-as-four-day-inflow-streak-hits-2-3b-768x432.png"
       }
     ]
   }
