@@ -4244,7 +4244,7 @@
   },
   {
     "date": "2026-09-24",
-    "ts": 1790246770198,
+    "ts": 1790278696620,
     "fng": {
       "value": 71,
       "label": "Greed",
@@ -4254,64 +4254,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 83379,
-        "change24h": -2.887884568189583
+        "price": 84590,
+        "change24h": 0.17159664482315884
       },
       {
         "label": "Ethereum",
-        "price": 2641.92,
-        "change24h": -3.438168758630602
+        "price": 2696.06,
+        "change24h": 0.8141463962840881
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է Bitcoin-ի գնի անկմամբ՝ պայմանավորված մակրոտնտեսական գործոններով, ինչպես նաև կարգավորող մարմինների ակտիվությամբ Եվրոպայում և ԱՄՆ-ում, որոնք ձգտում են սահմանել նոր կանոններ և առաջ մղել stablecoin-ները։ Միաժամանակ, ինստիտուցիոնալ խաղացողները շարունակում են ուսումնասիրել բլոկչեյնի ներուժը, մինչդեռ քվանտային հաշվարկների սպառնալիքը մնում է օրակարգում։",
+    "overview": "Շուկան ցույց է տալիս ինստիտուցիոնալ ինտեգրման և ընդունման նշաններ, քանի որ ավանդական ֆինանսական խաղացողները ուսումնասիրում են թոքենիզացված ակտիվներն ու stablecoin-ները: Այնուամենայնիվ, կարգավորող մարմինների ուշադրությունը և անվտանգության միջադեպերը մնում են մտահոգիչ:",
     "items": [
       {
-        "headline": "Bitcoin-ը նվազում է պարտատոմսերի եկամտաբերության աճի ֆոնին",
-        "summary": "Bitcoin-ի գինը նվազել է մինչև $83,300, քանի որ ԱՄՆ գանձապետական պարտատոմսերի եկամտաբերությունը հասել է 2007 թվականից ի վեր ամենաբարձր մակարդակին։",
-        "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
+        "headline": "NYSE-ը նախապատրաստվում է թոքենիզացված ակտիվների շուկային",
+        "summary": "NYSE-ն նախատեսում է ստեղծել 5.5 տրիլիոն դոլար արժողությամբ թոքենիզացված ակտիվների շուկա՝ նոր առևտրային հարթակի և կարգավորող մարմինների հաստատումների միջոցով:",
+        "link": "https://cryptoslate.com/nyse-is-assembling-the-pipes-for-a-5-5-trillion-tokenized-asset-market/",
+        "source": "CryptoSlate",
+        "enTitle": "NYSE is assembling the pipes for a $5.5 trillion tokenized asset market",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/blockchain-nyse-tokenized-access.webp"
+      },
+      {
+        "headline": "Ondo-ն գործարկում է BlackRock-ի ռազմավարությամբ թոքեններ",
+        "summary": "Ondo-ն թողարկել է երեք onchain պորտֆոլիո թոքեններ, որոնք հիմնված են BlackRock-ի կողմից մշակված մոդելային պորտֆոլիո ռազմավարությունների վրա:",
+        "link": "https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260",
+        "source": "The Block",
+        "enTitle": "Ondo launches onchain portfolio tokens based on BlackRock-developed strategies",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/01/shutterstock_1324038479-e1781241568546.jpg"
+      },
+      {
+        "headline": "Մեծ Բրիտանիայի բանկերը կատարել են թոքենիզացված ավանդների գործարքներ",
+        "summary": "Մեծ Բրիտանիայի խոշորագույն բանկերը, ներառյալ Barclays-ը, NatWest-ը և HSBC-ն, ավարտել են աշխարհում առաջին միջբանկային գործարքները՝ օգտագործելով թոքենիզացված ավանդներ:",
+        "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ade86ac4fe10ad0fc72325b3f7ed097c7a1aaa2-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a55120319f442a7083bbe28359db7f277af29df-5745x3830.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "ԵՄ բանկային վերահսկողը կոչ է անում MiCA-ի ներքո կանոններ սահմանել",
-        "summary": "Եվրոպական բանկային մարմինը (EBA) MiCA-ի վերանայման շրջանակներում ուրվագծել է կրիպտո վարկավորման և DeFi արձանագրություններին հասանելիություն տրամադրող ընկերությունների համար հնարավոր կանոնները։",
-        "link": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "EU banking watchdog calls for crypto lending rules under MiCA",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39CZ68WWY72HF76F9JQMDJD/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-3.jpg"
-      },
-      {
-        "headline": "ԵՄ ֆինանսական վերահսկողները զգուշացնում են քվանտային հաշվարկների սպառնալիքի մասին",
-        "summary": "ԵՄ ֆինանսական վերահսկողները զգուշացրել են, որ քվանտային հաշվարկները անմիջական սպառնալիք են ներկայացնում բլոկչեյնի գաղտնագրման համար՝ շեշտելով ժառանգական հասցեների հետ կապված խնդիրների լուծման անհրաժեշտությունը։",
-        "link": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0a7b286155b50450ecbce550b4b98e7f0e786e98-2766x1556.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "UK Finance-ը հեռացնում է Coinbase-ին իր անդամությունից",
-        "summary": "Բրիտանական առևտրային ասոցիացիա UK Finance-ը Coinbase-ին հեռացրել է իր անդամությունից՝ ներքին գնահատումից հետո, որը եզրակացրել է, որ ինքնուրույն կրիպտո փոխանակումները չեն համապատասխանում հիմնական ներառման չափանիշներին։",
-        "link": "https://news.bitcoin.com/exchanges/british-banking-lobby-uk-finance-expels-coinbase/",
+        "headline": "Bitcoin ETF-ները վերականգնում են արտահոսքերը",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները վերացրել են 2026 թվականի արտահոսքերը՝ օգոստոսի 19-ից ի վեր ներգրավելով մոտ 4.6 միլիարդ դոլար:",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-erase-2026-outflows-with-4-6-billion-rebound/",
         "source": "Bitcoin News",
-        "enTitle": "British Banking Lobby UK Finance Expels Coinbase",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/uk-finance-expels-coinbase-768x432.jpg"
+        "enTitle": "Bitcoin ETFs Erase 2026 Outflows With $4.6 Billion Rebound",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-etfs-erase-2026-outflows-with-4-6-billion-rebound-768x432.jpg"
       },
       {
-        "headline": "Հարավային Կորեայի KB Securities-ը նախատեսում է ավանդական ակտիվները տեղափոխել բլոկչեյն",
-        "summary": "Հարավային Կորեայի KB Securities-ը համագործակցում է Securitize-ի և The Optimism Foundation-ի հետ՝ տոկենիզացված արժեթղթեր ներկայացնելու ներքին ինստիտուցիոնալ ներդրողներին։",
-        "link": "https://news.bitcoin.com/blockchain/south-koreas-kb-securities-move-traditional-assets-onchain/",
+        "headline": "Նյու Յորքը դատի է տվել Polymarket-ին",
+        "summary": "Նյու Յորքի գլխավոր դատախազ Լետիցիա Ջեյմսը և նահանգապետ Քեթի Հոչուլը պնդում են, որ Polymarket-ը գործում է առանց լիցենզիայի և Նյու Յորքի բնակիչներին ենթարկում է մոլախաղային վնասների:",
+        "link": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
+        "source": "Decrypt",
+        "enTitle": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Crypto Casino Duelbits-ը կոտրվել է",
+        "summary": "Crypto-կազինո Duelbits-ը հաստատել է, որ ենթարկվել է հաքերային հարձակման, որի հետևանքով իր hot wallet-ներից արտահոսել է մոտ 7 միլիոն դոլար արժողությամբ միջոցներ:",
+        "link": "https://news.bitcoin.com/security/crypto-casino-duelbits-7m-hack-offline/",
         "source": "Bitcoin News",
-        "enTitle": "South Korea’s KB Securities Plans to Move Traditional Assets Onchain",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/south-koreas-kb-securities-moves-traditional-assets-onchain-768x432.jpg"
-      },
-      {
-        "headline": "ԱՄՆ-ը դիտարկում է դոլարով ապահովված stablecoin-ների միջազգային առաջխաղացումը",
-        "summary": "Հաղորդվում է, որ ԱՄՆ-ը դիտարկում է դոլարով ապահովված stablecoin-ների միջազգային առաջխաղացումը՝ ամրապնդելու դոլարի գլոբալ պահուստային արժույթի կարգավիճակը։",
-        "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M38V1DJT1AP7MTJB9PYYTZWN/usa.png"
+        "enTitle": "Crypto Casino Duelbits Hit With $7M Hack, Taken Offline",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/crypto-casino-duelbits-hit-with-7m-hack-taken-offline-768x432.png"
       }
     ]
   }
