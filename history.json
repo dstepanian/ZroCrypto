@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-26",
-    "ts": 1785084550709,
-    "fng": {
-      "value": 26,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 64757,
-        "change24h": 0.9186060900389635
-      },
-      {
-        "label": "Ethereum",
-        "price": 1917.65,
-        "change24h": 2.678263834791402
-      }
-    ],
-    "overview": "Կրիպտոարժույթների շուկան այսօր նշանավորվել է մի շարք կարևոր իրադարձություններով, ներառյալ ինստիտուցիոնալ ընդունման զարգացումները և կարգավորող մարմինների գործողությունները:",
-    "items": [
-      {
-        "headline": "Sberbank-ը կգործարկի կրիպտո առևտրի ենթակառուցվածք",
-        "summary": "Ռուսաստանի խոշորագույն Sberbank բանկը մինչև դեկտեմբերի 1-ը նախատեսում է ստեղծել կրիպտոարժույթների առևտրի ենթակառուցվածք՝ երկրում շուկայի մասնակիցների համար կանոններ սահմանելու համար։",
-        "link": "https://cointelegraph.com/news/russias-sberbank-to-launch-crypto-trading-infrastructure-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Russia’s Sberbank to launch crypto trading infrastructure this year",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/russia-bitcoin.png"
-      },
-      {
-        "headline": "Coinbase-ը ԱՄՆ-ում գործարկում է ֆյուչերսային պայմանագրեր",
-        "summary": "Coinbase-ը սկսել է առաջարկել ԱՄՆ-ում perpetual-style ֆյուչերսային պայմանագրեր իր CFTC-ի կողմից կարգավորվող դերիվատիվների բորսայում՝ սկսելով nano Bitcoin և Ethereum պայմանագրերից։",
-        "link": "https://cryptoslate.com/america-is-importing-cryptos-perpetual-futures-liquidation-engine/",
-        "source": "CryptoSlate",
-        "enTitle": "Multi-trillion-dollar offshore engine driving 90% of crypto trading arrives in America – and CME is suing to crush it",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/perpetual-futures-liquidation-engine-hero.jpg"
-      },
-      {
-        "headline": "Արգենտինան թույլ է տալիս աշխատավարձերը վճարել USD-ով",
-        "summary": "Արգենտինայի Կենտրոնական բանկը հաստատել է դոլարային աշխատավարձի հաշիվները, ինչը թույլ է տալիս արգենտինացիներին իրենց աշխատավարձերը ստանալ ԱՄՆ դոլարով։",
-        "link": "https://news.bitcoin.com/argentina-opens-the-door-to-usd-wages-as-central-bank-approves-dollar-salary-accounts/",
-        "source": "Bitcoin News",
-        "enTitle": "Argentina Opens the Door to USD Wages as Central Bank Approves Dollar Salary Accounts",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/argentinacentralbank-768x432.jpg"
-      },
-      {
-        "headline": "Chainlink-ի ընդունումը մեծանում է անվտանգության պատճառով",
-        "summary": "Chainlink-ը երկրորդ եռամսյակում ներգրավել է ավելի քան 7 միլիարդ դոլարի թոքենային արժեք իր cross-chain ենթակառուցվածքի վրա՝ կապված կամուրջների հաքերային հարձակումների հետ։",
-        "link": "https://cryptoslate.com/a-650-million-wave-of-bridge-hacks-just-triggered-a-7-billion-mass-migration-to-chainlink/",
-        "source": "CryptoSlate",
-        "enTitle": "A $650 million wave of bridge hacks just triggered a $7 billion mass migration to Chainlink",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/chainlink-ccip-wall-street-adoption-collage.jpg"
-      },
-      {
-        "headline": "ԵՄ-ն HTX-ը ներառել է Ռուսաստանի դեմ պատժամիջոցների ցուցակում",
-        "summary": "Եվրոպական միությունը HTX կրիպտո հարթակը ներառել է Ռուսաստանի դեմ պատժամիջոցների ցուցակում՝ արգելելով գործարքները օգոստոսի 23-ից։",
-        "link": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
-        "image": "https://www.tbstat.com/wp/uploads/2023/10/20231006_HTXImages_News4-800x450.png"
-      },
-      {
-        "headline": "Samsung Wallet-ը կավելացնի native stablecoin-ներ",
-        "summary": "Samsung Wallet-ը կավելացնի native stablecoin-ներ, ինչը կարող է մեկ թոքենը դարձնել լռելյայն տարբերակ 800 միլիոն օգտատերերի համար։",
-        "link": "https://cryptoslate.com/samsung-wallets-stablecoin-plan-could-redraw-crypto-distribution-while-its-biggest-decisions-are-still-unannounced/",
-        "source": "CryptoSlate",
-        "enTitle": "Samsung Wallet is getting native stablecoins – and it could make one token the default for 800M users",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/samsung-wallet-stablecoin-issuer-network-custody-options.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-27",
     "ts": 1785173787793,
     "fng": {
@@ -4312,6 +4239,79 @@
         "source": "Bitcoin News",
         "enTitle": "Bitcoin ETFs Add $715M as 4-Day Inflow Streak Hits $2.3B",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-etfs-add-715m-as-four-day-inflow-streak-hits-2-3b-768x432.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "ts": 1790246770198,
+    "fng": {
+      "value": 71,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 83379,
+        "change24h": -2.887884568189583
+      },
+      {
+        "label": "Ethereum",
+        "price": 2641.92,
+        "change24h": -3.438168758630602
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է Bitcoin-ի գնի անկմամբ՝ պայմանավորված մակրոտնտեսական գործոններով, ինչպես նաև կարգավորող մարմինների ակտիվությամբ Եվրոպայում և ԱՄՆ-ում, որոնք ձգտում են սահմանել նոր կանոններ և առաջ մղել stablecoin-ները։ Միաժամանակ, ինստիտուցիոնալ խաղացողները շարունակում են ուսումնասիրել բլոկչեյնի ներուժը, մինչդեռ քվանտային հաշվարկների սպառնալիքը մնում է օրակարգում։",
+    "items": [
+      {
+        "headline": "Bitcoin-ը նվազում է պարտատոմսերի եկամտաբերության աճի ֆոնին",
+        "summary": "Bitcoin-ի գինը նվազել է մինչև $83,300, քանի որ ԱՄՆ գանձապետական պարտատոմսերի եկամտաբերությունը հասել է 2007 թվականից ի վեր ամենաբարձր մակարդակին։",
+        "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ade86ac4fe10ad0fc72325b3f7ed097c7a1aaa2-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "ԵՄ բանկային վերահսկողը կոչ է անում MiCA-ի ներքո կանոններ սահմանել",
+        "summary": "Եվրոպական բանկային մարմինը (EBA) MiCA-ի վերանայման շրջանակներում ուրվագծել է կրիպտո վարկավորման և DeFi արձանագրություններին հասանելիություն տրամադրող ընկերությունների համար հնարավոր կանոնները։",
+        "link": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "EU banking watchdog calls for crypto lending rules under MiCA",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39CZ68WWY72HF76F9JQMDJD/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-3.jpg"
+      },
+      {
+        "headline": "ԵՄ ֆինանսական վերահսկողները զգուշացնում են քվանտային հաշվարկների սպառնալիքի մասին",
+        "summary": "ԵՄ ֆինանսական վերահսկողները զգուշացրել են, որ քվանտային հաշվարկները անմիջական սպառնալիք են ներկայացնում բլոկչեյնի գաղտնագրման համար՝ շեշտելով ժառանգական հասցեների հետ կապված խնդիրների լուծման անհրաժեշտությունը։",
+        "link": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0a7b286155b50450ecbce550b4b98e7f0e786e98-2766x1556.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "UK Finance-ը հեռացնում է Coinbase-ին իր անդամությունից",
+        "summary": "Բրիտանական առևտրային ասոցիացիա UK Finance-ը Coinbase-ին հեռացրել է իր անդամությունից՝ ներքին գնահատումից հետո, որը եզրակացրել է, որ ինքնուրույն կրիպտո փոխանակումները չեն համապատասխանում հիմնական ներառման չափանիշներին։",
+        "link": "https://news.bitcoin.com/exchanges/british-banking-lobby-uk-finance-expels-coinbase/",
+        "source": "Bitcoin News",
+        "enTitle": "British Banking Lobby UK Finance Expels Coinbase",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/uk-finance-expels-coinbase-768x432.jpg"
+      },
+      {
+        "headline": "Հարավային Կորեայի KB Securities-ը նախատեսում է ավանդական ակտիվները տեղափոխել բլոկչեյն",
+        "summary": "Հարավային Կորեայի KB Securities-ը համագործակցում է Securitize-ի և The Optimism Foundation-ի հետ՝ տոկենիզացված արժեթղթեր ներկայացնելու ներքին ինստիտուցիոնալ ներդրողներին։",
+        "link": "https://news.bitcoin.com/blockchain/south-koreas-kb-securities-move-traditional-assets-onchain/",
+        "source": "Bitcoin News",
+        "enTitle": "South Korea’s KB Securities Plans to Move Traditional Assets Onchain",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/south-koreas-kb-securities-moves-traditional-assets-onchain-768x432.jpg"
+      },
+      {
+        "headline": "ԱՄՆ-ը դիտարկում է դոլարով ապահովված stablecoin-ների միջազգային առաջխաղացումը",
+        "summary": "Հաղորդվում է, որ ԱՄՆ-ը դիտարկում է դոլարով ապահովված stablecoin-ների միջազգային առաջխաղացումը՝ ամրապնդելու դոլարի գլոբալ պահուստային արժույթի կարգավիճակը։",
+        "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M38V1DJT1AP7MTJB9PYYTZWN/usa.png"
       }
     ]
   }
