@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-27",
-    "ts": 1785173787793,
-    "fng": {
-      "value": 30,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 64985,
-        "change24h": 0.4451543950074475
-      },
-      {
-        "label": "Ethereum",
-        "price": 1941.77,
-        "change24h": 1.4569885325107153
-      }
-    ],
-    "overview": "Ամփոփելով վերջին 24 ժամվա իրադարձությունները, կրիպտո շուկայում նկատվում է ակտիվություն՝ կապված խոշոր ընկերությունների կողմից տեխնոլոգիական զարգացումների, արտոնագրերի ձեռքբերման և նոր ֆինանսական գործիքների ներդրման հետ։ Միևնույն ժամանակ, որոշ փոխանակման հարթակներ բախվում են խնդիրների, ինչը շուկայում անորոշություն է հաղորդում։",
-    "items": [
-      {
-        "headline": "Circle-ը ձեռք է բերում IBM-ի բլոկչեյնի արտոնագրերի մեծ փաթեթը",
-        "summary": "USDC-ի թողարկող Circle-ը ձեռք է բերել IBM-ի գրեթե 1000 բլոկչեյն արտոնագրեր՝ ընդլայնելով իր դիրքերը թվային ակտիվների ոլորտում և դառնալով ԱՄՆ-ում բլոկչեյն արտոնագրերի ամենամեծ սեփականատերը։",
-        "link": "https://news.bitcoin.com/circle-acquires-1000-blockchain-patents-from-ibm-to-fuel-digital-asset-expansion/",
-        "source": "Bitcoin News",
-        "enTitle": "Circle Acquires 1,000 Blockchain Patents From IBM to Fuel Digital Asset Expansion",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/ibm-768x432.jpg"
-      },
-      {
-        "headline": "Bitmine-ը մոտենում է Ethereum-ի մատակարարման 5%-ին",
-        "summary": "Bitmine Immersion Technologies-ը շարունակում է մեծացնել իր Ethereum պահուստները՝ ձեռք բերելով գրեթե 10,000 ETH, և այժմ վերահսկում է կրիպտոարժույթի շրջանառվող առաջարկի 4.8%-ը, միաժամանակ իրականացնելով բաժնետոմսերի հետգնման ծրագիր։",
-        "link": "https://decrypt.co/374389/bitmine-nears-5-percent-ethereum-supply-with-11-8-billion-treasury",
-        "source": "Decrypt",
-        "enTitle": "Bitmine Nears Goal of Controlling 5% of Ethereum Supply With $11.8 Billion Treasury",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png"
-      },
-      {
-        "headline": "Ether ETF-ները գրանցում են զգալի ներհոսքեր",
-        "summary": "ԱՄՆ-ում գործող Ether ETF-ները գրանցել են 104 միլիոն դոլարի զուտ ներհոսքեր՝ եռապատկելով Bitcoin ETF-ների շաբաթական ցուցանիշները և ցույց տալով ներդրողների աճող հետաքրքրությունը Ethereum-ի նկատմամբ։",
-        "link": "https://news.bitcoin.com/ether-etfs-add-104-million-as-weekly-flows-triple-bitcoins-total/",
-        "source": "Bitcoin News",
-        "enTitle": "Ether ETFs Add $104 Million as Weekly Flows Triple Bitcoin’s Total",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/ether-etfs-add-104-million-as-weekly-flows-triple-bitcoins-total-2-768x432.jpg"
-      },
-      {
-        "headline": "BitMart-ը հանկարծակի փակում է իր հարթակը",
-        "summary": "BitMart փոխանակման հարթակը հանկարծակի դադարեցրել է իր գործունեությունը՝ դադարեցնելով ավելի քան ինը տարվա գործունեությունը և առաջացնելով դուրսբերումների հետաձգումներ ու խուճապ օգտատերերի շրջանում։",
-        "link": "https://cryptoslate.com/bitmarts-sudden-shutdown-triggers-withdrawal-delays-and-on-chain-panic-echoing-the-ghosts-of-2022/",
-        "source": "CryptoSlate",
-        "enTitle": "BitMart’s sudden shutdown triggers withdrawal delays and on-chain panic, echoing the ghosts of 2022",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bitmart-locked-withdrawals-chained-crypto-safe.jpg"
-      },
-      {
-        "headline": "Lido-ն կենտրոնացնում է staked ETH-ի մեծ ծավալներ",
-        "summary": "Ethereum-ի սթեյքինգի պրոտոկոլ Lido-ն սկսել է կենտրոնացնել ավելի քան 16 միլիարդ դոլար արժողությամբ staked ETH՝ նվազեցնելու վալիդատորների թիվը և օպտիմալացնելու իր գործառնությունները։",
-        "link": "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Lido begins moving $16.5 billion in staked ether to cut validator count by a third",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6334f8835e037221b298cb9aea44cd8f5b69ddc0-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Tether-ի XAUt ոսկու թոքենը ստացել է Շարիաթի հավաստագիր",
-        "summary": "Tether-ի ոսկով ապահովագրված XAUt թոքենը ստացել է Շարիաթի հավաստագիր, ինչը կընդլայնի դրա հասանելիությունը իսլամական ֆինանսական հաստատությունների և ներդրողների համար։",
-        "link": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sharia-ruling-on-crypto-will-it-set-a-standard-for-acceptance.png"
-      }
-    ]
-  },
-  {
     "date": "2026-07-28",
     "ts": 1785259171234,
     "fng": {
@@ -4312,6 +4239,79 @@
         "source": "Bitcoin News",
         "enTitle": "Crypto Casino Duelbits Hit With $7M Hack, Taken Offline",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/crypto-casino-duelbits-hit-with-7m-hack-taken-offline-768x432.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "ts": 1790333452051,
+    "fng": {
+      "value": 71,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 84759,
+        "change24h": 1.639397615921489
+      },
+      {
+        "label": "Ethereum",
+        "price": 2713.76,
+        "change24h": 2.6206652687320244
+      }
+    ],
+    "overview": "Անցած 24 ժամը կրիպտո շուկայում նշանավորվել է խոշոր հաքերային հարձակումներով և կարգավորող մարմինների ակտիվությամբ։ Միաժամանակ, Bitcoin ETF-ների ներհոսքը շարունակվում է, իսկ նոր տեխնոլոգիական առաջարկները խոստանում են բարելավել Bitcoin-ի գաղտնիությունը։",
+    "items": [
+      {
+        "headline": "Bitget-ի 352 միլիոն դոլարի հաքերային հարձակում",
+        "summary": "Կրիպտո փոխանակման Bitget հարթակը դադարեցրել է դուրսբերումները՝ չարտոնված փոխանցումների հետևանքով, որոնք հանգեցրել են մոտ 351.6 միլիոն դոլարի կորստի։",
+        "link": "https://cryptoslate.com/bitgets-351-6-million-hack-pushes-september-crypto-losses-to-2026-high/",
+        "source": "CryptoSlate",
+        "enTitle": "Bitget’s $351.6 million hack pushes September crypto losses to 2026 high",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitget-september-crypto-losses-2026-high.jpg"
+      },
+      {
+        "headline": "KelpDAO-ն դատի է տվել LayerZero-ին",
+        "summary": "KelpDAO-ի հետևում կանգնած Evercrest Technologies ընկերությունը դատական հայց է ներկայացրել LayerZero Labs-ի և գործադիր տնօրեն Bryan Pellegrino-ի դեմ՝ 292 միլիոն դոլար արժողությամբ rsETH կամրջի շահագործման հետ կապված։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/kelpdao-takes-layerzero-to-court-over-a-292m-bridge-blowup/",
+        "source": "Bitcoin News",
+        "enTitle": "KelpDAO Takes Layerzero to Court Over a $292M Bridge Blowup",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/kelpdao-takes-layerzero-to-court-over-a-292m-bridge-blowup-768x432.png"
+      },
+      {
+        "headline": "Bitcoin ETF-ների ներհոսքի դանդաղում",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները հինգշաբթի օրը ներգրավել են 191 միլիոն դոլար, ինչը դանդաղեցրել է ամենօրյա ներհոսքը երրորդ օրն անընդմեջ, սակայն տարեկան զուտ ներհոսքը հասել է 787 միլիոն դոլարի։",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BNHNN1HMXCX6AA83T10V84/bitcoin-etf-5.jpg"
+      },
+      {
+        "headline": "Դաշնային պահուստային համակարգի առաջարկները stablecoin-ների համար",
+        "summary": "Դաշնային պահուստային համակարգն առաջարկել է նոր կանոններ՝ կապիտալի պահանջներ, երկօրյա մարման պատուհան և պահուստների բացահայտումներ սահմանելու համար՝ GENIUS Act-ը կիրառելու նպատակով։",
+        "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Fed proposes new capital, redemption rules for stablecoin issuers",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AP0WARDM7K816JES0B780Z/hi-us-crypto-bills-compared-genius-act.jpg"
+      },
+      {
+        "headline": "Shielded Bitcoin-ի առաջարկը գաղտնիության համար",
+        "summary": "Նյու Յորքի գաղտնագրման լաբորատորիան առաջարկել է Zcash-ի ոճով մասնավոր փոխանցումներ Bitcoin-ի վրա՝ առանց Bitcoin-ի փոփոխության։",
+        "link": "https://news.bitcoin.com/featured/shielded-bitcoin-proposal-aims-to-bring-privacy-to-bitcoin-l1/",
+        "source": "Bitcoin News",
+        "enTitle": "Shielded Bitcoin Proposal Aims to Bring Privacy to Bitcoin L1",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/shielded-bitcoin-proposal-aims-to-bring-privacy-to-bitcoin-l1-768x432.png"
+      },
+      {
+        "headline": "Նյու Յորքը դատի է տվել Polymarket-ին",
+        "summary": "Նյու Յորք նահանգը դատի է տվել Polymarket-ին՝ պնդելով, որ նրա ԱՄՆ-ի կանխատեսումների շուկան անլիցենզավորված մոլախաղային բիզնես է։",
+        "link": "https://cryptoslate.com/new-york-sues-polymarket-seeks-triple-gains-and-100000-penalties-over-prediction-markets/",
+        "source": "CryptoSlate",
+        "enTitle": "New York sues Polymarket, seeks triple gains and $100,000 penalties over prediction markets",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/polymarket-new-york-ban.webp"
       }
     ]
   }
