@@ -4244,7 +4244,7 @@
   },
   {
     "date": "2026-09-25",
-    "ts": 1790333452051,
+    "ts": 1790365403654,
     "fng": {
       "value": 71,
       "label": "Greed",
@@ -4254,64 +4254,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 84759,
-        "change24h": 1.639397615921489
+        "price": 83975,
+        "change24h": -0.5457909011030235
       },
       {
         "label": "Ethereum",
-        "price": 2713.76,
-        "change24h": 2.6206652687320244
+        "price": 2691.26,
+        "change24h": -0.08666424616004306
       }
     ],
-    "overview": "Անցած 24 ժամը կրիպտո շուկայում նշանավորվել է խոշոր հաքերային հարձակումներով և կարգավորող մարմինների ակտիվությամբ։ Միաժամանակ, Bitcoin ETF-ների ներհոսքը շարունակվում է, իսկ նոր տեխնոլոգիական առաջարկները խոստանում են բարելավել Bitcoin-ի գաղտնիությունը։",
+    "overview": "Օրը նշանավորվեց անվտանգության խոշոր միջադեպերով, քանի որ Bitget բորսայի հաքերային հարձակումից կորուստները հասան գրեթե 388 միլիոն դոլարի, ինչը դրդեց stablecoin-ի թողարկողներին սառեցնել որոշ միջոցներ։ Միաժամանակ, ինստիտուցիոնալ հետաքրքրությունը կրիպտո ETF-ների նկատմամբ շարունակում է աճել՝ զգալի ներհոսքերով տարբեր թվային ակտիվներում։",
     "items": [
       {
-        "headline": "Bitget-ի 352 միլիոն դոլարի հաքերային հարձակում",
-        "summary": "Կրիպտո փոխանակման Bitget հարթակը դադարեցրել է դուրսբերումները՝ չարտոնված փոխանցումների հետևանքով, որոնք հանգեցրել են մոտ 351.6 միլիոն դոլարի կորստի։",
-        "link": "https://cryptoslate.com/bitgets-351-6-million-hack-pushes-september-crypto-losses-to-2026-high/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitget’s $351.6 million hack pushes September crypto losses to 2026 high",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitget-september-crypto-losses-2026-high.jpg"
+        "headline": "Bitget-ի հաքերային հարձակման կորուստները հասել են $387M-ի",
+        "summary": "Bitget կրիպտո բորսայի հաքերային հարձակումից կորուստները հասել են $387.5 միլիոնի, և կասկածներ կան, որ հարձակման հետևում կարող է կանգնած լինել Հյուսիսային Կորեան։",
+        "link": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
+        "source": "Decrypt",
+        "enTitle": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg@png"
       },
       {
-        "headline": "KelpDAO-ն դատի է տվել LayerZero-ին",
-        "summary": "KelpDAO-ի հետևում կանգնած Evercrest Technologies ընկերությունը դատական հայց է ներկայացրել LayerZero Labs-ի և գործադիր տնօրեն Bryan Pellegrino-ի դեմ՝ 292 միլիոն դոլար արժողությամբ rsETH կամրջի շահագործման հետ կապված։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/kelpdao-takes-layerzero-to-court-over-a-292m-bridge-blowup/",
+        "headline": "Սպիտակ գլխարկավոր հաքերները փրկել են $5.7M արժողությամբ NFT-ներ",
+        "summary": "Սպիտակ գլխարկավոր հաքերների թիմը փրկել է ավելի քան $5.7 միլիոն արժողությամբ 23,155 NFT՝ կանխելով հնարավոր շահագործումը Magic Eden-ի հին թերության պատճառով։",
+        "link": "https://news.bitcoin.com/security/white-hats-swipe-5-7m-in-nfts-before-attackers-get-their-shot/",
         "source": "Bitcoin News",
-        "enTitle": "KelpDAO Takes Layerzero to Court Over a $292M Bridge Blowup",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/kelpdao-takes-layerzero-to-court-over-a-292m-bridge-blowup-768x432.png"
+        "enTitle": "White Hats Swipe $5.7M in NFTs Before Attackers Get Their Shot",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/white-hats-swipe-5-7m-in-nfts-before-attackers-get-their-shot-768x432.png"
       },
       {
-        "headline": "Bitcoin ETF-ների ներհոսքի դանդաղում",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները հինգշաբթի օրը ներգրավել են 191 միլիոն դոլար, ինչը դանդաղեցրել է ամենօրյա ներհոսքը երրորդ օրն անընդմեջ, սակայն տարեկան զուտ ներհոսքը հասել է 787 միլիոն դոլարի։",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Tether-ը սահմանափակ կապ է ունեցել EQIBank-ի հետ",
+        "summary": "Tether-ը հայտարարել է, որ սահմանափակ կապ է ունեցել EQIBank-ի հետ, որը կապված է ԱՄՆ-ի կողմից $84 միլիոնի առգրավման հետ, որը վերաբերում է անօրինական փոխանցումներին։",
+        "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BNHNN1HMXCX6AA83T10V84/bitcoin-etf-5.jpg"
+        "enTitle": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CMJJSCGPAGYWMC5WQF9J64/hi-what-happens-to-seized-cryptocurrency-1.jpg"
       },
       {
-        "headline": "Դաշնային պահուստային համակարգի առաջարկները stablecoin-ների համար",
-        "summary": "Դաշնային պահուստային համակարգն առաջարկել է նոր կանոններ՝ կապիտալի պահանջներ, երկօրյա մարման պատուհան և պահուստների բացահայտումներ սահմանելու համար՝ GENIUS Act-ը կիրառելու նպատակով։",
-        "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Fed proposes new capital, redemption rules for stablecoin issuers",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AP0WARDM7K816JES0B780Z/hi-us-crypto-bills-compared-genius-act.jpg"
+        "headline": "Circle-ը և Tether-ը սառեցրել են Bitget հաքերային միջոցները",
+        "summary": "Circle-ը և Tether-ը սառեցրել են մոտ $318,000 արժողությամբ USDC և USDT, որոնք կապված են Bitget հաքերային հարձակման հետ, սակայն հարձակվողը միջոցների մեծ մասը փոխարկել է ETH-ի՝ նախքան միջամտությունը։",
+        "link": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+        "source": "Decrypt",
+        "enTitle": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png"
       },
       {
-        "headline": "Shielded Bitcoin-ի առաջարկը գաղտնիության համար",
-        "summary": "Նյու Յորքի գաղտնագրման լաբորատորիան առաջարկել է Zcash-ի ոճով մասնավոր փոխանցումներ Bitcoin-ի վրա՝ առանց Bitcoin-ի փոփոխության։",
-        "link": "https://news.bitcoin.com/featured/shielded-bitcoin-proposal-aims-to-bring-privacy-to-bitcoin-l1/",
-        "source": "Bitcoin News",
-        "enTitle": "Shielded Bitcoin Proposal Aims to Bring Privacy to Bitcoin L1",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/shielded-bitcoin-proposal-aims-to-bring-privacy-to-bitcoin-l1-768x432.png"
-      },
-      {
-        "headline": "Նյու Յորքը դատի է տվել Polymarket-ին",
-        "summary": "Նյու Յորք նահանգը դատի է տվել Polymarket-ին՝ պնդելով, որ նրա ԱՄՆ-ի կանխատեսումների շուկան անլիցենզավորված մոլախաղային բիզնես է։",
-        "link": "https://cryptoslate.com/new-york-sues-polymarket-seeks-triple-gains-and-100000-penalties-over-prediction-markets/",
+        "headline": "ԱՄՆ կրիպտո ETF-ները ներգրավել են $3 միլիարդից ավելի",
+        "summary": "ԱՄՆ կրիպտո ETF-ները այս շաբաթ ներգրավել են ավելի քան $3 միլիարդ, որից մոտ $800 միլիոնը ներհոսել է ոչ միայն Bitcoin-ի, այլև Ethereum-ի և այլ altcoin ապրանքների մեջ։",
+        "link": "https://cryptoslate.com/us-crypto-etfs-draw-over-3-billion-this-week-with-nearly-800-million-flowing-beyond-bitcoin/",
         "source": "CryptoSlate",
-        "enTitle": "New York sues Polymarket, seeks triple gains and $100,000 penalties over prediction markets",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/polymarket-new-york-ban.webp"
+        "enTitle": "US crypto ETFs draw over $3 billion this week, with nearly $800 million flowing beyond Bitcoin",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/us-crypto-etf-inflows-2.webp"
+      },
+      {
+        "headline": "Aave V4-ը ավելացնում է Coinbase-ի թոքենացված բաժնետոմսերը",
+        "summary": "Aave V4-ը Base ցանցում ավելացրել է Coinbase-ի թոքենացված բաժնետոմսերը, ներառյալ Apple-ը և Nvidia-ն, որպես գրավ USDC վարկերի համար՝ ոչ ԱՄՆ օգտատերերի համար։",
+        "link": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
+        "source": "The Block",
+        "enTitle": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/08/20240819_Aave_News_3.jpg"
       }
     ]
   }
