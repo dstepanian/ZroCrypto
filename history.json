@@ -4252,7 +4252,7 @@
   },
   {
     "date": "2026-09-26",
-    "ts": 1790418704639,
+    "ts": 1790448729810,
     "fng": {
       "value": 74,
       "label": "Greed",
@@ -4262,64 +4262,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 84115,
-        "change24h": -0.6638466131492591
+        "price": 83998,
+        "change24h": 0.05929746572884746
       },
       {
         "label": "Ethereum",
-        "price": 2687.47,
-        "change24h": -0.899538224000662
+        "price": 2683.89,
+        "change24h": -0.35888026637122095
       }
     ],
-    "overview": "Օրը նշանավորվում է կարգավորող մարմինների զգալի գործողություններով և կրիպտո փոխանակման խոշոր հաքերային հարձակման շուրջ շարունակվող զարգացումներով։ Միաժամանակ, կան նաև կարևոր տեխնիկական թարմացումներ և ինստիտուցիոնալ ներդրումների նորություններ։",
+    "overview": "Վերջին 24 ժամվա ընթացքում կրիպտոարժույթների շուկայում նկատվել է ինստիտուցիոնալ ներդրումների աճ, մասնավորապես Bitcoin ETF-ների միջոցով, ինչպես նաև կարևոր կարգավորող փոփոխություններ։ Կենտրոնական բանկերի և կարգավորող մարմինների կողմից առաջարկվող նոր կանոնները զգալի ազդեցություն կունենան stablecoin-ների և DeFi-ի վրա, մինչդեռ անվտանգության հետ կապված մտահոգությունները շարունակում են մնալ օրակարգում։",
     "items": [
       {
-        "headline": "Bitget-ի հաքերային հարձակումը մեծացել է, սառեցվել են stablecoin-ները",
-        "summary": "Bitget կրիպտո փոխանակման հարթակի վրա հաքերային հարձակման հետևանքով կորուստներն ավելացել են 36 միլիոն դոլարով, և Circle-ը ու Tether-ը սառեցրել են գողացված stablecoin-ների մի մասը, սակայն միջոցների մեծ մասը տեղափոխվել է ETH։",
-        "link": "https://cryptoslate.com/bitgets-hack-just-got-36-million-bigger-and-now-theres-a-bounty-on-the-stolen-crypto/",
+        "headline": "Bitcoin ETF-ները գրանցել են ներհոսքերի յոթօրյա շարք",
+        "summary": "ԱՄՆ-ի Bitcoin ETF-ները գրավել են ավելի քան 2.98 միլիարդ դոլարի ներհոսք յոթ անընդմեջ նիստերի ընթացքում՝ դրական դարձնելով տարեկան զուտ հոսքերը։",
+        "link": "https://news.bitcoin.com/market-updates/bitcoin-etfs-add-134m-as-7-day-inflow-streak-hits-2-98b/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin ETFs Add $134M as 7-Day Inflow Streak Hits $2.98B",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-etfs-add-134m-as-7-day-inflow-streak-hits-2-98b-768x432.jpg"
+      },
+      {
+        "headline": "Fed-ի stablecoin-ի առաջարկը կարող է լիկվիդացիա առաջացնել",
+        "summary": "Դաշնային պահուստային համակարգի կողմից առաջարկվող նոր կանոնները stablecoin-ի թողարկողների համար կարող են հանգեցնել 48-ժամյա լիկվիդացիոն ճգնաժամի, եթե նրանց պահուստները նվազեն։",
+        "link": "https://cryptoslate.com/fed-proposed-stablecoin-rule-could-trigger-a-48-hour-liquidation-run/",
         "source": "CryptoSlate",
-        "enTitle": "Bitget’s hack just got $36 million bigger, and now there’s a bounty on the stolen crypto",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitget-breach-bounty.webp"
+        "enTitle": "Fed proposed stablecoin rule could trigger a 48-hour liquidation run",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/usdc-supermarket-run.webp"
       },
       {
         "headline": "SEC հանձնակատար Հեսթեր Փիրսը հեռանում է պաշտոնից",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովի (SEC) հանձնակատար Հեսթեր Փիրսը, որը հայտնի է որպես «Crypto Mom», հոկտեմբերի 2-ին կլքի իր պաշտոնը։",
-        "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1c75b8857f5c36e8d847c43e3dd545814aed4d1-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "CFTC-ն դատի է տվել Cash FX-ին $950M խարդախության համար",
-        "summary": "ԱՄՆ Ապրանքային ֆյուչերսների առևտրի հանձնաժողովը (CFTC) դատի է տվել Cash FX-ին՝ մեղադրելով նրան $950 միլիոն դոլարի կրիպտոարժույթի հետ կապված արտարժույթի խարդախության մեջ։",
-        "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովի (SEC) հանձնակատար Հեսթեր Փիրսը, որը հայտնի է որպես «Crypto Mom», հոկտեմբերի 2-ին կլքի իր պաշտոնը՝ մոտ ութ տարվա ծառայությունից հետո։",
+        "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3E7R5YFBEX21VBGW5MY4472/hi-how-can-transform-government-sector-cftc.jpg"
+        "enTitle": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3EF3D5VFWA1TXNZDN794WQV/hester-peirce-sec-1.jpg"
       },
       {
-        "headline": "ARK-ը Securitize-ի հետ թողարկում է վենչուրային ֆոնդ Ethereum-ում",
-        "summary": "ARK-ը համագործակցել է Securitize-ի հետ՝ Ethereum բլոկչեյնի վրա վենչուրային ֆոնդ թողարկելու համար, սակայն դուրսբերման հնարավորությունները սահմանափակ են։",
+        "headline": "LayerZero-ի դեմ 292 միլիոն դոլարի հայց է ներկայացվել",
+        "summary": "Evercrest Technologies-ը LayerZero Labs-ի դեմ հայց է ներկայացրել 292 միլիոն դոլարի չարաշահման համար՝ մեղադրելով անփույթ ապատեղեկացման և զրպարտության մեջ։",
+        "link": "https://cryptoslate.com/nearly-15-billion-is-moving-off-layerzero-now-a-292-million-lawsuit-puts-its-security-model-on-trial/",
+        "source": "CryptoSlate",
+        "enTitle": "Nearly $15B is moving off LayerZero, now a $292M lawsuit puts its security model on trial",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/layerzero-asset-rescue.webp"
+      },
+      {
+        "headline": "ARK-ը համագործակցում է Securitize-ի հետ Ethereum-ում",
+        "summary": "ARK-ը համագործակցել է Securitize-ի հետ՝ իր վենչուրային ֆոնդը Ethereum-ում թոքենիզացնելու համար, չնայած որ դուրս գալու հնարավորությունները սահմանափակ են։",
         "link": "https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/",
         "source": "CryptoSlate",
         "enTitle": "ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/09/arkvx-ethereum-liquidity-standard-image.jpg"
       },
       {
-        "headline": "Solana-ի հաշվարկային թարմացումը հասել է թեստային ցանց",
-        "summary": "Solana բլոկչեյնի 150 միլիվայրկյան հաշվարկային թարմացումը հասել է երկրորդ հանրային թեստային ցանցին։",
+        "headline": "Solana-ի հաշվարկների արագության թարմացումը հասել է թեստային ցանց",
+        "summary": "Solana-ի 150 միլիվայրկյան հաշվարկների արագության թարմացումը հասել է երկրորդ հանրային թեստային ցանց՝ Alpenglow-ին, նախքան հիմնական ցանցում գործարկվելը։",
         "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
         "enTitle": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Tether-ը հայտարարել է սառեցված բանկի հետ «սահմանափակ» կապի մասին",
-        "summary": "Tether-ը հայտարարել է, որ ունեցել է «սահմանափակ» կապ այն բանկի հետ, որը կապված է ԱՄՆ-ի կողմից $84.2 միլիոն դոլարի բռնագրավման հետ։",
-        "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CMJJSCGPAGYWMC5WQF9J64/hi-what-happens-to-seized-cryptocurrency-1.jpg"
       }
     ]
   }
