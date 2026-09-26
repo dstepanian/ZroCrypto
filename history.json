@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-07-28",
-    "ts": 1785259171234,
-    "fng": {
-      "value": 29,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 63717,
-        "change24h": -1.7672676403425753
-      },
-      {
-        "label": "Ethereum",
-        "price": 1908.56,
-        "change24h": -1.5003154467692594
-      }
-    ],
-    "overview": "Շուկան այսօր ցույց է տվել խառը ազդանշաններ, սակայն ինստիտուցիոնալ ընդունումը շարունակվում է նոր ETP-ների և կարգավորող աջակցության միջոցով: Միևնույն ժամանակ, Bitcoin-ի գինը որոշակի անկում է գրանցել, ինչը շուկայում անորոշություն է առաջացրել:",
-    "items": [
-      {
-        "headline": "Morgan Stanley-ը գործարկում է Ether և Solana ETP-ներ",
-        "summary": "Morgan Stanley-ը գործարկել է Ether և Solana ETP-ներ՝ առաջարկելով շուկայում ամենացածր վճարները և staking-ի հնարավորություններ:",
-        "link": "https://news.bitcoin.com/crypto-news/morgan-stanley-launches-ether-and-solana-etps-with-staking-and-market-low-fees/",
-        "source": "Bitcoin News",
-        "enTitle": "Morgan Stanley Launches Ether and Solana ETPs With Staking and Market-low Fees",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/morgan-stanley-launches-ether-and-solana-etps-with-staking-and-market-low-fees-768x432.jpg"
-      },
-      {
-        "headline": "Wall Street-ի հսկաները աջակցում են Clarity Act-ին",
-        "summary": "BlackRock-ը, Fidelity-ն և այլ խոշոր Wall Street ընկերություններ հրապարակայնորեն աջակցել են Clarity Act կրիպտո շուկայի կառուցվածքի օրինագծին:",
-        "link": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/04275ab159a92b7ce88ca71aeab8a9693ced53e9-3000x1688.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Ռուսաստանը նախագծում է կրիպտո կարգավորման կանոններ",
-        "summary": "Ռուսաստանի Կենտրոնական բանկը նախագծել է նոր կանոններ թվային ակտիվների պահպանման համար՝ նախքան աշնանը կրիպտո շրջանակի ներդրումը:",
-        "link": "https://www.coindesk.com/policy/2026/07/28/russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-out",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/177fe0d442a9bb8ec8bb8ee503d2332e2d65478d-1710x958.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Ether ֆոնդերը գերազանցում են Bitcoin-ին",
-        "summary": "ԱՄՆ-ի spot Ether ETF-ները շարունակում են գրավել ներդրումներ՝ գերազանցելով Bitcoin ֆոնդերին, որոնք գրանցել են դուրսբերումներ:",
-        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-pulls-11-75-million-into-etha-as-ether-funds-outpace-bitcoin-again/",
-        "source": "Bitcoin News",
-        "enTitle": "Blackrock Pulls $11.75 Million Into ETHA as Ether Funds Outpace Bitcoin Again",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/blackrock-pulls-11-75-million-into-etha-as-ether-funds-outpace-bitcoin-again-768x432.jpg"
-      },
-      {
-        "headline": "PayPal-ը ընդլայնում է stablecoin-ի աջակցությունը",
-        "summary": "PayPal-ը ընդգծել է stablecoin-ների աճը և AI-ի վրա հիմնված վճարային գործիքները Q2 արդյունքներում՝ ընդլայնելով իր կրիպտո ակտիվների ներգրավվածությունը:",
-        "link": "https://cointelegraph.com/markets/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/paypal.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-29",
     "ts": 1785344718063,
     "fng": {
@@ -4312,6 +4247,79 @@
         "source": "The Block",
         "enTitle": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
         "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/08/20240819_Aave_News_3.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "ts": 1790418704639,
+    "fng": {
+      "value": 74,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 84115,
+        "change24h": -0.6638466131492591
+      },
+      {
+        "label": "Ethereum",
+        "price": 2687.47,
+        "change24h": -0.899538224000662
+      }
+    ],
+    "overview": "Օրը նշանավորվում է կարգավորող մարմինների զգալի գործողություններով և կրիպտո փոխանակման խոշոր հաքերային հարձակման շուրջ շարունակվող զարգացումներով։ Միաժամանակ, կան նաև կարևոր տեխնիկական թարմացումներ և ինստիտուցիոնալ ներդրումների նորություններ։",
+    "items": [
+      {
+        "headline": "Bitget-ի հաքերային հարձակումը մեծացել է, սառեցվել են stablecoin-ները",
+        "summary": "Bitget կրիպտո փոխանակման հարթակի վրա հաքերային հարձակման հետևանքով կորուստներն ավելացել են 36 միլիոն դոլարով, և Circle-ը ու Tether-ը սառեցրել են գողացված stablecoin-ների մի մասը, սակայն միջոցների մեծ մասը տեղափոխվել է ETH։",
+        "link": "https://cryptoslate.com/bitgets-hack-just-got-36-million-bigger-and-now-theres-a-bounty-on-the-stolen-crypto/",
+        "source": "CryptoSlate",
+        "enTitle": "Bitget’s hack just got $36 million bigger, and now there’s a bounty on the stolen crypto",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitget-breach-bounty.webp"
+      },
+      {
+        "headline": "SEC հանձնակատար Հեսթեր Փիրսը հեռանում է պաշտոնից",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովի (SEC) հանձնակատար Հեսթեր Փիրսը, որը հայտնի է որպես «Crypto Mom», հոկտեմբերի 2-ին կլքի իր պաշտոնը։",
+        "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1c75b8857f5c36e8d847c43e3dd545814aed4d1-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "CFTC-ն դատի է տվել Cash FX-ին $950M խարդախության համար",
+        "summary": "ԱՄՆ Ապրանքային ֆյուչերսների առևտրի հանձնաժողովը (CFTC) դատի է տվել Cash FX-ին՝ մեղադրելով նրան $950 միլիոն դոլարի կրիպտոարժույթի հետ կապված արտարժույթի խարդախության մեջ։",
+        "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3E7R5YFBEX21VBGW5MY4472/hi-how-can-transform-government-sector-cftc.jpg"
+      },
+      {
+        "headline": "ARK-ը Securitize-ի հետ թողարկում է վենչուրային ֆոնդ Ethereum-ում",
+        "summary": "ARK-ը համագործակցել է Securitize-ի հետ՝ Ethereum բլոկչեյնի վրա վենչուրային ֆոնդ թողարկելու համար, սակայն դուրսբերման հնարավորությունները սահմանափակ են։",
+        "link": "https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/",
+        "source": "CryptoSlate",
+        "enTitle": "ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/arkvx-ethereum-liquidity-standard-image.jpg"
+      },
+      {
+        "headline": "Solana-ի հաշվարկային թարմացումը հասել է թեստային ցանց",
+        "summary": "Solana բլոկչեյնի 150 միլիվայրկյան հաշվարկային թարմացումը հասել է երկրորդ հանրային թեստային ցանցին։",
+        "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Tether-ը հայտարարել է սառեցված բանկի հետ «սահմանափակ» կապի մասին",
+        "summary": "Tether-ը հայտարարել է, որ ունեցել է «սահմանափակ» կապ այն բանկի հետ, որը կապված է ԱՄՆ-ի կողմից $84.2 միլիոն դոլարի բռնագրավման հետ։",
+        "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CMJJSCGPAGYWMC5WQF9J64/hi-what-happens-to-seized-cryptocurrency-1.jpg"
       }
     ]
   }
