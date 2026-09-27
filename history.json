@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-29",
-    "ts": 1785344718063,
-    "fng": {
-      "value": 29,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 63736,
-        "change24h": -0.2943678679507298
-      },
-      {
-        "label": "Ethereum",
-        "price": 1894.21,
-        "change24h": -1.398045475928084
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո նորությունները նշանավորվել են ինստիտուցիոնալ ներդրումների աճով և կարգավորող մարմինների կողմից հստակեցման ձգտումներով։ Բլոկչեյն տեխնոլոգիան շարունակում է ինտեգրվել ավանդական ֆինանսական համակարգերին։",
-    "items": [
-      {
-        "headline": "Morgan Stanley-ի նոր ETF-ները մուտք են գործում կրիպտո շուկա",
-        "summary": "Morgan Stanley-ի նոր Ethereum և Solana բորսայական ֆոնդերը իրենց առաջին օրը գրանցել են մոտ 38 միլիոն դոլարի առևտրային ծավալ՝ ամրապնդելով ընկերության ներկայությունը կրիպտո ֆոնդերի շուկայում։",
-        "link": "https://cryptoslate.com/morgan-stanley-is-using-7-4-trillion-in-client-assets-and-rock-bottom-fees-to-hijack-wall-streets-crypto-boom/",
-        "source": "CryptoSlate",
-        "enTitle": "Morgan Stanley is using $7.4 trillion in client assets and rock-bottom fees to hijack Wall Street’s crypto boom",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/morgan-stanley-crypto-staking-yield-squeeze.jpg"
-      },
-      {
-        "headline": "SEC-ը պատրաստ է կրիպտո կանոններ տրամադրել",
-        "summary": "SEC-ի նախագահ Աթքինսը հայտարարել է, որ հանձնաժողովը պատրաստ է կրիպտո կանոններ տրամադրել, եթե Clarity Act օրինագիծը չընդունվի։",
-        "link": "https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins",
-        "source": "Decrypt",
-        "enTitle": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg@png"
-      },
-      {
-        "headline": "Solana Policy Institute-ը կոչ է անում Սենատին ընդունել կրիպտո օրինագիծը",
-        "summary": "Solana Policy Institute-ը շտապ կոչ է անում Սենատի ղեկավարներին քննարկել կրիպտոարժույթների օրենսդրությունը, քանի որ Կոնգրեսի ժամանակը սպառվում է։",
-        "link": "https://www.theblock.co/post/410041/the-moment-to-act-is-now-solana-policy-institute-urges-senate-to-move-on-crypto-bill-as-time-dwindles?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "‘The moment to act is now’: Solana Policy Institute urges Senate to move on crypto bill as time dwindles",
-        "image": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-800x450.jpg"
-      },
-      {
-        "headline": "Telegram-ի հիմնադիր Պավել Դուրովը Ռուսաստանի հետախուզման մեջ է",
-        "summary": "Ռուսաստանի Անվտանգության դաշնային ծառայությունը Telegram-ի հիմնադիր Պավել Դուրովին մեղադրել է ահաբեկչական գործունեությանն աջակցելու մեջ և նրան ընդգրկել միջազգային հետախուզման ցուցակում։",
-        "link": "https://news.bitcoin.com/featured/telegrams-pavel-durov-lands-on-russias-wanted-list-as-terror-charges-ignite-new-showdown/",
-        "source": "Bitcoin News",
-        "enTitle": "Telegram’s Pavel Durov Lands on Russia’s Wanted List as Terror Charges Ignite New Showdown",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2024/08/french-authorities-charge-telegram-ceo-durov-768x432.jpg"
-      },
-      {
-        "headline": "Tether-ի USAT stablecoin-ը գործարկվում է Celo-ում",
-        "summary": "Tether-ի GENIUS-համատեղելի USAT stablecoin-ը գործարկվել է Celo-ի վրա՝ նշանավորելով իր առաջին ընդլայնումը Ethereum-ից դուրս։",
-        "link": "https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Tether’s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum",
-        "image": "https://www.tbstat.com/wp/uploads/2024/04/celo-layer2-800x450.jpeg"
-      },
-      {
-        "headline": "BNY-ը տեղափոխում է փոխանցման գործակալության գրառումները բլոկչեյն",
-        "summary": "BNY-ը գործարկում է բլոկչեյնի վրա հիմնված փոխանցման գործակալության հարթակ՝ ընդլայնելով իր թվային ակտիվների ենթակառուցվածքը և հիմնական ֆինանսական գրառումները տեղափոխելով բլոկչեյն։",
-        "link": "https://cointelegraph.com/news/bny-transfer-agency-records-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "BNY to bring transfer agency records onchain in blockchain push",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-as-a-service-baas.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-07-30",
     "ts": 1785431782441,
     "fng": {
@@ -4320,6 +4247,79 @@
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
         "enTitle": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "ts": 1790507042516,
+    "fng": {
+      "value": 70,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 84834,
+        "change24h": 0.8177611789305327
+      },
+      {
+        "label": "Ethereum",
+        "price": 2709.03,
+        "change24h": 0.870255129288126
+      }
+    ],
+    "overview": "Շուկան այսօր բնութագրվում է ինստիտուցիոնալ ներդրումների աճով և կարգավորող մարմինների կարևոր զարգացումներով։ Դրական տրամադրությունները խթանվում են Bitcoin ETF-ների ներհոսքերով և նոր ֆինանսական ապրանքների առաջարկներով, մինչդեռ կարգավորող փոփոխությունները շարունակում են մնալ ուշադրության կենտրոնում։",
+    "items": [
+      {
+        "headline": "SEC-ի «Կրիպտո մայրիկ» Հեսթեր Փիրսը հրաժարական է տալիս",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովի (SEC) կրիպտոարժույթների կողմնակից հանձնակատար Հեսթեր Փիրսը հայտարարել է, որ հոկտեմբերի 2-ից հեռանում է իր պաշտոնից։",
+        "link": "https://news.bitcoin.com/crypto-news/crypto-mom-hester-peirce-resigns-from-sec-effective-oct-2/",
+        "source": "Bitcoin News",
+        "enTitle": "‘Crypto Mom’ Hester Peirce Resigns From SEC Effective Oct 2",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/sec-hester-peirce-768x432.jpg"
+      },
+      {
+        "headline": "Ինստիտուցիոնալ ներդրումները կրիպտո շուկայում աճում են",
+        "summary": "Bitwise-ի կողմից 15 խոշոր ինստիտուտների հետ անցկացված հարցազրույցների համաձայն՝ կրիպտոարժույթների նկատմամբ ինստիտուցիոնալ պահանջարկը զարգանում է հրապարակային բացահայտումներից դուրս։",
+        "link": "https://news.bitcoin.com/featured/15-institutions-spoke-to-bitwise-more-crypto-buyers-may-be-coming/",
+        "source": "Bitcoin News",
+        "enTitle": "15 Institutions Spoke to Bitwise: More Crypto Buyers May Be Coming",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitwise-institutional-adoption-768x432.jpg"
+      },
+      {
+        "headline": "Grayscale-ը Zcash Income ETF է ներկայացրել",
+        "summary": "Grayscale-ը դիմել է Zcash Income ETF-ի համար, որը նախատեսում է օգտագործել օպցիոններ՝ երկշաբաթյա վճարումներ իրականացնելու համար։",
+        "link": "https://news.bitcoin.com/featured/grayscale-files-for-zcash-income-etf-with-planned-biweekly-payouts/",
+        "source": "Bitcoin News",
+        "enTitle": "Grayscale Files for Zcash Income ETF With Planned Biweekly Payouts",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/grayscale-1-1-768x432.jpg"
+      },
+      {
+        "headline": "Solana-ի Alpenglow-ը հասել է երկրորդ testnet-ին",
+        "summary": "Solana-ի ամենամեծ կոնսենսուսի վերանորոգումը՝ Alpenglow-ը, ակտիվացել է testnet-ում սեպտեմբերի 24-ին և devnet-ում սեպտեմբերի 25-ին՝ նպատակ ունենալով հասնել գործարքների ավարտին 100-ից 150 միլիվայրկյանում։",
+        "link": "https://news.bitcoin.com/blockchain/solanas-alpenglow-hits-second-testnet-100ms-finality-in-sight/",
+        "source": "Bitcoin News",
+        "enTitle": "Solana’s Alpenglow Hits Second Testnet, 100ms Finality in Sight",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/solanas-alpenglow-hits-second-testnet-100ms-finality-in-sight-768x432.png"
+      },
+      {
+        "headline": "Fed-ի stablecoin-ի առաջարկը կարող է լիկվիդացիա առաջացնել",
+        "summary": "Դաշնային պահուստային համակարգի կողմից վերահսկվող վճարային stablecoin-ի թողարկողների համար առաջարկվող կանոնները ներառում են ճգնաժամային ժամկետներ, որոնք կարող են հանգեցնել 48-ժամյա լիկվիդացիոն շտապողականության։",
+        "link": "https://cryptoslate.com/fed-proposed-stablecoin-rule-could-trigger-a-48-hour-liquidation-run/",
+        "source": "CryptoSlate",
+        "enTitle": "Fed proposed stablecoin rule could trigger a 48-hour liquidation run",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/usdc-supermarket-run.webp"
+      },
+      {
+        "headline": "Bitcoin ETF-ների ներհոսքերը դրական են դարձել",
+        "summary": "Bitcoin ETF-ները 2.4 միլիարդ դոլարի շաբաթական ներհոսք են գրանցել՝ դարձնելով 2026 թվականի զուտ հոսքերը դրական, ինչը ամենամեծն է հոկտեմբերից ի վեր։",
+        "link": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
+        "source": "The Block",
+        "enTitle": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png"
       }
     ]
   }
