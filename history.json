@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-31",
-    "ts": 1785518433211,
-    "fng": {
-      "value": 25,
-      "label": "Extreme Fear",
-      "hy": "Ծայրահեղ վախ",
-      "dot": "🔴"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 62831,
-        "change24h": -3.018369639239048
-      },
-      {
-        "label": "Ethereum",
-        "price": 1865.43,
-        "change24h": -2.6967122945050095
-      }
-    ],
-    "overview": "Կրիպտո շուկան այսօր նշանավորվեց ֆինանսական կարևոր հաշվետվություններով, կարգավորող մարմինների զարգացումներով և անվտանգության մտահոգություններով։ Խոշոր stablecoin-ների թողարկողները հայտնել են ուժեղ ֆինանսական վիճակի և կարգավորող նվաճումների մասին, մինչդեռ Bitcoin ETF-ների նկատմամբ ինստիտուցիոնալ հետաքրքրությունը մնաց կայուն։ Սակայն անվտանգության նկատելի խախտումը և կրիպտոյի անօրինական օգտագործման դեմ կառավարության պատժամիջոցները ընդգծեցին շարունակվող ռիսկերն ու կարգավորող վերահսկողությունը։",
-    "items": [
-      {
-        "headline": "Tether-ը հայտնել է $1.5 մլրդ շահույթի մասին",
-        "summary": "Tether-ը հայտնել է 2-րդ եռամսյակի $1.5 միլիարդ շահույթի մասին, քանի որ USDT-ի մատակարարումն աճել է, իսկ ոսկու պահուստները՝ ավելացել։",
-        "link": "https://decrypt.co/374796/tether-reports-1-5b-q2-profit-usdt-supply-grows",
-        "source": "Decrypt",
-        "enTitle": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png@png"
-      },
-      {
-        "headline": "Coldcard դրամապանակի խոցելիությունը սասանել է վստահությունը",
-        "summary": "Coldcard ապարատային դրամապանակի խոցելիությունը հանգեցրել է մոտ $38 միլիոն արժողությամբ Bitcoin-ի գողության՝ մտահոգություններ առաջացնելով ինքնապահպանման անվտանգության շուրջ։",
-        "link": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/17e2199d1d92db776ca604acd66f78a2a5052896-1754x804.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "FTX-ի օգտատերերը ստանում են իրենց միջոցները",
-        "summary": "FTX-ի նախկին օգտատերերը հայտնել են, որ սկսվել է $900 միլիոնի բաշխումը՝ փոխհատուցելու 2022 թվականի կորուստները։",
-        "link": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Ex-FTX users report funds being released in $900M distribution round",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-funds-using-cryptocurrencies-ftx.png"
-      },
-      {
-        "headline": "BlackRock-ը գլխավորում է Bitcoin ETF-ների ներհոսքը",
-        "summary": "Bitcoin ETF-ները ներգրավել են $233.13 միլիոն, որի 79%-ը բաժին է ընկել BlackRock-ին՝ ընդլայնելով իրենց վերականգնումը։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-drives-79-of-bitcoin-etfs-233m-inflow/",
-        "source": "Bitcoin News",
-        "enTitle": "Blackrock Drives 79% of Bitcoin ETFs $233M Inflow",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/blackrock-drives-79-of-bitcoin-etfs-233m-inflow-768x432.jpg"
-      },
-      {
-        "headline": "Circle-ը ստացել է Նյու Յորքի վստահության լիցենզիա",
-        "summary": "Circle-ը ստացել է Նյու Յորքի վստահության լիցենզիա՝ ընդլայնելով իր կարգավորող ներկայությունը որպես stablecoin-ի թողարկող։",
-        "link": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer",
-        "source": "Decrypt",
-        "enTitle": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png@png"
-      },
-      {
-        "headline": "ԱՄՆ գանձապետարանը պատժամիջոցներ է սահմանել իրանական ընկերությունների նկատմամբ",
-        "summary": "ԱՄՆ գանձապետարանը պատժամիջոցներ է սահմանել երկու իրանական ընկերությունների նկատմամբ, որոնք Bitcoin են ընդունել Հորմուզի նեղուցով անցնելու համար։",
-        "link": "https://decrypt.co/374789/us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage",
-        "source": "Decrypt",
-        "enTitle": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png"
-      }
-    ]
-  },
-  {
     "date": "2026-08-01",
     "ts": 1785602995561,
     "fng": {
@@ -4320,6 +4247,79 @@
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
         "enTitle": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/1db0c2ba3d07244b16adedc9c3f8c810aab80cff-1402x780.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-29",
+    "ts": 1790630922276,
+    "fng": {
+      "value": 74,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 83459,
+        "change24h": -1.3939164822080634
+      },
+      {
+        "label": "Ethereum",
+        "price": 2681.31,
+        "change24h": -0.25338356955110347
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ավանդական ֆինանսների հետ ինտեգրման շարունակական քայլերով, ինչպես նաև կարգավորող մարմինների ու անվտանգության հետ կապված մարտահրավերներով։",
+    "items": [
+      {
+        "headline": "Citi-ն և Coinbase-ը ընդլայնում են համագործակցությունը",
+        "summary": "Citi-ի հաճախորդներն այժմ կարող են ընդունել stablecoin վճարումներ Coinbase-ի միջոցով՝ առանց անմիջականորեն կրիպտոարժույթների հետ գործ ունենալու։",
+        "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+        "source": "Decrypt",
+        "enTitle": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Goldman Sachs-ը ինտեգրում է գանձապետական ֆոնդը կրիպտոյի հետ",
+        "summary": "Goldman Sachs-ը իր մոտ 100 միլիարդ դոլար արժողությամբ գանձապետական ֆոնդը ներմուծում է ինստիտուցիոնալ կրիպտո ընկերություններ՝ առանց դրա թոքենացված տարբերակը ստեղծելու։",
+        "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/60dbe787741b3cbc62bdc5cb2d6cb94fbe3ea9ea-5800x3868.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Tether-ի USDT-ն Իրանի ստվերային բանկային ցանցում",
+        "summary": "Նոր Սենատի զեկույցի համաձայն՝ Tether-ը և նրա stablecoin-ը դարձել են կենտրոնական «Իրանի ստվերային բանկային համակարգում»։",
+        "link": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
+        "source": "The Block",
+        "enTitle": "Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/04/20240429_Tether_News_3.jpg"
+      },
+      {
+        "headline": "Bitget-ը վերսկսում է Bitcoin-ի դուրսբերումները",
+        "summary": "Bitget բորսան հայտարարել է, որ վերսկսել է Bitcoin-ի դուրսբերումները $387 միլիոն դոլարի հաքերային հարձակումից հետո, սակայն ETH-ի և USDT-ի դուրսբերումները դեռևս սպասում են։",
+        "link": "https://cryptoslate.com/bitget-says-bitcoin-withdrawals-open-after-hack/",
+        "source": "CryptoSlate",
+        "enTitle": "Bitget says Bitcoin withdrawals are open after $387M hack, but ETH and USDT must wait",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitget-futures-withdrawal-gate.webp"
+      },
+      {
+        "headline": "Strive-ը ձեռք է բերել ավելի քան 1,100 Bitcoin",
+        "summary": "Strive, Inc.-ը հայտարարել է 1,107 BTC-ի նոր ձեռքբերման մասին՝ ընդլայնելով իր թվային ակտիվների գանձարանը։",
+        "link": "https://news.bitcoin.com/crypto-news/strive-scoops-up-1107-bitcoin-2-3b-treasury-expands/",
+        "source": "Bitcoin News",
+        "enTitle": "Strive Scoops up 1,107 Bitcoin as Its $2.3B Treasury Expands",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/strive-scoops-up-1107-bitcoin-as-its-2-3b-treasury-expands-768x432.png"
+      },
+      {
+        "headline": "ԱՄՆ SEC-ը ուղեցույց է տրամադրում կրիպտոյի համար",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) հայտարարել է թարմացումների մասին, թե ինչպես կարող են դաշնային արժեթղթերի օրենքները կիրառվել թոքեն թողարկողների նկատմամբ։",
+        "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US SEC follows CFTC in staff guidance for crypto",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MEF526Z3GMGWVA23CRVP2J/hi-sec-cftc-event-overview-1.jpg"
       }
     ]
   }
