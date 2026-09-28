@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-07-30",
-    "ts": 1785431782441,
-    "fng": {
-      "value": 28,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 64735,
-        "change24h": 1.4966809856984347
-      },
-      {
-        "label": "Ethereum",
-        "price": 1914.97,
-        "change24h": 0.8666182161106666
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է մակրոտնտեսական անորոշությամբ՝ կապված Fed-ի տոկոսադրույքների բարձրացման հնարավորության հետ, մինչդեռ ոլորտը շարունակում է ցուցաբերել ինստիտուցիոնալ աճ և կարգավորող մարտահրավերներ:",
-    "items": [
-      {
-        "headline": "Fed-ի տոկոսադրույքների բարձրացման հավանականությունը մեծանում է",
-        "summary": "Կանխատեսումների շուկաները ցույց են տալիս, որ Սեպտեմբերին Դաշնային պահուստային համակարգի կողմից տոկոսադրույքների բարձրացման հավանականությունը մեծանում է, ինչը փոխում է նախորդ շաբաթների սպասումները։",
-        "link": "https://news.bitcoin.com/finance/fed-hike-odds-surge-as-warsh-unleashes-hawkish-warning/",
-        "source": "Bitcoin News",
-        "enTitle": "Fed Hike Odds Surge as Warsh Unleashes Hawkish Warning",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/kevin-warshs-fed-holds-firm-as-energy-prices-lift-inflation-768x432.png"
-      },
-      {
-        "headline": "FTX-ի պարտատերերի համար $900M վճարումներ",
-        "summary": "FTX-ի պարտատերերը, ովքեր բավարարել են հունիսի 16-ի պահանջները, պետք է վճարումներ ստանան երեք աշխատանքային օրվա ընթացքում, իսկ մյուսները ունեն վեց ամիս՝ իրենց միջոցները ստանալու համար։",
-        "link": "https://cryptoslate.com/ftxs-900m-payout-drops-friday-triggering-6-month-countdown-for-unverified-creditors-to-finish-onboarding-or-forfeit-funds-entirely/",
-        "source": "CryptoSlate",
-        "enTitle": "FTX’s $900M payout drops Friday, triggering 6-month countdown for  creditors to onboard or forfeit funds entirely",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/ftx-creditor-payout-cracked-piggy-bank.jpg"
-      },
-      {
-        "headline": "JPMorgan-ը զգուշացնում է Clarity Act-ի մասին",
-        "summary": "JPMorgan բանկը հայտարարել է, որ ԱՄՆ շուկայի կառուցվածքի օրենսդրության՝ Clarity Act-ի հեռանկարների վատթարացումը հեռացնում է թվային ակտիվների համար կարևոր խթանը։",
-        "link": "https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "JPMorgan says fading Clarity Act odds weigh on crypto outlook",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a03886b63f9f486ffe9b1e5246f92bf2b612c49-1500x998.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Ինստիտուցիոնալ կրիպտո առևտուրը հասել է ռեկորդի",
-        "summary": "Wintermute-ի նոր զեկույցը ցույց է տվել, որ ինստիտուտներն այժմ գերակշռում են կրիպտո առևտրում՝ նվազեցնելով անկայունությունը և խթանելով թոքենիզացված ակտիվների աճը։",
-        "link": "https://www.coindesk.com/markets/2026/07/30/institutional-trading-hits-a-record-72-as-wall-street-quietens-down-crypto-s-wild-swings",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Blackrock-ը խթանում է Bitcoin ETF-ի վերականգնումը",
-        "summary": "Bitcoin ETF-ները դադարեցրել են չորսօրյա կորուստների շարքը՝ $32.11 միլիոն զուտ ներհոսքով, ինչը պայմանավորված է Blackrock-ի IBIT-ի նկատմամբ ուժեղ պահանջարկով։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-drives-32m-bitcoin-etf-rebound-after-4-day-slide/",
-        "source": "Bitcoin News",
-        "enTitle": "Blackrock Drives $32M Bitcoin ETF Rebound After 4-Day Slide",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/blackrock-drives-32m-bitcoin-etf-rebound-after-4-day-slide-768x432.jpg"
-      },
-      {
-        "headline": "Samsung-ը ուսումնասիրում է stablecoin ենթակառուցվածքը",
-        "summary": "Samsung SDS-ը քննարկում է stablecoin-ի ենթակառուցվածքը և AI-ի վրա հիմնված վճարային մոդելները Dunamu-ի հետ, որը հարավկորեական Upbit կրիպտո բորսայի օպերատորն է։",
-        "link": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Samsung unit explores stablecoin infrastructure with Upbit’s operator",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-samsung-coin-coinbase-1.png"
-      }
-    ]
-  },
-  {
     "date": "2026-07-31",
     "ts": 1785518433211,
     "fng": {
@@ -4320,6 +4247,79 @@
         "source": "Bitcoin News",
         "enTitle": "Crypto ATM Numbers Fall to 2021 Levels Amid Regulatory Crackdown",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/crypto-atm-numbers-fall-to-2021-levels-amid-regulatory-crackdown-768x432.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-28",
+    "ts": 1790598231387,
+    "fng": {
+      "value": 74,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 83387,
+        "change24h": -1.8703511706253766
+      },
+      {
+        "label": "Ethereum",
+        "price": 2685.39,
+        "change24h": -1.0559537191442814
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է խառը տրամադրություններով՝ ինստիտուցիոնալ ներդրումների աճի և կարգավորող նորությունների ֆոնին։ Մինչ Bitcoin-ի և Solana-ի ETF-ները գրավում են զգալի ներհոսքեր, անվտանգության հետ կապված միջադեպերը և նոր օրենքները շարունակում են մնալ ուշադրության կենտրոնում։",
+    "items": [
+      {
+        "headline": "Strategy-ն գնել է 1,665 Bitcoin",
+        "summary": "Strategy ընկերությունը գնել է ևս 1,665 Bitcoin՝ 143 միլիոն դոլարով, հասցնելով իր ընդհանուր պահուստները 847,666 BTC-ի։",
+        "link": "https://www.theblock.co/news/business/2026-09-28-even-more-orange-michael-saylor-strategy-bitcoin-416976",
+        "source": "The Block",
+        "enTitle": "‘Even more orange’: Strategy buys 1,665 bitcoin for $143 million as total holdings reach 847,666 BTC",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/strategy-btc-buy-16x9-1.png"
+      },
+      {
+        "headline": "Կալիֆոռնիան արգելում է պաշտոնյաներին թողարկել memecoin-ներ",
+        "summary": "Կալիֆոռնիայի նահանգապետ Գևին Նյուսոմը ստորագրել է օրենք, որն արգելում է պետական պաշտոնյաներին թողարկել memecoin-ներ և սահմանում է կանոններ կրիպտո խարդախությունների համար։",
+        "link": "https://www.theblock.co/news/regulation/2026-09-28-california-gov-gavin-newsom-bans-public-officials-from-launching-memecoins-takes-aim-at-trump-416970",
+        "source": "The Block",
+        "enTitle": "California Gov. Gavin Newsom bans public officials from launching memecoins, takes aim at Trump",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/03/20250305_MemeCoin_News.jpg"
+      },
+      {
+        "headline": "Bitget-ը վերսկսում է Bitcoin-ի դուրսբերումները",
+        "summary": "Bitget բորսան վերսկսել է Bitcoin-ի դուրսբերումները՝ անցյալ շաբաթվա 388 միլիոն դոլարի հաքերային հարձակումից հետո։",
+        "link": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KKY0E7P2KHSR2CF4H4E1SY/hi-bitget-blockchain-initiatives-overview.jpg"
+      },
+      {
+        "headline": "Խարդախները կեղծ բլոկչեյնով գողացել են $2 մլն",
+        "summary": "Կրիպտո խարդախները ստեղծել են Upbit-ի կողմից աջակցվող GIWA բլոկչեյնի կեղծ տարբերակը՝ ավելի քան 2 միլիոն դոլար արժողությամբ 767 ETH գողանալու համար։",
+        "link": "https://cryptoslate.com/crypto-scammers-built-an-entire-fake-blockchain-to-steal-over-2-million/",
+        "source": "CryptoSlate",
+        "enTitle": "Crypto scammers built an entire fake blockchain to steal over $2 million",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/fake-giwa-blockchain-scam.webp"
+      },
+      {
+        "headline": "Bitcoin ETF-ները գրավել են $2.4 մլրդ ներհոսք",
+        "summary": "Bitcoin ETF-ները գրանցել են 2.4 միլիարդ դոլարի ներհոսք՝ հոկտեմբեր 2025-ից ի վեր ամենամեծ շաբաթական ցուցանիշը։",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-billion-biggest-inflow-week-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KCZXGV1C50ET53JWS4RJ0V/hi-can-bitcoins-hard-cap-be-changed-3.jpg"
+      },
+      {
+        "headline": "Solana ETF-ները ռեկորդային ներհոսք են գրանցել",
+        "summary": "Solana ETF-ները մեկ շաբաթվա ընթացքում գրավել են ռեկորդային 188 միլիոն դոլարի ներհոսք, ընդ որում բոլոր յոթ հիմնադրամները գումար են ներգրավել։",
+        "link": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/1db0c2ba3d07244b16adedc9c3f8c810aab80cff-1402x780.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
