@@ -4252,74 +4252,63 @@
   },
   {
     "date": "2026-09-29",
-    "ts": 1790630922276,
+    "ts": 1790682583856,
     "fng": {
-      "value": 74,
+      "value": 73,
       "label": "Greed",
       "hy": "Ագահություն",
       "dot": "🟢"
     },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 83459,
-        "change24h": -1.3939164822080634
-      },
-      {
-        "label": "Ethereum",
-        "price": 2681.31,
-        "change24h": -0.25338356955110347
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ավանդական ֆինանսների հետ ինտեգրման շարունակական քայլերով, ինչպես նաև կարգավորող մարմինների ու անվտանգության հետ կապված մարտահրավերներով։",
+    "prices": [],
+    "overview": "Շուկան ազդված է ինչպես կարգավորող զարգացումներից, այնպես էլ մակրոգործոններից։ Կարևոր ենթակառուցվածքային բարելավումներ են տեղի ունենում, մինչդեռ stablecoin-ների համապատասխանությունը և altcoin շուկայի միտումները նույնպես ուշադրության կենտրոնում են։",
     "items": [
       {
-        "headline": "Citi-ն և Coinbase-ը ընդլայնում են համագործակցությունը",
-        "summary": "Citi-ի հաճախորդներն այժմ կարող են ընդունել stablecoin վճարումներ Coinbase-ի միջոցով՝ առանց անմիջականորեն կրիպտոարժույթների հետ գործ ունենալու։",
-        "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
-        "source": "Decrypt",
-        "enTitle": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "Goldman Sachs-ը ինտեգրում է գանձապետական ֆոնդը կրիպտոյի հետ",
-        "summary": "Goldman Sachs-ը իր մոտ 100 միլիարդ դոլար արժողությամբ գանձապետական ֆոնդը ներմուծում է ինստիտուցիոնալ կրիպտո ընկերություններ՝ առանց դրա թոքենացված տարբերակը ստեղծելու։",
-        "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/60dbe787741b3cbc62bdc5cb2d6cb94fbe3ea9ea-5800x3868.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Tether-ի USDT-ն Իրանի ստվերային բանկային ցանցում",
-        "summary": "Նոր Սենատի զեկույցի համաձայն՝ Tether-ը և նրա stablecoin-ը դարձել են կենտրոնական «Իրանի ստվերային բանկային համակարգում»։",
-        "link": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
+        "headline": "Coinbase-ը ստացել է CFTC-ի հավանությունը",
+        "summary": "Coinbase-ը ստացել է CFTC-ի հավանությունը DCO-ի համար՝ ամբողջացնելով իր ածանցյալ գործիքների ենթակառուցվածքը և թույլ տալով ներքին լիստինգ, բրոքերային և քլիրինգային ծառայություններ։",
+        "link": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
         "source": "The Block",
-        "enTitle": "Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/04/20240429_Tether_News_3.jpg"
+        "enTitle": "Coinbase receives DCO approval from CFTC, completing full derivatives stack",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News.jpg"
       },
       {
-        "headline": "Bitget-ը վերսկսում է Bitcoin-ի դուրսբերումները",
-        "summary": "Bitget բորսան հայտարարել է, որ վերսկսել է Bitcoin-ի դուրսբերումները $387 միլիոն դոլարի հաքերային հարձակումից հետո, սակայն ETH-ի և USDT-ի դուրսբերումները դեռևս սպասում են։",
-        "link": "https://cryptoslate.com/bitget-says-bitcoin-withdrawals-open-after-hack/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitget says Bitcoin withdrawals are open after $387M hack, but ETH and USDT must wait",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitget-futures-withdrawal-gate.webp"
-      },
-      {
-        "headline": "Strive-ը ձեռք է բերել ավելի քան 1,100 Bitcoin",
-        "summary": "Strive, Inc.-ը հայտարարել է 1,107 BTC-ի նոր ձեռքբերման մասին՝ ընդլայնելով իր թվային ակտիվների գանձարանը։",
-        "link": "https://news.bitcoin.com/crypto-news/strive-scoops-up-1107-bitcoin-2-3b-treasury-expands/",
-        "source": "Bitcoin News",
-        "enTitle": "Strive Scoops up 1,107 Bitcoin as Its $2.3B Treasury Expands",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/strive-scoops-up-1107-bitcoin-as-its-2-3b-treasury-expands-768x432.png"
-      },
-      {
-        "headline": "ԱՄՆ SEC-ը ուղեցույց է տրամադրում կրիպտոյի համար",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) հայտարարել է թարմացումների մասին, թե ինչպես կարող են դաշնային արժեթղթերի օրենքները կիրառվել թոքեն թողարկողների նկատմամբ։",
-        "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Ethereum-ը նախատեսում է Glamsterdam թարմացում",
+        "summary": "Ethereum-ը հոկտեմբերի 6-ին Sepolia-ի վրա կիրականացնի Glamsterdam թարմացումը, որը կներառի proposer-builder separation, block-level access lists և գազի նոր գնագոյացում։",
+        "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "US SEC follows CFTC in staff guidance for crypto",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MEF526Z3GMGWVA23CRVP2J/hi-sec-cftc-event-overview-1.jpg"
+        "enTitle": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PCAM6EFZWRXAWSS5F2XJAN/fork-workout-ethereum.jpg"
+      },
+      {
+        "headline": "Tether-ը սառեցրել է Իրանի հետ կապված USDT",
+        "summary": "Tether-ը հայտարարել է, որ այս տարի օգնել է սառեցնել 550 միլիոն դոլարի Իրանի հետ կապված USDT՝ ի պատասխան Սենատի հետաքննության։",
+        "link": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Tether says it helped freeze $550M in Iran-linked USDT this year",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3NT5GYVR0DHCZ7EB688AQWY/tether-2.jpg"
+      },
+      {
+        "headline": "Altcoin-ների ծավալը գերազանցում է Bitcoin-ին",
+        "summary": "Altcoin-ների spot ծավալը գրեթե քառապատկվել է Bitcoin-ի համեմատ, իսկ ԱՄՆ-ի spot Bitcoin ETF-ների ներհոսքերը նվազել են հինգ նիստերի ընթացքում։",
+        "link": "https://cryptoslate.com/altcoin-spot-volume-nears-4x-bitcoins-as-etf-inflows-shrink-across-five-sessions/",
+        "source": "CryptoSlate",
+        "enTitle": "Altcoin spot volume nears 4x Bitcoin’s as ETF inflows shrink across five sessions",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-rotation-bridge.webp"
+      },
+      {
+        "headline": "ESMA-ն առաջնահերթ է համարում MiCA-ն",
+        "summary": "ESMA-ն իր 2027 թվականի աշխատանքային ծրագրում առաջնահերթություն է տվել MiCA-ի ներքո crypto-asset ծառայություններ մատուցողների վերահսկողությանը և թվային ակտիվների ազդեցության ուսումնասիրությանը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/esma-prioritizes-mica-and-crypto-oversight-in-2027-work-program/",
+        "source": "Bitcoin News",
+        "enTitle": "ESMA Prioritizes MiCA and Crypto Oversight in 2027 Work Program",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/esma-logo-768x432.jpg"
+      },
+      {
+        "headline": "Bitcoin-ի գինը նվազել է մակրոգործոններից",
+        "summary": "Bitcoin-ի գինը իջել է $83,000-ից՝ մոտ 500 միլիոն դոլարի լծակային կրիպտո խաղադրույքների լուծարման պատճառով, ինչը պայմանավորված է նավթի, պարտատոմսերի և ոսկու շուկաների արտաքին ազդեցություններով։",
+        "link": "https://news.bitcoin.com/market-updates/bitcoin-price-83k-500m-liquidations-129197-traders/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin Price Dips Below $83K as 129,197 Traders Get Wiped out",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-price-dips-below-83k-as-129197-traders-got-wiped-out-768x432.jpg"
       }
     ]
   }
