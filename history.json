@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-08-01",
-    "ts": 1785602995561,
-    "fng": {
-      "value": 27,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 62908,
-        "change24h": 0.22669024727598008
-      },
-      {
-        "label": "Ethereum",
-        "price": 1868.08,
-        "change24h": 0.3317124201975988
-      }
-    ],
-    "overview": "Շուկան բախվում է ինստիտուցիոնալ արտահոսքերի և անվտանգության լուրջ մտահոգությունների խառնուրդի հետ, մինչդեռ կարգավորող գործողությունները և stablecoin-ների պահուստների ստուգումը ավելացնում են զգուշավոր տրամադրությունները։",
-    "items": [
-      {
-        "headline": "Coldcard դրամապանակի խոցելիությունը հանգեցրել է $70 միլիոնի կորստի",
-        "summary": "Galaxy Research-ը հայտնել է, որ Coldcard դրամապանակի խոցելիության պատճառով ավելի քան 1,000 BTC է կորել, ինչը կազմում է մոտ $70 միլիոն։",
-        "link": "https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says",
-        "image": "https://www.tbstat.com/wp/uploads/2023/04/20230411_Hack_Generic_1-800x450.jpg"
-      },
-      {
-        "headline": "Bitcoin ETF-ներից $265 միլիոնի արտահոսք",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ներից հուլիսի 31-ին գրանցվել է $265.4 միլիոնի զուտ արտահոսք, որը գլխավորել է Blackrock-ի IBIT-ը։",
-        "link": "https://news.bitcoin.com/crypto-news/bitcoin-etf-outflows-265-million-ether-inflows/",
-        "source": "Bitcoin News",
-        "enTitle": "Blackrock, Fidelity Lead $265M Bitcoin ETF Outflows as Ether Gains",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/blackrock-fidelity-lead-265m-bitcoin-etf-outflows-as-ether-gains_nwmk2-768x432.jpg"
-      },
-      {
-        "headline": "Tether-ի պահուստների շուրջ մտահոգություններ",
-        "summary": "Tether-ի երկրորդ եռամսյակի հաշվետվությունը ցույց է տվել $1.5 միլիարդ շահույթ, սակայն թաքնված հաշվարկները բացահայտում են $4.2 միլիարդի բացասական ազդեցություն։",
-        "link": "https://cryptoslate.com/tether-claims-1-5b-profit-but-hidden-math-reveals-a-4-2b-hit-that-halved-its-safety-cushion-in-90-days/",
-        "source": "CryptoSlate",
-        "enTitle": "Tether claims $1.5B profit, but hidden math reveals a $4.2B hit that halved its safety cushion in 90 days",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/tether-reserve-pressure-cliff-edge.jpg"
-      },
-      {
-        "headline": "Ռուսաստանը արգելում է կրիպտո մայնինգը Մոսկվայում",
-        "summary": "Ռուսաստանի կառավարությունը մինչև 2032 թվականը արգելել է կրիպտոարժույթի մայնինգը Մոսկվայի մարզում՝ էներգիայի մատակարարման մտահոգությունների պատճառով։",
-        "link": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Russian decree bans crypto mining across Moscow region through 2032",
-        "image": "https://www.tbstat.com/wp/uploads/2018/10/russian-flag-800x450.jpg"
-      },
-      {
-        "headline": "Wall Street-ի $16.3 միլիարդի Bitcoin կորուստներ",
-        "summary": "Bloomberg Intelligence-ի գնահատմամբ՝ ԱՄՆ-ի spot Bitcoin ETF-ների միջին ինքնարժեքը մոտ $82,249 է, ինչը հանգեցնում է $16.33 միլիարդի չիրացված կորուստների։",
-        "link": "https://cryptoslate.com/wall-street-faces-an-aug-14-bitcoin-test-with-the-average-etf-position-down-22/",
-        "source": "CryptoSlate",
-        "enTitle": "Wall Street is sitting on a $16.3 billion Bitcoin loss, and an August 14 deadline will expose who is quietly fleeing",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-etf-pressure-test-industrial-press.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-02",
     "ts": 1785689338349,
     "fng": {
@@ -4309,6 +4244,68 @@
         "source": "Bitcoin News",
         "enTitle": "Bitcoin Price Dips Below $83K as 129,197 Traders Get Wiped out",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-price-dips-below-83k-as-129197-traders-got-wiped-out-768x432.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "ts": 1790713244505,
+    "fng": {
+      "value": 73,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [],
+    "overview": "Կրիպտոարժույթների շուկան այսօր բնութագրվում է կարգավորող մարմինների ուշադրության աճով և ավանդական ֆինանսների կողմից բլոկչեյն տեխնոլոգիաների շարունակական ինտեգրմամբ։ Կարգավորիչները ուշադիր հետևում են կանխատեսումների շուկաներին և ETF-ների հարկային ռազմավարություններին, մինչդեռ խոշոր ֆինանսական հաստատությունները ընդլայնում են իրենց ներկայությունը կրիպտո ոլորտում։",
+    "items": [
+      {
+        "headline": "Կարգավորիչները թիրախավորում են կանխատեսումների շուկաները",
+        "summary": "Ներկայացուցիչ Ջեյմս Քոմերը ընդլայնել է Կոնգրեսի հետաքննությունը կանխատեսումների շուկաներում ինսայդերական առևտրի վերաբերյալ՝ թիրախավորելով Hyperliquid-ը, Crypto.com-ը և Predictit-ը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/rep-comer-targets-3-platforms-expanded-prediction-market-probe/",
+        "source": "Bitcoin News",
+        "enTitle": "Rep. Comer Targets 3 Platforms in Expanded Prediction Market Probe",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/rep--comer-targets-3-platforms-in-prediction-market-trading-probe-768x432.png"
+      },
+      {
+        "headline": "Կարգավորիչների պակասը SEC-ում, CFTC-ում",
+        "summary": "Կարևոր հրաժարականներից հետո SEC-ի և CFTC-ի յոթ հանձնակատարի պաշտոններից մի քանիսը կմնան թափուր՝ սահմանափակելով $3 տրիլիոնանոց կրիպտո արդյունաբերությունը վերահսկող ղեկավարների թիվը։",
+        "link": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q8PHD13FEXXYRXMDQWSRRZ/regulations-sec-cftc.png"
+      },
+      {
+        "headline": "Goldman Sachs-ը Avalanche-ում $100B ֆոնդով",
+        "summary": "Goldman Sachs-ը իր $100 միլիարդանոց Financial Square Treasury Instruments Fund-ը հասանելի է դարձնում Lynq-ի միջոցով, որը Avalanche Layer 1 մասնավոր ցանց է՝ օգտագործվող ավելի քան 30 ինստիտուցիոնալ թվային ակտիվների ընկերությունների կողմից։",
+        "link": "https://news.bitcoin.com/blockchain/goldman-sachs-put-100b-treasury-fund-avalanche-rails/",
+        "source": "Bitcoin News",
+        "enTitle": "Goldman Sachs Just Put a $100B Treasury Fund on Avalanche Rails",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/goldman-sachs-just-put-a-100b-treasury-fund-on-avalanche-rails-768x432.png"
+      },
+      {
+        "headline": "Moonpay-ը ընդլայնվում է Հարավային Կորեայում",
+        "summary": "Moonpay-ը գործարկել է իր հարավկորեական դուստր ձեռնարկությունը՝ համագործակցելով Kakaobank-ի, Woori Bank-ի և KB Financial Group-ի հետ՝ stablecoin-ները առօրյա բանկային գործառնություններում ներդնելու համար։",
+        "link": "https://news.bitcoin.com/stablecoins/moonpay-enlists-south-korean-banking-giants-asian-stablecoin-push/",
+        "source": "Bitcoin News",
+        "enTitle": "Moonpay Enlists South Korean Banking Giants in Asian Stablecoin Push",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/03/moonpaysz-768x432.png"
+      },
+      {
+        "headline": "Bitwise-ը գործարկում է NEAR ETF",
+        "summary": "Bitwise-ը գործարկել է ԱՄՆ-ում ցուցակված NEAR ETF՝ առաջարկելով տոկենի spot էքսպոզիցիա՝ մոտ 5% staking պարգևատրումներով և AI-ի հետ կապված ներդրումային հնարավորություններով։",
+        "link": "https://news.bitcoin.com/finance/bitwise-launches-near-etf-5-yield-ai-bet/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitwise Launches NEAR ETF With 5% Yield and an AI Bet",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitwise-launches-near-etf-with-5-yield-and-an-ai-bet-768x432.png"
+      },
+      {
+        "headline": "IRS-ը ուսումնասիրում է կրիպտո ETF հարկերը",
+        "summary": "IRS-ը ուսումնասիրում է կրիպտո-հարակից ETF-ների հարկային ռազմավարությունները՝ քանի որ Վաշինգտոնը ուժեղացնում է իր արշավը հարկվող շահույթներից խուսափելու համար նախատեսված կառույցների դեմ։",
+        "link": "https://cryptoslate.com/a-7-billion-crypto-etf-plumbing-boom-just-ran-into-the-irs/",
+        "source": "CryptoSlate",
+        "enTitle": "A $7 billion crypto ETF plumbing boom just ran into the IRS",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-etf-irs-pressure.webp"
       }
     ]
   }
