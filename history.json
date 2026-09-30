@@ -4249,63 +4249,74 @@
   },
   {
     "date": "2026-09-30",
-    "ts": 1790713244505,
+    "ts": 1790768175890,
     "fng": {
-      "value": 73,
+      "value": 71,
       "label": "Greed",
       "hy": "Ագահություն",
       "dot": "🟢"
     },
-    "prices": [],
-    "overview": "Կրիպտոարժույթների շուկան այսօր բնութագրվում է կարգավորող մարմինների ուշադրության աճով և ավանդական ֆինանսների կողմից բլոկչեյն տեխնոլոգիաների շարունակական ինտեգրմամբ։ Կարգավորիչները ուշադիր հետևում են կանխատեսումների շուկաներին և ETF-ների հարկային ռազմավարություններին, մինչդեռ խոշոր ֆինանսական հաստատությունները ընդլայնում են իրենց ներկայությունը կրիպտո ոլորտում։",
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 83734,
+        "change24h": -0.5838345242193353
+      },
+      {
+        "label": "Ethereum",
+        "price": 2691.8,
+        "change24h": -1.286122975966644
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս շուկայի դինամիկ զարգացումներ՝ նորարարական արտադրանքների ներդրումներից մինչև կարգավորող մարմինների ուշադրության կենտրոնում գտնվող հարցեր։ Կարևոր իրադարձությունները ներառում են խոշոր հարթակների կողմից AI տեխնոլոգիաների ինտեգրումը, կարգավորող մարմինների կողմից կրիպտո ակտիվների նկատմամբ ուժեղացված վերահսկողությունը և անվտանգության հետ կապված լուրջ միջադեպերը։",
     "items": [
       {
-        "headline": "Կարգավորիչները թիրախավորում են կանխատեսումների շուկաները",
-        "summary": "Ներկայացուցիչ Ջեյմս Քոմերը ընդլայնել է Կոնգրեսի հետաքննությունը կանխատեսումների շուկաներում ինսայդերական առևտրի վերաբերյալ՝ թիրախավորելով Hyperliquid-ը, Crypto.com-ը և Predictit-ը։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/rep-comer-targets-3-platforms-expanded-prediction-market-probe/",
+        "headline": "Robinhood-ը ներկայացնում է AI առևտրային գործակալներ",
+        "summary": "Robinhood-ը ներդրել է արհեստական բանականության (AI) վրա հիմնված ավտոմատացված առևտրային գործակալներ իր բջջային հավելվածում՝ թույլ տալով օգտատերերին ստեղծել և ավտոմատացնել առևտրային ռազմավարություններ։",
+        "link": "https://news.bitcoin.com/finance/robinhood-adds-ai-trading-agents-to-its-mobile-app/",
         "source": "Bitcoin News",
-        "enTitle": "Rep. Comer Targets 3 Platforms in Expanded Prediction Market Probe",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/rep--comer-targets-3-platforms-in-prediction-market-trading-probe-768x432.png"
+        "enTitle": "Robinhood Adds AI Trading Agents to Its Mobile App",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/robinhood-adds-ai-trading-agents-to-its-mobile-app-768x432.jpg"
       },
       {
-        "headline": "Կարգավորիչների պակասը SEC-ում, CFTC-ում",
-        "summary": "Կարևոր հրաժարականներից հետո SEC-ի և CFTC-ի յոթ հանձնակատարի պաշտոններից մի քանիսը կմնան թափուր՝ սահմանափակելով $3 տրիլիոնանոց կրիպտո արդյունաբերությունը վերահսկող ղեկավարների թիվը։",
-        "link": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q8PHD13FEXXYRXMDQWSRRZ/regulations-sec-cftc.png"
-      },
-      {
-        "headline": "Goldman Sachs-ը Avalanche-ում $100B ֆոնդով",
-        "summary": "Goldman Sachs-ը իր $100 միլիարդանոց Financial Square Treasury Instruments Fund-ը հասանելի է դարձնում Lynq-ի միջոցով, որը Avalanche Layer 1 մասնավոր ցանց է՝ օգտագործվող ավելի քան 30 ինստիտուցիոնալ թվային ակտիվների ընկերությունների կողմից։",
-        "link": "https://news.bitcoin.com/blockchain/goldman-sachs-put-100b-treasury-fund-avalanche-rails/",
-        "source": "Bitcoin News",
-        "enTitle": "Goldman Sachs Just Put a $100B Treasury Fund on Avalanche Rails",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/goldman-sachs-just-put-a-100b-treasury-fund-on-avalanche-rails-768x432.png"
-      },
-      {
-        "headline": "Moonpay-ը ընդլայնվում է Հարավային Կորեայում",
-        "summary": "Moonpay-ը գործարկել է իր հարավկորեական դուստր ձեռնարկությունը՝ համագործակցելով Kakaobank-ի, Woori Bank-ի և KB Financial Group-ի հետ՝ stablecoin-ները առօրյա բանկային գործառնություններում ներդնելու համար։",
-        "link": "https://news.bitcoin.com/stablecoins/moonpay-enlists-south-korean-banking-giants-asian-stablecoin-push/",
-        "source": "Bitcoin News",
-        "enTitle": "Moonpay Enlists South Korean Banking Giants in Asian Stablecoin Push",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/03/moonpaysz-768x432.png"
-      },
-      {
-        "headline": "Bitwise-ը գործարկում է NEAR ETF",
-        "summary": "Bitwise-ը գործարկել է ԱՄՆ-ում ցուցակված NEAR ETF՝ առաջարկելով տոկենի spot էքսպոզիցիա՝ մոտ 5% staking պարգևատրումներով և AI-ի հետ կապված ներդրումային հնարավորություններով։",
-        "link": "https://news.bitcoin.com/finance/bitwise-launches-near-etf-5-yield-ai-bet/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitwise Launches NEAR ETF With 5% Yield and an AI Bet",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitwise-launches-near-etf-with-5-yield-and-an-ai-bet-768x432.png"
-      },
-      {
-        "headline": "IRS-ը ուսումնասիրում է կրիպտո ETF հարկերը",
-        "summary": "IRS-ը ուսումնասիրում է կրիպտո-հարակից ETF-ների հարկային ռազմավարությունները՝ քանի որ Վաշինգտոնը ուժեղացնում է իր արշավը հարկվող շահույթներից խուսափելու համար նախատեսված կառույցների դեմ։",
-        "link": "https://cryptoslate.com/a-7-billion-crypto-etf-plumbing-boom-just-ran-into-the-irs/",
+        "headline": "Coinbase-ն ավարտել է ԱՄՆ ածանցյալների ենթակառուցվածքը",
+        "summary": "Coinbase-ն ավարտել է իր ԱՄՆ ածանցյալների քլիրինգային ենթակառուցվածքը, ինչը կարևոր քայլ է ԱՄՆ շուկայում իր առաջարկները ընդլայնելու համար։",
+        "link": "https://cryptoslate.com/coinbase-just-completed-its-us-derivatives-stack-but-its-biggest-bet-still-sits-outside-it/",
         "source": "CryptoSlate",
-        "enTitle": "A $7 billion crypto ETF plumbing boom just ran into the IRS",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-etf-irs-pressure.webp"
+        "enTitle": "Coinbase just completed its US derivatives stack but its biggest bet still sits outside it",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/coinbase-clearing-crane-approval.webp"
+      },
+      {
+        "headline": "Bitget-ի հաքերները 25 օր ներսում են եղել",
+        "summary": "Bitget բորսայից 388 միլիոն դոլարի գողությունն իրականացրած հաքերները մուտք են ունեցել համակարգ 25 օր շարունակ՝ օգտագործելով զրոյական օրվա խոցելիություն, իսկ գողացված միջոցների մի մասը տեղափոխվել է Zcash-ի մասնավոր պուլ։",
+        "link": "https://news.bitcoin.com/security/bitget-hack-slowmist-25-days-chainflip-cow-protocol/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitget Hackers Were Inside the Exchange for 25 Days Before $388M Heist",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitget-hackers-were-inside-he-exchange-for-25-days-before-388m-heist-768x432.jpg"
+      },
+      {
+        "headline": "ԱՄՆ սենատորը մեղադրում է Tether-ին պատժամիջոցներից խուսափելու մեջ",
+        "summary": "ԱՄՆ սենատոր Բլյումենթալը Tether-ի USDT-ն անվանել է «մայրուղի» իրանական պատժամիջոցներից խուսափելու համար՝ իր ենթահանձնաժողովի զեկույցում։",
+        "link": "https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion",
+        "source": "Decrypt",
+        "enTitle": "US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/tether-usdt-decrypt-style-01-gID_7.png@png"
+      },
+      {
+        "headline": "SEC-ի նախագահը խոստանում է onchain կանոններ",
+        "summary": "SEC-ի նախագահ Փոլ Աթքինսը հայտարարել է, որ գործակալությունը կշարունակի պարզություն ապահովել onchain միջոցներ հավաքելու վերաբերյալ՝ չնայած CLARITY Act-ի ձախողմանը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/clarity-act-failed-sec-atkins-onchain-fundraising-rules/",
+        "source": "Bitcoin News",
+        "enTitle": "SEC Chair Paul Atkins Vows Onchain Rules Despite Failed CLAIRTY Act",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/sec-chair-paul-atkins-vows-onchain-rules-despite-failed-clairty-act-768x432.jpg"
+      },
+      {
+        "headline": "XRP Ledger-ը կրում է բրազիլական ֆոնդերի գրառումներ",
+        "summary": "Բրազիլական կարգավորվող օպերատորը, որը վերահսկում է 4 տրիլիոն դոլար, սկսել է ընտրված ներդրումային ֆոնդերի սեփականության գրառումները արտացոլել XRP Ledger-ում։",
+        "link": "https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
