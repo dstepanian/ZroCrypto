@@ -4249,9 +4249,9 @@
   },
   {
     "date": "2026-10-01",
-    "ts": 1790799876698,
+    "ts": 1790856338449,
     "fng": {
-      "value": 71,
+      "value": 74,
       "label": "Greed",
       "hy": "Ագահություն",
       "dot": "🟢"
@@ -4259,56 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 83643,
-        "change24h": 0.05268687244000106
+        "price": 83955,
+        "change24h": 0.16023255803342074
       },
       {
         "label": "Ethereum",
-        "price": 2676.42,
-        "change24h": -0.5688605089062427
+        "price": 2706.76,
+        "change24h": 0.444438603865228
       }
     ],
-    "overview": "Շուկան ցույց է տալիս կարգավորող առաջընթացի և ինստիտուցիոնալ որդեգրման խառնուրդ՝ շարունակվող անվտանգության մարտահրավերների հետ մեկտեղ։",
+    "overview": "Կրիպտո շուկան շարունակում է աճել՝ պայմանավորված Bitcoin ETF-ների ներհոսքերով և ինստիտուցիոնալ հետաքրքրությամբ, սակայն սեպտեմբերին գրանցվել են զգալի հաքերային կորուստներ։ Կարգավորող մարմինները շարունակում են ակտիվ լինել։",
     "items": [
       {
-        "headline": "Bitget-ի հաքերը դիմում է Zcash-ին",
-        "summary": "Bitget-ի 387.5 միլիոն դոլարի գողության հեղինակը սկսել է մոտ 3.8 միլիոն դոլար արժողությամբ ZEC թաքցնել Zcash-ի Ironwood pool-ում, քանի որ այլ փոխանակումները մերժել են նրանց գործարքները։",
-        "link": "https://cryptoslate.com/bitgets-hackers-turn-to-zcash-after-50-million-laundering-route-gets-blocked/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitget’s hackers turn to Zcash after $50 million laundering route gets blocked",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitget-privacy-route.webp"
-      },
-      {
-        "headline": "Visa-ն և Mastercard-ը միանում են OUSD-ին",
-        "summary": "Stablecoin նախագիծը՝ Open USD-ն (OUSD), մեկնարկել է ավելի քան 1 միլիարդ դոլարի իրացվելիությամբ և ներգրավել է Coinbase-ին, Mastercard-ին, Shopify-ին, Stripe-ին և Visa-ին։",
-        "link": "https://news.bitcoin.com/stablecoins/visa-mastercard-join-1-billion-bet-stripe-backed-ousd/",
-        "source": "Bitcoin News",
-        "enTitle": "Visa and Mastercard Join $1 Billion Bet on Stripe-Backed OUSD",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/visa-and-mastercard-join-1-billion-bet-on-stripe-backed-ousd-768x432.png"
-      },
-      {
-        "headline": "Bitcoin ETF-ները շարունակում են հաղթական շարքը",
-        "summary": "Bitcoin ETF-ները երեքշաբթի օրը ավելացրել են 66 միլիոն դոլարի ներհոսք՝ համընկնելով օգոստոսի իննօրյա շարքին և գերազանցելով այն դոլարային արտահայտությամբ։",
-        "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
-        "source": "Decrypt",
-        "enTitle": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png"
-      },
-      {
-        "headline": "Մեծ Բրիտանիան բացում է կրիպտո կարգավորման դռները",
-        "summary": "Մեծ Բրիտանիայի ֆինանսական վարքագծի մարմինը (FCA) բացել է կրիպտո ընկերությունների համար դիմումների ընդունման պատուհանը՝ նախքան 2027 թվականի հոկտեմբերին նոր կարգավորող շրջանակի ներդրումը։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/fca-opens-uk-crypto-gates-more-than-year-before-rules-hit/",
-        "source": "Bitcoin News",
-        "enTitle": "FCA Opens UK Crypto Gates More Than a Year Before Rules Hit",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/fca-clears-crypto-rulebook-but-uk-banks-can-still-block-transfers-1-768x432.jpg"
-      },
-      {
-        "headline": "Petrobras-ը Cardano-ն օգտագործում է վառելիքի համար",
-        "summary": "Բրազիլիայի պետական Petrobras էներգետիկ ընկերությունը Cardano-ն է օգտագործում կայուն ավիացիոն վառելիքի և վերականգնվող դիզելային վառելիքի կայունության պահանջները հետևելու համար։",
-        "link": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Bitcoin ETF-ները գրավել են $6.3 միլիարդ",
+        "summary": "Երրորդ եռամսյակում Bitcoin ETF-ները ներգրավել են $6.3 միլիարդ, մինչդեռ BTC-ի գինն աճել է գրեթե 43%-ով։",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SH29GTGYTM0QGMBX47A000/oil-bitcoin-coin-ant-blockchain-sky-platform-production-gas.png"
+        "enTitle": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3V3AAFNW5YNB2QD9324SBKH/bitcoin-price-market-2.jpg"
+      },
+      {
+        "headline": "Citigroup-ը բարձրացրել է Bitcoin-ի թիրախը",
+        "summary": "Citigroup-ը բարձրացրել է Bitcoin-ի 12-ամսյա թիրախը մինչև $113,000, քանի որ ETF-ների ներհոսքերը վերսկսվել են։",
+        "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a0bc0c257509cbf3765bdb9b9028b2b1bec9a96-5621x3848.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Lloyds-ը և Visa-ն օգտագործել են USDC",
+        "summary": "Lloyds-ը և Visa-ն հաջողությամբ իրականացրել են $750,000 արժողությամբ անդրսահմանային վճարումներ՝ օգտագործելով USDC։",
+        "link": "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
+        "source": "The Block",
+        "enTitle": "Lloyds, Visa settle $750,000 using USDC in live cross-border pilot",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/lloyds.png"
+      },
+      {
+        "headline": "MetaMask-ը դուրս է եկել Lido-ից",
+        "summary": "MetaMask-ը դուրս է եկել Lido-ի վալիդատորներից՝ ենթակառուցվածքային անվտանգության միջադեպի պատճառով, սակայն օգտատերերի միջոցներին անմիջական վտանգ չի սպառնում։",
+        "link": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
+        "source": "Decrypt",
+        "enTitle": "MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg@png"
+      },
+      {
+        "headline": "Սեպտեմբերին կրիպտո հաքերը հասել է $768M-ի",
+        "summary": "Սեպտեմբերին կրիպտո հաքերային հարձակումների հետևանքով կորուստները գերազանցել են $768 միլիոնը՝ դառնալով 2026 թվականի ամենավատ ամիսը։",
+        "link": "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Crypto hacks top $768M in September, worst month of 2026",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TW968PTRQR89Y2C0JV54QA/hacks.jpg"
+      },
+      {
+        "headline": "Illinois-ը հետաձգել է կրիպտո հարկը",
+        "summary": "Illinois նահանգը համաձայնել է վեց ամսով հետաձգել կրիպտո հարկի կիրառումը, մինչ արդյունաբերությունը շարունակում է դատական պայքարը։",
+        "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/edd10316fa7620a12d0bce0492520092d00802b5-4752x3168.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
