@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-03",
-    "ts": 1785779006631,
-    "fng": {
-      "value": 28,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 63773,
-        "change24h": 0.817792091736127
-      },
-      {
-        "label": "Ethereum",
-        "price": 1866.52,
-        "change24h": 0.034043359369002796
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ինտեգրման (BlackRock-ի նոր ֆոնդեր) և անվտանգության մտահոգությունների (չարամիտ խելացի պայմանագրեր, ապարատային դրամապանակների խոցելիություններ) խառնուրդով։ Կարգավորող մարմինների անորոշությունը և խոշոր ընկերությունների կողմից Bitcoin-ի վաճառքները նույնպես ազդում են շուկայի տրամադրությունների վրա։",
-    "items": [
-      {
-        "headline": "4,200 չարամիտ խելացի պայմանագրեր",
-        "summary": "Հետազոտողները հայտնաբերել են 4,200 չարամիտ խելացի պայմանագրեր, որոնք հաջողությամբ խաբել են 5,700 զոհի՝ հափշտակելով նրանց կրիպտոարժույթները։",
-        "link": "https://cryptoslate.com/researchers-just-uncovered-4200-malicious-smart-contracts-that-successfully-tricked-5700-victims-into-signing-away-their-crypto/",
-        "source": "CryptoSlate",
-        "enTitle": "Researchers just uncovered 4,200 malicious smart contracts that successfully tricked 5,700 victims into signing away their crypto",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/wallet-transaction-preview-phishing-attack.jpg"
-      },
-      {
-        "headline": "Bitget-ը դադարեցնում է ծառայությունները Ճապոնիայում",
-        "summary": "Կրիպտոարժույթի բորսա Bitget-ը հայտարարել է, որ մինչև 2026 թվականի դեկտեմբերի 31-ը կդադարեցնի ծառայությունները Ճապոնիայում՝ պարտադրելով թրեյդերներին դուրս գալ։",
-        "link": "https://news.bitcoin.com/crypto-news/bitget-quits-japan-forces-traders-to-exit-by-years-end/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitget Quits Japan, Forces Traders to Exit by Year’s End",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitget-quits-japan-forces-traders-to-exit-by-years-end-768x432.png"
-      },
-      {
-        "headline": "BlackRock-ը թողարկում է թոքենիզացված ֆոնդեր",
-        "summary": "BlackRock-ը գործարկել է երկու բլոկչեյնի վրա հիմնված դրամական շուկայի ֆոնդեր, որոնք նախատեսված են որպես stablecoin-ի պահուստային ակտիվներ ԱՄՆ GENIUS Act-ի համաձայն։",
-        "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "BlackRock launches tokenized money market funds for stablecoin reserves",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-j-blackrock-investments-explained.jpg"
-      },
-      {
-        "headline": "Clarity Act-ի ձախողումը կարող է իջեցնել կրիպտո շուկաները",
-        "summary": "Bernstein-ը կարծում է, որ Clarity Act-ի ընդունման ձախողումը այս տարի, հավանաբար, կհանգեցնի կրիպտո շուկաների հետագա անկմանը։",
-        "link": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a03886b63f9f486ffe9b1e5246f92bf2b612c49-1500x998.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Coldcard-ի խոցելիությունը սպառնում է դրամապանակներին",
-        "summary": "Coldcard-ի պատահական թվերի գեներատորի խափանումը ցույց է տալիս, որ Bitcoin-ի ապարատային դրամապանակները կարող են այնքան էլ անվտանգ չլինել, որքան կարծում էին։",
-        "link": "https://cryptoslate.com/no-dice-your-hardware-bitcoin-wallet-is-probably-not-as-secure-as-you-thought-it-was/",
-        "source": "CryptoSlate",
-        "enTitle": "No dice? Your Bitcoin hardware wallet is probably not as secure as you thought it was",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/cracked-bitcoin-seed-dice-egg-collage.jpg"
-      },
-      {
-        "headline": "Strategy-ն վաճառել է 1,638 BTC",
-        "summary": "Michael Saylor-ի Strategy ընկերությունը վաճառել է ևս 1,638 BTC 105 միլիոն դոլարով՝ նվազեցնելով ընդհանուր պահուստները մինչև 842,138 BTC։",
-        "link": "https://www.theblock.co/post/410414/michael-saylors-strategy-sells-another-1638-btc-for-105-million-reducing-total-holdings-to-842138-btc?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Michael Saylor’s Strategy sells another 1,638 BTC for $105 million, reducing total holdings to 842,138 BTC",
-        "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Microstrategy_News-800x450.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-04",
     "ts": 1785864588156,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
         "enTitle": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/edd10316fa7620a12d0bce0492520092d00802b5-4752x3168.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "ts": 1790887317734,
+    "fng": {
+      "value": 74,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 84682,
+        "change24h": 1.202096397993575
+      },
+      {
+        "label": "Ethereum",
+        "price": 2698.06,
+        "change24h": 0.6935090890650729
+      }
+    ],
+    "overview": "Այսօրվա նորությունները ցույց են տալիս կարգավորող զարգացումների, զգալի հաքերային հարձակումների և կրիպտո ակտիվների ինստիտուցիոնալ ընդունման աճի խառնուրդ։ ԱՄՆ կարգավորող մարմինները ակտիվ են նոր առաջարկներով, մինչդեռ որոշ նահանգներ վերանայում են կրիպտո հարկերը։ Միևնույն ժամանակ, խոշոր ֆինանսական հաստատություններն ուսումնասիրում են stablecoin-ների օգտագործումը, իսկ կրիպտո շուկան շարունակում է բախվել անվտանգության մարտահրավերների։",
+    "items": [
+      {
+        "headline": "SEC-ը նոր առաջարկ է ներկայացրել կրիպտո ակտիվների պահպանման համար",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) հրապարակել է կրիպտո ակտիվների պահպանման վերաբերյալ նոր կանոնների առաջարկ, որն ընդգծում է թվային ակտիվների կարգավորման իր օրակարգը։",
+        "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "U.S. SEC maps out crypto custody in new proposal that furthers its digital assets agenda",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Իլինոյսը հետաձգում է կրիպտո հարկի ներդրումը",
+        "summary": "Իլինոյս նահանգի պաշտոնյաները համաձայնել են վեց ամսով հետաձգել 0.2% կրիպտո հարկի ներդրումը՝ հայցերի և արդյունաբերության դիմադրության պատճառով։",
+        "link": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Illinois will postpone implementation of crypto tax following lawsuit",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W4DEMZ53S3Q9NK2GTJAT5R/hi-crypto-glossary-tax-2.jpg"
+      },
+      {
+        "headline": "NEAR Intents-ը տուժել է 3.8 միլիոն դոլարի հաքերային հարձակումից",
+        "summary": "NEAR Intents cross-chain swap հարթակը ենթարկվել է 3.8 միլիոն դոլարի շահագործման՝ հայտարարելով, որ կփոխհատուցի բոլոր տուժած օգտատերերին։",
+        "link": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3VRGAM4CAXBR2PFX0KGFSCH/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-4.jpg"
+      },
+      {
+        "headline": "Lloyds-ը Visa-ին 750K USDC է ուղարկել բանկերի փակ ժամերին",
+        "summary": "Lloyds Banking Group-ը Visa-ի հետ իրականացրել է 750,000 դոլարի USDC վճարում՝ ցույց տալով stablecoin-ների արդյունավետությունը բանկային ժամերից դուրս։",
+        "link": "https://news.bitcoin.com/stablecoins/lloyds-sends-visa-750k-usdc-banks-closed/",
+        "source": "Bitcoin News",
+        "enTitle": "Lloyds Sends Visa $750K in USDC While Banks Are Closed",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/lloyds-sends-visa-750000-in-usdc-while-banks-are-closed-768x432.png"
+      },
+      {
+        "headline": "XRP-ի խոշորագույն գանձարանը պատրաստվում է հրապարակային դառնալ",
+        "summary": "Evernorth-ի բաժնետերերը հաստատել են Armada Acquisition Corp. II-ի հետ միաձուլումը, ինչը ճանապարհ է բացում Ripple-ի կողմից աջակցվող ընկերության համար՝ շուկա մուտք գործելու մոտ 473 միլիոն XRP պահուստով։",
+        "link": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
+        "source": "Decrypt",
+        "enTitle": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png"
+      },
+      {
+        "headline": "Citi-ն 113K դոլար է կանխատեսում Bitcoin-ի համար",
+        "summary": "Citi-ն կանխատեսում է Bitcoin-ի գինը 113,000 դոլար և 5 միլիարդ դոլարի ներհոսք կրիպտո ETF-ներում առաջիկա 12 ամիսների ընթացքում։",
+        "link": "https://news.bitcoin.com/market-updates/citi-113k-bitcoin-price-target-expects-5-billion-crypto-etf-inflows/",
+        "source": "Bitcoin News",
+        "enTitle": "Citi Sets $113K Bitcoin Price Target, Expects $5 Billion in Crypto ETF Inflows",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/citi-bitcoin-ether-forecasts-768x432.jpg"
       }
     ]
   }
