@@ -4249,9 +4249,9 @@
   },
   {
     "date": "2026-10-02",
-    "ts": 1790887317734,
+    "ts": 1790940974274,
     "fng": {
-      "value": 74,
+      "value": 72,
       "label": "Greed",
       "hy": "Ագահություն",
       "dot": "🟢"
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 84682,
-        "change24h": 1.202096397993575
+        "price": 86482,
+        "change24h": 3.1647849337611866
       },
       {
         "label": "Ethereum",
-        "price": 2698.06,
-        "change24h": 0.6935090890650729
+        "price": 2749.57,
+        "change24h": 1.9701624320895876
       }
     ],
-    "overview": "Այսօրվա նորությունները ցույց են տալիս կարգավորող զարգացումների, զգալի հաքերային հարձակումների և կրիպտո ակտիվների ինստիտուցիոնալ ընդունման աճի խառնուրդ։ ԱՄՆ կարգավորող մարմինները ակտիվ են նոր առաջարկներով, մինչդեռ որոշ նահանգներ վերանայում են կրիպտո հարկերը։ Միևնույն ժամանակ, խոշոր ֆինանսական հաստատություններն ուսումնասիրում են stablecoin-ների օգտագործումը, իսկ կրիպտո շուկան շարունակում է բախվել անվտանգության մարտահրավերների։",
+    "overview": "Շուկան դրական տրամադրություն է ցուցաբերում՝ պայմանավորված Bitcoin ETF-ների ներհոսքերով և ինստիտուցիոնալ ընդունմամբ, սակայն շարունակվում են նաև կարգավորող մարմինների գործողությունները և կենտրոնական բանկերի կողմից բլոկչեյն տեխնոլոգիաների ուսումնասիրությունները։",
     "items": [
       {
-        "headline": "SEC-ը նոր առաջարկ է ներկայացրել կրիպտո ակտիվների պահպանման համար",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) հրապարակել է կրիպտո ակտիվների պահպանման վերաբերյալ նոր կանոնների առաջարկ, որն ընդգծում է թվային ակտիվների կարգավորման իր օրակարգը։",
-        "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "U.S. SEC maps out crypto custody in new proposal that furthers its digital assets agenda",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "headline": "ԱՄՆ-ը թիրախավորում է ռուսական կրիպտո ցանցը",
+        "summary": "ԱՄՆ-ը պատժամիջոցներ է կիրառել Ռուսաստանի հետ կապված 17 միլիարդ դոլար արժողությամբ կրիպտո վճարային ցանցի դեմ, որը USDT է օգտագործում որպես փախուստի ուղի։",
+        "link": "https://cryptoslate.com/us-targets-17-billion-russia-linked-crypto-payment-network-using-usdt-as-an-escape-route/",
+        "source": "CryptoSlate",
+        "enTitle": "US targets $17 billion Russia-linked crypto payment network using USDT as an escape route",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/a7-sanctions-container-route.webp"
       },
       {
-        "headline": "Իլինոյսը հետաձգում է կրիպտո հարկի ներդրումը",
-        "summary": "Իլինոյս նահանգի պաշտոնյաները համաձայնել են վեց ամսով հետաձգել 0.2% կրիպտո հարկի ներդրումը՝ հայցերի և արդյունաբերության դիմադրության պատճառով։",
-        "link": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Illinois will postpone implementation of crypto tax following lawsuit",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W4DEMZ53S3Q9NK2GTJAT5R/hi-crypto-glossary-tax-2.jpg"
-      },
-      {
-        "headline": "NEAR Intents-ը տուժել է 3.8 միլիոն դոլարի հաքերային հարձակումից",
-        "summary": "NEAR Intents cross-chain swap հարթակը ենթարկվել է 3.8 միլիոն դոլարի շահագործման՝ հայտարարելով, որ կփոխհատուցի բոլոր տուժած օգտատերերին։",
-        "link": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3VRGAM4CAXBR2PFX0KGFSCH/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-4.jpg"
-      },
-      {
-        "headline": "Lloyds-ը Visa-ին 750K USDC է ուղարկել բանկերի փակ ժամերին",
-        "summary": "Lloyds Banking Group-ը Visa-ի հետ իրականացրել է 750,000 դոլարի USDC վճարում՝ ցույց տալով stablecoin-ների արդյունավետությունը բանկային ժամերից դուրս։",
-        "link": "https://news.bitcoin.com/stablecoins/lloyds-sends-visa-750k-usdc-banks-closed/",
+        "headline": "Արժույթի միջազգային հիմնադրամը ներում է Էլ Սալվադորին",
+        "summary": "Արժույթի միջազգային հիմնադրամը (IMF) ներել է Էլ Սալվադորի կողմից Bitcoin-ի հետ կապված պարտավորությունների խախտումը՝ բացելով 138 միլիոն դոլարի վճարումը։",
+        "link": "https://news.bitcoin.com/crypto-news/imf-waives-el-salvadors-bitcoin-breach-to-unlock-138m-payout/",
         "source": "Bitcoin News",
-        "enTitle": "Lloyds Sends Visa $750K in USDC While Banks Are Closed",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/lloyds-sends-visa-750000-in-usdc-while-banks-are-closed-768x432.png"
+        "enTitle": "IMF Waives El Salvador’s Bitcoin Breach to Unlock $138M Payout",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/imf-logo-signboard-768x432.jpg"
       },
       {
-        "headline": "XRP-ի խոշորագույն գանձարանը պատրաստվում է հրապարակային դառնալ",
-        "summary": "Evernorth-ի բաժնետերերը հաստատել են Armada Acquisition Corp. II-ի հետ միաձուլումը, ինչը ճանապարհ է բացում Ripple-ի կողմից աջակցվող ընկերության համար՝ շուկա մուտք գործելու մոտ 473 միլիոն XRP պահուստով։",
-        "link": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
-        "source": "Decrypt",
-        "enTitle": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png"
+        "headline": "ԵԿԲ-ն ներկայացնում է կենտրոնական բանկի փողի մոդելներ",
+        "summary": "Եվրոպական Կենտրոնական Բանկը (ECB) ներկայացրել է երեք մոդել՝ կենտրոնական բանկի փողը բլոկչեյնի վրա տեղադրելու համար, քանի որ ֆինանսական հաստատություններն ուսումնասիրում են հաշվարկային ենթակառուցվածքները։",
+        "link": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
+        "source": "The Block",
+        "enTitle": "ECB outlines three models for putting central bank money onchain",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ecb.png"
       },
       {
-        "headline": "Citi-ն 113K դոլար է կանխատեսում Bitcoin-ի համար",
-        "summary": "Citi-ն կանխատեսում է Bitcoin-ի գինը 113,000 դոլար և 5 միլիարդ դոլարի ներհոսք կրիպտո ETF-ներում առաջիկա 12 ամիսների ընթացքում։",
-        "link": "https://news.bitcoin.com/market-updates/citi-113k-bitcoin-price-target-expects-5-billion-crypto-etf-inflows/",
-        "source": "Bitcoin News",
-        "enTitle": "Citi Sets $113K Bitcoin Price Target, Expects $5 Billion in Crypto ETF Inflows",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/citi-bitcoin-ether-forecasts-768x432.jpg"
+        "headline": "ԱՄՆ կարգավորիչները նախաձեռնում են կրիպտո գործողություններ",
+        "summary": "ԱՄՆ կարգավորիչները, ներառյալ SEC-ը, առաջարկել են կրիպտո ակտիվների պահպանման նոր շրջանակ, ինչը ամրապնդում է Bitcoin-ի ապագա ներուժը։",
+        "link": "https://cryptoslate.com/bitcoins-113000-case-strengthens-as-us-regulators-push-9-crypto-actions/",
+        "source": "CryptoSlate",
+        "enTitle": "Bitcoin’s $113,000 case strengthens as US regulators push 9 crypto actions",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-sec-cftc-bridge.webp"
+      },
+      {
+        "headline": "Spot Bitcoin ETF-ները գրանցել են մեծ ներհոսքեր",
+        "summary": "Spot Bitcoin ETF-ները սեպտեմբերին գրանցել են 2.7 միլիարդ դոլարի զուտ ներհոսքեր՝ ցույց տալով ինստիտուցիոնալ պահանջարկի շարունակական աճ։",
+        "link": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
+        "source": "The Block",
+        "enTitle": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png"
+      },
+      {
+        "headline": "Solana-ն մուտք է գործում ԱՄՆ բանկային ոլորտ",
+        "summary": "Solana բլոկչեյնը մուտք է գործել ԱՄՆ բանկային ոլորտ՝ Հյուսիսային Դակոտայի 90 բանկերի առաջնորդությամբ՝ ինստիտուցիոնալ հասանելիություն ապահովելով։",
+        "link": "https://cryptoslate.com/solana-enters-us-banking-with-90-north-dakota-banks-lead-it/",
+        "source": "CryptoSlate",
+        "enTitle": "Solana enters US banking with 90 North Dakota banks leading it",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/north-dakota-token-route-standard.jpg"
       }
     ]
   }
