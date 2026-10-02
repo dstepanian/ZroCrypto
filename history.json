@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-04",
-    "ts": 1785864588156,
-    "fng": {
-      "value": 25,
-      "label": "Extreme Fear",
-      "hy": "Ծայրահեղ վախ",
-      "dot": "🔴"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 64006,
-        "change24h": 0.305063598225225
-      },
-      {
-        "label": "Ethereum",
-        "price": 1870.54,
-        "change24h": 0.1598459745666375
-      }
-    ],
-    "overview": "Կրիպտոարժույթների շուկան այսօր բնութագրվում է ինստիտուցիոնալ խաղացողների կողմից նոր ծառայությունների ներդրմամբ և թոքենիզացիայի ընդլայնմամբ, ինչպես նաև կարգավորող մարմինների ուշադրությամբ և անվտանգության հետ կապված մտահոգություններով։",
-    "items": [
-      {
-        "headline": "Samsung-ը կդառնա stablecoin-ների դիստրիբյուտոր",
-        "summary": "Վերլուծաբանները նշում են, որ Samsung-ը պատրաստվում է 800 միլիոն Galaxy հեռախոսները վերածել թվային ակտիվների դրամապանակների՝ աջակցելով բլոկչեյն վճարումներին։",
-        "link": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/8ffb119f24565b1ba8025dd612346b51fd6b5dc3-6000x4500.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Սենատորները SEC-ից պահանջում են հետաքննել Trump-ի memecoin-ը",
-        "summary": "Սենատորներ Ուորենը և Բլյումենթալը կոչ են անում Արժեթղթերի և բորսաների հանձնաժողովին (SEC) հետաքննել նախագահ Դոնալդ Թրամփի memecoin-ը։",
-        "link": "https://www.theblock.co/post/410624/senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Senators seek SEC probe of President Trump’s memecoin as crypto bill enters into a pivotal week",
-        "image": "https://www.tbstat.com/wp/uploads/2021/09/20210927_Elizabeth_Warren_Generic-800x450.jpg"
-      },
-      {
-        "headline": "BNY-ը կառաջարկի ինստիտուցիոնալ կրիպտո staking",
-        "summary": "Խնամակալության հսկան՝ BNY-ը, ընդլայնում է իր ծառայությունները՝ ավելացնելով staking-ի հնարավորությունները Galaxy-ի հետ համագործակցության միջոցով։",
-        "link": "https://cointelegraph.com/news/bny-galaxy-institutional-crypto-staking-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "BNY to offer institutional crypto staking through Galaxy partnership",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-60958-bny-mellon-s-crypto-entrance-seeks-to-bridge-generational-adoption-gap.jpg"
-      },
-      {
-        "headline": "Coldcard-ի խոցելիությունը շահագործվել է",
-        "summary": "Galaxy-ն հայտարարել է, որ առնվազն 15 տարբեր հարձակվողներ շահագործել են Coldcard-ի խոցելիությունը։",
-        "link": "https://cointelegraph.com/news/15-attackers-exploited-coldcard-vulnerability-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "At least 15 attackers exploited Coldcard vulnerability: Galaxy",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-safety-2025-7-easy-ways-to-avoid-hacks-and-scams.jpg"
-      },
-      {
-        "headline": "CME-ը սառեցրել է Nasdaq-ի Bitcoin ETF-ի մեկնարկը",
-        "summary": "CME-ի վերանայումը վտանգի տակ է դնում Nasdaq-ի QBTC-ի պայմանական հաստատումը՝ նախազգուշացնելով, որ իրավական բացը կարող է խաթարել ապրանքային շուկան։",
-        "link": "https://cryptoslate.com/cme-challenge-keeps-nasdaq-bitcoin-options-frozen-as-sec-reopens-the-jurisdiction-fight/",
-        "source": "CryptoSlate",
-        "enTitle": "CME freezes Nasdaq’s major Bitcoin launch, warning a legal loophole could upend the entire commodities market",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/ec-freezes-nasdaq-bitcoin-options-launch.jpg"
-      },
-      {
-        "headline": "Blackrock-ը թողարկում է թոքենիզացված ֆոնդեր",
-        "summary": "Blackrock-ը ներկայացրել է երկու թոքենիզացված դրամական շուկայի արտադրանք՝ ուղղված ինստիտուցիոնալ ներդրողներին և stablecoin-ի թողարկողներին։",
-        "link": "https://news.bitcoin.com/finance/blackrock-brings-2-tokenized-money-market-funds-to-stablecoin-issuers/",
-        "source": "Bitcoin News",
-        "enTitle": "Blackrock Brings 2 Tokenized Money Market Funds to Stablecoin Issuers",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/blackrock-brings-2-tokenized-money-market-funds-to-stablecoin-issuers-768x432.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-05",
     "ts": 1785950459869,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "CryptoSlate",
         "enTitle": "Solana enters US banking with 90 North Dakota banks leading it",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/10/north-dakota-token-route-standard.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-03",
+    "ts": 1790972117743,
+    "fng": {
+      "value": 72,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 84384,
+        "change24h": -0.4353390692155546
+      },
+      {
+        "label": "Ethereum",
+        "price": 2668.41,
+        "change24h": -1.1796485949985132
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող զարգացումներով, ինչպիսիք են ԵՄ-ում stablecoin-ների կանոնների վերանայման կոչերը և Հարավային Կորեայի կողմից թոքենացված արժեթղթերի շուկայի բացումը: Միևնույն ժամանակ, նկատվում են շուկայական տեղաշարժեր, ինչպիսիք են Solana ETF-ների աճը և Ethereum-ի Layer 2 ցանցի փակումը:",
+    "items": [
+      {
+        "headline": "Circle-ը կոչ է անում վերանայել MiCA-ի կանոնները",
+        "summary": "Circle-ը Եվրոպական հանձնաժողովին կոչ է արել վերանայել MiCA կանոնակարգի կայուն մետաղադրամների պահուստների պահանջները՝ ավելի ճկուն մոտեցում ապահովելու համար:",
+        "link": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
+        "source": "Decrypt",
+        "enTitle": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png@png"
+      },
+      {
+        "headline": "Ethereum Layer 2 Blast ցանցը փակվում է",
+        "summary": "Ethereum-ի Layer 2 Blast ցանցը կդադարեցնի իր գործունեությունը, քանի որ շահագործման ծախսերը գերազանցում են եկամուտները, և օգտատերերին կոչ է արվում դուրս բերել իրենց ակտիվները:",
+        "link": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Blast to wind down Ethereum L2 after costs outpace revenue",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YVCXVHV01NQ6FAE9XNJ7YQ/hi-terra-chain-test-net-to-go-offline-soon-will-that-be-it-for-the-network.png"
+      },
+      {
+        "headline": "Solana ETF-ները գերազանցում են XRP ֆոնդերին",
+        "summary": "Solana ETF-ների ընդհանուր ակտիվները հասել են 1.91 միլիարդ դոլարի՝ գերազանցելով XRP ֆոնդերին ութօրյա ներհոսքերի շնորհիվ:",
+        "link": "https://news.bitcoin.com/market-updates/solana-etfs-overtake-xrp-funds-1-91-billion-assets/",
+        "source": "Bitcoin News",
+        "enTitle": "Solana ETFs Overtake XRP Funds With $1.91 Billion in Assets",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/solana-etfs-overtake-xrp-etfs-with-1-91-billion-in-assets-768x432.png"
+      },
+      {
+        "headline": "Bitcoin-ը հասնում է $87K-ի՝ SEC-ի առաջարկով",
+        "summary": "Bitcoin-ի գինը հասել է 87,000 դոլարի՝ պայմանավորված ԱՄՆ-ի թույլ աշխատանքային տվյալներով և SEC-ի կողմից ինստիտուցիոնալ պահառությունը բացելու կարգավորող առաջարկով:",
+        "link": "https://news.bitcoin.com/market-updates/bitcoin-price-taps-87k-sec-moves-unlock-institutional-custody/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin Price Taps $87K as SEC Moves to Unlock Institutional Custody",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/bitcoin-price-oct2-2026-768x432.png"
+      },
+      {
+        "headline": "Հարավային Կորեան թույլ է տալիս թոքենացված արժեթղթեր",
+        "summary": "Հարավային Կորեան մտադիր է 2027 թվականից թույլատրել թոքենացված բաժնետոմսերի, պարտատոմսերի և այլ արժեթղթերի առևտուրը՝ բացելով 5 տրիլիոն դոլար արժողությամբ շուկա:",
+        "link": "https://news.bitcoin.com/regulation-and-legal/south-korea-opens-5-trillion-market-tokenized-stocks-bonds-2027/",
+        "source": "Bitcoin News",
+        "enTitle": "South Korea Opens $5 Trillion Market to Tokenized Stocks, Bonds in 2027",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/south-korea-opens-7-trillion-market-to-tokenized-stocks-bonds-in-2027-768x432.png"
+      },
+      {
+        "headline": "BitGo-ի գործադիր տնօրենը զգուշացնում է ռիսկերի մասին",
+        "summary": "BitGo-ի գործադիր տնօրենը զգուշացրել է, որ CLARITY Act-ի ձախողումը կապիտալ շուկաները ենթարկել է համակարգային ռիսկերի, որոնք կարող են ավելի վատ լինել, քան Lehman-ի դեպքը:",
+        "link": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560",
+        "source": "The Block",
+        "enTitle": "BitGo CEO says Clarity’s failure left capital markets exposed to risk potentially worse than Lehman",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/photo_2026-10-02-21.04.25.jpeg"
       }
     ]
   }
