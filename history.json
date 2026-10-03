@@ -4249,9 +4249,9 @@
   },
   {
     "date": "2026-10-03",
-    "ts": 1790972117743,
+    "ts": 1791024604232,
     "fng": {
-      "value": 72,
+      "value": 67,
       "label": "Greed",
       "hy": "Ագահություն",
       "dot": "🟢"
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 84384,
-        "change24h": -0.4353390692155546
+        "price": 84609,
+        "change24h": -1.9792047465124116
       },
       {
         "label": "Ethereum",
-        "price": 2668.41,
-        "change24h": -1.1796485949985132
+        "price": 2682.94,
+        "change24h": -2.3083072960294255
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող զարգացումներով, ինչպիսիք են ԵՄ-ում stablecoin-ների կանոնների վերանայման կոչերը և Հարավային Կորեայի կողմից թոքենացված արժեթղթերի շուկայի բացումը: Միևնույն ժամանակ, նկատվում են շուկայական տեղաշարժեր, ինչպիսիք են Solana ETF-ների աճը և Ethereum-ի Layer 2 ցանցի փակումը:",
+    "overview": "Օրվա նորությունները ներառում են կարգավորող մարտահրավերներ, էկոհամակարգի զարգացումներ և կրիպտոյի աճող ազդեցությունը ավանդական ֆինանսների և մակրոտնտեսության վրա։ Ուշադրություն է դարձվում նաև անվտանգությանը և AI-ի ու բլոկչեյնի փոխկապակցմանը։",
     "items": [
       {
-        "headline": "Circle-ը կոչ է անում վերանայել MiCA-ի կանոնները",
-        "summary": "Circle-ը Եվրոպական հանձնաժողովին կոչ է արել վերանայել MiCA կանոնակարգի կայուն մետաղադրամների պահուստների պահանջները՝ ավելի ճկուն մոտեցում ապահովելու համար:",
-        "link": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
-        "source": "Decrypt",
-        "enTitle": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png@png"
+        "headline": "Arbitrum-ը դադարեցնում է Stylus-ի ակտիվացումները",
+        "summary": "Arbitrum-ը դադարեցրել է Stylus-ի նոր ակտիվացումները՝ AI-ի օգնությամբ հարձակումների ռիսկերի պատճառով, սակայն գոյություն ունեցող ծրագրերը շարունակում են գործել։",
+        "link": "https://cryptoslate.com/arbitrum-pauses-new-stylus-activations-over-ai-assisted-attack-risks/",
+        "source": "CryptoSlate",
+        "enTitle": "Arbitrum pauses new Stylus activations over AI-assisted attack risks",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/arbitrum-stylus-activation-tray.webp"
       },
       {
-        "headline": "Ethereum Layer 2 Blast ցանցը փակվում է",
-        "summary": "Ethereum-ի Layer 2 Blast ցանցը կդադարեցնի իր գործունեությունը, քանի որ շահագործման ծախսերը գերազանցում են եկամուտները, և օգտատերերին կոչ է արվում դուրս բերել իրենց ակտիվները:",
-        "link": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Համայնքային բանկերը դատի են տվել OCC-ին",
+        "summary": "Համայնքային բանկերի խումբը դատի է տվել Արժույթի վերահսկիչի գրասենյակին (OCC)՝ պնդելով, որ այն գերազանցել է իր լիազորությունները կրիպտո ընկերություններին վստահության բանկային կանոնադրություններ տրամադրելիս։",
+        "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Blast to wind down Ethereum L2 after costs outpace revenue",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YVCXVHV01NQ6FAE9XNJ7YQ/hi-terra-chain-test-net-to-go-offline-soon-will-that-be-it-for-the-network.png"
+        "enTitle": "Community banks sue OCC over trust bank charters of crypto firms",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40GZ6STY7R8TJPNFCZ17PJ8/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-3.png"
       },
       {
-        "headline": "Solana ETF-ները գերազանցում են XRP ֆոնդերին",
-        "summary": "Solana ETF-ների ընդհանուր ակտիվները հասել են 1.91 միլիարդ դոլարի՝ գերազանցելով XRP ֆոնդերին ութօրյա ներհոսքերի շնորհիվ:",
-        "link": "https://news.bitcoin.com/market-updates/solana-etfs-overtake-xrp-funds-1-91-billion-assets/",
-        "source": "Bitcoin News",
-        "enTitle": "Solana ETFs Overtake XRP Funds With $1.91 Billion in Assets",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/solana-etfs-overtake-xrp-etfs-with-1-91-billion-in-assets-768x432.png"
+        "headline": "Blast L2 ցանցը դադարեցնում է գործունեությունը",
+        "summary": "Blast Ethereum Layer-2 ցանցը, որի արժեքը նախկինում հասնում էր 20 միլիոն դոլարի, դադարեցնում է իր գործունեությունը, և օգտատերերը մինչև հոկտեմբերի 26-ը պետք է դուրս բերեն իրենց ակտիվները։",
+        "link": "https://cryptoslate.com/blast-shuts-down-20m-layer-2-network-forcing-oct-26-exit-deadline/",
+        "source": "CryptoSlate",
+        "enTitle": "Blast shuts down $20M layer-2 network, forcing Oct. 26 exit deadline",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/blast-ethereum-exodus.webp"
       },
       {
-        "headline": "Bitcoin-ը հասնում է $87K-ի՝ SEC-ի առաջարկով",
-        "summary": "Bitcoin-ի գինը հասել է 87,000 դոլարի՝ պայմանավորված ԱՄՆ-ի թույլ աշխատանքային տվյալներով և SEC-ի կողմից ինստիտուցիոնալ պահառությունը բացելու կարգավորող առաջարկով:",
-        "link": "https://news.bitcoin.com/market-updates/bitcoin-price-taps-87k-sec-moves-unlock-institutional-custody/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Price Taps $87K as SEC Moves to Unlock Institutional Custody",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/bitcoin-price-oct2-2026-768x432.png"
+        "headline": "Stablecoin-ները փոխարինում են ԱՄՆ գանձապետական պահանջարկը",
+        "summary": "Stablecoin-ների թողարկողները դարձել են ԱՄՆ պետական պարտքի նոր պահանջարկի աղբյուր՝ փոխարինելով Չինաստանի կորցրած պահանջարկի ավելի քան 40%-ը։",
+        "link": "https://cryptoslate.com/stablecoin-issuers-have-replaced-40-of-chinas-lost-us-treasury-demand/",
+        "source": "CryptoSlate",
+        "enTitle": "Stablecoin issuers have replaced 40% of China’s lost US Treasury demand",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-treasury-buyers-standard.jpg"
       },
       {
-        "headline": "Հարավային Կորեան թույլ է տալիս թոքենացված արժեթղթեր",
-        "summary": "Հարավային Կորեան մտադիր է 2027 թվականից թույլատրել թոքենացված բաժնետոմսերի, պարտատոմսերի և այլ արժեթղթերի առևտուրը՝ բացելով 5 տրիլիոն դոլար արժողությամբ շուկա:",
-        "link": "https://news.bitcoin.com/regulation-and-legal/south-korea-opens-5-trillion-market-tokenized-stocks-bonds-2027/",
-        "source": "Bitcoin News",
-        "enTitle": "South Korea Opens $5 Trillion Market to Tokenized Stocks, Bonds in 2027",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/south-korea-opens-7-trillion-market-to-tokenized-stocks-bonds-in-2027-768x432.png"
+        "headline": "BNY-ը բանակցում է Kraken-ի հետ",
+        "summary": "BNY Mellon-ը բանակցություններ է վարում Kraken-ի մայր ընկերություն Payward-ի հետ՝ ենթակառուցվածքային համագործակցության շուրջ, որը կարող է ներառել թվային ակտիվներ, պահառություն և առևտուր։",
+        "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "BitGo-ի գործադիր տնօրենը զգուշացնում է ռիսկերի մասին",
-        "summary": "BitGo-ի գործադիր տնօրենը զգուշացրել է, որ CLARITY Act-ի ձախողումը կապիտալ շուկաները ենթարկել է համակարգային ռիսկերի, որոնք կարող են ավելի վատ լինել, քան Lehman-ի դեպքը:",
-        "link": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560",
-        "source": "The Block",
-        "enTitle": "BitGo CEO says Clarity’s failure left capital markets exposed to risk potentially worse than Lehman",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/photo_2026-10-02-21.04.25.jpeg"
+        "headline": "Ջեյ Քլեյթոնը՝ AI-ի հնարավոր ղեկավար",
+        "summary": "Նախկին SEC նախագահ Ջեյ Քլեյթոնը, ով կարող է նշանակվել Թրամփի վարչակազմի AI-ի ղեկավար, հայտնի է կրիպտո արդյունաբերության նկատմամբ SEC-ի խիստ մոտեցման հիմքերը դնելով։",
+        "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/dee7ca3ec92ba77eecf6dabbabbc08eb9f261f9b-6345x4230.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
