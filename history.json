@@ -4249,7 +4249,7 @@
   },
   {
     "date": "2026-10-03",
-    "ts": 1791024604232,
+    "ts": 1791053657897,
     "fng": {
       "value": 67,
       "label": "Greed",
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 84609,
-        "change24h": -1.9792047465124116
+        "price": 84926,
+        "change24h": 0.876219918829181
       },
       {
         "label": "Ethereum",
-        "price": 2682.94,
-        "change24h": -2.3083072960294255
+        "price": 2683.66,
+        "change24h": 0.8502231301685018
       }
     ],
-    "overview": "Օրվա նորությունները ներառում են կարգավորող մարտահրավերներ, էկոհամակարգի զարգացումներ և կրիպտոյի աճող ազդեցությունը ավանդական ֆինանսների և մակրոտնտեսության վրա։ Ուշադրություն է դարձվում նաև անվտանգությանը և AI-ի ու բլոկչեյնի փոխկապակցմանը։",
+    "overview": "Կրիպտոարժույթների շուկան այսօր բնութագրվում է կարգավորող մարմինների ակտիվությամբ ինչպես Եվրոպայում, այնպես էլ ԱՄՆ-ում, ինչպես նաև նորարարական տեխնոլոգիաների, ինչպիսիք են AI-ն և թոքենիզացիան, աճող ազդեցությամբ:",
     "items": [
       {
-        "headline": "Arbitrum-ը դադարեցնում է Stylus-ի ակտիվացումները",
-        "summary": "Arbitrum-ը դադարեցրել է Stylus-ի նոր ակտիվացումները՝ AI-ի օգնությամբ հարձակումների ռիսկերի պատճառով, սակայն գոյություն ունեցող ծրագրերը շարունակում են գործել։",
-        "link": "https://cryptoslate.com/arbitrum-pauses-new-stylus-activations-over-ai-assisted-attack-risks/",
-        "source": "CryptoSlate",
-        "enTitle": "Arbitrum pauses new Stylus activations over AI-assisted attack risks",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/arbitrum-stylus-activation-tray.webp"
+        "headline": "Bitcoin-ի հեռանկարը դեպի $97K",
+        "summary": "Աշխատատեղերի թույլ տվյալները և ներդրումային պահանջարկի աճը նպաստում են Bitcoin-ի վերականգնմանը՝ հնարավորություն տալով հասնել $97K-ի։",
+        "link": "https://news.bitcoin.com/market-updates/analyst-sees-bitcoin-path-to-97k-as-weak-jobs-data-shift-fed-odds/",
+        "source": "Bitcoin News",
+        "enTitle": "Analyst Sees Bitcoin Path to $97K as Weak Jobs Data Shift Fed Odds",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/bitcoin-price-oct-3-768x432.jpg"
       },
       {
-        "headline": "Համայնքային բանկերը դատի են տվել OCC-ին",
-        "summary": "Համայնքային բանկերի խումբը դատի է տվել Արժույթի վերահսկիչի գրասենյակին (OCC)՝ պնդելով, որ այն գերազանցել է իր լիազորությունները կրիպտո ընկերություններին վստահության բանկային կանոնադրություններ տրամադրելիս։",
+        "headline": "Chainalysis-ը AI-ով հետևել է Bitget հաքերին",
+        "summary": "Chainalysis ընկերությունը AI-ի միջոցով հետևել է Bitget-ից գողացված $387 միլիոնին մինչև Հյուսիսային Կորեա՝ չորս բլոկչեյնների վրա։",
+        "link": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+        "source": "Decrypt",
+        "enTitle": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "ԵՄ-ն առաջարկում է սահմանափակել stablecoin-ների ծառայությունները",
+        "summary": "ESMA-ն առաջարկում է դադարեցնել ԵՄ-ում ոչ համապատասխան stablecoin-ների պահպանման և փոխանցման ծառայությունները, եթե առաջարկը օրենք դառնա։",
+        "link": "https://cryptoslate.com/esma-proposes-ending-eu-custody-and-transfer-services-for-non-compliant-stablecoins/",
+        "source": "CryptoSlate",
+        "enTitle": "ESMA proposes ending EU custody and transfer services for non-compliant stablecoins",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/eu-stablecoin-compliance-split.webp"
+      },
+      {
+        "headline": "Կրիպտո կարգավորման մարտահրավերները ԱՄՆ-ում",
+        "summary": "ԱՄՆ-ում կրիպտոարժույթների կարգավորման առաջընթացը կարող է զրոյանալ նոր Կոնգրեսի երդմնակալությունից հետո, քանի որ հիմնական սենատորները չեն վերընտրվի։",
+        "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Crypto's Sisyphean struggle",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/9c67f41829d4e98f8dbf16e4e85e83dc931e2d2b-4162x4724.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "BlackRock-ը ցուցադրում է թոքենիզացիայի ապագան",
+        "summary": "BlackRock-ը ներկայացնում է, թե ինչպես թոքենիզացիան կարող է փոխել ներդրումային պորտֆելները՝ թույլ տալով իրական ժամանակում առևտուր, վերահաշվեկշռում և կառավարում։",
+        "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ebc74e2355bdaf89e5b68901d1642e7e17f7a651-5637x3824.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Բանկերը դատի են տալիս OCC-ին կրիպտո լիցենզիաների համար",
+        "summary": "Համայնքային բանկերի խումբը դատի է տվել OCC-ին՝ մեղադրելով կարգավորող մարմնին իր լիազորությունները գերազանցելու մեջ՝ կրիպտո ընկերություններին վստահության բանկային լիցենզիաներ տրամադրելով։",
         "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
         "enTitle": "Community banks sue OCC over trust bank charters of crypto firms",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40GZ6STY7R8TJPNFCZ17PJ8/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-3.png"
-      },
-      {
-        "headline": "Blast L2 ցանցը դադարեցնում է գործունեությունը",
-        "summary": "Blast Ethereum Layer-2 ցանցը, որի արժեքը նախկինում հասնում էր 20 միլիոն դոլարի, դադարեցնում է իր գործունեությունը, և օգտատերերը մինչև հոկտեմբերի 26-ը պետք է դուրս բերեն իրենց ակտիվները։",
-        "link": "https://cryptoslate.com/blast-shuts-down-20m-layer-2-network-forcing-oct-26-exit-deadline/",
-        "source": "CryptoSlate",
-        "enTitle": "Blast shuts down $20M layer-2 network, forcing Oct. 26 exit deadline",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/blast-ethereum-exodus.webp"
-      },
-      {
-        "headline": "Stablecoin-ները փոխարինում են ԱՄՆ գանձապետական պահանջարկը",
-        "summary": "Stablecoin-ների թողարկողները դարձել են ԱՄՆ պետական պարտքի նոր պահանջարկի աղբյուր՝ փոխարինելով Չինաստանի կորցրած պահանջարկի ավելի քան 40%-ը։",
-        "link": "https://cryptoslate.com/stablecoin-issuers-have-replaced-40-of-chinas-lost-us-treasury-demand/",
-        "source": "CryptoSlate",
-        "enTitle": "Stablecoin issuers have replaced 40% of China’s lost US Treasury demand",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-treasury-buyers-standard.jpg"
-      },
-      {
-        "headline": "BNY-ը բանակցում է Kraken-ի հետ",
-        "summary": "BNY Mellon-ը բանակցություններ է վարում Kraken-ի մայր ընկերություն Payward-ի հետ՝ ենթակառուցվածքային համագործակցության շուրջ, որը կարող է ներառել թվային ակտիվներ, պահառություն և առևտուր։",
-        "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "BNY in talks with Kraken parent Payward over infrastructure partnership",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Ջեյ Քլեյթոնը՝ AI-ի հնարավոր ղեկավար",
-        "summary": "Նախկին SEC նախագահ Ջեյ Քլեյթոնը, ով կարող է նշանակվել Թրամփի վարչակազմի AI-ի ղեկավար, հայտնի է կրիպտո արդյունաբերության նկատմամբ SEC-ի խիստ մոտեցման հիմքերը դնելով։",
-        "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/dee7ca3ec92ba77eecf6dabbabbc08eb9f261f9b-6345x4230.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
