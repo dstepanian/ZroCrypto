@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-05",
-    "ts": 1785950459869,
-    "fng": {
-      "value": 27,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 64532,
-        "change24h": 0.8368083538949365
-      },
-      {
-        "label": "Ethereum",
-        "price": 1891.28,
-        "change24h": 1.0694486050206986
-      }
-    ],
-    "overview": "Ընդհանուր առմամբ, շուկան բնութագրվում է ինստիտուցիոնալ ընդունման շարունակական առաջընթացով, հատկապես ETF-ների և stablecoin-ների ոլորտում։ Միևնույն ժամանակ, կարգավորող անորոշությունները և անվտանգության մարտահրավերները մնում են օրակարգում։",
-    "items": [
-      {
-        "headline": "Bitwise-ը զգուշացնում է CLARITY Act-ի հետաձգման մասին",
-        "summary": "Bitwise-ի գլխավոր ներդրումային տնօրենը հայտարարել է, որ կրիպտոարդյունաբերությունը կարող է դիմակայել CLARITY Act-ի ձախողմանը, բայց ոչ անորոշության երկար սպասմանը։",
-        "link": "https://news.bitcoin.com/crypto-news/bitwise-cio-crypto-can-survive-clarity-act-failure-not-the-wait/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitwise CIO: Crypto Can Survive CLARITY Act Failure, Not the Wait",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitwise-cio-crypto-can-survive-clarity-act-failure-not-the-wait2_nwmk-768x432.jpg"
-      },
-      {
-        "headline": "Circle-ը հայտարարում է Arc-ի վավերացնողների մասին",
-        "summary": "Circle-ը անվանել է BlackRock-ին, Visa-ին և DTCC-ին որպես Arc-ի վավերացնողներ, քանի որ ընկերության երկրորդ եռամսյակի եկամուտը հասել է 701 միլիոն դոլարի։",
-        "link": "https://www.theblock.co/post/410840/circle-names-blackrock-dtcc-among-arc-validators-as-q2-revenue-hits-701-million?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Circle names BlackRock, DTCC among Arc validators as Q2 revenue hits $701 million",
-        "image": "https://www.tbstat.com/wp/uploads/2020/12/20201218_Circle-2-800x450.jpg"
-      },
-      {
-        "headline": "Bitcoin ETF-ները շարունակում են ներհոսքերը",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները երեքշաբթի օրը ներգրավել են 211.49 միլիոն դոլար, ընդլայնելով շաբաթվա ուժեղ մեկնարկը, իսկ BlackRock-ի IBIT-ը ներգրավել է 170 միլիոն դոլար։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-pulls-170m-into-ibit-as-bitcoin-etfs-add-211m/",
-        "source": "Bitcoin News",
-        "enTitle": "Blackrock Pulls $170M Into IBIT as Bitcoin ETFs Add $211M",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/blackrock-pulls-170m-into-ibit-as-bitcoin-etfs-add-211m-768x432.jpg"
-      },
-      {
-        "headline": "Coldcard-ի ճգնաժամը կրկնապատկել է Bitcoin-ի «թեժ» մատակարարումը",
-        "summary": "Coldcard-ի խոցելիությունը հանգեցրել է Bitcoin-ի զգալի տեղաշարժի, ուղարկելով պարապ մետաղադրամները բորսաներ, բազմաստորագրային դրամապանակներ և նոր հասցեներ։",
-        "link": "https://news.bitcoin.com/crypto-news/onchain-data-coldcard-crisis-doubles-bitcoins-hot-supply-in-just-one-week/",
-        "source": "Bitcoin News",
-        "enTitle": "Onchain Data: Coldcard Crisis Doubles Bitcoin’s Hot Supply in Just One Week",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/onchain-data-coldcard-crisis-doubles-bitcoins-hot-supply-in-just-one-week-768x432.png"
-      },
-      {
-        "headline": "BlackRock-ը նախապատրաստում է ETHA-ի հակադարձ բաժանում",
-        "summary": "BlackRock-ը պատրաստվում է իր iShares Ethereum Trust ETF (ETHA)-ի մեկը երեքի հակադարձ բաժանման, ինչը կարող է 70 անգամ ավելի էժան դարձնել Ethereum-ի առևտուրը Coinbase-ի համեմատ։",
-        "link": "https://cryptoslate.com/blackrocks-rare-etha-reverse-split-is-about-to-make-trading-ethereum-70-times-cheaper-than-coinbase/",
-        "source": "CryptoSlate",
-        "enTitle": "BlackRock’s rare ETHA reverse split is about to make trading Ethereum 70 times cheaper than Coinbase",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/blackrock-etha-share-consolidation-crate.jpg"
-      },
-      {
-        "headline": "Լյուքսեմբուրգը ընդլայնում է FIU ծանուցումները կրիպտո բորսաներին",
-        "summary": "Լյուքսեմբուրգը նոր օրենսդրություն է ընդունում, որը իր Ֆինանսական հետախուզության բաժանմունքին (FIU) լիազորում է խարդախության մասին ծանուցումներ տրամադրել ինչպես ավանդական բանկերին, այնպես էլ կրիպտոարժույթների բորսաներին։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/luxembourg-expands-fiu-alerts-to-crypto-exchanges/",
-        "source": "Bitcoin News",
-        "enTitle": "Luxembourg Expands FIU Alerts to Crypto Exchanges",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/luxembourg-expands-fiu-alerts-to-crypto-exchanges-768x432.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-06",
     "ts": 1786004197097,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "Community banks sue OCC over trust bank charters of crypto firms",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40GZ6STY7R8TJPNFCZ17PJ8/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-3.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-04",
+    "ts": 1791113541157,
+    "fng": {
+      "value": 65,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 85298,
+        "change24h": 0.7823290976177226
+      },
+      {
+        "label": "Ethereum",
+        "price": 2703.34,
+        "change24h": 0.7367317770800728
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների ակտիվությամբ և ինստիտուցիոնալ հետաքրքրության աճով: Տարբեր երկրներում նկատվում են թվային արժույթների և նորարարական տեխնոլոգիաների ընդունման նոր զարգացումներ:",
+    "items": [
+      {
+        "headline": "El Salvador-ը ստացել է IMF-ի ֆինանսավորում",
+        "summary": "El Salvador-ը ՍՎՄ-ից ստացել է 138 միլիոն դոլար՝ Bitcoin-ի հետ կապված պարտավորություններից հրաժարվելուց հետո, ինչը ցույց է տալիս կրիպտո ակտիվների կարգավորման ուժեղացմանն ուղղված ջանքերը։",
+        "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M434D7ZXME5ND5M2XADZCGVE/hi-how-bitcoin-is-transforming-lives-in-el-salvador.png"
+      },
+      {
+        "headline": "Ռուսաստանը թվային ռուբլով աշխատավարձ է վճարել",
+        "summary": "Ռուսաստանի ֆինանսների նախարարությունն առաջին անգամ աշխատավարձ է վճարել թվային ռուբլով՝ նշանավորելով CBDC-ի ներդրման կարևոր քայլը բյուջետային գործընթացում։",
+        "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M42W4H59F8TR0F58VVB4T7YG/russia-kremlin-moscow-red-square-digital-rouble-ruble-national-cryptocurrency.png"
+      },
+      {
+        "headline": "Grayscale-ը AI կրիպտո ակտիվներում ներուժ է տեսնում",
+        "summary": "Grayscale-ը նշում է, որ արհեստական ինտելեկտի (AI) հետ կապված կրիպտոարժույթները գերազանցել են շուկան՝ ենթադրելով, որ ներդրողները սկսում են գնահատել բլոկչեյնները որպես AI-ի ենթակառուցվածք։",
+        "link": "https://news.bitcoin.com/featured/grayscale-sees-potential-ai-crypto-winners-in-a-15b-sector/",
+        "source": "Bitcoin News",
+        "enTitle": "Grayscale Sees Potential AI Crypto Winners in a $15B Sector",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/grayscale-1-768x432.jpg"
+      },
+      {
+        "headline": "Բանկիրները դատի են տվել OCC-ին",
+        "summary": "Անկախ Համայնքային Բանկիրների Ամերիկյան Ասոցիացիան դատի է տվել OCC-ին՝ փորձելով չեղարկել ազգային trust-բանկերի կանոնը, որն օգտագործվում է կրիպտո ընկերությունների կողմից։",
+        "link": "https://cryptoslate.com/bankers-sue-to-overturn-occ-trust-bank-rule-used-by-crypto-firms/",
+        "source": "CryptoSlate",
+        "enTitle": "Bankers sue to overturn OCC trust-bank rule used by crypto firms",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-trust-bank-gateway.webp"
+      },
+      {
+        "headline": "ESMA-ն առաջարկում է սահմանափակել stablecoin-ները",
+        "summary": "ESMA-ն առաջարկում է դադարեցնել ԵՄ-ում չհամապատասխանող stablecoin-ների պահպանման և փոխանցման ծառայությունները, ինչը կարող է զգալիորեն ազդել կարգավորվող շուկայի վրա։",
+        "link": "https://cryptoslate.com/esma-proposes-ending-eu-custody-and-transfer-services-for-non-compliant-stablecoins/",
+        "source": "CryptoSlate",
+        "enTitle": "ESMA proposes ending EU custody and transfer services for non-compliant stablecoins",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/eu-stablecoin-compliance-split.webp"
+      },
+      {
+        "headline": "BlackRock-ը ներկայացնում է tokenization-ի ապագան",
+        "summary": "BlackRock-ը ցույց է տալիս, թե ինչպես tokenization-ը կարող է փոխել ներդրումային պորտֆելները՝ թույլ տալով իրական ժամանակում առևտուր, վերահաշվեկշռում և կառավարում։",
+        "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ebc74e2355bdaf89e5b68901d1642e7e17f7a651-5637x3824.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
