@@ -4249,7 +4249,7 @@
   },
   {
     "date": "2026-10-04",
-    "ts": 1791113541157,
+    "ts": 1791140090979,
     "fng": {
       "value": 65,
       "label": "Greed",
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 85298,
-        "change24h": 0.7823290976177226
+        "price": 85324,
+        "change24h": 0.4725326044620624
       },
       {
         "label": "Ethereum",
-        "price": 2703.34,
-        "change24h": 0.7367317770800728
+        "price": 2700.57,
+        "change24h": 0.6334417997050124
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների ակտիվությամբ և ինստիտուցիոնալ հետաքրքրության աճով: Տարբեր երկրներում նկատվում են թվային արժույթների և նորարարական տեխնոլոգիաների ընդունման նոր զարգացումներ:",
+    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս կարգավորող մարմինների կողմից շարունակական ուշադրություն և շուկայի դինամիկա։ Մինչ SEC-ը հաստատում է նոր ֆյուչերսային ETF-ներ, բանկային հատվածը շարունակում է մարտահրավեր նետել կրիպտոյի ինտեգրմանը ավանդական ֆինանսներին։",
     "items": [
       {
-        "headline": "El Salvador-ը ստացել է IMF-ի ֆինանսավորում",
-        "summary": "El Salvador-ը ՍՎՄ-ից ստացել է 138 միլիոն դոլար՝ Bitcoin-ի հետ կապված պարտավորություններից հրաժարվելուց հետո, ինչը ցույց է տալիս կրիպտո ակտիվների կարգավորման ուժեղացմանն ուղղված ջանքերը։",
-        "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M434D7ZXME5ND5M2XADZCGVE/hi-how-bitcoin-is-transforming-lives-in-el-salvador.png"
-      },
-      {
-        "headline": "Ռուսաստանը թվային ռուբլով աշխատավարձ է վճարել",
-        "summary": "Ռուսաստանի ֆինանսների նախարարությունն առաջին անգամ աշխատավարձ է վճարել թվային ռուբլով՝ նշանավորելով CBDC-ի ներդրման կարևոր քայլը բյուջետային գործընթացում։",
-        "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Russia’s Finance Ministry pays wages in digital rubles for first time",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M42W4H59F8TR0F58VVB4T7YG/russia-kremlin-moscow-red-square-digital-rouble-ruble-national-cryptocurrency.png"
-      },
-      {
-        "headline": "Grayscale-ը AI կրիպտո ակտիվներում ներուժ է տեսնում",
-        "summary": "Grayscale-ը նշում է, որ արհեստական ինտելեկտի (AI) հետ կապված կրիպտոարժույթները գերազանցել են շուկան՝ ենթադրելով, որ ներդրողները սկսում են գնահատել բլոկչեյնները որպես AI-ի ենթակառուցվածք։",
-        "link": "https://news.bitcoin.com/featured/grayscale-sees-potential-ai-crypto-winners-in-a-15b-sector/",
-        "source": "Bitcoin News",
-        "enTitle": "Grayscale Sees Potential AI Crypto Winners in a $15B Sector",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/grayscale-1-768x432.jpg"
-      },
-      {
-        "headline": "Բանկիրները դատի են տվել OCC-ին",
-        "summary": "Անկախ Համայնքային Բանկիրների Ամերիկյան Ասոցիացիան դատի է տվել OCC-ին՝ փորձելով չեղարկել ազգային trust-բանկերի կանոնը, որն օգտագործվում է կրիպտո ընկերությունների կողմից։",
-        "link": "https://cryptoslate.com/bankers-sue-to-overturn-occ-trust-bank-rule-used-by-crypto-firms/",
+        "headline": "SEC-ը հաստատել է 3x Bitcoin և Ether ֆյուչերսային ֆոնդերը",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) հաստատել է Bitcoin և Ether ֆյուչերսային ֆոնդերի ցուցակագրումը, որոնք նպատակ ունեն օրական եռակի շահույթ ապահովել։",
+        "link": "https://cryptoslate.com/3x-bitcoin-and-ether-futures-funds-clear-sec-listing-hurdle/",
         "source": "CryptoSlate",
-        "enTitle": "Bankers sue to overturn OCC trust-bank rule used by crypto firms",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-trust-bank-gateway.webp"
+        "enTitle": "3x Bitcoin and Ether futures funds clear SEC listing hurdle",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/3x-crypto-start-line.webp"
       },
       {
-        "headline": "ESMA-ն առաջարկում է սահմանափակել stablecoin-ները",
-        "summary": "ESMA-ն առաջարկում է դադարեցնել ԵՄ-ում չհամապատասխանող stablecoin-ների պահպանման և փոխանցման ծառայությունները, ինչը կարող է զգալիորեն ազդել կարգավորվող շուկայի վրա։",
-        "link": "https://cryptoslate.com/esma-proposes-ending-eu-custody-and-transfer-services-for-non-compliant-stablecoins/",
+        "headline": "Թրամփը նշանակել է Ջեյ Քլեյթոնին AI-ի ղեկավար",
+        "summary": "Նախագահ Թրամփը նշանակել է նախկին SEC նախագահ Ջեյ Քլեյթոնին՝ ով հայտնի է Ripple-ի դեմ հայցով, գլխավորելու դաշնային AI քաղաքականությունը համակարգող նոր «Super Intelligence Force»-ը։",
+        "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+        "source": "Decrypt",
+        "enTitle": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-jay-clayton-sec-gID_4.jpg@png"
+      },
+      {
+        "headline": "Բանկային խումբը դատի է տվել կրիպտոյի դեմ",
+        "summary": "Անկախ Համայնքային Բանկիրների Ամերիկյան Ասոցիացիան դատի է տվել՝ փորձելով արգելափակել կրիպտո ընկերությունների մուտքը բանկային համակարգ՝ առանց ավանդական բանկերի պաշտպանության։",
+        "link": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+        "source": "Decrypt",
+        "enTitle": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg@png"
+      },
+      {
+        "headline": "Bitcoin ETF-ները ներգրավել են $134 միլիոն",
+        "summary": "Հոկտեմբերի առաջին երկու առևտրային օրերին Spot Bitcoin ETF-ները ներգրավել են $134.4 միլիոն, ինչը վկայում է շուկայի դրական տրամադրությունների մասին։",
+        "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+        "source": "Decrypt",
+        "enTitle": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-05-gID_7.png@png"
+      },
+      {
+        "headline": "Near Intents-ը վերականգնել է $3.8 միլիոն",
+        "summary": "Near Intents-ը հայտարարել է, որ հաքերային հարձակման հետևանքով կորցրած մոտ $3.8 միլիոնը ամբողջությամբ վերադարձվել է՝ հարձակվողին 48-ժամյա վերջնագրից հետո։",
+        "link": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
+        "source": "Decrypt",
+        "enTitle": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png@png"
+      },
+      {
+        "headline": "Գանձապետարանի նոր կանոնները կփոխեն stablecoin-ները",
+        "summary": "ԱՄՆ Գանձապետարանի նոր կանոնները կարող են փոխել stablecoin թողարկողների կողմից դոլարների վերադարձման մեխանիզմները, ինչը կազդի կրիպտո շուկայի վրա։",
+        "link": "https://cryptoslate.com/new-treasury-rules-could-change-how-stablecoin-issuers-get-your-dollars-back/",
         "source": "CryptoSlate",
-        "enTitle": "ESMA proposes ending EU custody and transfer services for non-compliant stablecoins",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/eu-stablecoin-compliance-split.webp"
-      },
-      {
-        "headline": "BlackRock-ը ներկայացնում է tokenization-ի ապագան",
-        "summary": "BlackRock-ը ցույց է տալիս, թե ինչպես tokenization-ը կարող է փոխել ներդրումային պորտֆելները՝ թույլ տալով իրական ժամանակում առևտուր, վերահաշվեկշռում և կառավարում։",
-        "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ebc74e2355bdaf89e5b68901d1642e7e17f7a651-5637x3824.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        "enTitle": "New Treasury rules could change how stablecoin issuers get your dollars back",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/treasury-clearing-stablecoins-1.webp"
       }
     ]
   }
