@@ -4249,9 +4249,9 @@
   },
   {
     "date": "2026-10-06",
-    "ts": 1791238744367,
+    "ts": 1791289782041,
     "fng": {
-      "value": 70,
+      "value": 73,
       "label": "Greed",
       "hy": "Ագահություն",
       "dot": "🟢"
@@ -4259,56 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 85936,
-        "change24h": -0.4164633119333146
+        "price": 86250,
+        "change24h": 0.2556874681702544
       },
       {
         "label": "Ethereum",
-        "price": 2718.82,
-        "change24h": 0.13185825894018616
+        "price": 2711.44,
+        "change24h": -0.10961251907802048
       }
     ],
-    "overview": "Անցած 24 ժամվա ընթացքում կրիպտո շուկաներում նկատվել են կարգավորող մարմինների զգալի քայլեր՝ ԱՄՆ-ում կրիպտոարժույթների կարգավորման շրջանակներն ամրապնդելու ուղղությամբ։ Միաժամանակ, ֆինանսական հաստատությունները շարունակում են նորարարություններ մտցնել՝ ընդլայնելով թվային ակտիվների հասանելիությունը և ինտեգրումը ավանդական ֆինանսների հետ։",
+    "overview": "Այսօրվա նորությունները ընդգծում են ինստիտուցիոնալ որդեգրման և կարգավորող հստակության զգալի առաջընթացները, ինչպես նաև անօրինական գործունեության դեմ պայքարի շարունակական ջանքերը։ Իրական ակտիվների թոքենիզացիան և ավելի արագ հաշվարկային լուծումները թափ են հավաքում, մինչդեռ որոշ կարգավորող բեռներ թեթևանում են։",
     "items": [
       {
-        "headline": "CFTC-ը նոր կարգավորումներ է առաջարկում",
-        "summary": "ԱՄՆ Ապրանքային ֆյուչերսների առևտրի հանձնաժողովը (CFTC) առաջարկել է նոր դաշնային շրջանակ մանրածախ կրիպտոարժույթների առևտրի համար՝ նպատակ ունենալով ԱՄՆ-ում կարգավորել լծակային առևտուրը։",
-        "link": "https://cryptoslate.com/cftc-makes-its-biggest-move-yet-to-bring-offshore-crypto-trading-back-to-the-us/",
-        "source": "CryptoSlate",
-        "enTitle": "CFTC makes its biggest move yet to bring offshore crypto trading back to the US",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/cftc-retail-leverage-route-standard.jpg"
+        "headline": "Solana-ն և JPMorgan-ը՝ ինստիտուցիոնալ առևտրի համար",
+        "summary": "Solana Foundation-ը գործարկել է բաց կոդով ծրագիր, որը թույլ է տալիս ինստիտուտներին վայրկյանների ընթացքում կատարել առևտրային հաշվարկներ, որին նպաստել է JPMorgan-ը։",
+        "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4caf34246416f1020ad3fc1aaa25373b18a9161f-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Գանձապետարանը հանում է կրիպտո կանոնները",
-        "summary": "ԱՄՆ Գանձապետարանի ֆինանսական հանցագործությունների կիրառման ցանցը (FinCEN) հետ է կանչել կրիպտո միքսերների և ինքնապահովվող դրամապանակների վերաբերյալ առաջարկվող կանոնները՝ մտահոգությունների պատճառով, որ դրանք կարող են խոչընդոտել օրինական գործունեությանը։",
-        "link": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
-        "source": "Decrypt",
-        "enTitle": "Treasury Kills Crypto 'Unhosted Wallet' and Mixer Surveillance Rules",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Treasury-Department1-gID_7.jpg@png"
+        "headline": "ԱՄՆ-ը հրաժարվում է $10,000 հաշվետվության կանոնից",
+        "summary": "ԱՄՆ-ը չեղարկել է առաջարկվող $10,000 հաշվետվության կանոնը մասնավոր դրամապանակներին ուղարկված կրիպտոյի համար՝ թեթևացնելով կարգավորող բեռը։",
+        "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/36e62aa5a6df25b3cf06c337c082dfa82c1f0a05-1920x1252.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "ICE-ը և OKX-ը կգործարկեն թոքենացված բաժնետոմսեր",
-        "summary": "Նյու Յորքի ֆոնդային բորսայի սեփականատեր Intercontinental Exchange-ը (ICE) և OKX կրիպտո բորսան նախատեսում են ստեղծել 24/7 հարթակ թոքենացված ԱՄՆ բաժնետոմսերի առևտրի համար։",
-        "link": "https://news.bitcoin.com/finance/wall-street-never-sleeps-ice-okx-plot-24-7-tokenized-stock-trading/",
+        "headline": "Հոնկոնգը հաստատում է կրիպտո լիցենզավորման ժամկետը",
+        "summary": "Հոնկոնգի պաշտոնյաները հաստատել են 2026 թվականի վերջի ժամկետը կրիպտոարժույթների լիցենզավորման օրինագծի համար՝ ընդգծելով տարածաշրջանի կարգավորող հավակնությունները։",
+        "link": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489R6N7E1AB2YW1Y7Q9J3JB/hi-how-hong-kong-is-turning-tokenized-bonds-into-real-market-infrastructure-1.jpg"
+      },
+      {
+        "headline": "Ondo-ն բացում է մասնավոր շուկաները AI-ի միջոցով",
+        "summary": "Ondo-ն գործարկել է մասնավոր շուկաների հարթակ՝ թոքենիզացված նշումներով, որոնք սկզբում կապված են նախա-IPO արհեստական ինտելեկտի ընկերության հետ։",
+        "link": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Ondo opens private markets with tokenized pre-IPO AI exposure",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M487HXC16SDNYAD6KJFE3J4V/paper-document-man-office-rwa-1.jpg"
+      },
+      {
+        "headline": "Spiko-ն $90 միլիոն է հավաքում թոքենիզացված ֆոնդերի համար",
+        "summary": "Spiko-ն $90 միլիոն է հավաքել Series B ֆինանսավորման շրջանակներում՝ ընդլայնելու իր $2.7 միլիարդ արժողությամբ թոքենիզացված կանխիկ ֆոնդերի բիզնեսը։",
+        "link": "https://www.theblock.co/news/business/2026-10-06-spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets-417774",
+        "source": "The Block",
+        "enTitle": "Spiko raises $90 million to expand tokenized cash funds across markets",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/spiko.png"
+      },
+      {
+        "headline": "ZachXBT-ն ներթափանցել է կրիպտո սինդիկատ",
+        "summary": "Բլոկչեյն հետախույզ ZachXBT-ն բացահայտել է, որ ինքը ներթափանցել է չինական կրիպտո փողերի լվացման խումբ՝ կապված $1.5 միլիարդ Bybit հաքի հետ։",
+        "link": "https://news.bitcoin.com/crypto-news/zachxbt-infiltrates-crypto-syndicate-tied-to-1-5b-bybit-hack/",
         "source": "Bitcoin News",
-        "enTitle": "Wall Street Never Sleeps: ICE and OKX Plot 24/7 Tokenized Stock Trading",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/wall-street-never-sleeps-ice-and-okx-plot-247-tokenized-stock-trading-768x432.png"
-      },
-      {
-        "headline": "SEC-ը հաստատել է լծակային կրիպտո ֆոնդեր",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) հաստատել է Cboe-ի կանոնը, որը թույլ է տալիս Volatility Shares-ի վեց ֆոնդերին, որոնք եռապատկում են Bitcoin-ի և Ethereum-ի ամենօրյա շարժերը, ցուցակագրվել ԱՄՆ բորսայում։",
-        "link": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
-        "source": "Decrypt",
-        "enTitle": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png"
-      },
-      {
-        "headline": "Strategy-ն և IBIT-ը կուտակել են 1.65 մլն BTC",
-        "summary": "Strategy-ն և BlackRock-ի IBIT-ը միասին վերահսկում են 1.653 միլիոն Bitcoin, որը կազմում է ցանցի ընդհանուր 21 միլիոն մատակարարման գրեթե 8%-ը։",
-        "link": "https://news.bitcoin.com/learning-insights/bitcoin-behemoths-strategy-ibit-amass-1-65-million-btc-worth-140b/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Behemoths Strategy and IBIT Amass 1.65 Million BTC Worth $140B",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/strategy-and-blackrocks-ibit-sit-on-140-billion-in-bitcoin-but-differ-768x432.png"
+        "enTitle": "ZachXBT Infiltrates Crypto Syndicate Tied to $1.5B Bybit Hack",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/zachxbt-768x432.jpg"
       }
     ]
   }
