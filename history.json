@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-08",
-    "ts": 1786206068520,
-    "fng": {
-      "value": 30,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 65039,
-        "change24h": 0.1387091355946022
-      },
-      {
-        "label": "Ethereum",
-        "price": 1921.77,
-        "change24h": 0.17106766194218362
-      }
-    ],
-    "overview": "Կրիպտոարժույթների շուկայում օրվա ընթացքում նկատվել են խառը միտումներ՝ կարգավորող մարմինների գործողությունների և ինստիտուցիոնալ ներգրավվածության փոփոխությունների ֆոնին։ Մինչ ԱՄՆ Սենատը քայլեր է ձեռնարկում CLARITY օրենքի ուղղությամբ, Բրազիլիան սահմանափակումներ է մտցրել, իսկ ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել։",
-    "items": [
-      {
-        "headline": "ԱՄՆ Սենատը կքվեարկի CLARITY օրենքի շուրջ",
-        "summary": "ԱՄՆ Սենատը սեպտեմբերին կքվեարկի CLARITY օրենքի առաջխաղացման շուրջ՝ կրիպտո շուկայի կառուցվածքի օրենսդրությունը կրկին ուղու վրա դնելով։",
-        "link": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-crypto-regulation-is-pushing-its-way-to-clarity-act-2.jpg"
-      },
-      {
-        "headline": "Բրազիլիան սահմանափակում է կրիպտո փոխանցումները",
-        "summary": "Բրազիլիայի կենտրոնական բանկը հրահանգել է բորսաներին հետաձգել 10,000 դոլարից ավելի արժողությամբ կրիպտո փոխանցումները արտերկիր։",
-        "link": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել կրիպտո բորսաների նկատմամբ",
-        "summary": "ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել երկու կրիպտո բորսաների նկատմամբ, որոնք, ըստ նրա, միլիոնավոր դոլարներ են լվացել Իրանի համար։",
-        "link": "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran",
-        "source": "Decrypt",
-        "enTitle": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png"
-      },
-      {
-        "headline": "Bitcoin և Ether ETF-ները գրավել են 1.1 միլիարդ դոլար",
-        "summary": "Bitcoin և Ether ETF-ները գրավել են 1.1 միլիարդ դոլար՝ գրանցելով լավագույն ներհոսքի շաբաթը ապրիլից ի վեր։",
-        "link": "https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume",
-        "image": "https://www.tbstat.com/wp/uploads/2023/08/20230726_BitcoinVEthereum_News-800x450.jpg"
-      },
-      {
-        "headline": "Trump Media-ն չեղարկել է կրիպտո նախագիծը",
-        "summary": "Trump Media & Technology Group-ը և Crypto.com-ը չեղարկել են 6.42 միլիարդ դոլար արժողությամբ թվային ակտիվների գանձապետական նախագծի պլանները։",
-        "link": "https://cryptoslate.com/trump-medias-6-4-billion-crypto-venture-canceled-amid-escalating-trump-ethics-concerns/",
-        "source": "CryptoSlate",
-        "enTitle": "Trump Media’s $6.4 billion crypto venture canceled amid escalating Trump ethics concerns",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/trump-cro-venture-canceled.jpg"
-      },
-      {
-        "headline": "Bybit-ը դատի է տվել Հյուսիսային Կորեային",
-        "summary": "Bybit բորսան դատի է տվել Հյուսիսային Կորեային և Lazarus Group-ին՝ 1.5 միլիարդ դոլարի հաքերային հարձակման հետ կապված գողացված կրիպտոարժույթները հետևելու համար։",
-        "link": "https://cryptoslate.com/this-1-5-billion-hack-is-exposing-just-how-irreversible-stolen-crypto-really-is/",
-        "source": "CryptoSlate",
-        "enTitle": "This $1.5 billion hack is exposing just how ‘irreversible’ stolen crypto really is",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/lazarus-crypto-laundering-pipeline.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-09",
     "ts": 1786292585819,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Bitcoin News",
         "enTitle": "ZachXBT Infiltrates Crypto Syndicate Tied to $1.5B Bybit Hack",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/zachxbt-768x432.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-07",
+    "ts": 1791319216319,
+    "fng": {
+      "value": 73,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 85622,
+        "change24h": -0.19929725955718228
+      },
+      {
+        "label": "Ethereum",
+        "price": 2695.95,
+        "change24h": -0.6627333791928458
+      }
+    ],
+    "overview": "Շուկան այսօր բնութագրվում է ինստիտուցիոնալ ներգրավվածության աճով և կարգավորող մարմինների զարգացումներով։ Կարևոր իրադարձությունները ներառում են նոր ETF-ների առաջարկներ, DLT-ի կիրառում պետական պարտատոմսերի համար և խոշոր ֆինանսական հաստատությունների համագործակցությունները։",
+    "items": [
+      {
+        "headline": "Մեծ Բրիտանիան կթողարկի թվային պետական պարտատոմսեր",
+        "summary": "Մեծ Բրիտանիան ընտրել է վեց բանկի՝ ղեկավարելու իր առաջին թվային պետական պարտատոմսերի թողարկումը՝ փորձարկելով բաշխված մատյանի տեխնոլոգիան։",
+        "link": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "UK names 6 banks to lead first digitally native government bond",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4997XE3Q73505XVEHSA997G/hi-what-are-bonds-and-how-do-they-work-for-crypto-red.png"
+      },
+      {
+        "headline": "JPMorgan-ը համագործակցում է Solana-ի հետ",
+        "summary": "JPMorgan-ը փորձագիտական աջակցություն է տրամադրել Solana-ի DvP ծրագրին, որը նախատեսված է ֆինանսական հաստատությունների համար ատոմային հաշվարկների համար։",
+        "link": "https://news.bitcoin.com/blockchain/jpmorgan-lends-expertise-solana-atomic-settlement-program/",
+        "source": "Bitcoin News",
+        "enTitle": "JPMorgan Lends Its Expertise to Solana’s Atomic Settlement Program",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/jpmorgan-lends-its-expertise-to-solanas-atomic-settlement-program-768x432.png"
+      },
+      {
+        "headline": "Tether-ը դատի է տրվել միջոցները սառեցնելու համար",
+        "summary": "Վճարային ընկերությունը դատի է տվել Tether-ին՝ պնդելով, որ այն սառեցրել է իր գանձապետական դրամապանակը՝ առանց հիմնավոր պատճառի, ավելի քան մեկ տարի։",
+        "link": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
+        "source": "Decrypt",
+        "enTitle": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/tether-usdt-decrypt-style-01-gID_7.png@png"
+      },
+      {
+        "headline": "FinCEN-ը հրաժարվում է crypto mixing առաջարկից",
+        "summary": "FinCEN-ը հրաժարվել է գաղտնիության հետ կապված հաշվետվությունների պահանջների առաջարկից՝ հանրային դժգոհության պատճառով, մինչդեռ փողերի լվացման դեմ պայքարի գործող պարտականությունները մնում են ուժի մեջ։",
+        "link": "https://cryptoslate.com/fincen-drops-crypto-mixing-proposal-as-backlash-kills-rule/",
+        "source": "CryptoSlate",
+        "enTitle": "FinCEN drops crypto mixing proposal as backlash kills rule",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/treasury-crypto-rule-withdrawal.webp"
+      },
+      {
+        "headline": "Winklevoss-ի եղբայրները Zcash ETF են առաջարկում",
+        "summary": "Winklevoss-ի եղբայրները դիմել են Zcash ETF-ի համար, որը կպահի ZEC-ը և կառևտրվի Nasdaq-ում «WINK» անվան տակ՝ Gemini-ի հետ որպես պահառու։",
+        "link": "https://decrypt.co/380210/another-zcash-etf-coming-winklevoss-twins-wink",
+        "source": "Decrypt",
+        "enTitle": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/cameron-tyler-winklevoss-twins-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Brevan Howard-ը ընդլայնում է Ripple-ի հետ համագործակցությունը",
+        "summary": "35 միլիարդ դոլարի ակտիվներ կառավարող Brevan Howard-ը ընդլայնում է իր հարաբերությունները Ripple-ի հետ՝ օգտագործելով Ripple Prime-ը բազմաակտիվ բրոքերային ծառայությունների համար։",
+        "link": "https://news.bitcoin.com/featured/35b-brevan-howard-ripple-prime-multi-asset-brokerage/",
+        "source": "Bitcoin News",
+        "enTitle": "$35B Brevan Howard Taps Ripple Prime for Multi-Asset Brokerage",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/ripple-1-768x432.jpg"
       }
     ]
   }
