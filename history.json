@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-09",
-    "ts": 1786292585819,
-    "fng": {
-      "value": 31,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 65197,
-        "change24h": 0.24031979114187027
-      },
-      {
-        "label": "Ethereum",
-        "price": 1923.83,
-        "change24h": 0.13796611204856132
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան ցույց է տալիս ինչպես ինստիտուցիոնալ հետաքրքրության աճ, այնպես էլ շարունակական մարտահրավերներ՝ կապված տեխնիկական զարգացումների և կարգավորող անորոշությունների հետ:",
-    "items": [
-      {
-        "headline": "Bitcoin և Ethereum ETF-ների ներհոսք",
-        "summary": "Անցյալ շաբաթ ԱՄՆ-ում գրանցված spot Bitcoin և Ethereum ETF-ները ներգրավել են ավելի քան 1 միլիարդ դոլարի նոր կապիտալ՝ ապրիլից ի վեր իրենց լավագույն շաբաթը նշելով:",
-        "link": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-break-1b-in-their-best-week-since-april-and-blackrock-brought-in-80-of-the-cash/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitcoin and Ethereum ETFs break $1B in their best week since April and BlackRock brought in 80% of the cash",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/blackrock-etf-crane.jpg"
-      },
-      {
-        "headline": "BIP-110 Bitcoin ֆորքի ձախողում",
-        "summary": "Roughnecks մայնինգ խումբը դադարեցրել է BIP-110 փոքրամասնական շղթայի մայնինգը՝ կոչ անելով մյուսներին նույնպես դադարեցնել, քանի որ առանձնացված ցանցը մնում է կանգնած Bitcoin-ից բաժանվելուց հետո:",
-        "link": "https://news.bitcoin.com/crypto-news/roughnecks-quits-bip-110-mining-as-ocean-hashrate-collapses/",
-        "source": "Bitcoin News",
-        "enTitle": "Roughnecks Quits BIP-110 Mining as Ocean Hashrate Collapses",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/roughnecks-quits-bip-110-mining-as-ocean-hashrate-collapses-768x432.png"
-      },
-      {
-        "headline": "Strategy-ն օգտագործում է AI Bitcoin-ի համար",
-        "summary": "Michael Saylor-ը հայտնել է, որ Strategy-ն օգտագործել է AI՝ նոր տեսակի արտոնյալ բաժնետոմսեր մշակելու համար, ինչը թույլ է տվել ընկերությանը մոտ 15 միլիարդ դոլար հավաքել իր Bitcoin ռազմավարության համար:",
-        "link": "https://cryptoslate.com/michael-saylor-reveals-how-ai-helped-strategy-unlock-15-billion-for-its-bitcoin-machine/",
-        "source": "CryptoSlate",
-        "enTitle": "Michael Saylor reveals how ChatGPT helped Strategy unlock $15 billion for its Bitcoin machine",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/saylor-ai-credit-system.jpg"
-      },
-      {
-        "headline": "Solana-ի վրա լծակների թակարդ",
-        "summary": "Solana-ի վրա կուտակվում է 1.8 միլիարդ դոլարի լծակների թակարդ, քանի որ թրեյդերները վճարում են 11 ամսվա ամենաբարձր տոկոսադրույքները՝ $78 մակարդակը պաշտպանելու համար:",
-        "link": "https://cryptoslate.com/a-1-8-billion-leverage-trap-is-building-on-solana-as-traders-pay-11-month-high-rates-to-defend-78/",
-        "source": "CryptoSlate",
-        "enTitle": "A $1.8 billion leverage trap is building on Solana as traders pay 11-month high rates to defend $78",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/solana-leverage-balloon.jpg"
-      },
-      {
-        "headline": "Clarity Act-ի քվեարկությունը Սենատում",
-        "summary": "Սենատի մեծամասնության առաջնորդ Thune-ը ներկայացրել է Clarity Act-ի շուրջ քվեարկության առաջարկը, որը նախատեսված է սեպտեմբերի 15-ին:",
-        "link": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
-        "image": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-800x450.jpg"
-      },
-      {
-        "headline": "Կրիպտո արդյունաբերության մաքրում",
-        "summary": "Կրիպտո արդյունաբերությունը զանգվածային մաքրման է ենթարկվում, քանի որ 2026 թվականին ավելի քան 100 նախագիծ փակվում է՝ թողնելով միայն իրական դրամական հոսքերով և օգտատերերով արձանագրությունները:",
-        "link": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/9ec4de39272adf8841b32cdceccdf8abe655e2fd-8256x5504.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      }
-    ]
-  },
-  {
     "date": "2026-08-10",
     "ts": 1786380203987,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
         "enTitle": "Robinhood adds $25 million of bitcoin to its balance sheet",
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb0bf014fcfb96a3b856413652b97154bb22a97e-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "ts": 1791406465463,
+    "fng": {
+      "value": 71,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 83352,
+        "change24h": -2.650912189328327
+      },
+      {
+        "label": "Ethereum",
+        "price": 2572,
+        "change24h": -4.654372264504807
+      }
+    ],
+    "overview": "Շուկան շարունակում է ցույց տալ ինստիտուցիոնալ ընդունման աճ, մինչդեռ կարգավորող անորոշությունները մնում են օրակարգում։ Stablecoin-ները նոր նվաճումներ են գրանցում ազգային բանկերի հետ համագործակցության և վարկային վարկանիշների տեսքով։",
+    "items": [
+      {
+        "headline": "Tether-ը և Ղազախստանի Կենտրոնական Բանկը",
+        "summary": "Tether-ը համաձայնագիր է ստորագրել Ղազախստանի Կենտրոնական Բանկի հետ՝ ուսումնասիրելու տենգեին կապված stablecoin-ի և թոքենացված ակտիվների հնարավորությունները։",
+        "link": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+        "source": "Decrypt",
+        "enTitle": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/hs-paolo-ardonio-tether-decrypt-style-01-gID_7.png@png"
+      },
+      {
+        "headline": "ԱՄՆ կարգավորող մարմինների քայլերը բավարար չեն",
+        "summary": "Կոնգրեսական Ֆրենչ Հիլը հայտարարել է, որ SEC-ի և CFTC-ի կրիպտո կանոնները «անբավարար են» հստակության առումով՝ ընդգծելով մշտական օրենսդրական փոփոխությունների անհրաժեշտությունը։",
+        "link": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
+        "source": "Decrypt",
+        "enTitle": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png@png"
+      },
+      {
+        "headline": "Moody’s-ը Sky Protocol-ին վարկանիշ է տվել",
+        "summary": "Moody’s-ը Sky Protocol-ին շնորհել է B3 վարկանիշ՝ կայուն հեռանկարով, ինչը գործակալության կողմից stablecoin արձանագրության առաջին վարկանիշն է։",
+        "link": "https://news.bitcoin.com/stablecoins/moodys-gives-sky-protocol-first-stablecoin-credit-rating/",
+        "source": "Bitcoin News",
+        "enTitle": "Moody’s Gives Sky Protocol Its First Stablecoin Credit Rating",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2023/05/moods-768x432.jpg"
+      },
+      {
+        "headline": "Wells Fargo-ն բանակցում է Kraken-ի հետ",
+        "summary": "Wells Fargo-ն բանակցություններ է վարում Kraken-ի մայր ընկերություն Payward-ի հետ՝ կրիպտո առևտրի համար իրացվելիություն ապահովելու շուրջ, ինչը ցույց է տալիս խոշոր բանկերի աճող ներգրավվածությունը թվային ակտիվներում։",
+        "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ed683cdb87684e6ca349d6f2efd15060d7dd27d5-5196x3464.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Robinhood-ը Bitcoin է ավելացրել",
+        "summary": "Robinhood-ը 25 միլիոն դոլարի Bitcoin է ավելացրել իր հաշվեկշռին՝ այն համարելով ակտիվների դիվերսիֆիկացիայի ռազմավարական լրացում։",
+        "link": "https://cryptoslate.com/robinhood-adds-25-million-of-bitcoin-to-its-own-balance-sheet/",
+        "source": "CryptoSlate",
+        "enTitle": "Robinhood adds $25 million of Bitcoin to its own balance sheet",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/robinhood-bitcoin-treasury-gateway.webp"
+      },
+      {
+        "headline": "Solana-ի stablecoin-ների աճը",
+        "summary": "Solana-ի stablecoin-ների օգտատերերի թիվը հասել է 14 միլիոնի, իսկ քարտային գործարքների ծավալը գերազանցել է 1 միլիարդ դոլարը՝ ցույց տալով էկոհամակարգի զգալի աճը։",
+        "link": "https://news.bitcoin.com/stablecoins/solana-hits-14m-stablecoin-holders-card-volume-tops-1b/",
+        "source": "Bitcoin News",
+        "enTitle": "Solana Hits 14M Stablecoin Holders as Card Volume Tops $1B",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/solana-hits-14m-stablecoin-holders-as-card-volume-tops-1b-768x432.jpg"
       }
     ]
   }
