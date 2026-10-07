@@ -4249,9 +4249,9 @@
   },
   {
     "date": "2026-10-07",
-    "ts": 1791319216319,
+    "ts": 1791375615728,
     "fng": {
-      "value": 73,
+      "value": 71,
       "label": "Greed",
       "hy": "Ագահություն",
       "dot": "🟢"
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 85622,
-        "change24h": -0.19929725955718228
+        "price": 83542,
+        "change24h": -3.1239154027592084
       },
       {
         "label": "Ethereum",
-        "price": 2695.95,
-        "change24h": -0.6627333791928458
+        "price": 2578.76,
+        "change24h": -4.90436906191292
       }
     ],
-    "overview": "Շուկան այսօր բնութագրվում է ինստիտուցիոնալ ներգրավվածության աճով և կարգավորող մարմինների զարգացումներով։ Կարևոր իրադարձությունները ներառում են նոր ETF-ների առաջարկներ, DLT-ի կիրառում պետական պարտատոմսերի համար և խոշոր ֆինանսական հաստատությունների համագործակցությունները։",
+    "overview": "Շուկան այսօր զգալի անկայունություն է ցուցաբերել՝ Bitcoin-ի գնի անկմամբ և զգալի լիկվիդացիաներով, մինչդեռ Bitcoin ETF-ների նկատմամբ ինստիտուցիոնալ հետաքրքրությունը դրական է մնացել։ Stablecoin-ների նկատմամբ կարգավորող մարմինների ուշադրությունը սրվել է, և Ethereum-ի խոշոր Layer 2-ը հայտարարել է իր փակման մասին։",
     "items": [
       {
-        "headline": "Մեծ Բրիտանիան կթողարկի թվային պետական պարտատոմսեր",
-        "summary": "Մեծ Բրիտանիան ընտրել է վեց բանկի՝ ղեկավարելու իր առաջին թվային պետական պարտատոմսերի թողարկումը՝ փորձարկելով բաշխված մատյանի տեխնոլոգիան։",
-        "link": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "UK names 6 banks to lead first digitally native government bond",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4997XE3Q73505XVEHSA997G/hi-what-are-bonds-and-how-do-they-work-for-crypto-red.png"
-      },
-      {
-        "headline": "JPMorgan-ը համագործակցում է Solana-ի հետ",
-        "summary": "JPMorgan-ը փորձագիտական աջակցություն է տրամադրել Solana-ի DvP ծրագրին, որը նախատեսված է ֆինանսական հաստատությունների համար ատոմային հաշվարկների համար։",
-        "link": "https://news.bitcoin.com/blockchain/jpmorgan-lends-expertise-solana-atomic-settlement-program/",
-        "source": "Bitcoin News",
-        "enTitle": "JPMorgan Lends Its Expertise to Solana’s Atomic Settlement Program",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/jpmorgan-lends-its-expertise-to-solanas-atomic-settlement-program-768x432.png"
-      },
-      {
-        "headline": "Tether-ը դատի է տրվել միջոցները սառեցնելու համար",
-        "summary": "Վճարային ընկերությունը դատի է տվել Tether-ին՝ պնդելով, որ այն սառեցրել է իր գանձապետական դրամապանակը՝ առանց հիմնավոր պատճառի, ավելի քան մեկ տարի։",
-        "link": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
+        "headline": "OKX-ը 25 միլիարդ դոլար արժեքով ֆինանսավորում է ներգրավել",
+        "summary": "Կրիպտո փոխանակման OKX հարթակը 25 միլիարդ դոլար գնահատմամբ ֆինանսավորում է ներգրավել Circle-ից, Ripple-ից և Standard Chartered-ից։",
+        "link": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart",
         "source": "Decrypt",
-        "enTitle": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/tether-usdt-decrypt-style-01-gID_7.png@png"
+        "enTitle": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/okx-decrypt-style-gID_7.jpg@png"
       },
       {
-        "headline": "FinCEN-ը հրաժարվում է crypto mixing առաջարկից",
-        "summary": "FinCEN-ը հրաժարվել է գաղտնիության հետ կապված հաշվետվությունների պահանջների առաջարկից՝ հանրային դժգոհության պատճառով, մինչդեռ փողերի լվացման դեմ պայքարի գործող պարտականությունները մնում են ուժի մեջ։",
-        "link": "https://cryptoslate.com/fincen-drops-crypto-mixing-proposal-as-backlash-kills-rule/",
+        "headline": "BlackRock-ի Bitcoin ETF-ները ներհոսք են գրանցել",
+        "summary": "ԱՄՆ-ի Bitcoin ETF-ները, հիմնականում BlackRock-ի IBIT-ի շնորհիվ, գրանցել են 118.86 միլիոն դոլարի զուտ ներհոսք, մինչդեռ Ether-ի ֆոնդերը վեցերորդ անգամ անընդմեջ կրել են արտահոսք։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-pulls-122m-into-bitcoin-etfs-as-ether-loses-202m/",
+        "source": "Bitcoin News",
+        "enTitle": "Blackrock Pulls $122M Into Bitcoin ETFs as Ether Loses $202M",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/blackrock-pulls-122m-into-bitcoin-etfs-as-ether-loses-202m-1-768x432.jpg"
+      },
+      {
+        "headline": "Կրիպտո շուկայում 547 միլիոն դոլարի լիկվիդացիա",
+        "summary": "Bitcoin-ի գինը իջել է 84,000 դոլարից, քանի որ նավթի գների աճը հարվածել է կրիպտո շուկային, ինչի հետևանքով լիկվիդացիաները հասել են 547 միլիոն դոլարի։",
+        "link": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Liquidations jump to $547 million as oil rally hits crypto market",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3430df54acdfaf6a8455e0fbd567673c2d85d35-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Abstract Ethereum L2-ը դադարեցնում է գործունեությունը",
+        "summary": "Սպառողակենտրոն Ethereum Layer 2 Abstract-ը հայտարարել է, որ դեկտեմբերի 15-ին կդադարեցնի իր գործունեությունը՝ վկայակոչելով լճացած աճը և սահմանափակ իրացվելիությունը։",
+        "link": "https://cryptoslate.com/why-abstract-is-killing-its-ethereum-l2-instead-of-launching-a-token-to-save-it/",
         "source": "CryptoSlate",
-        "enTitle": "FinCEN drops crypto mixing proposal as backlash kills rule",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/treasury-crypto-rule-withdrawal.webp"
+        "enTitle": "Why Abstract is killing its Ethereum L2 instead of launching a token to save it",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/abstract-migration-path.webp"
       },
       {
-        "headline": "Winklevoss-ի եղբայրները Zcash ETF են առաջարկում",
-        "summary": "Winklevoss-ի եղբայրները դիմել են Zcash ETF-ի համար, որը կպահի ZEC-ը և կառևտրվի Nasdaq-ում «WINK» անվան տակ՝ Gemini-ի հետ որպես պահառու։",
-        "link": "https://decrypt.co/380210/another-zcash-etf-coming-winklevoss-twins-wink",
-        "source": "Decrypt",
-        "enTitle": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/cameron-tyler-winklevoss-twins-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "Brevan Howard-ը ընդլայնում է Ripple-ի հետ համագործակցությունը",
-        "summary": "35 միլիարդ դոլարի ակտիվներ կառավարող Brevan Howard-ը ընդլայնում է իր հարաբերությունները Ripple-ի հետ՝ օգտագործելով Ripple Prime-ը բազմաակտիվ բրոքերային ծառայությունների համար։",
-        "link": "https://news.bitcoin.com/featured/35b-brevan-howard-ripple-prime-multi-asset-brokerage/",
+        "headline": "ԱՄՆ Սենատը ուսումնասիրում է stablecoin գործարքները",
+        "summary": "ԱՄՆ Սենատի բացահայտումները, որոնք stablecoin-ները կապում են Իրանի ստվերային բանկային ցանցի հետ, կարող են մեծացնել կարգավորող ճնշումը Պարսից ծոցի տարածաշրջանի լիցենզավորված VASPs-ի վրա։",
+        "link": "https://news.bitcoin.com/stablecoins/us-senate-findings-put-gcc-stablecoin-transactions-under-spotlight/",
         "source": "Bitcoin News",
-        "enTitle": "$35B Brevan Howard Taps Ripple Prime for Multi-Asset Brokerage",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/ripple-1-768x432.jpg"
+        "enTitle": "US Senate Findings Put GCC Stablecoin Transactions Under Spotlight",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/us-senate-usdt-probe-shakes-middle-east-crypto-768x432.jpg"
+      },
+      {
+        "headline": "Robinhood-ը Bitcoin է ավելացրել իր հաշվեկշռին",
+        "summary": "Robinhood-ը 25 միլիոն դոլար արժողությամբ Bitcoin է ավելացրել իր հաշվեկշռին՝ ընդգծելով իր հանձնառությունը կրիպտո հատվածին։",
+        "link": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Robinhood adds $25 million of bitcoin to its balance sheet",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb0bf014fcfb96a3b856413652b97154bb22a97e-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
       }
     ]
   }
