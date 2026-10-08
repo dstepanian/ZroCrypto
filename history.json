@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-08-10",
-    "ts": 1786380203987,
-    "fng": {
-      "value": 30,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 64108,
-        "change24h": -1.6729747112536015
-      },
-      {
-        "label": "Ethereum",
-        "price": 1875.45,
-        "change24h": -2.4723658817746403
-      }
-    ],
-    "overview": "Շուկայում նկատվում է ինստիտուցիոնալ հետաքրքրության և կարգավորող զարգացումների խառնուրդ։ Մինչ Bitcoin ETF-ները զգալի ներհոսքեր են գրանցել, Grayscale-ը հետ է կանչել որոշ altcoin ETF ծրագրեր, և ամբողջ աշխարհում հայտնվել են նոր պատժամիջոցներ ու կարգավորող շրջանակներ։",
-    "items": [
-      {
-        "headline": "Ethereum-ի նոր ճանապարհային քարտեզը",
-        "summary": "Vitalik Buterin-ը ներկայացրել է Ethereum-ի ճանապարհային քարտեզի թարմացումները, որոնք կենտրոնանում են գաղտնիության և քվանտային դիմադրության վրա։",
-        "link": "https://www.theblock.co/news/ecosystems/2026-08-10-vitalik-buterin-privacy-quantum-resistance-front-and-center-ethereum-latest-roadmap-411298?utm_source=rss&utm_medium=rss",
-        "source": "The Block",
-        "enTitle": "Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap",
-        "image": "https://www.tbstat.com/wp/uploads/2024/10/20241001_Vitalik_News_2-800x450.jpg"
-      },
-      {
-        "headline": "Bitcoin ETF-ների զգալի ներհոսքեր",
-        "summary": "Bitcoin ETF-ները հինգ օրվա ընթացքում գրավել են 854 միլիոն դոլարի ներհոսք՝ ազդարարելով ինստիտուցիոնալ հետաքրքրության վերադարձը։",
-        "link": "https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade",
-        "source": "Decrypt",
-        "enTitle": "Bitcoin ETFs Draw $854M Over Five Days as Rate-Hike Bets Fade",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
-      },
-      {
-        "headline": "Grayscale-ը հրաժարվում է ETF ծրագրերից",
-        "summary": "Grayscale-ը հայտարարել է, որ այլևս մտադիր չէ շարունակել Cardano-ի, Polkadot-ի և Hedera-ի ETF-ների առաջարկները։",
-        "link": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/8dd88cb35b7bebbb09c8e4ed53c431f147391d5b-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "ԱՄՆ պատժամիջոցները բացահայտում են կրիպտո խողովակաշար",
-        "summary": "ԱՄՆ պատժամիջոցները բացահայտել են 6.3 միլիարդ դոլար արժողությամբ կրիպտո խողովակաշար, որը կապում է Իրանն ու Ռուսաստանը։",
-        "link": "https://cryptoslate.com/us-sanctions-exposed-a-6-3-billion-crypto-pipeline-linking-iran-and-russia/",
-        "source": "CryptoSlate",
-        "enTitle": "US sanctions exposed a $6.3 billion crypto pipeline linking Iran and Russia",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/iran-crypto-surveillance.jpg"
-      },
-      {
-        "headline": "Մեծ Բրիտանիան կանոններ է մշակում թոքենիզացված ոսկու համար",
-        "summary": "Մեծ Բրիտանիայի ֆինանսական վերահսկիչ մարմինը (FCA) նոր կանոններ է մշակում թոքենիզացված ոսկու համար՝ ակնկալելով առաջընթաց առաջիկա ամիսներին։",
-        "link": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Why the UK financial watchdog is drafting new rules for tokenized gold",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a77c714f950490d92fe6afe133dc6a75706c94e-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      }
-    ]
-  },
-  {
     "date": "2026-08-11",
     "ts": 1786466887193,
     "fng": {
@@ -4317,6 +4252,79 @@
         "source": "Decrypt",
         "enTitle": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-samsung-galaxy-s26-gID_7.jpg@png"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "ts": 1791492952638,
+    "fng": {
+      "value": 64,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 81731,
+        "change24h": -1.9515550977399316
+      },
+      {
+        "label": "Ethereum",
+        "price": 2469.4,
+        "change24h": -4.022282545950782
+      }
+    ],
+    "overview": "Վերջին 24 ժամվա ընթացքում կրիպտո շուկան բնութագրվել է ինստիտուցիոնալ ընդունման և ընդլայնման, ինչպես նաև զգալի արտահոսքերի և կարգավորող մարմինների նախազգուշացումների խառնուրդով։ ԱՄՆ կառավարության կողմից Bitcoin-ի մեծ քանակությամբ տեղաշարժը նույնպես անորոշություն է առաջացրել։",
+    "items": [
+      {
+        "headline": "SAP Pay-ը ավելացնում է USDC վճարումներ",
+        "summary": "SAP Pay-ը ինտեգրվել է Circle-ի հետ՝ թույլ տալով USDC վճարումներ SAP աշխատանքային հոսքերում, որոնք հասանելի են Circle Mint-ի միջոցով։",
+        "link": "https://cryptoslate.com/saps-new-usdc-payments-require-an-eligible-circle-mint-account/",
+        "source": "CryptoSlate",
+        "enTitle": "SAP Pay adds USDC payments, with Circle Mint access required",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/sap-usdc-payment-processing.webp"
+      },
+      {
+        "headline": "Standard Chartered-ը ընդլայնում է կրիպտո պահպանումը Սինգապուրում",
+        "summary": "Standard Chartered բանկը պատրաստվում է ինստիտուցիոնալ կրիպտո պահպանման ծառայություններ մատուցել Սինգապուրում՝ ընդլայնելով իր թվային ակտիվների գործունեությունը։",
+        "link": "https://news.bitcoin.com/finance/banking-giant-standard-chartered-expands-crypto-custody-singapore/",
+        "source": "Bitcoin News",
+        "enTitle": "Banking Giant Standard Chartered Expands Crypto Custody to Singapore",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/07/standard-charteredstandard-chartereddd-768x432.png"
+      },
+      {
+        "headline": "ԱՄՆ կառավարությունը տեղափոխել է 1 միլիարդ դոլարի Bitcoin",
+        "summary": "ԱՄՆ կառավարությունը տեղափոխել է մոտ 1 միլիարդ դոլար արժողությամբ Bitcoin և 94 միլիոն դոլարի Tether՝ առաջացնելով հարցեր դրանց հետագա ճակատագրի մասին։",
+        "link": "https://news.bitcoin.com/crypto-news/us-government-shifts-1-billion-in-bitcoin-94-million-in-tether/",
+        "source": "Bitcoin News",
+        "enTitle": "US Government Shifts $1 Billion in Bitcoin, $94 Million in Tether",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/us-government-shifts-1-billion-in-bitcoin-94-million-in-tether-768x432.png"
+      },
+      {
+        "headline": "Bitcoin ETF-ները գրանցել են ամենամեծ արտահոսքը հունիսից ի վեր",
+        "summary": "Bitcoin ETF-ները մեկ օրում կրել են 484.9 միլիոն դոլարի արտահոսք՝ նշելով ամենամեծ կորուստը հունիսից ի վեր։",
+        "link": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
+      },
+      {
+        "headline": "IMF-ը նախազգուշացնում է թոքենիզացված շուկաների ռիսկերի մասին",
+        "summary": "Արժույթի միջազգային հիմնադրամը (IMF) նախազգուշացրել է, որ թոքենիզացված շուկաները կարող են ուժեղացնել ֆինանսական ռիսկերը՝ չնայած 24/7 առևտրի աճող պահանջարկին։",
+        "link": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "IMF warns tokenized markets could amplify financial risks",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E33RFBJJSYXE4M7F92S5P1/hi-imf-and-blockchain.png"
+      },
+      {
+        "headline": "Ethereum-ի փորձնական ցանցը բարձրացրել է բլոկի սահմանաչափը",
+        "summary": "Ethereum-ի Sepolia փորձնական ցանցը ակտիվացրել է Glamsterdam-ը՝ բլոկի գազի սահմանաչափը հասցնելով մոտ 200 միլիոնի, ինչը երեք անգամ գերազանցում է հիմնական ցանցի ներկայիս հզորությունը։",
+        "link": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
+        "source": "Decrypt",
+        "enTitle": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png@png"
       }
     ]
   }
