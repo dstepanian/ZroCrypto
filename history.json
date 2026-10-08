@@ -4249,9 +4249,9 @@
   },
   {
     "date": "2026-10-08",
-    "ts": 1791406465463,
+    "ts": 1791462569486,
     "fng": {
-      "value": 71,
+      "value": 64,
       "label": "Greed",
       "hy": "Ագահություն",
       "dot": "🟢"
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 83352,
-        "change24h": -2.650912189328327
+        "price": 82347,
+        "change24h": -1.3121745627230537
       },
       {
         "label": "Ethereum",
-        "price": 2572,
-        "change24h": -4.654372264504807
+        "price": 2531.82,
+        "change24h": -1.5746944710628583
       }
     ],
-    "overview": "Շուկան շարունակում է ցույց տալ ինստիտուցիոնալ ընդունման աճ, մինչդեռ կարգավորող անորոշությունները մնում են օրակարգում։ Stablecoin-ները նոր նվաճումներ են գրանցում ազգային բանկերի հետ համագործակցության և վարկային վարկանիշների տեսքով։",
+    "overview": "Կրիպտոարժույթների շուկան այսօր բնութագրվում է խառը տրամադրություններով՝ կարևոր կարգավորող և ինստիտուցիոնալ զարգացումների, ինչպես նաև անվտանգության հետ կապված նախազգուշացումների ֆոնին։",
     "items": [
       {
-        "headline": "Tether-ը և Ղազախստանի Կենտրոնական Բանկը",
-        "summary": "Tether-ը համաձայնագիր է ստորագրել Ղազախստանի Կենտրոնական Բանկի հետ՝ ուսումնասիրելու տենգեին կապված stablecoin-ի և թոքենացված ակտիվների հնարավորությունները։",
-        "link": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
-        "source": "Decrypt",
-        "enTitle": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/hs-paolo-ardonio-tether-decrypt-style-01-gID_7.png@png"
-      },
-      {
-        "headline": "ԱՄՆ կարգավորող մարմինների քայլերը բավարար չեն",
-        "summary": "Կոնգրեսական Ֆրենչ Հիլը հայտարարել է, որ SEC-ի և CFTC-ի կրիպտո կանոնները «անբավարար են» հստակության առումով՝ ընդգծելով մշտական օրենսդրական փոփոխությունների անհրաժեշտությունը։",
-        "link": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
-        "source": "Decrypt",
-        "enTitle": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png@png"
-      },
-      {
-        "headline": "Moody’s-ը Sky Protocol-ին վարկանիշ է տվել",
-        "summary": "Moody’s-ը Sky Protocol-ին շնորհել է B3 վարկանիշ՝ կայուն հեռանկարով, ինչը գործակալության կողմից stablecoin արձանագրության առաջին վարկանիշն է։",
-        "link": "https://news.bitcoin.com/stablecoins/moodys-gives-sky-protocol-first-stablecoin-credit-rating/",
+        "headline": "ԱՄՆ կառավարությունը տեղափոխել է $770M Bitcoin",
+        "summary": "ԱՄՆ կառավարությունը Coinbase Prime է տեղափոխել մոտ 9,261 BTC՝ $770 միլիոն արժողությամբ, որի մի մասը նոր հայտնաբերված միջոցներից է։",
+        "link": "https://news.bitcoin.com/featured/us-government-shifts-770m-in-bitcoin-as-mystery-wallets-emerge/",
         "source": "Bitcoin News",
-        "enTitle": "Moody’s Gives Sky Protocol Its First Stablecoin Credit Rating",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2023/05/moods-768x432.jpg"
+        "enTitle": "US Government Shifts $770M in Bitcoin as Mystery Wallets Emerge",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/us-government-shifts-770m-in-bitcoin-as-mystery-wallets-emerge-768x432.png"
       },
       {
-        "headline": "Wells Fargo-ն բանակցում է Kraken-ի հետ",
-        "summary": "Wells Fargo-ն բանակցություններ է վարում Kraken-ի մայր ընկերություն Payward-ի հետ՝ կրիպտո առևտրի համար իրացվելիություն ապահովելու շուրջ, ինչը ցույց է տալիս խոշոր բանկերի աճող ներգրավվածությունը թվային ակտիվներում։",
-        "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+        "headline": "Bitcoin ETF-ներից ամենամեծ արտահոսքը ամիսների ընթացքում",
+        "summary": "Bitcoin ETF-ները գրանցել են $485 միլիոնի արտահոսք, ինչը ամենամեծն է հունիսից ի վեր։",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ed683cdb87684e6ca349d6f2efd15060d7dd27d5-5196x3464.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+        "enTitle": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6af94a0747793db9df5d2b93c808c0aa07ab3c78-1600x857.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Robinhood-ը Bitcoin է ավելացրել",
-        "summary": "Robinhood-ը 25 միլիոն դոլարի Bitcoin է ավելացրել իր հաշվեկշռին՝ այն համարելով ակտիվների դիվերսիֆիկացիայի ռազմավարական լրացում։",
-        "link": "https://cryptoslate.com/robinhood-adds-25-million-of-bitcoin-to-its-own-balance-sheet/",
-        "source": "CryptoSlate",
-        "enTitle": "Robinhood adds $25 million of Bitcoin to its own balance sheet",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/robinhood-bitcoin-treasury-gateway.webp"
+        "headline": "AI-ը կարող է կոտրել կրիպտո գաղտնագրումը",
+        "summary": "Ethereum-ի հետազոտողները նախազգուշացրել են, որ AI-ը կարող է խախտել Bitcoin-ի և Ethereum-ի անվտանգության ստորագրությունները մինչև քվանտային համակարգիչների հայտնվելը։",
+        "link": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
+        "source": "Decrypt",
+        "enTitle": "Morning Minute: Ethereum Researcher Says AI May Break Crypto Encryption Before Quantum",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png"
       },
       {
-        "headline": "Solana-ի stablecoin-ների աճը",
-        "summary": "Solana-ի stablecoin-ների օգտատերերի թիվը հասել է 14 միլիոնի, իսկ քարտային գործարքների ծավալը գերազանցել է 1 միլիարդ դոլարը՝ ցույց տալով էկոհամակարգի զգալի աճը։",
-        "link": "https://news.bitcoin.com/stablecoins/solana-hits-14m-stablecoin-holders-card-volume-tops-1b/",
-        "source": "Bitcoin News",
-        "enTitle": "Solana Hits 14M Stablecoin Holders as Card Volume Tops $1B",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/solana-hits-14m-stablecoin-holders-as-card-volume-tops-1b-768x432.jpg"
+        "headline": "Հունաստանը նախատեսում է 10% կրիպտո հարկ",
+        "summary": "Հունաստանը նախատեսում է 10% կապիտալ շահույթի հարկ սահմանել կրիպտոարժույթների վրա՝ տարեկան մինչև €500 շահույթի համար բացառությամբ։",
+        "link": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
+        "source": "Decrypt",
+        "enTitle": "Greece Plans 10% Crypto Capital Gains Tax, Down From 15% Floated in June",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/athens-greece-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Standard Chartered-ը ընդլայնում է կրիպտո պահպանումը",
+        "summary": "Standard Chartered բանկը նախատեսում է ընդլայնել ինստիտուցիոնալ կրիպտոարժույթների և RWA-ների պահպանման ծառայությունները Սինգապուրում։",
+        "link": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8d846e2133aa83a7cc8c40a8d6391ac0c3050bc-6192x4128.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Samsung Wallet-ը ինտեգրում է USDC փոխանցումները",
+        "summary": "Samsung Wallet-ը հոկտեմբերից կավելացնի USDC փոխանցումների հնարավորությունը ԱՄՆ-ի Galaxy սարքերի համար՝ օգտագործելով Solana-ն։",
+        "link": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
+        "source": "Decrypt",
+        "enTitle": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-samsung-galaxy-s26-gID_7.jpg@png"
       }
     ]
   }
