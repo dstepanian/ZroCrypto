@@ -4257,9 +4257,9 @@
   },
   {
     "date": "2026-10-09",
-    "ts": 1791492952638,
+    "ts": 1791548309444,
     "fng": {
-      "value": 64,
+      "value": 59,
       "label": "Greed",
       "hy": "Ագահություն",
       "dot": "🟢"
@@ -4267,64 +4267,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 81731,
-        "change24h": -1.9515550977399316
+        "price": 83254,
+        "change24h": 1.0463694437340683
       },
       {
         "label": "Ethereum",
-        "price": 2469.4,
-        "change24h": -4.022282545950782
+        "price": 2505.57,
+        "change24h": -1.202940879273646
       }
     ],
-    "overview": "Վերջին 24 ժամվա ընթացքում կրիպտո շուկան բնութագրվել է ինստիտուցիոնալ ընդունման և ընդլայնման, ինչպես նաև զգալի արտահոսքերի և կարգավորող մարմինների նախազգուշացումների խառնուրդով։ ԱՄՆ կառավարության կողմից Bitcoin-ի մեծ քանակությամբ տեղաշարժը նույնպես անորոշություն է առաջացրել։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների ակտիվությամբ, որոնք ներառում են նոր պատժամիջոցներ, ETF-ների հաստատումներ և stablecoin-ների վերաբերյալ կանոնների խստացում։",
     "items": [
       {
-        "headline": "SAP Pay-ը ավելացնում է USDC վճարումներ",
-        "summary": "SAP Pay-ը ինտեգրվել է Circle-ի հետ՝ թույլ տալով USDC վճարումներ SAP աշխատանքային հոսքերում, որոնք հասանելի են Circle Mint-ի միջոցով։",
-        "link": "https://cryptoslate.com/saps-new-usdc-payments-require-an-eligible-circle-mint-account/",
-        "source": "CryptoSlate",
-        "enTitle": "SAP Pay adds USDC payments, with Circle Mint access required",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/sap-usdc-payment-processing.webp"
-      },
-      {
-        "headline": "Standard Chartered-ը ընդլայնում է կրիպտո պահպանումը Սինգապուրում",
-        "summary": "Standard Chartered բանկը պատրաստվում է ինստիտուցիոնալ կրիպտո պահպանման ծառայություններ մատուցել Սինգապուրում՝ ընդլայնելով իր թվային ակտիվների գործունեությունը։",
-        "link": "https://news.bitcoin.com/finance/banking-giant-standard-chartered-expands-crypto-custody-singapore/",
-        "source": "Bitcoin News",
-        "enTitle": "Banking Giant Standard Chartered Expands Crypto Custody to Singapore",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/07/standard-charteredstandard-chartereddd-768x432.png"
-      },
-      {
-        "headline": "ԱՄՆ կառավարությունը տեղափոխել է 1 միլիարդ դոլարի Bitcoin",
-        "summary": "ԱՄՆ կառավարությունը տեղափոխել է մոտ 1 միլիարդ դոլար արժողությամբ Bitcoin և 94 միլիոն դոլարի Tether՝ առաջացնելով հարցեր դրանց հետագա ճակատագրի մասին։",
-        "link": "https://news.bitcoin.com/crypto-news/us-government-shifts-1-billion-in-bitcoin-94-million-in-tether/",
-        "source": "Bitcoin News",
-        "enTitle": "US Government Shifts $1 Billion in Bitcoin, $94 Million in Tether",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/us-government-shifts-1-billion-in-bitcoin-94-million-in-tether-768x432.png"
-      },
-      {
-        "headline": "Bitcoin ETF-ները գրանցել են ամենամեծ արտահոսքը հունիսից ի վեր",
-        "summary": "Bitcoin ETF-ները մեկ օրում կրել են 484.9 միլիոն դոլարի արտահոսք՝ նշելով ամենամեծ կորուստը հունիսից ի վեր։",
-        "link": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
+        "headline": "Մեծ Բրիտանիան պատժամիջոցներ է կիրառում ռուսական կրիպտո փոխանակումների նկատմամբ",
+        "summary": "Մեծ Բրիտանիան պատժամիջոցներ է սահմանել երեք կրիպտո փոխանակումների և վճարային ծառայությունների նկատմամբ՝ Ռուսաստանի հետ ենթադրյալ կապերի պատճառով։",
+        "link": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
         "source": "Decrypt",
-        "enTitle": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
+        "enTitle": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png"
       },
       {
-        "headline": "IMF-ը նախազգուշացնում է թոքենիզացված շուկաների ռիսկերի մասին",
-        "summary": "Արժույթի միջազգային հիմնադրամը (IMF) նախազգուշացրել է, որ թոքենիզացված շուկաները կարող են ուժեղացնել ֆինանսական ռիսկերը՝ չնայած 24/7 առևտրի աճող պահանջարկին։",
-        "link": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Թաիլանդը թույլ է տալիս Bitcoin և Ether ETF-ներ",
+        "summary": "Թաիլանդի SEC-ը հրապարակել է Bitcoin և Ether ETF-ների կանոնները, որոնք ուժի մեջ կմտնեն հոկտեմբերի 16-ից՝ թույլ տալով տեղական ֆոնդային բորսայում ցուցակագրումը։",
+        "link": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
+        "source": "The Block",
+        "enTitle": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/thai-sec-crypto-etfs.png"
+      },
+      {
+        "headline": "ESMA-ն ուսումնասիրում է թոքենիզացված գրավի ռիսկերը",
+        "summary": "ESMA-ն արդյունաբերությունից տեղեկություններ է հավաքում թոքենիզացված գրավի իրավական, իրացվելիության և գործառնական ռիսկերի վերաբերյալ՝ նախքան ԵՄ կարգավորող միջոցառումների անհրաժեշտությունը որոշելը։",
+        "link": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "IMF warns tokenized markets could amplify financial risks",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E33RFBJJSYXE4M7F92S5P1/hi-imf-and-blockchain.png"
+        "enTitle": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4G06R9TT5S4ED9Y271GTGVR/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.jpg"
       },
       {
-        "headline": "Ethereum-ի փորձնական ցանցը բարձրացրել է բլոկի սահմանաչափը",
-        "summary": "Ethereum-ի Sepolia փորձնական ցանցը ակտիվացրել է Glamsterdam-ը՝ բլոկի գազի սահմանաչափը հասցնելով մոտ 200 միլիոնի, ինչը երեք անգամ գերազանցում է հիմնական ցանցի ներկայիս հզորությունը։",
-        "link": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
-        "source": "Decrypt",
-        "enTitle": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png@png"
+        "headline": "ԵՄ կարգավորողները թիրախավորում են stablecoin-ները",
+        "summary": "ԵՄ կարգավորող մարմինները 90-օրյա ժամկետ են սահմանել անհամապատասխան stablecoin-ների համար՝ պահանջելով շտկող միջոցներ։",
+        "link": "https://cryptoslate.com/eu-regulators-target-non-compliant-stablecoins-with-a-90-day-deadline/",
+        "source": "CryptoSlate",
+        "enTitle": "EU regulators target non-compliant stablecoins with a 90-day deadline",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/mica-stablecoin-wind-down-standard.jpg"
+      },
+      {
+        "headline": "Ղրղզստանը դադարեցնում է USDKG stablecoin-ի գործունեությունը",
+        "summary": "Ղրղզստանը դադարեցնում է իր պետական ​​աջակցությամբ USDKG stablecoin-ի գործունեությունը և լուծարում է դրա թողարկողին՝ Մեծ Բրիտանիայի պատժամիջոցներից հետո։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/kyrgyzstan-shuts-stablecoin-usdkg-burns-50m-tokens-after-uk-sanctions/",
+        "source": "Bitcoin News",
+        "enTitle": "Kyrgyzstan Shuts Stablecoin USDKG, Burns 50M Tokens After UK Sanctions",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/kyrgyzstan-shuts-down-gold-stablecoin-usdkg-burns-50m-tokens-768x432.jpg"
       }
     ]
   }
