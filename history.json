@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-11",
-    "ts": 1786466887193,
-    "fng": {
-      "value": 29,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 63444,
-        "change24h": -0.6571049056381697
-      },
-      {
-        "label": "Ethereum",
-        "price": 1862.88,
-        "change24h": -0.4034097795661181
-      }
-    ],
-    "overview": "Կրիպտոարժույթների շուկան այսօր ցույց է տվել զգալի փոփոխություններ, մասնավորապես՝ Bitcoin մայնինգի ընկերությունների կողմից դեպի արհեստական բանականություն (AI) անցումը, ինչպես նաև կարգավորող մարմինների և ավանդական ֆինանսական հաստատությունների ինտեգրումը:",
-    "items": [
-      {
-        "headline": "Riot Platforms-ը $9.1 միլիարդի AI գործարքով",
-        "summary": "Riot Platforms-ը Anthropic-ի հետ կնքել է 9.1 միլիարդ դոլարի համաձայնագիր՝ վերածելով իր Bitcoin մայնինգի ենթակառուցվածքը AI ծառայություններ մատուցողի:",
-        "link": "https://news.bitcoin.com/crypto-news/anthropic-emerges-as-frontier-ai-lab-behind-riots-9-1b-ai-deal/",
-        "source": "Bitcoin News",
-        "enTitle": "Anthropic Emerges as ‘Frontier AI Lab’ Behind Riot’s $9.1B AI Deal",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/anthropic-emerges-as-frontier-ai-lab-behind-riots-9-1b-ai-deal-768x432.jpg"
-      },
-      {
-        "headline": "Keel-ը դադարեցնում է Bitcoin մայնինգը",
-        "summary": "Keel Infrastructure-ը դադարեցրել է իր բոլոր Bitcoin մայնինգի գործունեությունը ԱՄՆ-ում՝ 819 միլիոն դոլարով անցում կատարելով AI և բարձր արդյունավետության հաշվարկների:",
-        "link": "https://news.bitcoin.com/mining/keel-shuts-all-bitcoin-mining-with-819m-ready-for-ai-pivot/",
-        "source": "Bitcoin News",
-        "enTitle": "Keel Shuts All Bitcoin Mining With $819M Ready for AI Pivot",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/keel-shuts-all-bitcoin-mining-with-819m-ready-for-ai-pivot-768x432.jpg"
-      },
-      {
-        "headline": "eToro-ն ձեռք է բերում TradeZero-ն",
-        "summary": "eToro կրիպտո-բարեկամական առևտրային հարթակը համաձայնել է ձեռք բերել TradeZero-ն 231 միլիոն դոլարով՝ ընդլայնելով իր ներկայությունը ԱՄՆ շուկայում:",
-        "link": "https://decrypt.co/375324/etoro-acquire-tradezero-us-expansion-stock-tanks",
-        "source": "Decrypt",
-        "enTitle": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/09/etoro-crypto-defi-portfolio-gID_4.jpg@png"
-      },
-      {
-        "headline": "Moneygram-ը Solana-ում գործարկում է կրիպտո վճարումներ",
-        "summary": "Moneygram-ը Solana բլոկչեյնում գործարկել է իր Ramps ծառայությունը՝ ապահովելով կանխիկի և կրիպտոարժույթի միջև ուղղակի կապ իր գլոբալ ցանցի միջոցով:",
-        "link": "https://news.bitcoin.com/crypto-news/moneygram-brings-cash-to-crypto-payments-to-solana-with-rift/",
-        "source": "Bitcoin News",
-        "enTitle": "Moneygram Brings Cash-to-Crypto Payments to Solana With Rift",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/moneygram-brings-cash-to-crypto-payments-to-solana-with-rift-768x432.png"
-      },
-      {
-        "headline": "Ռուսաստանը առաջարկում է կրիպտոարժույթների առևտուր",
-        "summary": "Ռուսաստանի կենտրոնական բանկը առաջարկել է թույլատրել Bitcoin-ի, Ether-ի և Tether-ի USDT-ի առևտուրը կարգավորվող բորսաներում:",
-        "link": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/bank-with-crypto-characters.png"
-      },
-      {
-        "headline": "Nasdaq-ը ձեռք է բերում LeveL Markets-ը",
-        "summary": "Nasdaq-ը ձեռք է բերում ԱՄՆ երրորդ խոշորագույն այլընտրանքային առևտրային համակարգը՝ LeveL Markets-ը, ընդլայնվելով դեպի թոքենիզացված արժեթղթեր և ավելի երկար առևտրային ժամեր:",
-        "link": "https://cointelegraph.com/news/nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-goes-for-nasdaq.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-12",
     "ts": 1786553224680,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Bitcoin News",
         "enTitle": "Kyrgyzstan Shuts Stablecoin USDKG, Burns 50M Tokens After UK Sanctions",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/kyrgyzstan-shuts-down-gold-stablecoin-usdkg-burns-50m-tokens-768x432.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "ts": 1791577479276,
+    "fng": {
+      "value": 59,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 82390,
+        "change24h": 0.8221277935684119
+      },
+      {
+        "label": "Ethereum",
+        "price": 2478.95,
+        "change24h": 0.48488496991318353
+      }
+    ],
+    "overview": "Օրը նշանավորվեց կարգավորող և իրավական զարգացումներով, ինչպես նաև անվտանգության հետ կապված մտահոգություններով և ինստիտուցիոնալ քայլերով կրիպտո ոլորտում։",
+    "items": [
+      {
+        "headline": "Celsius-ի հիմնադրին մշտապես արգելվեց ոլորտում",
+        "summary": "Նյու Յորքի իշխանությունները Celsius-ի հիմնադիր Ալեքս Մաշինսկիին մշտապես արգելեցին կրիպտո, արժեթղթերի և ապրանքների ոլորտներում՝ 35 միլիոն դոլարի խարդախության գործով համաձայնության շրջանակներում։",
+        "link": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BAEH9JKD3WDH6MG84JNW/interviewalex-mashinsky2.png"
+      },
+      {
+        "headline": "Ledger-ը հետաքննում է դրամապանակների կորուստները",
+        "summary": "Սարքավորումային դրամապանակներ արտադրող Ledger ընկերությունը հետաքննում է Հարավարևելյան Ասիայի վերավաճառողի հետ կապված միջոցների կորուստները՝ նախնական գնահատականներով ավելի քան 72 միլիոն դոլարի կրիպտո գողությունների մասին։",
+        "link": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GQZR5EE6DC45BS4MEHM47N/hi-got-crypto-losses-wallet-shutdown-2.png"
+      },
+      {
+        "headline": "Blockchain.com-ը ԱՄՆ-ում լիցենզիաներ է փնտրում",
+        "summary": "Կրիպտո հարթակ Blockchain.com-ը դիմել է ԱՄՆ-ում կարգավորվող իրադարձությունների պայմանագրերի և կրիպտո ածանցյալների շուկաներ գործարկելու համար անհրաժեշտ լիցենզիաների համար։",
+        "link": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
+        "source": "Decrypt",
+        "enTitle": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Bain Capital-ը ներդրել է Bitcoin ապահովագրության մեջ",
+        "summary": "Bain Capital Crypto-ն գլխավորել է 37.5 միլիոն դոլարի ներդրումը Meanwhile կյանքի ապահովագրական ընկերությունում, որը գործում է բացառապես Bitcoin-ով։",
+        "link": "https://news.bitcoin.com/finance/bain-capital-leads-37-5m-investment-bitcoin-life-insurance-firm/",
+        "source": "Bitcoin News",
+        "enTitle": "Bain Capital Leads $37.5M Investment in Bitcoin Life Insurance Firm",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/sam-altman-backed-bitcoin-insurer-meanwhile-raises-37-5-million-768x432.jpg"
+      },
+      {
+        "headline": "Բրազիլիայում ռեկորդային կրիպտո միջոցներ են առգրավվել",
+        "summary": "Բրազիլիայի ոստիկանությունը Operation ClickFix գործողության ընթացքում առգրավել է ավելի քան 1.7 միլիոն դոլարի կրիպտո միջոցներ ինքնապահովման դրամապանակներից, ինչը երկրի իրավապահ մարմինների կողմից արձանագրված ամենամեծ առգրավումն է։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/brazil-seizes-record-crypto-funds-self-custody-wallets/",
+        "source": "Bitcoin News",
+        "enTitle": "Brazil Seizes Record Crypto Funds From Self-Custody Wallets",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/brazilian-police-768x432.jpg"
+      },
+      {
+        "headline": "Սենատորը հարցեր է բարձրացնում Tether-ի մասին",
+        "summary": "Սենատոր Ռիչարդ Բլյումենթալը Cantor Fitzgerald-ից պահանջում է բացել իր գրառումները Tether-ի հետ կապերի և այն շահույթների մասին, որոնք Քենթոր Ֆիցջերալդի ընտանիքը ստացել է իր բիզնես գործարքից։",
+        "link": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+        "source": "Decrypt",
+        "enTitle": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png"
       }
     ]
   }
