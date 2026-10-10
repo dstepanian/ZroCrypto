@@ -4249,7 +4249,7 @@
   },
   {
     "date": "2026-10-10",
-    "ts": 1791632199075,
+    "ts": 1791661111329,
     "fng": {
       "value": 64,
       "label": "Greed",
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 82731,
-        "change24h": -0.040537179918910864
+        "price": 83010,
+        "change24h": 0.8046181426810721
       },
       {
         "label": "Ethereum",
-        "price": 2493.27,
-        "change24h": -0.138078763655942
+        "price": 2514.18,
+        "change24h": 1.4243163333468285
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է անվտանգության հետ կապված լուրջ մտահոգություններով, ինչպես նաև կարգավորող մարմինների շարունակական գործողություններով։ Միաժամանակ, դիտվում են դրական զարգացումներ ավանդական ֆինանսների կողմից թոքենացված ակտիվների ընդունման ոլորտում։",
+    "overview": "Այսօրվա կրիպտոարժույթների շուկան բնութագրվում է կարգավորող մարմինների կարևոր որոշումներով, անվտանգության հետ կապված մտահոգություններով և ինստիտուցիոնալ ընդունման նոր դրսևորումներով։",
     "items": [
       {
-        "headline": "XRP Ledger-ը շտկել է տասնամյա սխալը",
-        "summary": "XRP Ledger-ը լուռ կերպով շտկել է 2015 թվականի վճարային համակարգի թերությունը, որը կարող էր հնարավորություն տալ հարձակվողին ստեղծել ծախսվող XRP՝ ցանցի ֆիքսված մատակարարումից դուրս։",
+        "headline": "Ledger-ը հաստատել է ապարատային ներդրում",
+        "summary": "Ledger-ը հաստատել է, որ իր հաճախորդներից մեկի ապարատային դրամապանակում հայտնաբերվել է չարտոնված ներդրում՝ ամրապնդելով մատակարարման շղթայի վրա հարձակման կասկածները։",
+        "link": "https://news.bitcoin.com/security/ledger-confirms-hidden-hardware-implant-in-affected-users-wallet/",
+        "source": "Bitcoin News",
+        "enTitle": "Ledger Confirms Hidden Hardware Implant in Affected User’s Wallet",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/ledger-confirms-hardware-implant-as-93m-wallet-mystery-grows-768x432.png"
+      },
+      {
+        "headline": "Ֆրանսիան հաստատել է stablecoin-ների հարկը",
+        "summary": "Ֆրանսիական կոմիտեն հավանություն է տվել stablecoin-ների փոխարկումների և կրիպտոարժույթների դուրսբերման հարկին՝ նպատակ ունենալով լրացնել գործող կանոնակարգերի բացերը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/french-committee-approves-tax-on-stablecoin-conversions-from-2027/",
+        "source": "Bitcoin News",
+        "enTitle": "French Committee Approves Tax on Stablecoin Conversions From 2027",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/french-national-assembly-1-768x432.jpg"
+      },
+      {
+        "headline": "CFTC-ն սահմանազատում է կանխատեսման շուկաները",
+        "summary": "CFTC-ն առաջարկել է նոր կանոններ՝ հստակորեն սահմանելով իր իրավասությունը կանխատեսման շուկաների նկատմամբ և տարբերակելով դրանք խաղային գործունեությունից։",
+        "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+        "source": "Decrypt",
+        "enTitle": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png"
+      },
+      {
+        "headline": "Sam Altman-ի աջակցությամբ Bitcoin ապահովագրողը միջոցներ է ներգրավել",
+        "summary": "Sam Altman-ի աջակցությամբ Meanwhile կյանքի ապահովագրական ընկերությունը, որն ամբողջությամբ գործում է Bitcoin-ի վրա, հավաքել է 37.5 միլիոն դոլար՝ պահանջարկի աճի ֆոնին։",
+        "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+        "source": "Decrypt",
+        "enTitle": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-09-gID_7.png@png"
+      },
+      {
+        "headline": "XRP Ledger-ի հին սխալը շտկվել է",
+        "summary": "XRP Ledger-ը շտկել է տասնամյա վճարային համակարգի սխալը, որը կարող էր թույլ տալ չարտոնված XRP ստեղծել՝ վտանգելով ցանցի ամբողջականությունը։",
         "link": "https://news.bitcoin.com/featured/xrp-ledger-bug-minted-xrp-overflow/",
         "source": "Bitcoin News",
         "enTitle": "A Decade-Old XRP Ledger Bug Could Have Minted XRP Out of Thin Air",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/ripple-1-768x432.jpg"
       },
       {
-        "headline": "Ledger դրամապանակի անվտանգության խնդիրներ",
-        "summary": "Ledger ապարատային դրամապանակի հետ կապված անվտանգության խնդիրների պատճառով կասկածվող կորուստները հասել են 93.4 միլիոն դոլարի, և ընկերությունը հետաքննում է հարավարևելյան Ասիայի վերավաճառողի հետ կապված միջադեպը։",
-        "link": "https://news.bitcoin.com/security/ledger-wallet-mystery-deepens-as-suspected-losses-hit-93-4m/",
-        "source": "Bitcoin News",
-        "enTitle": "Ledger Wallet Mystery Deepens as Suspected Losses Hit $93.4M",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2023/08/gfhdkkskkd-768x432.jpg"
-      },
-      {
-        "headline": "Tether-ը սառեցրել է 1.4 միլիոն դոլարի USDT",
-        "summary": "Tether-ը սառեցրել է 1.4 միլիոն դոլարի USDT TRON vaults-ում, ինչը բացահայտում է թողարկողի վերահսկողությունը ապակենտրոնացված ենթակառուցվածքի ներսում գտնվող USDT-ի նկատմամբ։",
-        "link": "https://cryptoslate.com/tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls/",
-        "source": "CryptoSlate",
-        "enTitle": "Tether freezes $1.4M in TRON vaults and THORChain stalls",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/tether-unfreeze-thorchain-swaps.webp"
-      },
-      {
-        "headline": "Celsius-ի հիմնադրին մշտապես արգելվել է աշխատել կրիպտո ոլորտում",
-        "summary": "Նյու Յորքը մշտապես արգելել է Celsius-ի հիմնադիր Ալեքս Մաշինսկիին աշխատել կրիպտոարժույթների, արժեթղթերի և ապրանքների ոլորտներում՝ 35 միլիոն դոլարի խարդախության գործով համաձայնության շրջանակներում։",
-        "link": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "ԱՄՆ-ը նախատեսում է առգրավել 1 միլիարդ դոլարի կրիպտոարժույթ",
+        "summary": "ԱՄՆ-ը նախատեսում է այս շաբաթ առգրավել 1 միլիարդ դոլարի կրիպտոարժույթ, որը կապված է Իրանի հետ՝ որպես պատժամիջոցների մաս։",
+        "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BAEH9JKD3WDH6MG84JNW/interviewalex-mashinsky2.png"
-      },
-      {
-        "headline": "Franklin Templeton-ը քննարկում է թոքենացված ֆոնդերի առևտուրը SEC-ի հետ",
-        "summary": "Franklin Templeton-ը ուսումնասիրում է, թե արդյոք կարգավորող բացառությունները կարող են թույլ տալ թոքենացված դրամական շուկայի ֆոնդերին և ETF-ներին առևտուր անել բլոկչեյն հարթակների միջոցով՝ քննարկելով իրավական հարցեր SEC-ի հետ։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/franklin-templeton-explores-sec-relief-for-tokenized-fund-trades/",
-        "source": "Bitcoin News",
-        "enTitle": "Franklin Templeton Explores SEC Relief for Tokenized Fund Trades",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/sec5-768x432.jpg"
-      },
-      {
-        "headline": "Բրազիլիայի B3-ը պատրաստում է թոքենացված բաժնետոմսերի առևտրի հարթակ",
-        "summary": "Բրազիլիայի խոշորագույն ֆոնդային շուկան՝ B3-ը, մտադիր է մինչև 2027 թվականի սկիզբը գործարկել արժեթղթերի թոքենացված առևտուր, որոնք համարժեք կլինեն ավանդական բաժնետոմսերին։",
-        "link": "https://news.bitcoin.com/finance/brazil-b3-readies-tokenized-stock-trading-platform-early-2027/",
-        "source": "Bitcoin News",
-        "enTitle": "Brazil’s B3 Readies Tokenized Stock Trading Platform for Early 2027",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/b3-logo-768x432.jpg"
+        "enTitle": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BG1JYYXKKGEB4KD8923P/hi-us-has-seized-iranian-crypto-1.jpg"
       }
     ]
   }
