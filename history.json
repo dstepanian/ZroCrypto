@@ -4249,7 +4249,7 @@
   },
   {
     "date": "2026-10-11",
-    "ts": 1791719388724,
+    "ts": 1791748119271,
     "fng": {
       "value": 61,
       "label": "Greed",
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 82985,
-        "change24h": 0.20325028375678564
+        "price": 83645,
+        "change24h": 0.76253951380115
       },
       {
         "label": "Ethereum",
-        "price": 2501.52,
-        "change24h": 0.23157027791387996
+        "price": 2534.63,
+        "change24h": 0.8050697654841547
       }
     ],
-    "overview": "Այսօրվա կրիպտոարժույթների շուկայում նկատվում են ինչպես անվտանգության հետ կապված լուրջ մտահոգություններ, այնպես էլ կարևոր զարգացումներ կարգավորման և ինստիտուցիոնալ ընդունման ոլորտներում։ Շուկան արձագանքում է նաև ETF-ների հոսքերի փոփոխություններին։",
+    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս շուկայի ընդլայնման և ինստիտուցիոնալ հետաքրքրության աճ, սակայն նաև ընդգծում են անվտանգության հետ կապված լուրջ մտահոգությունները։ Կարևոր իրադարձությունները ներառում են նոր կարգավորող նախաձեռնություններ և խոշոր անվտանգության խոցելիությունների շտկումներ։",
     "items": [
       {
-        "headline": "AI-ը հայտնաբերել է XRP Ledger-ի թերություն",
-        "summary": "AI-ն հայտնաբերել է XRP Ledger-ի խոցելիություն, որը կարող էր ստեղծել 18 տրիլիոն նշան և վտանգել 94 միլիարդ դոլար արժողությամբ շուկան։",
-        "link": "https://cryptoslate.com/ai-discovers-xrp-ledger-flaw-that-could-mint-18-trillion-tokens-and-put-94-billion-market-at-risk/",
-        "source": "CryptoSlate",
-        "enTitle": "AI discovers XRP Ledger flaw that could mint 18 trillion tokens and put $94 billion market at risk",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-ledger-patch-security.webp"
+        "headline": "Մոսկվայի բորսան կփորձարկի կրիպտո առևտուրը",
+        "summary": "Մոսկվայի բորսան փորձնականորեն ներդնում է կրիպտոարժույթների առևտուրը՝ նախատեսելով ամբողջական գործարկում մինչև դեկտեմբեր։",
+        "link": "https://news.bitcoin.com/finance/russias-moscow-exchange-pilots-crypto-trading-for-december-launch/",
+        "source": "Bitcoin News",
+        "enTitle": "Russia’s Moscow Exchange Pilots Crypto Trading for December Launch",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/moscow-exchange-building-768x432.jpg"
       },
       {
-        "headline": "Ledger-ը հաստատում է ապօրինի սարքավորման տեղադրումը",
-        "summary": "Ledger-ը հաստատել է ապօրինի սարքավորման տեղադրումը, որի հետևանքով կորուստները կարող են գերազանցել 86 միլիոն դոլարը։",
+        "headline": "XRP Ledger-ը շտկել է հին սխալը",
+        "summary": "XRP Ledger-ը շտկել է տասնամյա սխալը, որը կարող էր թույլ տալ հարձակվողին ստեղծել տրիլիոնավոր XRP։",
+        "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+        "source": "The Block",
+        "enTitle": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/XRP-token-over-a-repaired-fissure_clean.png"
+      },
+      {
+        "headline": "MicroStrategy-ը հուշում է Bitcoin գնելու մասին",
+        "summary": "MicroStrategy-ի ղեկավար Մայքլ Սեյլորը հուշել է ընկերության կողմից լրացուցիչ Bitcoin գնելու հնարավորության մասին։",
+        "link": "https://news.bitcoin.com/featured/more-orange-saylor-hints-at-growing-strategys-848k-bitcoin-stash/",
+        "source": "Bitcoin News",
+        "enTitle": "More Orange: Saylor Hints at Growing Strategy’s 848K Bitcoin Stash",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/strategy-saylor-chart-oct-11-768x432.jpg"
+      },
+      {
+        "headline": "XRP ETF-ների ներհոսքը շարունակվում է",
+        "summary": "XRP ETF-ները շարունակում են ներհոսքերի շարքը, մինչդեռ Bitcoin, Ethereum և Solana ETF-ները գրանցել են զգալի արտահոսքեր։",
+        "link": "https://cryptoslate.com/bitcoin-ethereum-and-solana-etfs-lose-1-25-billion-as-xrp-extends-13-week-inflow-streak/",
+        "source": "CryptoSlate",
+        "enTitle": "XRP ETFs extend a 13-week inflow streak as Bitcoin, Ethereum and Solana funds shed $1.25 billion",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-versus-crypto-etfs.webp"
+      },
+      {
+        "headline": "Ledger-ը հաստատում է կորուստները",
+        "summary": "Ledger-ը հաստատել է չարտոնված ապարատային ներդրումը, որի հետևանքով կորուստները կարող են գերազանցել 86 միլիոն դոլարը։",
         "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+        "enTitle": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4N2YQ5YYNE3JRCF0HH088AW/hi-ledger1.png"
       },
       {
-        "headline": "Արգենտինայի Կենտրոնական բանկը մերժում է կրիպտո ինտեգրումը",
-        "summary": "Արգենտինայի Կենտրոնական բանկը մերժել է կրիպտոարժույթների ինտեգրումը բանկային և վճարային ծառայությունների ոլորտում առաջիկա երկու տարիների համար։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/argentinas-central-bank-rejects-near-term-crypto-banking-integration/",
-        "source": "Bitcoin News",
-        "enTitle": "Argentina’s Central Bank Rejects Near-Term Crypto Banking Integration",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/central-bank-of-argentina-logo-768x432.jpg"
-      },
-      {
-        "headline": "Չինաստանը կոչ է անում ստեղծել ազգային բլոկչեյն ցանց",
-        "summary": "Չինաստանի Կոմունիստական կուսակցության Կենտրոնական կոմիտեն կոչ է արել ստեղծել ազգային բլոկչեյն ցանց՝ երկրի իրական և թվային տնտեսությունների ավելի խորը ինտեգրումը խթանելու համար։",
+        "headline": "Չինաստանը կոչ է անում ստեղծել ազգային բլոկչեյն",
+        "summary": "Չինաստանի Կոմունիստական կուսակցությունը կոչ է արել ստեղծել ազգային բլոկչեյն ցանց՝ իրական և թվային տնտեսությունների ինտեգրումը խորացնելու համար։",
         "link": "https://news.bitcoin.com/blockchain/chinese-communist-party-calls-for-a-national-blockchain-network/",
         "source": "Bitcoin News",
         "enTitle": "Chinese Communist Party Calls for a National Blockchain Network",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/map-of-china-768x432.jpg"
-      },
-      {
-        "headline": "Sam Altman-ի աջակցությամբ ապահովագրական ընկերությունը Bitcoin-ով է աշխատում",
-        "summary": "Sam Altman-ի աջակցությամբ գործող կյանքի ապահովագրական ընկերությունը, որն ամբողջությամբ աշխատում է Bitcoin-ով, հավաքել է 37.5 միլիոն դոլար։",
-        "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
-        "source": "Decrypt",
-        "enTitle": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-09-gID_7.png@png"
-      },
-      {
-        "headline": "Ether ETF-ների արտահոսքը շարունակվում է, Solana-ի հոսքերը դադարում են",
-        "summary": "Ether ETF-ների արտահոսքը շարունակվում է ինը օր անընդմեջ, մինչդեռ Solana-ի ֆոնդերի ռեկորդային 14-շաբաթյա ներհոսքը դադարել է։",
-        "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
-        "source": "The Block",
-        "enTitle": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Ethereum-and-Solana-ETF-Divergence1_clean.png"
       }
     ]
   }
