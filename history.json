@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-12",
-    "ts": 1786553224680,
-    "fng": {
-      "value": 27,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 63478,
-        "change24h": 0.03066420467722596
-      },
-      {
-        "label": "Ethereum",
-        "price": 1891.31,
-        "change24h": 1.5381752066682142
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինչպես խոշոր էքսպլոյթներով, այնպես էլ ինստիտուցիոնալ զարգացումներով և կարգավորող առաջընթացով: Կայուն մետաղադրամների շուկան նույնպես զգալի փոփոխություններ է արձանագրել:",
-    "items": [
-      {
-        "headline": "XRP Bridge-ի էքսպլոյթ և միջոցների արտահոսք",
-        "summary": "XRP Bridge-ը դատարկվել է ծրագրային սխալի պատճառով, որը կեղծ ավանդները ճանաչել է որպես իրական՝ հանգեցնելով XRP-ի արտահոսքի։",
-        "link": "https://decrypt.co/375441/xrp-drained-tx-bridge",
-        "source": "Decrypt",
-        "enTitle": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png"
-      },
-      {
-        "headline": "Harmony ONE-ի անկումը էքսպլոյթի պատճառով",
-        "summary": "Harmony Protocol-ի ONE թոքենը 30%-ով անկում է ապրել այն բանից հետո, երբ հարձակվողը 4 միլիարդից ավելի չարտոնված թոքեն է ստեղծել։",
-        "link": "https://news.bitcoin.com/security/harmonys-one-plunges-30-after-attacker-mints-4-billion-tokens/",
-        "source": "Bitcoin News",
-        "enTitle": "Harmony’s ONE Plunges 30% After Attacker Mints 4 Billion Tokens",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/shutterstock_1962634315.jpg"
-      },
-      {
-        "headline": "Fidelity-ն SEC-ին դիմել է Ethereum ETF-ի համար",
-        "summary": "Fidelity-ն դիմել է SEC-ին՝ իր Ethereum ETF-ին staking ֆունկցիոնալություն ավելացնելու համար, որի պարգևների 85%-ը կպահպանվի FETH-ի կողմից։",
-        "link": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Fidelity files with SEC to add staking to Ethereum ETF",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/option-1-bold-white-montserrat.jpeg"
-      },
-      {
-        "headline": "HashKey-ը սկսում է HKDAP stablecoin-ի բաշխումը",
-        "summary": "HashKey-ը սկսել է Anchorpoint-ի կողմից կարգավորվող HKDAP stablecoin-ի բետա բաշխումը՝ ընդլայնելով ինստիտուցիոնալ մուտքը Հոնկոնգի շուկայում։",
-        "link": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-hashkey-plans-to-become-hong-kongs-first-crypto-ipo-1.jpg"
-      },
-      {
-        "headline": "Tether-ի USDT մատակարարման կրճատում",
-        "summary": "Tether-ի USDT մատակարարումը վերջին 60 օրվա ընթացքում կրճատվել է մոտ 4 միլիարդ դոլարով՝ արտացոլելով կրիպտո պահանջարկի թուլացումը։",
-        "link": "https://news.bitcoin.com/crypto-news/tethers-usdt-supply-shrinks-by-4b-in-60-days-as-crypto-demand-cools/",
-        "source": "Bitcoin News",
-        "enTitle": "Tether’s USDT Supply Shrinks by $4B in 60 Days as Crypto Demand Cools",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/tethers-usdt-supply-shrinks-by-4b-as-crypto-demand-cools-768x432.jpg"
-      },
-      {
-        "headline": "Wintermute-ը 1 միլիարդ դոլար կներդնի AI-ում",
-        "summary": "Wintermute-ը նախատեսում է 1 միլիարդ դոլար ներդնել AI-ում՝ նպատակ ունենալով մինչև 2027 թվականը իր եկամուտների ավելի քան 50%-ը ստանալ ոչ կրիպտո շուկաներից։",
-        "link": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/7db3bf97253af39b70ae7cb86f74023bea1187e3-4323x2432.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      }
-    ]
-  },
-  {
     "date": "2026-08-13",
     "ts": 1786639510818,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BG1JYYXKKGEB4KD8923P/hi-us-has-seized-iranian-crypto-1.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "ts": 1791719388724,
+    "fng": {
+      "value": 61,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 82985,
+        "change24h": 0.20325028375678564
+      },
+      {
+        "label": "Ethereum",
+        "price": 2501.52,
+        "change24h": 0.23157027791387996
+      }
+    ],
+    "overview": "Այսօրվա կրիպտոարժույթների շուկայում նկատվում են ինչպես անվտանգության հետ կապված լուրջ մտահոգություններ, այնպես էլ կարևոր զարգացումներ կարգավորման և ինստիտուցիոնալ ընդունման ոլորտներում։ Շուկան արձագանքում է նաև ETF-ների հոսքերի փոփոխություններին։",
+    "items": [
+      {
+        "headline": "AI-ը հայտնաբերել է XRP Ledger-ի թերություն",
+        "summary": "AI-ն հայտնաբերել է XRP Ledger-ի խոցելիություն, որը կարող էր ստեղծել 18 տրիլիոն նշան և վտանգել 94 միլիարդ դոլար արժողությամբ շուկան։",
+        "link": "https://cryptoslate.com/ai-discovers-xrp-ledger-flaw-that-could-mint-18-trillion-tokens-and-put-94-billion-market-at-risk/",
+        "source": "CryptoSlate",
+        "enTitle": "AI discovers XRP Ledger flaw that could mint 18 trillion tokens and put $94 billion market at risk",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-ledger-patch-security.webp"
+      },
+      {
+        "headline": "Ledger-ը հաստատում է ապօրինի սարքավորման տեղադրումը",
+        "summary": "Ledger-ը հաստատել է ապօրինի սարքավորման տեղադրումը, որի հետևանքով կորուստները կարող են գերազանցել 86 միլիոն դոլարը։",
+        "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4N2YQ5YYNE3JRCF0HH088AW/hi-ledger1.png"
+      },
+      {
+        "headline": "Արգենտինայի Կենտրոնական բանկը մերժում է կրիպտո ինտեգրումը",
+        "summary": "Արգենտինայի Կենտրոնական բանկը մերժել է կրիպտոարժույթների ինտեգրումը բանկային և վճարային ծառայությունների ոլորտում առաջիկա երկու տարիների համար։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/argentinas-central-bank-rejects-near-term-crypto-banking-integration/",
+        "source": "Bitcoin News",
+        "enTitle": "Argentina’s Central Bank Rejects Near-Term Crypto Banking Integration",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/central-bank-of-argentina-logo-768x432.jpg"
+      },
+      {
+        "headline": "Չինաստանը կոչ է անում ստեղծել ազգային բլոկչեյն ցանց",
+        "summary": "Չինաստանի Կոմունիստական կուսակցության Կենտրոնական կոմիտեն կոչ է արել ստեղծել ազգային բլոկչեյն ցանց՝ երկրի իրական և թվային տնտեսությունների ավելի խորը ինտեգրումը խթանելու համար։",
+        "link": "https://news.bitcoin.com/blockchain/chinese-communist-party-calls-for-a-national-blockchain-network/",
+        "source": "Bitcoin News",
+        "enTitle": "Chinese Communist Party Calls for a National Blockchain Network",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/map-of-china-768x432.jpg"
+      },
+      {
+        "headline": "Sam Altman-ի աջակցությամբ ապահովագրական ընկերությունը Bitcoin-ով է աշխատում",
+        "summary": "Sam Altman-ի աջակցությամբ գործող կյանքի ապահովագրական ընկերությունը, որն ամբողջությամբ աշխատում է Bitcoin-ով, հավաքել է 37.5 միլիոն դոլար։",
+        "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+        "source": "Decrypt",
+        "enTitle": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-09-gID_7.png@png"
+      },
+      {
+        "headline": "Ether ETF-ների արտահոսքը շարունակվում է, Solana-ի հոսքերը դադարում են",
+        "summary": "Ether ETF-ների արտահոսքը շարունակվում է ինը օր անընդմեջ, մինչդեռ Solana-ի ֆոնդերի ռեկորդային 14-շաբաթյա ներհոսքը դադարել է։",
+        "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+        "source": "The Block",
+        "enTitle": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Ethereum-and-Solana-ETF-Divergence1_clean.png"
       }
     ]
   }
