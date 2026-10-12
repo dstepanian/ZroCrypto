@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-13",
-    "ts": 1786639510818,
-    "fng": {
-      "value": 29,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 62934,
-        "change24h": -0.8684528469499778
-      },
-      {
-        "label": "Ethereum",
-        "price": 1865.5,
-        "change24h": -1.3647582589917806
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս կարգավորող մարմինների ակտիվությունը և ավանդական ֆինանսական հաստատությունների կողմից բլոկչեյն տեխնոլոգիաների աճող ընդունումը։ Շուկան շարունակում է հարմարվել նոր զարգացումներին և կառուցվածքային փոփոխություններին։",
-    "items": [
-      {
-        "headline": "Metaplanet-ը հերքում է Bitcoin-ի վաճառքը",
-        "summary": "Metaplanet-ի գործադիր տնօրենը հերքել է 5,014 BTC-ի փոխանցման մասին շուկայական շահարկումները՝ պարզաբանելով, որ դա պահառության տեղափոխություն էր, ոչ թե վաճառք։",
-        "link": "https://decrypt.co/375562/metaplanet-denies-bitcoin-sale-launches-bitbonds",
-        "source": "Decrypt",
-        "enTitle": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-03-gID_7.png@png"
-      },
-      {
-        "headline": "Հավայան կղզիներում արգելվում են կրիպտո ATM-ների կանխիկ մուտքերը",
-        "summary": "Հավայան կղզիների օրենսդիրները հոկտեմբերից կարգելեն կանխիկի մուտքագրումը կրիպտո ATM-ներում՝ թիրախավորելով խարդախությունների համար օգտագործվող մեթոդները։",
-        "link": "https://decrypt.co/375560/hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
-        "source": "Decrypt",
-        "enTitle": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/shutterstock_1261474762-gID_7.jpg@png"
-      },
-      {
-        "headline": "Bitcoin մայնինգ ընկերությունները նվազեցնում են հաշրեյթը AI-ի համար",
-        "summary": "Հանրային Bitcoin մայնինգ ընկերությունները 13.4%-ով կրճատել են իրենց հաշրեյթը, քանի որ AI ենթակառուցվածքի եկամուտներն աճում են՝ վերաձևելով մայնինգի տնտեսագիտությունը։",
-        "link": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-miners-as-energy-buyers-ai.jpg"
-      },
-      {
-        "headline": "Հարավային Կորեայում կրիպտո ընկերության CEO-ն դատապարտվել է",
-        "summary": "Հարավային Կորեայի դատարանը Delio-ի CEO-ին դատապարտել է 15 տարվա ազատազրկման՝ հաճախորդների մոտ 49.2 միլիոն դոլար արժողությամբ կրիպտոարժույթների ոչ իրավաչափ օգտագործման համար։",
-        "link": "https://news.bitcoin.com/crypto-news/south-koreas-crypto-crackdown-lands-delio-ceo-15-years/",
-        "source": "Bitcoin News",
-        "enTitle": "South Korea’s Crypto Crackdown Lands Delio CEO 15 Years",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/south-korea-halts-kospi-trading-after-8-4-crash-trips-circuit-breaker2_nwmk-768x432.jpg"
-      },
-      {
-        "headline": "MUFG-ն փորձարկում է ճապոնական պարտատոմսերի onchain գործարքներ",
-        "summary": "MUFG-ն փորձնական ծրագիր է սկսել՝ ստուգելու համար, թե արդյոք ճապոնական պետական պարտատոմսերի repo գործարքները կարող են իրական ժամանակում իրականացվել բլոկչեյն ցանցում։",
-        "link": "https://news.bitcoin.com/blockchain/mufg-eyes-instant-jgb-repos-as-blockchain-invades-bond-markets/",
-        "source": "Bitcoin News",
-        "enTitle": "MUFG Eyes Instant JGB Repos as Blockchain Invades Bond Markets",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/mufg-eyes-instant-jgb-repos-as-blockchain-invades-bond-markets-768x432.png"
-      },
-      {
-        "headline": "SEC-ը թույլ է տալիս Franklin Templeton-ին ներդնել onchain ֆոնդում",
-        "summary": "SEC-ը հայտարարել է, որ չի հետապնդի Franklin Templeton-ի ֆոնդերին, եթե նրանք սկսեն կանխիկ ներդրումներ կատարել ակտիվների կառավարչի սեփական tokenized money market fund-ում։",
-        "link": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "SEC allows Franklin Templeton funds to invest in onchain money fund",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/rwa.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-14",
     "ts": 1786725668328,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Bitcoin News",
         "enTitle": "Chinese Communist Party Calls for a National Blockchain Network",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/map-of-china-768x432.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-12",
+    "ts": 1791813336642,
+    "fng": {
+      "value": 69,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 82676,
+        "change24h": -0.393935847492929
+      },
+      {
+        "label": "Ethereum",
+        "price": 2530.63,
+        "change24h": 1.2050988744589617
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ընդունման շարունակական աճով և կարգավորող մարմինների ուշադրության մեծացմամբ։ Կարևոր իրադարձությունները ներառում են նոր ֆինանսական ապրանքների ներդրումը և կանոնակարգային բացերի լուծումը։",
+    "items": [
+      {
+        "headline": "ԵՄ-ն թիրախավորում է MiCA-ի բացը",
+        "summary": "Եվրոպական Միությունը ձգտում է լուծել MiCA կանոնակարգի բացը, որը թույլ է տալիս կրիպտո փոխանակումներին մեկ լիցենզիայով սպասարկել 27 երկիր։",
+        "link": "https://cryptoslate.com/eu-targets-mica-loophole-that-lets-crypto-exchanges-serve-27-countries-with-one-license/",
+        "source": "CryptoSlate",
+        "enTitle": "EU targets MiCA loophole that lets crypto exchanges serve 27 countries with one license",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/eu-crypto-passport.webp"
+      },
+      {
+        "headline": "Strategy-ն ավելացնում է իր Bitcoin պահուստները",
+        "summary": "Michael Saylor-ի Strategy ընկերությունը ձեռք է բերել ևս 250 Bitcoin՝ մոտավորապես 21.5 միլիոն դոլարով, հասցնելով իր ընդհանուր պահուստները 848,250 BTC-ի։",
+        "link": "https://news.bitcoin.com/crypto-news/strategy-buys-more-bitcoin-and-retires-nearly-2m-strc-shares/",
+        "source": "Bitcoin News",
+        "enTitle": "Strategy Buys More Bitcoin and Retires Nearly 2M STRC Shares",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/strategy-buys-more-bitcoin-and-retires-nearly-2m-strc-shares-768x432.png"
+      },
+      {
+        "headline": "Standard Chartered-ը ներդնում է Ripple USD-ի պահպանում",
+        "summary": "Standard Chartered բանկը գործարկել է Ripple-ի RLUSD stablecoin-ի պահպանման ծառայություններ XRP Ledger-ի վրա և նախատեսում է թույլ տալ ինստիտուտներին օգտագործել այն որպես առևտրային գրավ։",
+        "link": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QN28R2EHW4F96B10PK4FS6/hi-ripple-labs-rlusd-stablecoin-everything-you-need-to-know-1.jpg"
+      },
+      {
+        "headline": "Թաիլանդը ցանկանում է Bitcoin և Ethereum ETF շուկա",
+        "summary": "Թաիլանդի SEC-ը հայտարարել է, որ հոկտեմբերի 16-ից ուժի մեջ կմտնի նոր շրջանակ, որը թույլ կտա Bitcoin և Ethereum ETF-ների առևտուրը՝ նախապես պահանջելով արտադրանքի ռիսկի վերաբերյալ կրթություն։",
+        "link": "https://cryptoslate.com/thailand-wants-a-piece-of-the-120-billion-bitcoin-and-ethereum-etf-market-but-on-its-own-terms/",
+        "source": "CryptoSlate",
+        "enTitle": "Thailand wants a piece of the $120 billion Bitcoin and Ethereum ETF market, but on its own terms",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/thailand-bitcoin-etf-rules.webp"
+      },
+      {
+        "headline": "Հարավային Կորեայում Bitcoin-ով ապահովված վարկեր",
+        "summary": "Հարավային Կորեայի Jeonbuk Bank-ը, ըստ տեղեկությունների, սկսել է Bitcoin-ով ապահովված բիզնես վարկեր առաջարկել կորպորատիվ հաճախորդներին՝ օգտագործելով երրորդ կողմի պահառուի ծառայությունները։",
+        "link": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "South Korean bank launches Bitcoin-backed business loans: Report",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QKGRPPCEHYJ6JB01H5VKKA/south-korea-bank.png"
+      },
+      {
+        "headline": "Գլոբալ վերահսկիչը նշում է stablecoin-ի ռիսկերը",
+        "summary": "Ֆինանսական կայունության խորհուրդը (FSB) նշել է stablecoin-ների հետ կապված անդրսահմանային ռիսկերը և AI-ի հետ կապված կիբերանվտանգության սպառնալիքները՝ կոչ անելով G20-ի քաղաքականություն մշակողներին աջակցել ավելի ուժեղ պաշտպանական միջոցներին։",
+        "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QBHGDKZ7W5F58K506PQBRF/g20-meeting.png"
       }
     ]
   }
