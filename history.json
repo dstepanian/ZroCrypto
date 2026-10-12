@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-14",
-    "ts": 1786725668328,
-    "fng": {
-      "value": 29,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 63132,
-        "change24h": -0.0177197278640482
-      },
-      {
-        "label": "Ethereum",
-        "price": 1885.02,
-        "change24h": 0.7690556685160573
-      }
-    ],
-    "overview": "Կրիպտո շուկան այսօր բնութագրվում է ինստիտուցիոնալ ներգրավվածության աճով և կարգավորող մարմինների կողմից ուժեղացված ուշադրությամբ։ Մինչ բանկերը և ներդրումային ընկերությունները ընդլայնում են իրենց կրիպտո առաջարկները, կարգավորող մարմինները խստացնում են կանոնները և վերանայում ինդեքսների չափորոշիչները։",
-    "items": [
-      {
-        "headline": "Bitcoin հանքագործները շեղվում են դեպի AI",
-        "summary": "Bitcoin-ի հաշրեյթը նվազել է, քանի որ հանքագործները էներգիան և կապիտալը վերաուղղում են արհեստական բանականության տվյալների կենտրոններին։",
-        "link": "https://news.bitcoin.com/featured/bitcoin-hashrate-slips-17-off-record-as-miners-chase-ai/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Hashrate Slips 17% Off Record as Miners Chase AI",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-hashrate-slips-17-off-record-as-miners-chase-ai_nwmk-768x432.jpg"
-      },
-      {
-        "headline": "Binance-ը արգելափակում է 11 բորսաներ",
-        "summary": "Binance-ը հայտարարել է, որ չի մշակի գործարքներ 11 կրիպտո հարթակների, ներառյալ HTX-ի հետ՝ ԵՄ պատժամիջոցների պատճառով։",
-        "link": "https://www.theblock.co/news/regulation/2026-08-14-binance-block-transactions-htx-10-other-exchanges-eu-russia-sanctions-411858",
-        "source": "The Block",
-        "enTitle": "Binance to block transactions with HTX, 10 other exchanges under EU Russia sanctions",
-        "image": "https://www.tbstat.com/wp/uploads/2023/10/20231006_HTXImages_News3-800x450.png"
-      },
-      {
-        "headline": "Իսրայելի խոշորագույն բանկը կառաջարկի կրիպտո",
-        "summary": "Իսրայելի Bank Leumi-ն 2027 թվականից իր հաճախորդներին հնարավորություն կտա առևտուր անել Bitcoin-ով, Ether-ով և Solana-ով։",
-        "link": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-21-is-betting-on-10-cryptos-not-just-bitcoin-and-ethereum-zz.png"
-      },
-      {
-        "headline": "SEC-ը չեղարկել է կրիպտո ֆոնդհայթայթման հանդիպումը",
-        "summary": "SEC-ը չեղարկել է կրիպտո ֆոնդհայթայթման վերաբերյալ հանդիպումը՝ նոր ուղի չթողնելով թոքեն թողարկողների համար։",
-        "link": "https://cryptoslate.com/sec-cancels-crypto-fundraising-meeting-leaving-token-issuers-with-no-new-path-to-fund-development/",
-        "source": "CryptoSlate",
-        "enTitle": "SEC cancels crypto fundraising meeting, leaving token issuers with no new path to fund development",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-capital-map.jpg"
-      },
-      {
-        "headline": "Ինստիտուցիոնալ ներդրումները ETF-ներում աճում են",
-        "summary": "Morgan Stanley-ն և JPMorgan-ը երկրորդ եռամսյակում զգալիորեն ավելացրել են իրենց Bitcoin և Ether ETF-ների բաժնետոմսերը։",
-        "link": "https://cointelegraph.com/news/morgan-stanley-buys-blackrock-bitcoin-etf-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-central-bank-issued-digital-currency-the-new-bank-account-morgan-stanley.jpg"
-      },
-      {
-        "headline": "MSCI-ն կարող է հեռացնել Strategy-ին ինդեքսներից",
-        "summary": "MSCI-ն քննարկում է նոր չափորոշիչներ, որոնք կարող են Strategy-ին և Metaplanet-ին հեռացնել իր գլոբալ ինդեքսներից։",
-        "link": "https://news.bitcoin.com/finance/msci-proposal-strategy-metaplanet-index-removal/",
-        "source": "Bitcoin News",
-        "enTitle": "MSCI Proposal Could Boot Strategy, Metaplanet From Indexes",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/msci-proposal-could-boot-strategy-metaplanet-from-indexes2_nwmk-768x432.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-15",
     "ts": 1786810390660,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QBHGDKZ7W5F58K506PQBRF/g20-meeting.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "ts": 1791844793735,
+    "fng": {
+      "value": 69,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 82536,
+        "change24h": -1.2728201700891812
+      },
+      {
+        "label": "Ethereum",
+        "price": 2487.47,
+        "change24h": -1.7798841844387305
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ընդունման աճով և AI-ի ինտեգրմամբ, սակայն նաև ուղեկցվում է կայուն մետաղադրամների և հիմնական բլոկչեյնների անվտանգության հետ կապված լուրջ մտահոգություններով։",
+    "items": [
+      {
+        "headline": "Կայուն մետաղադրամների շուկայի ռիսկերը",
+        "summary": "Համաշխարհային վերահսկիչ մարմինը զգուշացնում է, որ 300 միլիարդ դոլար արժողությամբ կայուն մետաղադրամների շուկան կարող է բախվել բանկային խուճապի, նույնիսկ ամբողջական պահուստների դեպքում։",
+        "link": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
+        "source": "CryptoSlate",
+        "enTitle": "Global watchdog warns the $300 billion stablecoin market could face bank runs even with full reserves",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-redemption-reserve-bottleneck.webp"
+      },
+      {
+        "headline": "Հարավային Կորեայի Bitcoin վարկավորում",
+        "summary": "Հարավային Կորեայի Jeonbuk Bank-ը սկսել է երկրում առաջին Bitcoin-ով ապահովված ավանդական բանկային վարկավորման փորձը։",
+        "link": "https://news.bitcoin.com/finance/south-koreas-bitcoin-lending-experiment-begins-at-jeonbuk-bank/",
+        "source": "Bitcoin News",
+        "enTitle": "South Korea’s Bitcoin Lending Experiment Begins at Jeonbuk Bank",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/south-koreas-bitcoin-lending-experiment-begins-at-jeonbuk-bank-768x432.png"
+      },
+      {
+        "headline": "Standard Chartered-ը կպահի Ripple-ի RLUSD-ը",
+        "summary": "Standard Chartered բանկի Դուբայի մասնաճյուղն այժմ առաջարկում է Ripple-ի RLUSD կայուն մետաղադրամի պահպանում և նախատեսում է հաճախորդներին թույլ տալ առևտուր անել դրանով։",
+        "link": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+        "source": "Decrypt",
+        "enTitle": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ripple-logo-decrypt-style-01-gID_7.png@png"
+      },
+      {
+        "headline": "FTX-ի մայնինգը՝ AI-ի համար",
+        "summary": "Դադարեցված FTX բորսայի կրիպտո մայնինգի նախկին ձեռնարկությունը այժմ օգտագործվում է արհեստական ինտելեկտի (AI) զարգացման համար։",
+        "link": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "FTX’s crypto mining venture is now used to advance AI",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RW88XV464BJDJNJTY3D37E/hi-top-5-biggest-mining-farms.jpg"
+      },
+      {
+        "headline": "XRP Ledger-ի կեղծման սխալը",
+        "summary": "XRP Ledger-ի վճարային համակարգում 2015 թվականից թաքնված էր մի սխալ, որը կարող էր թույլ տալ հարձակվողին ստեղծել ավելորդ XRP։",
+        "link": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
+        "source": "Decrypt",
+        "enTitle": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-02-gID_7.jpg@png"
+      },
+      {
+        "headline": "Ledger-ի խնդիրը CryptoBilis-ի հետ",
+        "summary": "Ledger-ը հայտարարել է, որ 87 միլիոն դոլարի ենթադրյալ արտահոսքի բոլոր հաստատված դեպքերը կապված են CryptoBilis վերավաճառողի հետ։",
+        "link": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
+        "source": "Decrypt",
+        "enTitle": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-hardware-wallets-decrypt-style-gID_7.jpg@png"
       }
     ]
   }
