@@ -4249,9 +4249,9 @@
   },
   {
     "date": "2026-10-13",
-    "ts": 1791844793735,
+    "ts": 1791897143434,
     "fng": {
-      "value": 69,
+      "value": 57,
       "label": "Greed",
       "hy": "Ագահություն",
       "dot": "🟢"
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 82536,
-        "change24h": -1.2728201700891812
+        "price": 83156,
+        "change24h": 0.6580286214153895
       },
       {
         "label": "Ethereum",
-        "price": 2487.47,
-        "change24h": -1.7798841844387305
+        "price": 2499.24,
+        "change24h": -1.1331913985083735
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ընդունման աճով և AI-ի ինտեգրմամբ, սակայն նաև ուղեկցվում է կայուն մետաղադրամների և հիմնական բլոկչեյնների անվտանգության հետ կապված լուրջ մտահոգություններով։",
+    "overview": "Արժութային շուկայում դրական միտումներ են նկատվում, որտեղ Bitcoin-ը և Ether-ը վերականգնվում են, մինչդեռ Ռուսաստանը և Հարավային Կորեան ձեռնարկում են կարգավորիչ քայլեր՝ կապված կրիպտոարժույթների հետ:",
     "items": [
       {
-        "headline": "Կայուն մետաղադրամների շուկայի ռիսկերը",
-        "summary": "Համաշխարհային վերահսկիչ մարմինը զգուշացնում է, որ 300 միլիարդ դոլար արժողությամբ կայուն մետաղադրամների շուկան կարող է բախվել բանկային խուճապի, նույնիսկ ամբողջական պահուստների դեպքում։",
-        "link": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
-        "source": "CryptoSlate",
-        "enTitle": "Global watchdog warns the $300 billion stablecoin market could face bank runs even with full reserves",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-redemption-reserve-bottleneck.webp"
+        "headline": "Ռուսաստանի խոշորագույն բանկը կկարգավորի կրիպտոարժույթների առևտուրը",
+        "summary": "Ռուսաստանի խոշորագույն բանկը՝ Sberbank-ը, ստացել է թույլտվություն կրիպտոարժույթների առևտուր իրականացնելու համար, որը նախատեսվում է մեկնարկել դեկտեմբերին՝ Bitcoin, Ether և Tether USDt առևտրի հնարավորությամբ:",
+        "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Russia’s largest bank Sberbank secures approval to trade crypto",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4431859b83445fdd3e02e984cae83412cc8949df-3264x2040.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Հարավային Կորեայի Bitcoin վարկավորում",
-        "summary": "Հարավային Կորեայի Jeonbuk Bank-ը սկսել է երկրում առաջին Bitcoin-ով ապահովված ավանդական բանկային վարկավորման փորձը։",
-        "link": "https://news.bitcoin.com/finance/south-koreas-bitcoin-lending-experiment-begins-at-jeonbuk-bank/",
+        "headline": "Հարավային Կորեան արգելափակում է 27 կրիպտո փոխանակման կայքեր",
+        "summary": "Հարավային Կորեայի կարգավորիչ մարմինները արգելափակել են 27 չգրանցված օֆշորային կրիպտո փոխանակման կայքերի մուտքը, ներառյալ Kucoin-ը և MEXC-ը, ընդլայնելով նախկինում սահմանված բջջային հավելվածների արգելքը:",
+        "link": "https://news.bitcoin.com/exchanges/south-korea-blocks-27-crypto-exchanges-kucoin-mexc/",
         "source": "Bitcoin News",
-        "enTitle": "South Korea’s Bitcoin Lending Experiment Begins at Jeonbuk Bank",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/south-koreas-bitcoin-lending-experiment-begins-at-jeonbuk-bank-768x432.png"
+        "enTitle": "Bitcoin Price Surges Past $83.5K as Kucoin and MEXC Go Dark in Korea",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/leading-south-korean-bank-toss-taps-solana-to-test-cross-border-remittances-for-15-million-customers2_nwmk-768x432.jpg"
       },
       {
-        "headline": "Standard Chartered-ը կպահի Ripple-ի RLUSD-ը",
-        "summary": "Standard Chartered բանկի Դուբայի մասնաճյուղն այժմ առաջարկում է Ripple-ի RLUSD կայուն մետաղադրամի պահպանում և նախատեսում է հաճախորդներին թույլ տալ առևտուր անել դրանով։",
-        "link": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+        "headline": "BlackRock-ը հանգեցնում է $150 մլն Bitcoin և Ether ETF-ների վաճառքին",
+        "summary": "ԱՄՆ-ի կրիպտո ETF-ները շաբաթը սկսել են նոր ճնշման ներքո, որտեղ Bitcoin-ի ֆոնդերը կորցրել են $65.40 մլն, իսկ Ether ETF-ները երկարացրել են իրենց արտահոսքի շարքը մինչև 10 անընդմեջ նիստ:",
+        "link": "https://news.bitcoin.com/market-updates/blackrock-drives-150m-bitcoin-ether-etf-selling/",
+        "source": "Bitcoin News",
+        "enTitle": "Blackrock Drives $150M Bitcoin, Ether ETF Selling",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/blackrock-drives-150m-bitcoin-ether-etf-selling-768x432.png"
+      },
+      {
+        "headline": "Մեծ Բրիտանիայի դատարանը որոշել է, որ չինական օրենքը կառավարում է $5 մլրդ-ի բռնագրավված Bitcoin-ի հավակնությունները",
+        "summary": "Մեծ Բրիտանիայի դատավորը որոշել է, որ չինական օրենքը կիրառվում է 61,000 բռնագրավված Bitcoin-ի վերաբերյալ տուժողների հավակնությունների նկատմամբ, ինչը անորոշ է թողնում սեփականության հարցը:",
+        "link": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
+        "source": "The Block",
+        "enTitle": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-13-at-12.16.27.png"
+      },
+      {
+        "headline": "Bitcoin-ի գինը մոտենում է $84,000 դիմադրությանը",
+        "summary": "Bitcoin-ի գինը կազմում է $83,266, քանի որ գնորդները փորձում են պահպանել վերջին անկումներից վերականգնումը, սակայն կարճաժամկետ դիմադրությունը $83,800-ից մինչև $84,254-ը խոչընդոտում է առաջընթացին:",
+        "link": "https://news.bitcoin.com/market-updates/bitcoin-price-recovery-stalls-as-84000-resistance-holds-firm/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin Price Recovery Stalls as $84,000 Resistance Holds Firm",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/bitcoin-price-recovery-stalls-as-84000-resistance-holds-firm-768x432.png"
+      },
+      {
+        "headline": "Ledger-ը հայտնաբերել է «լրտես» չիպ, որը գողացել է վերականգնման բանալիները",
+        "summary": "Ledger-ը հայտնել է, որ իր սարքերում հայտնաբերվել է թաքնված չիպ, որը կարող է գողանալ վերականգնման բանալիները՝ անտեսելով անվտանգության միջոցները:",
+        "link": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
         "source": "Decrypt",
-        "enTitle": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ripple-logo-decrypt-style-01-gID_7.png@png"
-      },
-      {
-        "headline": "FTX-ի մայնինգը՝ AI-ի համար",
-        "summary": "Դադարեցված FTX բորսայի կրիպտո մայնինգի նախկին ձեռնարկությունը այժմ օգտագործվում է արհեստական ինտելեկտի (AI) զարգացման համար։",
-        "link": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "FTX’s crypto mining venture is now used to advance AI",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RW88XV464BJDJNJTY3D37E/hi-top-5-biggest-mining-farms.jpg"
-      },
-      {
-        "headline": "XRP Ledger-ի կեղծման սխալը",
-        "summary": "XRP Ledger-ի վճարային համակարգում 2015 թվականից թաքնված էր մի սխալ, որը կարող էր թույլ տալ հարձակվողին ստեղծել ավելորդ XRP։",
-        "link": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
-        "source": "Decrypt",
-        "enTitle": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-02-gID_7.jpg@png"
-      },
-      {
-        "headline": "Ledger-ի խնդիրը CryptoBilis-ի հետ",
-        "summary": "Ledger-ը հայտարարել է, որ 87 միլիոն դոլարի ենթադրյալ արտահոսքի բոլոր հաստատված դեպքերը կապված են CryptoBilis վերավաճառողի հետ։",
-        "link": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
-        "source": "Decrypt",
-        "enTitle": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-hardware-wallets-decrypt-style-gID_7.jpg@png"
+        "enTitle": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg@png"
       }
     ]
   }
