@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-15",
-    "ts": 1786810390660,
-    "fng": {
-      "value": 34,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 63035,
-        "change24h": 0.0687894794001553
-      },
-      {
-        "label": "Ethereum",
-        "price": 1883.43,
-        "change24h": 0.20032283751156818
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո նորությունները վկայում են ինստիտուցիոնալ ներդրումների աճի և կարգավորող մարմինների ուշադրության մասին։ Խոշոր ֆինանսական հաստատությունները շարունակում են ընդլայնել իրենց ներկայությունը կրիպտո ոլորտում, մինչդեռ կառավարությունները քննարկում և ներդնում են նոր կանոնակարգեր։",
-    "items": [
-      {
-        "headline": "Թրամփը կհյուրընկալի կրիպտո ընկերությունների ղեկավարներին",
-        "summary": "Նախագահ Դոնալդ Թրամփը օգոստոսի 19-ին Սպիտակ տանը կհանդիպի Coinbase-ի, Ripple-ի և այլ կրիպտո ընկերությունների ղեկավարների հետ՝ քննարկելու կարգավորման հարցեր։",
-        "link": "https://news.bitcoin.com/crypto-news/white-house-crypto-meeting-trump-coinbase-ripple-august-19/",
-        "source": "Bitcoin News",
-        "enTitle": "Trump to Host Coinbase, Ripple, Kraken at White House Aug. 19",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/trump-warns-china-would-seize-crypto-lead-if-us-steps-back-from-industry-768x432.png"
-      },
-      {
-        "headline": "UBS-ը զգալիորեն ավելացնում է Bitcoin-ի ազդեցությունը",
-        "summary": "Շվեյցարական խոշորագույն բանկ UBS-ը 24 անգամ ավելացրել է իր Bitcoin ETF call option-ների քանակը՝ ցույց տալով աճող հետաքրքրություն։",
-        "link": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d9edd32b2e41671dfe8118f330eb29a7f4439e71-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Paul Tudor Jones-ը մեծացնում է Bitcoin ETF-ի բաժնեմասը",
-        "summary": "Հայտնի ներդրող Paul Tudor Jones-ի ընկերությունը, մեկ տարվա վաճառքից հետո, ավելացրել է իր բաժնեմասը BlackRock-ի Bitcoin ETF-ում։",
-        "link": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b289872120038f52461a67219e6b601e10081d67-2883x2057.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Իսրայելի հնագույն բանկը կառաջարկի կրիպտո առևտուր",
-        "summary": "Իսրայելի հնագույն բանկը՝ Bank Leumi-ն, պատրաստվում է իր հարթակներում ավելացնել Bitcoin-ի, Ether-ի և Solana-ի առևտուրը՝ սպասելով կարգավորող մարմինների հաստատմանը։",
-        "link": "https://news.bitcoin.com/crypto-news/israels-oldest-bank-bets-big-on-bitcoin-ether-and-solana-trading/",
-        "source": "Bitcoin News",
-        "enTitle": "Israel’s Oldest Bank Bets Big on Bitcoin, Ether and Solana Trading",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/israels-oldest-bank-bets-big-on-bitcoin-ether-and-solana-trading-768x432.png"
-      },
-      {
-        "headline": "Trump-ի աջակցությամբ բանկը ստացել է լիցենզիա",
-        "summary": "Դոնալդ Թրամփի աջակցությամբ World Liberty National Trust բանկը ստացել է նախնական պայմանական հաստատում՝ դառնալու ազգային տրաստային բանկ։",
-        "link": "https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
-        "source": "The Block",
-        "enTitle": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
-        "image": "https://www.tbstat.com/wp/uploads/2021/01/occ-scaled-e1772072708836-1198x675.jpg"
-      },
-      {
-        "headline": "Իռլանդիան ներդնում է կրիպտոյի դեմ պայքարի ռազմավարություն",
-        "summary": "Իռլանդիան գործարկել է իր առաջին ազգային փողերի լվացման դեմ պայքարի ռազմավարությունը, որը թիրախավորում է կրիպտո ակտիվները և ուղղված է ֆինանսական հանցագործությունների դեմ։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/ireland-rolls-out-anti-money-laundering-strategy-targeting-crypto/",
-        "source": "Bitcoin News",
-        "enTitle": "Ireland Rolls Out Anti-Money Laundering Strategy Targeting Crypto",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/simon-harris-768x432.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-16",
     "ts": 1786896821090,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Decrypt",
         "enTitle": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg@png"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "ts": 1791924859775,
+    "fng": {
+      "value": 57,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 83327,
+        "change24h": 0.3158212322133927
+      },
+      {
+        "label": "Ethereum",
+        "price": 2509.22,
+        "change24h": -0.5242579400359487
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է խառը տրամադրություններով՝ ինստիտուցիոնալ ընդունման և կորպորատիվ ներդրումների աճի, ինչպես նաև անվտանգության մտահոգությունների և կարգավորող միջոցառումների ֆոնին։",
+    "items": [
+      {
+        "headline": "Trezor-ը սահմանափակում է վերավաճառողներին Ledger-ի խնդրից հետո",
+        "summary": "Trezor-ը սկսում է սահմանափակել իր լիազորված վերավաճառողների ցանցը՝ ի պատասխան Ledger ապարատային դրամապանակների անվտանգության հետ կապված խնդիրների։",
+        "link": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-triggers-trezor-reseller-crackdown-as-security-fears-spread/",
+        "source": "CryptoSlate",
+        "enTitle": "Ledger’s crypto wallet implant scare triggers Trezor reseller crackdown as security fears spread",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-hardware-shipment-lockdown.webp"
+      },
+      {
+        "headline": "Binance-ը դադարեցնում է Bitcoin մայնինգի իր ծառայությունները",
+        "summary": "Binance-ը հայտարարել է, որ վեց տարի գործելուց հետո կդադարեցնի իր Binance Pool-ի և հարակից մայնինգ ծառայությունների աշխատանքը։",
+        "link": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+        "source": "Decrypt",
+        "enTitle": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png@png"
+      },
+      {
+        "headline": "Interactive Brokers-ը ներդնում է Ether-ի սթեյքինգ",
+        "summary": "Interactive Brokers բրոքերային հսկան Zerohash-ի հետ համագործակցությամբ ներկայացրել է Ether (ETH) սթեյքինգի ծառայություններ իր հաճախորդների համար։",
+        "link": "https://news.bitcoin.com/crypto-news/interactive-brokers-rolls-out-ether-staking-zerohash/",
+        "source": "Bitcoin News",
+        "enTitle": "Interactive Brokers Rolls out Ether Staking With Zerohash",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/interactive-brokers-rolls-out-ethereum-staking-with-zerohash-768x432.png"
+      },
+      {
+        "headline": "Strive-ը գնել է 280 միլիոն դոլարի Bitcoin",
+        "summary": "Nasdaq-ում ցուցակված Strive ակտիվների կառավարիչը գնել է 280 միլիոն դոլարի Bitcoin, ինչը ամիսների ընթացքում նրա ամենամեծ գնումն է։",
+        "link": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
+        "source": "Decrypt",
+        "enTitle": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-strive-gID_7.png@png"
+      },
+      {
+        "headline": "Ավստրալիան փակում է կրիպտո ածանցյալների բացը",
+        "summary": "Ավստրալիան առաջարկում է փակել կրիպտո ածանցյալների կարգավորման բացը՝ մանրածախ թրեյդերների կորուստներից հետո։",
+        "link": "https://cryptoslate.com/australia-moves-to-close-crypto-derivatives-loophole-after-retail-traders-lose-a458-million/",
+        "source": "CryptoSlate",
+        "enTitle": "Australia moves to close crypto derivatives loophole after retail traders lose A$458 million",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/australia-cfd-regulatory-review.webp"
+      },
+      {
+        "headline": "Մեծ Բրիտանիայի դատարանը մերժել է Bitcoin-ի հայցը",
+        "summary": "Մեծ Բրիտանիայի Բարձր դատարանը մերժել է չինացի խարդախության զոհերի հայցը՝ պահանջելով ավելի քան 61,000 Bitcoin, որը բռնագրավվել էր ոստիկանության կողմից։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/fraud-victims-hit-legal-wall-britain-5b-bitcoin-battle/",
+        "source": "Bitcoin News",
+        "enTitle": "Fraud Victims Hit Legal Wall in Britain’s $5B Bitcoin Battle",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/fraud-victims-hit-legal-wall-in-britains-5b-bitcoin-battle-768x432.png"
       }
     ]
   }
