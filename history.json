@@ -4249,9 +4249,9 @@
   },
   {
     "date": "2026-10-14",
-    "ts": 1791924859775,
+    "ts": 1791975143405,
     "fng": {
-      "value": 57,
+      "value": 62,
       "label": "Greed",
       "hy": "Ագահություն",
       "dot": "🟢"
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 83327,
-        "change24h": 0.3158212322133927
+        "price": 83352,
+        "change24h": 0.1356114392851884
       },
       {
         "label": "Ethereum",
-        "price": 2509.22,
-        "change24h": -0.5242579400359487
+        "price": 2501.43,
+        "change24h": 0.353234882176253
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է խառը տրամադրություններով՝ ինստիտուցիոնալ ընդունման և կորպորատիվ ներդրումների աճի, ինչպես նաև անվտանգության մտահոգությունների և կարգավորող միջոցառումների ֆոնին։",
+    "overview": "Կրիպտոարժույթների շուկայում այսօր նկատվում է խառը տրամադրություն՝ ինստիտուցիոնալ ընդունման շարունակական աճի և կարգավորող մարմինների կողմից առաջացած մարտահրավերների ֆոնին։",
     "items": [
       {
-        "headline": "Trezor-ը սահմանափակում է վերավաճառողներին Ledger-ի խնդրից հետո",
-        "summary": "Trezor-ը սկսում է սահմանափակել իր լիազորված վերավաճառողների ցանցը՝ ի պատասխան Ledger ապարատային դրամապանակների անվտանգության հետ կապված խնդիրների։",
-        "link": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-triggers-trezor-reseller-crackdown-as-security-fears-spread/",
-        "source": "CryptoSlate",
-        "enTitle": "Ledger’s crypto wallet implant scare triggers Trezor reseller crackdown as security fears spread",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-hardware-shipment-lockdown.webp"
-      },
-      {
-        "headline": "Binance-ը դադարեցնում է Bitcoin մայնինգի իր ծառայությունները",
-        "summary": "Binance-ը հայտարարել է, որ վեց տարի գործելուց հետո կդադարեցնի իր Binance Pool-ի և հարակից մայնինգ ծառայությունների աշխատանքը։",
-        "link": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+        "headline": "Kraken-ը ձեռք է բերում Saldo Bank-ը ԵՄ-ում",
+        "summary": "Kraken-ի սեփականատեր Payward-ը նախատեսում է ձեռք բերել Լիտվայի Saldo Bank-ը՝ ընդլայնելով իր ներկայությունը Եվրոպական Միությունում։",
+        "link": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push",
         "source": "Decrypt",
-        "enTitle": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png@png"
+        "enTitle": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/kraken2-gID_7.jpg@png"
       },
       {
-        "headline": "Interactive Brokers-ը ներդնում է Ether-ի սթեյքինգ",
-        "summary": "Interactive Brokers բրոքերային հսկան Zerohash-ի հետ համագործակցությամբ ներկայացրել է Ether (ETH) սթեյքինգի ծառայություններ իր հաճախորդների համար։",
-        "link": "https://news.bitcoin.com/crypto-news/interactive-brokers-rolls-out-ether-staking-zerohash/",
+        "headline": "Standard Chartered-ը ընդլայնում է կրիպտո առևտուրը",
+        "summary": "Standard Chartered բանկը ընդլայնել է իր Bitcoin և Ether սփոթ առևտրի ծառայությունները ԱՄԷ-ի պրոֆեսիոնալ ներդրողների համար։",
+        "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WQPH22MB1PQE91PWD5QS21/hi-dubai-overview-crypto-and-blockchain.jpg"
+      },
+      {
+        "headline": "Ledger դրամապանակները հանվում են վաճառքից",
+        "summary": "Ledger-ը հրահանգել է վերավաճառողներին դադարեցնել իր ապարատային դրամապանակների վաճառքը յոթ ասիական շուկաներում՝ կապված կասկածելի սարքերի հետաքննության հետ։",
+        "link": "https://news.bitcoin.com/security/ledger-pulls-wallets-seven-asian-markets-spy-chip-probe/",
         "source": "Bitcoin News",
-        "enTitle": "Interactive Brokers Rolls out Ether Staking With Zerohash",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/interactive-brokers-rolls-out-ethereum-staking-with-zerohash-768x432.png"
+        "enTitle": "Ledger Wallets Taken off Shelves in 7 Asian Markets as Spy Chip Probe Deepens",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/ledger-wallet-768x432.jpg"
       },
       {
-        "headline": "Strive-ը գնել է 280 միլիոն դոլարի Bitcoin",
-        "summary": "Nasdaq-ում ցուցակված Strive ակտիվների կառավարիչը գնել է 280 միլիոն դոլարի Bitcoin, ինչը ամիսների ընթացքում նրա ամենամեծ գնումն է։",
-        "link": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
-        "source": "Decrypt",
-        "enTitle": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-strive-gID_7.png@png"
-      },
-      {
-        "headline": "Ավստրալիան փակում է կրիպտո ածանցյալների բացը",
-        "summary": "Ավստրալիան առաջարկում է փակել կրիպտո ածանցյալների կարգավորման բացը՝ մանրածախ թրեյդերների կորուստներից հետո։",
-        "link": "https://cryptoslate.com/australia-moves-to-close-crypto-derivatives-loophole-after-retail-traders-lose-a458-million/",
+        "headline": "Interactive Brokers-ը մուտք է գործում Ethereum staking",
+        "summary": "Interactive Brokers-ը մուտք է գործում Ethereum-ի staking շուկա, քանի որ ինստիտուցիոնալ պահանջարկը շարունակում է արագանալ։",
+        "link": "https://cryptoslate.com/interactive-brokers-moves-into-ethereums-110-billion-staking-market-as-institutional-demand-accelerates/",
         "source": "CryptoSlate",
-        "enTitle": "Australia moves to close crypto derivatives loophole after retail traders lose A$458 million",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/australia-cfd-regulatory-review.webp"
+        "enTitle": "Interactive Brokers moves into Ethereum’s $110 billion staking market as institutional demand accelerates",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-staking-access-checkpoint.webp"
       },
       {
-        "headline": "Մեծ Բրիտանիայի դատարանը մերժել է Bitcoin-ի հայցը",
-        "summary": "Մեծ Բրիտանիայի Բարձր դատարանը մերժել է չինացի խարդախության զոհերի հայցը՝ պահանջելով ավելի քան 61,000 Bitcoin, որը բռնագրավվել էր ոստիկանության կողմից։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/fraud-victims-hit-legal-wall-britain-5b-bitcoin-battle/",
-        "source": "Bitcoin News",
-        "enTitle": "Fraud Victims Hit Legal Wall in Britain’s $5B Bitcoin Battle",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/fraud-victims-hit-legal-wall-in-britains-5b-bitcoin-battle-768x432.png"
+        "headline": "Ֆրանսիայի հարկը կարող է վտարել կրիպտո առևտրականներին",
+        "summary": "Առաջարկվող ֆրանսիական 31.4% հարկը կարգավորվող stablecoin-ների վրա կարող է կրիպտո առևտրականներին մղել դեպի օֆշորային հարթակներ։",
+        "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/2695a675c283399d52d01fdcce43803229edb864-4256x2832.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Հարավային Կորեան արգելափակում է կրիպտո հարթակները",
+        "summary": "Հարավային Կորեայում 27 կրիպտո փոխանակման կայքեր դադարեցրել են գործունեությունը՝ կրիպտո օգտատերերի մուտքը սահմանափակելով։",
+        "link": "https://cryptoslate.com/south-korea-locks-out-crypto-users-as-27-exchange-sites-go-dark/",
+        "source": "CryptoSlate",
+        "enTitle": "South Korea locks out crypto users as 27 exchange sites go dark",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/south-korea-crypto-access-block-standard.jpg"
       }
     ]
   }
