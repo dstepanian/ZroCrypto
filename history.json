@@ -4249,7 +4249,7 @@
   },
   {
     "date": "2026-10-14",
-    "ts": 1791975143405,
+    "ts": 1792007483733,
     "fng": {
       "value": 62,
       "label": "Greed",
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 83352,
-        "change24h": 0.1356114392851884
+        "price": 81649,
+        "change24h": -1.748765408713825
       },
       {
         "label": "Ethereum",
-        "price": 2501.43,
-        "change24h": 0.353234882176253
+        "price": 2426.56,
+        "change24h": -3.025085349532421
       }
     ],
-    "overview": "Կրիպտոարժույթների շուկայում այսօր նկատվում է խառը տրամադրություն՝ ինստիտուցիոնալ ընդունման շարունակական աճի և կարգավորող մարմինների կողմից առաջացած մարտահրավերների ֆոնին։",
+    "overview": "Այսօրվա նորությունները ցույց են տալիս կրիպտոարժույթների շուկայում ինստիտուցիոնալ զարգացումների աճ, քանի որ խոշոր բանկերը ընդլայնում են իրենց ծառայությունները, իսկ կրիպտո փոխանակումները ձեռք են բերում ավանդական ֆինանսական կառույցներ։ Կարգավորող մարմինների գործողությունները և տեխնոլոգիական թարմացումները նույնպես կարևոր դեր են խաղում շուկայի ընդհանուր տրամադրության ձևավորման գործում։",
     "items": [
       {
-        "headline": "Kraken-ը ձեռք է բերում Saldo Bank-ը ԵՄ-ում",
-        "summary": "Kraken-ի սեփականատեր Payward-ը նախատեսում է ձեռք բերել Լիտվայի Saldo Bank-ը՝ ընդլայնելով իր ներկայությունը Եվրոպական Միությունում։",
-        "link": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push",
+        "headline": "Ռուսական Sberbank-ը թույլտվություն է ստացել Bitcoin-ի առևտրի համար",
+        "summary": "Ռուսաստանի խոշորագույն Sberbank բանկը թույլտվություն է ստացել Bitcoin-ի, Ethereum-ի և USDT-ի առևտուր իրականացնելու համար՝ ծառայություններ մատուցելով 110 միլիոն մանրածախ հաճախորդների։",
+        "link": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
         "source": "Decrypt",
-        "enTitle": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/kraken2-gID_7.jpg@png"
+        "enTitle": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png"
       },
       {
-        "headline": "Standard Chartered-ը ընդլայնում է կրիպտո առևտուրը",
-        "summary": "Standard Chartered բանկը ընդլայնել է իր Bitcoin և Ether սփոթ առևտրի ծառայությունները ԱՄԷ-ի պրոֆեսիոնալ ներդրողների համար։",
-        "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Standard Chartered-ը Bitcoin և Ethereum է առաջարկում ԱՄԷ-ում",
+        "summary": "Standard Chartered բանկը Դուբայի կարգավորող մարմիններից հավանություն է ստացել՝ թույլ տալով հարուստ հաճախորդներին գնել Bitcoin և Ethereum անմիջապես իրենց բանկային հաշիվներից։",
+        "link": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+        "source": "Decrypt",
+        "enTitle": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png"
+      },
+      {
+        "headline": "ԵՄ-ն USDC-ն դասակարգում է որպես «նշանակալի» MiCA-ի ներքո",
+        "summary": "Եվրոպական Միության մարմինը Circle-ի USDC stablecoin-ը դասակարգել է որպես «նշանակալի» MiCA կանոնակարգի ներքո, ինչը նշանակում է, որ այն կվերահսկվի ֆրանսիական և ԵՄ մարմինների կողմից։",
+        "link": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WQPH22MB1PQE91PWD5QS21/hi-dubai-overview-crypto-and-blockchain.jpg"
+        "enTitle": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XTT3VWKHJ84ZJBP443TGSN/hi-globe-usdc.png"
       },
       {
-        "headline": "Ledger դրամապանակները հանվում են վաճառքից",
-        "summary": "Ledger-ը հրահանգել է վերավաճառողներին դադարեցնել իր ապարատային դրամապանակների վաճառքը յոթ ասիական շուկաներում՝ կապված կասկածելի սարքերի հետաքննության հետ։",
-        "link": "https://news.bitcoin.com/security/ledger-pulls-wallets-seven-asian-markets-spy-chip-probe/",
+        "headline": "Kraken-ի մայր ընկերությունը բանկ է ձեռք բերում Եվրոպայում",
+        "summary": "Kraken-ի մայր ընկերությունը՝ Payward-ը, համաձայնություն է ձեռք բերել Լիտվայում լիցենզավորված Saldo Bank-ը ձեռք բերելու համար՝ ընդլայնելով իր ֆինանսական գործունեությունը Եվրոպայում։",
+        "link": "https://news.bitcoin.com/finance/krakens-parent-company-moves-acquire-bank-europe/",
         "source": "Bitcoin News",
-        "enTitle": "Ledger Wallets Taken off Shelves in 7 Asian Markets as Spy Chip Probe Deepens",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/ledger-wallet-768x432.jpg"
+        "enTitle": "Kraken’s Parent Company Moves to Acquire a Bank in Europe",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/kraken-wins-22-million-arbitration-as-arjun-sethi-calls-for-clear-crypto-rules-768x432.jpg"
       },
       {
-        "headline": "Interactive Brokers-ը մուտք է գործում Ethereum staking",
-        "summary": "Interactive Brokers-ը մուտք է գործում Ethereum-ի staking շուկա, քանի որ ինստիտուցիոնալ պահանջարկը շարունակում է արագանալ։",
-        "link": "https://cryptoslate.com/interactive-brokers-moves-into-ethereums-110-billion-staking-market-as-institutional-demand-accelerates/",
-        "source": "CryptoSlate",
-        "enTitle": "Interactive Brokers moves into Ethereum’s $110 billion staking market as institutional demand accelerates",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-staking-access-checkpoint.webp"
+        "headline": "HEX-ի հիմնադիր Ռիչարդ Հարթը ձերբակալվել է Ստամբուլում",
+        "summary": "Թուրքական լրատվամիջոցները հայտնում են, որ HEX և PulseChain նախագծերի հիմնադիր Ռիչարդ Հարթը ձերբակալվել է Ստամբուլում՝ Ինտերպոլի կողմից տրված կարմիր ծանուցման հիման վրա։",
+        "link": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
+        "source": "The Block",
+        "enTitle": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/12/20191210_Hex-FTC-SEC.jpg"
       },
       {
-        "headline": "Ֆրանսիայի հարկը կարող է վտարել կրիպտո առևտրականներին",
-        "summary": "Առաջարկվող ֆրանսիական 31.4% հարկը կարգավորվող stablecoin-ների վրա կարող է կրիպտո առևտրականներին մղել դեպի օֆշորային հարթակներ։",
-        "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/2695a675c283399d52d01fdcce43803229edb864-4256x2832.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Հարավային Կորեան արգելափակում է կրիպտո հարթակները",
-        "summary": "Հարավային Կորեայում 27 կրիպտո փոխանակման կայքեր դադարեցրել են գործունեությունը՝ կրիպտո օգտատերերի մուտքը սահմանափակելով։",
-        "link": "https://cryptoslate.com/south-korea-locks-out-crypto-users-as-27-exchange-sites-go-dark/",
-        "source": "CryptoSlate",
-        "enTitle": "South Korea locks out crypto users as 27 exchange sites go dark",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/south-korea-crypto-access-block-standard.jpg"
+        "headline": "Solana-ն հայտարարել է իր հաջորդ խոշոր թարմացման ամսաթիվը",
+        "summary": "Solana-ն հայտարարել է Alpenglow թարմացման ամսաթիվը, որը հոկտեմբերի 21-ին կփոխարինի TowerBFT քվեարկության համակարգը՝ զգալիորեն կրճատելով գործարքների վերջնականացման ժամանակը։",
+        "link": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
+        "source": "Decrypt",
+        "enTitle": "Solana Sets a Date for Its Next Major Upgrade",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png"
       }
     ]
   }
