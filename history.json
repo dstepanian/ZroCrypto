@@ -4249,7 +4249,7 @@
   },
   {
     "date": "2026-10-15",
-    "ts": 1792060491929,
+    "ts": 1792092858548,
     "fng": {
       "value": 53,
       "label": "Neutral",
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 81014,
-        "change24h": -2.7762380048587736
+        "price": 82376,
+        "change24h": 0.8316674762558321
       },
       {
         "label": "Ethereum",
-        "price": 2364.19,
-        "change24h": -5.481308293616054
+        "price": 2452.18,
+        "change24h": 0.940705544901126
       }
     ],
-    "overview": "Կրիպտոարժույթների շուկան այսօր նշանավորվել է կարգավորող մարմինների ուշադրությամբ և իրավական գործողություններով, ինչպես նաև հիմնական նախագծերի զարգացումներով և բիզնեսի ընդլայնմամբ:",
+    "overview": "Շուկան այսօր զգալի անկայունություն է ցուցաբերել՝ պայմանավորված մակրոտնտեսական տվյալներով։ Միևնույն ժամանակ, ավանդական ֆինանսները շարունակում են ուսումնասիրել կրիպտո ինտեգրումը, մինչդեռ տարբեր երկրներում կարգավորող դաշտերը ցույց են տալիս ինչպես առաջընթաց, այնպես էլ հետընթաց։",
     "items": [
       {
-        "headline": "Tether-ը վճարել է նախկին պաշտոնյայի ընկերությանը",
-        "summary": "Wall Street Journal-ի հետաքննությունը պնդում է, որ Tether-ը մոտ 6.3 միլիոն դոլար է վճարել խորհրդատվական ընկերությանը, որը մասամբ պատկանում էր Սպիտակ տան կրիպտոարժույթների նախկին բարձրաստիճան պաշտոնյա Bo Hines-ին:",
-        "link": "https://news.bitcoin.com/crypto-news/tether-paid-a-firm-owned-by-a-former-white-house-crypto-official-wsj/",
-        "source": "Bitcoin News",
-        "enTitle": "Tether Paid a Firm Owned by a Former White House Crypto Official, WSJ",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/tether-paid-a-firm-owned-by-a-former-white-house-crypto-official-wsj-768x432.png"
+        "headline": "Bitwise-ի CIO-ն կանխատեսում է Bitcoin-ի աճը AI-ի ցանկացած սցենարում",
+        "summary": "Bitwise-ի գլխավոր ներդրումային տնօրեն Մեթ Հուգանը կարծում է, որ անկախ AI-ի զարգացումներից՝ գերառատությունից մինչև փլուզում, Bitcoin-ի արժեքը կաճի։",
+        "link": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
+        "source": "Decrypt",
+        "enTitle": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-05-gID_7.png@png"
       },
       {
-        "headline": "Starknet-ը քվեարկություն է սկսել Ethereum-ից անջատվելու համար",
-        "summary": "Starknet-ը STRK-ի սեփականատերերին հարցնում է, թե արդյոք պետք է ուսումնասիրել անկախ layer-1 բլոկչեյն դառնալու հնարավորությունը՝ նվազեցնելու համար իր կախվածությունը Ethereum-ի քվանտային անվտանգության արդիականացման ժամանակացույցից:",
-        "link": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZFWYVQRAM56PW1PG6VCAV4/starknet.jpg"
-      },
-      {
-        "headline": "Ավստրալիան խստացնում է կրիպտո բորսաների կանոնները",
-        "summary": "Ավստրալիայի կարգավորող մարմինը՝ ASIC-ը, առաջարկել է ավելի խիստ կանոններ՝ պաշտպանելու օգտատերերի թվային ակտիվները, կրիպտո առևտուրը և երկրի ֆինանսական կայունությունը:",
-        "link": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
+        "headline": "Սպիտակ տնից հեռացել է կրիպտո խորհրդականը",
+        "summary": "Նախագահ Դոնալդ Թրամփի կրիպտո խորհրդական Պատրիկ Վիթի հեռանալը թափուր է թողնում թվային ակտիվների գրասենյակը և անորոշ դարձնում դրա քաղաքական նպատակները։",
+        "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/725e54466a506d18ddd589c3163082c4f09cc8f6-2704x1544.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+        "enTitle": "At the White House, crypto policy vacancy looms large",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/a557d00cbe2a4f9b6f42b53082f2cd587490332b-4031x2267.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Hex-ի հիմնադիր Richard Heart-ը ձերբակալվել է",
-        "summary": "Թուրքական լրատվամիջոցները հաղորդում են, որ Hex-ի հիմնադիր Richard Heart-ը ձերբակալվել է Ստամբուլում, իսկ նրա բնակարանից առգրավվել է 4 միլիոն դոլար կանխիկ գումար և 64 շքեղ ժամացույց:",
-        "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/03e37489ed1eae296cbd07f255ddf7baed72214e-2826x1554.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+        "headline": "Mastercard-ը ինտեգրում է stablecoin-ները ավանդական բանկային համակարգ",
+        "summary": "Mastercard-ը BVNK-ի հետ համատեղ գործարկել է «Global Money Platform»-ը, որը թույլ է տալիս բանկերին և ֆինտեխ ընկերություններին պահել, փոխարկել և ծախսել fiat և stablecoin-ներ մեկ API-ի միջոցով։",
+        "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
+        "source": "Decrypt",
+        "enTitle": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/mastercard-decrypt-style-01-gID_7.png@png"
       },
       {
-        "headline": "Ripple-ի ընդլայնումը Կորեայում",
-        "summary": "Ripple-ի կորեական համագործակցությունն այժմ կապում է անդրսահմանային բիզնես վճարումները, բանկերի կողմից կառավարվող թվային ակտիվների դրամապանակները և պետական պարտատոմսերի բլոկչեյնի վրա հիմնված հաշվարկները:",
-        "link": "https://news.bitcoin.com/featured/ripples-korean-expansion-reaches-from-remittances-to-government-bonds/",
+        "headline": "Binance US-ը ֆինանսավորում է փնտրում ցածր գնահատմամբ",
+        "summary": "Bloomberg-ի հաղորդմամբ՝ Binance US-ը ձգտում է մինչև 100 միլիոն դոլարի նոր կապիտալ ներգրավել մոտ 1 միլիարդ դոլար գնահատմամբ, ինչը զգալի անկում է 2022 թվականի 4.5 միլիարդ դոլարի նախնական գնահատականից։",
+        "link": "https://news.bitcoin.com/crypto-news/binance-us-chases-100-million-fraction-past-valuation/",
         "source": "Bitcoin News",
-        "enTitle": "Ripple’s Korean Expansion Reaches From Remittances to Government Bonds",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/ripple-4-768x432.jpg"
+        "enTitle": "Binance US Chases $100 Million at a Fraction of Past Valuation: Bloomberg",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/report-binance-us-chases-100-million-at-a-fraction-of-its-old-value-768x432.png"
       },
       {
-        "headline": "VanEck-ը հետ է կանչում Lido staked Ether ETF-ի հայտը",
-        "summary": "VanEck-ը ձգտում է հետ կանչել Lido staked Ether ETF-ի համար իր դիմումը, որը նախապես ներկայացվել էր անցյալ տարվա հոկտեմբերին:",
-        "link": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Bitcoin-ի անկայունություն և լիկվիդացիաներ ԱՄՆ գնաճի պատճառով",
+        "summary": "ԱՄՆ-ի բարձր գնաճի տվյալները վերակենդանացրել են Fed-ի տոկոսադրույքների բարձրացման ակնկալիքները, ինչը հանգեցրել է գրեթե 1 միլիարդ դոլարի կրիպտո դիրքերի լիկվիդացիայի և Bitcoin-ի գնի անկայունության։",
+        "link": "https://cryptoslate.com/bitcoins-100000-dream-slips-away-as-939-million-crypto-wipeout-pushes-traders-toward-78000/",
+        "source": "CryptoSlate",
+        "enTitle": "Bitcoin’s $100,000 dream slips away as $939 million crypto wipeout pushes traders toward $78,000",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-market-selloff-underwater.webp"
+      },
+      {
+        "headline": "Ռուսաստանը կարգելափակի P2P կրիպտո առևտուրը",
+        "summary": "Ռուսաստանը նախատեսում է 2027 թվականի հուլիսի 1-ից արգելել P2P կրիպտո առևտուրը, մինչդեռ առանձին կանոններ արդեն արգելում են փոխանցումները թվային հաշիվներից դեպի ինքնապահպանման դրամապանակներ։",
+        "link": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "VanEck seeks to withdraw application for Lido staked Ether ETF",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4YJ7E5P377C783E6HEWNS55/hi-using-proprietary-indicators-vaneck.jpg"
+        "enTitle": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZXEK5DTKX65782NKWA8C3M/russia-p2p-ban-illustration-1.png"
       }
     ]
   }
