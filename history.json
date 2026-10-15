@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-16",
-    "ts": 1786896821090,
-    "fng": {
-      "value": 34,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 63103,
-        "change24h": 0.10903728537986895
-      },
-      {
-        "label": "Ethereum",
-        "price": 1882.77,
-        "change24h": -0.03660867598619597
-      }
-    ],
-    "overview": "Այսօրվա նորությունները ցույց են տալիս քաղաքական և ավանդական ֆինանսական հատվածների աճող ներգրավվածությունը կրիպտոարժույթների ոլորտում։ Միաժամանակ, դիտվում են կարգավորող մարմինների հետ կապված մարտահրավերներ և էկոհամակարգի զարգացումներ։",
-    "items": [
-      {
-        "headline": "Թրամփը կհանդիպի կրիպտո առաջնորդների հետ",
-        "summary": "Նախագահ Դոնալդ Թրամփը հաջորդ շաբաթ կհանդիպի Coinbase-ի, Ripple-ի և կրիպտո ոլորտի այլ առաջնորդների հետ, մինչ CLARITY Act-ի ընդունման հավանականությունը նվազում է։",
-        "link": "https://cryptoslate.com/trump-to-meet-coinbase-ripple-and-crypto-leaders-as-clarity-act-odds-collapse-to-10/",
-        "source": "CryptoSlate",
-        "enTitle": "Trump to meet Coinbase, Ripple and crypto leaders as CLARITY Act odds collapse to 10%",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/clarity-act-roadblock.jpg?ver=1786836387"
-      },
-      {
-        "headline": "Թրամփի հետ կապված ընկերությունը ստացավ բանկային հավանություն",
-        "summary": "Դոնալդ Թրամփի հետ կապված World Liberty Financial-ը ստացել է OCC-ի նախնական հավանությունը ազգային թրաստ բանկ ստեղծելու համար, մինչ նրա $112 միլիոն արժողությամբ DeFi դիրքը մոտ է լուծարմանը։",
-        "link": "https://cryptoslate.com/trump-linked-world-liberty-financial-wins-occ-bank-approval-as-112-million-defi-position-sits-near-liquidation/",
-        "source": "CryptoSlate",
-        "enTitle": "Trump-linked World Liberty Financial wins OCC bank approval as $112 million DeFi position sits near liquidation",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/wlfi-underwater-risk.jpg"
-      },
-      {
-        "headline": "TradFi հսկաները ընդունում են թվային ակտիվները",
-        "summary": "«Երկար Bitcoin, կարճ բանկիրներ» դարաշրջանը պաշտոնապես ավարտվել է, քանի որ ավանդական ֆինանսական հսկաները (TradFi) ընդունում են թվային ակտիվները։",
-        "link": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b6799ddec98f4a85e8d4c72c273a8bac2f2efd4c-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "MiCA-ի մաքրումը նոր խարդախություններ է առաջացնում ԵՄ-ում",
-        "summary": "Եվրոպական միության MiCA կանոնակարգի մաքրումը նոր խարդախությունների ալիք է ստեղծում, քանի որ խաբեբաները ձևանում են կարգավորող մարմիններ կամ լիցենզավորված բորսաներ՝ օգտատերերից միջոցներ գողանալու համար։",
-        "link": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "MiCA's cleanup is creating a new scam wave across the European Union",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Bitcoin մայնինգը տեղափոխվում է AI",
-        "summary": "Հանրային Bitcoin մայնինգ ընկերությունները նվազեցրել են իրենց հաշրեյթը 21%-ով՝ արագացնելով AI-ից ստացվող եկամուտների աճը։",
-        "link": "https://news.bitcoin.com/mining/public-miners-shed-21-of-bitcoin-hashrate-as-ai-revenue-accelerates/",
-        "source": "Bitcoin News",
-        "enTitle": "Public Miners Shed 21% of Bitcoin Hashrate as AI Revenue Accelerates",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/hash-to-hpc-visual-768x432.jpg"
-      },
-      {
-        "headline": "Wall Street-ի սթեյքինգը և ETH/SOL-ի փոփոխությունները",
-        "summary": "Wall Street-ը սթեյքինգը վերածել է շահաբաժնի, մինչդեռ Ethereum-ը և Solana-ն ցանկանում են նվազեցնել իրենց թողարկման մակարդակը։",
-        "link": "https://cryptoslate.com/wall-street-finally-turned-staking-into-a-dividend-now-ethereum-and-solana-want-to-shrink-it/",
-        "source": "CryptoSlate",
-        "enTitle": "Wall Street finally turned staking into a dividend, now Ethereum and Solana want to shrink it",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/staking-yield-dial.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-17",
     "ts": 1786983375511,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Decrypt",
         "enTitle": "Solana Sets a Date for Its Next Major Upgrade",
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "ts": 1792060491929,
+    "fng": {
+      "value": 53,
+      "label": "Neutral",
+      "hy": "Չեզոք",
+      "dot": "🟡"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 81014,
+        "change24h": -2.7762380048587736
+      },
+      {
+        "label": "Ethereum",
+        "price": 2364.19,
+        "change24h": -5.481308293616054
+      }
+    ],
+    "overview": "Կրիպտոարժույթների շուկան այսօր նշանավորվել է կարգավորող մարմինների ուշադրությամբ և իրավական գործողություններով, ինչպես նաև հիմնական նախագծերի զարգացումներով և բիզնեսի ընդլայնմամբ:",
+    "items": [
+      {
+        "headline": "Tether-ը վճարել է նախկին պաշտոնյայի ընկերությանը",
+        "summary": "Wall Street Journal-ի հետաքննությունը պնդում է, որ Tether-ը մոտ 6.3 միլիոն դոլար է վճարել խորհրդատվական ընկերությանը, որը մասամբ պատկանում էր Սպիտակ տան կրիպտոարժույթների նախկին բարձրաստիճան պաշտոնյա Bo Hines-ին:",
+        "link": "https://news.bitcoin.com/crypto-news/tether-paid-a-firm-owned-by-a-former-white-house-crypto-official-wsj/",
+        "source": "Bitcoin News",
+        "enTitle": "Tether Paid a Firm Owned by a Former White House Crypto Official, WSJ",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/tether-paid-a-firm-owned-by-a-former-white-house-crypto-official-wsj-768x432.png"
+      },
+      {
+        "headline": "Starknet-ը քվեարկություն է սկսել Ethereum-ից անջատվելու համար",
+        "summary": "Starknet-ը STRK-ի սեփականատերերին հարցնում է, թե արդյոք պետք է ուսումնասիրել անկախ layer-1 բլոկչեյն դառնալու հնարավորությունը՝ նվազեցնելու համար իր կախվածությունը Ethereum-ի քվանտային անվտանգության արդիականացման ժամանակացույցից:",
+        "link": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZFWYVQRAM56PW1PG6VCAV4/starknet.jpg"
+      },
+      {
+        "headline": "Ավստրալիան խստացնում է կրիպտո բորսաների կանոնները",
+        "summary": "Ավստրալիայի կարգավորող մարմինը՝ ASIC-ը, առաջարկել է ավելի խիստ կանոններ՝ պաշտպանելու օգտատերերի թվային ակտիվները, կրիպտո առևտուրը և երկրի ֆինանսական կայունությունը:",
+        "link": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/725e54466a506d18ddd589c3163082c4f09cc8f6-2704x1544.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Hex-ի հիմնադիր Richard Heart-ը ձերբակալվել է",
+        "summary": "Թուրքական լրատվամիջոցները հաղորդում են, որ Hex-ի հիմնադիր Richard Heart-ը ձերբակալվել է Ստամբուլում, իսկ նրա բնակարանից առգրավվել է 4 միլիոն դոլար կանխիկ գումար և 64 շքեղ ժամացույց:",
+        "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/03e37489ed1eae296cbd07f255ddf7baed72214e-2826x1554.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Ripple-ի ընդլայնումը Կորեայում",
+        "summary": "Ripple-ի կորեական համագործակցությունն այժմ կապում է անդրսահմանային բիզնես վճարումները, բանկերի կողմից կառավարվող թվային ակտիվների դրամապանակները և պետական պարտատոմսերի բլոկչեյնի վրա հիմնված հաշվարկները:",
+        "link": "https://news.bitcoin.com/featured/ripples-korean-expansion-reaches-from-remittances-to-government-bonds/",
+        "source": "Bitcoin News",
+        "enTitle": "Ripple’s Korean Expansion Reaches From Remittances to Government Bonds",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/ripple-4-768x432.jpg"
+      },
+      {
+        "headline": "VanEck-ը հետ է կանչում Lido staked Ether ETF-ի հայտը",
+        "summary": "VanEck-ը ձգտում է հետ կանչել Lido staked Ether ETF-ի համար իր դիմումը, որը նախապես ներկայացվել էր անցյալ տարվա հոկտեմբերին:",
+        "link": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4YJ7E5P377C783E6HEWNS55/hi-using-proprietary-indicators-vaneck.jpg"
       }
     ]
   }
