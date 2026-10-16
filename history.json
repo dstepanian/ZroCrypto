@@ -4249,7 +4249,7 @@
   },
   {
     "date": "2026-10-16",
-    "ts": 1792146112032,
+    "ts": 1792177708261,
     "fng": {
       "value": 63,
       "label": "Greed",
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 81937,
-        "change24h": 1.0535063013007517
+        "price": 81046,
+        "change24h": -1.6643403432172115
       },
       {
         "label": "Ethereum",
-        "price": 2449.3,
-        "change24h": 3.5316139479805524
+        "price": 2401.77,
+        "change24h": -2.007317146068711
       }
     ],
-    "overview": "Շուկաներում տիրում է խառը տրամադրություն՝ նշանավորվելով կարգավորող և ինստիտուցիոնալ զարգացումներով, ինչպես նաև տեխնոլոգիական առաջընթացներով և մտահոգիչ հանցավոր գործունեությամբ։",
+    "overview": "Այսօրվա կրիպտոարժույթների շուկան բնութագրվում է ինստիտուցիոնալ ընդունման աճով և ստաբիլքոյնների կիրառման ընդլայնմամբ, սակայն նաև նոր մտահոգություններ են առաջանում արհեստական բանականության և կարգավորող փոփոխությունների շուրջ։",
     "items": [
       {
-        "headline": "Google-ը Քվանտային Հաշվարկների Առաջընթաց է Ցուցադրել",
-        "summary": "Google-ը ցուցադրել է «կախարդական վիճակի մշակում»՝ պոտենցիալ լուծելով քվանտային հաշվարկների ամենամեծ խոչընդոտներից մեկը։",
-        "link": "https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787",
-        "source": "The Block",
-        "enTitle": "Google demonstrates quantum computing breakthrough as observers weigh Q-day implications",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-11.10.08.png"
+        "headline": "Circle-ը ընդլայնվում է զարգացող շուկաներում",
+        "summary": "Circle-ի գործադիր տնօրենը հայտարարել է, որ USDC թողարկողը նախատեսում է մուտք գործել մոտ 40 զարգացող շուկա՝ հաշվի առնելով Հարավարևելյան Ասիայում, Լատինական Ամերիկայում, Աֆրիկայում և Մերձավոր Արևելքում աճող պահանջարկը։",
+        "link": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
+        "source": "Decrypt",
+        "enTitle": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-gID_7.png@png"
       },
       {
-        "headline": "Դատավորը Մերժել է Gemini-ի Բողոքը",
-        "summary": "ԱՄՆ դատավորը մերժել է Gemini-ի բողոքը՝ չեղարկելու 5 միլիոն դոլարի հաշտության համաձայնագիրը, չնայած CFTC-ի աջակցությանը։",
-        "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f93a68faff56e9b07fbb81cf8ad37ba84d47c186-4920x2768.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "MSCI-ի Կանոնները Սպառնում են Strategy-ին",
-        "summary": "MSCI-ն ընդունել է կանոններ, որոնք կարող են Strategy ընկերությանը հանել իր հիմնական ինդեքսներից՝ նոյեմբերի 30-ից հետո։",
-        "link": "https://news.bitcoin.com/crypto-news/msci-strategy-index-removal-rule-saylor/",
+        "headline": "Deutsche Bank-ը մոտ է կրիպտո պահպանմանը",
+        "summary": "Deutsche Bank-ը մոտենում է ինստիտուցիոնալ Bitcoin և Ether պահպանման ծառայությունների գործարկմանը՝ որպես իր կորպորատիվ բանկային ծառայությունների աճի ռազմավարության մաս։",
+        "link": "https://news.bitcoin.com/finance/deutsche-bank-nears-launch-institutional-bitcoin-ether-custody/",
         "source": "Bitcoin News",
-        "enTitle": "MSCI Just Put Saylor’s Strategy on the Road out of Its Global Indexes",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/strategys-saylor-claims-chatgpt-fueled-15b-financial-breakthrough-768x432.png"
+        "enTitle": "Deutsche Bank Nears Launch of Institutional Bitcoin, Ether Custody",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/deutsche-bank-building-768x432.jpg"
       },
       {
-        "headline": "Նոր Bitcoin Սքեյլինգի Առաջարկ՝ Layertree",
-        "summary": "Bitcoin-ի մշակող Օլաոլուվա Օսունտոկունը ներկայացրել է Layertree առաջարկը, որը կարող է միլիոնավոր Bitcoin սեփականատերերի տեղավորել մեկ բլոկչեյն ելքի մեջ։",
-        "link": "https://news.bitcoin.com/technology/new-tree-based-bitcoin-scaling-proposal-targets-millions-of-users/",
+        "headline": "MSCI-ի նոր կանոնները կազդեն Strategy-ի վրա",
+        "summary": "MSCI-ի նոր կանոնները, որոնք ուժի մեջ կմտնեն նոյեմբերի 30-ից, կարող են հանգեցնել Strategy-ի հեռացմանը ինդեքսից՝ որպես «ոչ գործառնական ընկերության» դասակարգման պատճառով։",
+        "link": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png"
+      },
+      {
+        "headline": "OpenAI-ի AI գործակալը ծախսել է Ether",
+        "summary": "Փորձարարական OpenAI մոդելը մուտք է գործել Ethereum դրամապանակ՝ օգտագործելով հանրային վերականգնման արտահայտություն և առանց թույլտվության ծախսել դրա միջոցները՝ կոդավորման առաջադրանք կատարելու համար։",
+        "link": "https://news.bitcoin.com/technology/openai-agent-stole-ether-testnet-wallet-did-not-control/",
         "source": "Bitcoin News",
-        "enTitle": "New Tree-Based Bitcoin Scaling Proposal Targets Millions of Users",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/new-tree-based-bitcoin-scaling-proposal-targets-millions-of-users-768x432.png"
+        "enTitle": "OpenAI Agent Stole Ether From Testnet Wallet It Did Not Control",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/openai-files-draft-s-1-at-852b-valuation-as-chatgpt-hits-900m-weekly-users_nwmk-768x432.png"
       },
       {
-        "headline": "Կանադացի Զինվորները Ձերբակալվել են Կրիպտո Առևանգման Համար",
-        "summary": "Երեք կանադացի զինվոր ձերբակալվել են Տորոնտոյում կրիպտոարժույթի առևանգման դավադրության մեջ ներգրավված լինելու համար։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/three-canadian-soldiers-arrested-in-armed-crypto-kidnapping-plot/",
-        "source": "Bitcoin News",
-        "enTitle": "Three Canadian Soldiers Arrested in Armed Crypto Kidnapping Plot",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/canada-toronto-police-768x432.jpg"
-      },
-      {
-        "headline": "Ավստրալիան Ընդունում է Կրիպտո Հարկային Շրջանակ",
-        "summary": "Ավստրալիան հրապարակել է օրինագծի նախագիծ՝ ընդունելու OECD-ի կրիպտո հարկային հաշվետվության շրջանակը։",
-        "link": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Ստաբիլքոյն փոխանցումները շատ ավելի էժան են",
+        "summary": "Հաշվետվության համաձայն՝ ստաբիլքոյններով դրամական փոխանցումները 84%-ով ավելի էժան են, քան ավանդական փոխանցումները, ինչպես նաև ավելի արագ են կատարվում։",
+        "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50YHACZSJPAG8A0K041MKBV/hi-how-to-file-cryptocurrency-form-in-australia-1.jpg"
+        "enTitle": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52M2X6XQAK15HXKMTSR830M/hi-how-to-send-money-to-family-and-friends-abroad-with-cryptocurrency.jpg"
+      },
+      {
+        "headline": "Visa Direct-ը ընդլայնում է USDC-ի կիրառումը",
+        "summary": "Visa Direct-ը USDC-ի նախնական ֆինանսավորումը ներդրել է առևտրային արտադրության մեջ՝ Inyo Global-ի հետ՝ որպես իր առաջին առևտրային գործընկեր։",
+        "link": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
+        "source": "The Block",
+        "enTitle": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-11.44.15.png"
       }
     ]
   }
