@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-17",
-    "ts": 1786983375511,
-    "fng": {
-      "value": 31,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 64028,
-        "change24h": 1.3981323405065254
-      },
-      {
-        "label": "Ethereum",
-        "price": 1907.33,
-        "change24h": 1.2665428365149325
-      }
-    ],
-    "overview": "Շուկան խառը ազդանշաններ է ցույց տալիս. ինստիտուցիոնալ խաղացողները շարունակում են կուտակել ակտիվներ, ինչպիսիք են Ethereum-ը և Bitcoin ETF-ները, մինչդեռ կարգավորող մարմինները նոր կանոններ են առաջարկում stablecoin-ների համար։ Նկատվում են նաև անվտանգության հետ կապված միջադեպեր և արձանագրությունների զարգացումներ։",
-    "items": [
-      {
-        "headline": "Bitmine-ը շարունակում է կուտակել Ethereum",
-        "summary": "Tom Lee-ի Bitmine ընկերությունը շարունակում է գնել Ethereum և այժմ տիրապետում է ընդհանուր մատակարարման 4.8%-ին։",
-        "link": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/bafb99c8f61830de7b03162ff11769973ea3ef0d-758x528.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "ԱՄՆ Գանձապետարանը առաջարկում է GENIUS Act կանոններ",
-        "summary": "ԱՄՆ Գանձապետարանը առաջարկել է GENIUS Act-ի stablecoin-ների նոր կանոններ՝ հստակեցնելու օրենքի հիմնական սահմանումներն ու իրավասությունները։",
-        "link": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/650ce5f7005eed4049392c0fccafc962427f5d39-2880x1620.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Bitcoin ETF-ներից զգալի արտահոսք",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են 389.7 միլիոն դոլարի զուտ արտահոսք օգոստոսի 10-ից 14-ն ընկած շաբաթվա ընթացքում։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/fidelity-leads-389-7m-bitcoin-etf-weekly-outflow-with-153m-exit/",
-        "source": "Bitcoin News",
-        "enTitle": "Fidelity Leads $389.7M Bitcoin ETF Weekly Outflow With $153M Exit",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/fidelity-leads-389-7m-bitcoin-etf-weekly-outflow-with-153m-exit-768x432.jpg"
-      },
-      {
-        "headline": "Harmony-ն պլանավորում է rollback",
-        "summary": "Harmony-ն պլանավորում է նախահարձակման rollback՝ 3 տրիլիոն ONE թոքենների կեղծումից հետո՝ համարելով այն ամենաարդար և անվտանգ լուծումը։",
-        "link": "https://www.theblock.co/news/ecosystems/2026-08-17-harmony-plans-pre-attack-rollback-after-exploiter-forged-3-trillion-one-tokens-411976",
-        "source": "The Block",
-        "enTitle": "Harmony plans pre-attack rollback after exploiter forged 3 trillion ONE tokens",
-        "image": "https://www.tbstat.com/wp/uploads/2022/02/20220207-Hacking-Generic-1200x675.jpg"
-      },
-      {
-        "headline": "Strategy-ն պահպանում է Bitcoin-ի իր բաժնեմասը",
-        "summary": "Strategy-ն պահպանել է իր Bitcoin-ի պահուստները 840,447 BTC-ում մինչև օգոստոսի 16-ը՝ միաժամանակ ավելացնելով իր ԱՄՆ դոլարի պահուստը մինչև 4.8 միլիարդ դոլար։",
-        "link": "https://news.bitcoin.com/featured/strategy-holds-bitcoin-at-840447-btc-as-cash-reserve-hits-4-8b/",
-        "source": "Bitcoin News",
-        "enTitle": "Strategy Holds Bitcoin at 840,447 BTC as Cash Reserve Hits $4.8B",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/strategy-inc-5-768x432.jpg"
-      },
-      {
-        "headline": "Paul Tudor Jones-ը գնում է BlackRock Bitcoin ETF",
-        "summary": "Paul Tudor Jones-ի ընկերությունը մեկ տարվա վաճառքից հետո կրկին գնել է BlackRock Bitcoin ETF-ի բաժնետոմսեր՝ ավելացնելով իր iShares Bitcoin Trust-ի բաժնեմասը 18.9%-ով։",
-        "link": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
-        "source": "Decrypt",
-        "enTitle": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-02-gID_7.png@png"
-      }
-    ]
-  },
-  {
     "date": "2026-08-18",
     "ts": 1787070035848,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZXEK5DTKX65782NKWA8C3M/russia-p2p-ban-illustration-1.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "ts": 1792146112032,
+    "fng": {
+      "value": 63,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 81937,
+        "change24h": 1.0535063013007517
+      },
+      {
+        "label": "Ethereum",
+        "price": 2449.3,
+        "change24h": 3.5316139479805524
+      }
+    ],
+    "overview": "Շուկաներում տիրում է խառը տրամադրություն՝ նշանավորվելով կարգավորող և ինստիտուցիոնալ զարգացումներով, ինչպես նաև տեխնոլոգիական առաջընթացներով և մտահոգիչ հանցավոր գործունեությամբ։",
+    "items": [
+      {
+        "headline": "Google-ը Քվանտային Հաշվարկների Առաջընթաց է Ցուցադրել",
+        "summary": "Google-ը ցուցադրել է «կախարդական վիճակի մշակում»՝ պոտենցիալ լուծելով քվանտային հաշվարկների ամենամեծ խոչընդոտներից մեկը։",
+        "link": "https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787",
+        "source": "The Block",
+        "enTitle": "Google demonstrates quantum computing breakthrough as observers weigh Q-day implications",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-11.10.08.png"
+      },
+      {
+        "headline": "Դատավորը Մերժել է Gemini-ի Բողոքը",
+        "summary": "ԱՄՆ դատավորը մերժել է Gemini-ի բողոքը՝ չեղարկելու 5 միլիոն դոլարի հաշտության համաձայնագիրը, չնայած CFTC-ի աջակցությանը։",
+        "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f93a68faff56e9b07fbb81cf8ad37ba84d47c186-4920x2768.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "MSCI-ի Կանոնները Սպառնում են Strategy-ին",
+        "summary": "MSCI-ն ընդունել է կանոններ, որոնք կարող են Strategy ընկերությանը հանել իր հիմնական ինդեքսներից՝ նոյեմբերի 30-ից հետո։",
+        "link": "https://news.bitcoin.com/crypto-news/msci-strategy-index-removal-rule-saylor/",
+        "source": "Bitcoin News",
+        "enTitle": "MSCI Just Put Saylor’s Strategy on the Road out of Its Global Indexes",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/strategys-saylor-claims-chatgpt-fueled-15b-financial-breakthrough-768x432.png"
+      },
+      {
+        "headline": "Նոր Bitcoin Սքեյլինգի Առաջարկ՝ Layertree",
+        "summary": "Bitcoin-ի մշակող Օլաոլուվա Օսունտոկունը ներկայացրել է Layertree առաջարկը, որը կարող է միլիոնավոր Bitcoin սեփականատերերի տեղավորել մեկ բլոկչեյն ելքի մեջ։",
+        "link": "https://news.bitcoin.com/technology/new-tree-based-bitcoin-scaling-proposal-targets-millions-of-users/",
+        "source": "Bitcoin News",
+        "enTitle": "New Tree-Based Bitcoin Scaling Proposal Targets Millions of Users",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/new-tree-based-bitcoin-scaling-proposal-targets-millions-of-users-768x432.png"
+      },
+      {
+        "headline": "Կանադացի Զինվորները Ձերբակալվել են Կրիպտո Առևանգման Համար",
+        "summary": "Երեք կանադացի զինվոր ձերբակալվել են Տորոնտոյում կրիպտոարժույթի առևանգման դավադրության մեջ ներգրավված լինելու համար։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/three-canadian-soldiers-arrested-in-armed-crypto-kidnapping-plot/",
+        "source": "Bitcoin News",
+        "enTitle": "Three Canadian Soldiers Arrested in Armed Crypto Kidnapping Plot",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/canada-toronto-police-768x432.jpg"
+      },
+      {
+        "headline": "Ավստրալիան Ընդունում է Կրիպտո Հարկային Շրջանակ",
+        "summary": "Ավստրալիան հրապարակել է օրինագծի նախագիծ՝ ընդունելու OECD-ի կրիպտո հարկային հաշվետվության շրջանակը։",
+        "link": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50YHACZSJPAG8A0K041MKBV/hi-how-to-file-cryptocurrency-form-in-australia-1.jpg"
       }
     ]
   }
