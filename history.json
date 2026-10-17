@@ -4249,7 +4249,7 @@
   },
   {
     "date": "2026-10-17",
-    "ts": 1792230891591,
+    "ts": 1792260187565,
     "fng": {
       "value": 55,
       "label": "Greed",
@@ -4259,60 +4259,52 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 81605,
-        "change24h": -0.5211922792756691
+        "price": 81306,
+        "change24h": 0.2124566263489907
       },
       {
         "label": "Ethereum",
-        "price": 2434.28,
-        "change24h": -0.6432840031343519
+        "price": 2410.18,
+        "change24h": 0.08927881651302016
       }
     ],
-    "overview": "Օրվա նորությունները ընդգծում են ինչպես ավանդական ֆինանսների կողմից կրիպտոյի ընդունման զգալի զարգացումները, այնպես էլ թվային ակտիվների անվտանգությունն ապահովելու շարունակական ջանքերը։ Stablecoin-ների ընդունումը շարունակում է ընդլայնվել ամբողջ աշխարհում, մինչդեռ խոշոր ինստիտուցիոնալ խաղացողները նոր մարտահրավերների են բախվում։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է հիմնական ֆինանսական հաստատությունների կողմից թոքենիզացիայի և stablecoin-ների ընդունման շարունակական աճով, մինչդեռ նկատվում են նաև կարգավորող մարմինների գործողություններ և որոշակի շուկայական անկայունություն:",
     "items": [
       {
-        "headline": "Եվրոպական Կենտրոնական Բանկի թվային եվրոն մոտ է",
-        "summary": "Եվրոպական Կենտրոնական Բանկի նախագահ Լագարդը հայտարարել է, որ թվային եվրոն շուտով կգործարկվի՝ խթանելով նորարարությունն ու մրցակցությունը մանրածախ վճարումներում։",
-        "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Lagarde says euro-area economy is resilient, digital euro imminent",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54ENNHY19CENP5ZV5HX428Z/christine-lagarde-eu.jpg"
+        "headline": "Խոշոր բանկերը տեսնում են թոքենիզացիայի աճ",
+        "summary": "Աշխարհի խոշորագույն բանկերը, ներառյալ Goldman Sachs-ը, Wells Fargo-ն և Morgan Stanley-ն, թոքենիզացիան դիտարկում են որպես աճի հնարավորություն, այլ ոչ թե սպառնալիք, նպատակ ունենալով արագացնել վճարումները և ընդլայնել առևտրային հնարավորությունները։",
+        "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/25ff7074f50fa460f087e97f7ba81d48d2cdce60-3000x2147.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Strategy-ի բաժնետոմսերը նվազել են MSCI-ի որոշումից",
-        "summary": "Strategy-ի բաժնետոմսերը ուրբաթ օրը կորցրել են իրենց արժեքի 9.6%-ը՝ MSCI-ի որոշումից հետո, որը վերաբերում է ինդեքսում ընդգրկվելու իրավունքին։",
+        "headline": "Richard Heart-ի ձերբակալությունը Ստամբուլում հաստատվեց",
+        "summary": "Թուրքիայի արդարադատության նախարարը հաստատել է HEX-ի հիմնադիր Richard Heart-ի և չորս այլ անձանց ձերբերակալությունը Ստամբուլում, որի ընթացքում հայտնաբերվել են կանխիկ գումարներ, շքեղ ապրանքներ և կրիպտոարժույթի դրամապանակներ։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/turkeys-justice-minister-confirms-richard-hearts-istanbul-bust/",
+        "source": "Bitcoin News",
+        "enTitle": "Turkey’s Justice Minister Confirms Richard Heart’s Istanbul Bust",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/turkeys-justice-minister-confirms-richard-hearts-istanbul-bust-768x432.png"
+      },
+      {
+        "headline": "MicroStrategy-ի բաժնետոմսերն ընկան MSCI-ի որոշումից հետո",
+        "summary": "MicroStrategy-ի բաժնետոմսերը ուրբաթ օրը կորցրել են իրենց արժեքի 9.6%-ը MSCI-ի ինդեքսից հեռացման որոշումից հետո, որը վերաբերում է հիմնականում ակտիվներ պահող ընկերություններին։",
         "link": "https://news.bitcoin.com/market-updates/strategy-mstr-falls-msci-ruling-saylor-bitcoin-5b-profit/",
         "source": "Bitcoin News",
         "enTitle": "Strategy Sinks Nearly 10% on MSCI News But Saylor Is Still $5B Up",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/mstr-stock-quote-with-after-hours-pricing-768x432.jpg"
       },
       {
-        "headline": "Ինը բլոկչեյն խմբեր միավորվում են քվանտային սպառնալիքի դեմ",
-        "summary": "Ինը բլոկչեյն կազմակերպություններից բաղկացած նոր դաշինքը՝ Quantum Alliance-ը, ձգտում է սահմանել անվտանգության ընդհանուր ստանդարտներ՝ Bitcoin-ին սպառնացող քվանտային սպառնալիքին դիմակայելու համար։",
-        "link": "https://news.bitcoin.com/featured/nine-blockchain-groups-unite-as-quantum-threat-hangs-over-bitcoin/",
-        "source": "Bitcoin News",
-        "enTitle": "Nine Blockchain Groups Unite as Quantum Threat Hangs Over Bitcoin",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/nine-blockchain-groups-unite-as-quantum-threat-hangs-over-bitcoin-768x432.png"
-      },
-      {
         "headline": "Visa-ն և Mastercard-ը ընդունում են USDC վճարումներ",
-        "summary": "Visa-ի և Mastercard-ի հարթակները թույլ են տալիս բիզնեսներին ստանալ stablecoin ֆինանսավորում USDC-ի միջոցով 200 երկրներում։",
+        "summary": "Visa-ի Inyo-ի և Mastercard-ի BVNK հարթակները բիզնեսներին հնարավորություն են տալիս ստաբիլքոիններով ֆինանսավորում ստանալ 200 երկրներում՝ ենթակա որոշակի սահմանափակումների։",
         "link": "https://cryptoslate.com/visa-and-mastercard-adopt-usdc-payouts-across-200-countries/",
         "source": "CryptoSlate",
         "enTitle": "Visa and Mastercard adopt USDC payouts across 200 countries",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/10/visa-mastercard-stablecoin-payments-standard.jpg"
       },
       {
-        "headline": "Solana-ի հավելվածները $193M եկամուտ են գեներացրել",
-        "summary": "Solana-ի հավելվածները վերջին 30 օրվա ընթացքում գեներացրել են 193.1 միլիոն դոլարի եկամուտ, քանի որ իրական աշխարհի ակտիվները (RWA) մեկ տարվա ընթացքում աճել են 700 միլիոն դոլարից մինչև 4.37 միլիարդ դոլար։",
-        "link": "https://news.bitcoin.com/altcoins/solana-apps-generate-193m-30-days-rwas-surge-600/",
-        "source": "Bitcoin News",
-        "enTitle": "Solana Apps Generate $193M in 30 Days Amid Real-World Assets Surge",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/solana-apps-generate-193m-in-30-days-as-rwas-surge-600-768x432.png"
-      },
-      {
-        "headline": "Circle-ը նախատեսում է ընդլայնվել զարգացող շուկաներում",
-        "summary": "Circle-ի գործադիր տնօրենը հայտարարել է, որ USDC թողարկողը նախատեսում է մուտք գործել մոտ 40 զարգացող շուկաներ՝ հղում անելով Հարավարևելյան Ասիայում, Լատինական Ամերիկայում, Աֆրիկայում և Մերձավոր Արևելքում աճող պահանջարկին։",
+        "headline": "Circle-ը ընդլայնվում է զարգացող շուկաներում",
+        "summary": "Circle-ի գործադիր տնօրեն Jeremy Allaire-ը հայտարարել է, որ USDC թողարկող ընկերությունը նախատեսում է մուտք գործել մոտ 40 զարգացող շուկաներ, ներառյալ Հարավարևելյան Ասիան, Լատինական Ամերիկան, Աֆրիկան և Մերձավոր Արևելքը, պայմանավորված stablecoin-ների աճող պահանջարկով։",
         "link": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
         "source": "Decrypt",
         "enTitle": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
