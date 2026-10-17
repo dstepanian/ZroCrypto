@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-18",
-    "ts": 1787070035848,
-    "fng": {
-      "value": 41,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 64694,
-        "change24h": 1.0431065488734086
-      },
-      {
-        "label": "Ethereum",
-        "price": 1912.95,
-        "change24h": 0.3036934915867489
-      }
-    ],
-    "overview": "Այսօրվա նորությունները ցույց են տալիս ավանդական ֆինանսական հաստատությունների աճող հետաքրքրությունը կրիպտոարժույթների նկատմամբ, ինչպես նաև նորարարական քայլեր՝ ակտիվների թոքենիզացիայի և Bitcoin-ի կորպորատիվ ռազմավարությունների ոլորտում։ Շուկան արձանագրել է Bitcoin ETF-ների զգալի ներհոսք։",
-    "items": [
-      {
-        "headline": "Kraken-ը ԱՄՆ բաժնետոմսեր է առաջարկում Եվրոպայում",
-        "summary": "Kraken-ը դարձել է առաջին կրիպտո ընկերությունը, որը եվրոպական հաճախորդներին առաջարկում է ինչպես ավանդական ԱՄՆ բաժնետոմսեր, այնպես էլ դրանց թոքենիզացված տարբերակները մեկ կարգավորվող հարթակում։",
-        "link": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/a5d0f75b04392e25a31f206a3e9a16e752cb4a2c-2872x1915.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Neuberger-ը և Securitize-ը գործարկում են թոքենիզացված ֆոնդ",
-        "summary": "613 միլիարդ դոլարի ակտիվներ կառավարող Neuberger-ը Securitize-ի հետ համագործակցել է բարձր եկամտաբերության ֆոնդ թոքենիզացնելու համար՝ Ethereum, Solana, Avalanche և Sui բլոկչեյնների վրա։",
-        "link": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-blackrocks-tokenized-treasury-fund.png"
-      },
-      {
-        "headline": "Citi-ն կգործարկի Bitcoin-ի պահպանման ծառայություն",
-        "summary": "Բանկային հսկա Citi-ն նախատեսում է թույլ տալ ինստիտուցիոնալ հաճախորդներին պահել Bitcoin-ը և ավանդական ակտիվները նույն պահպանման շրջանակներում։",
-        "link": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
-        "source": "Decrypt",
-        "enTitle": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "Metaplanet-ը Bitcoin գանձապետական ընկերություն է ստեղծում ԱՄՆ-ում",
-        "summary": "Ճապոնական Metaplanet ընկերությունը ԱՄՆ-ում կստեղծի Bitcoin գանձապետական ընկերություն՝ Super League-ի 96% բաժնեմասը ձեռք բերելով 2,100 BTC և կանխիկ գումարի դիմաց։",
-        "link": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal",
-        "source": "Decrypt",
-        "enTitle": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-13-gID_7.png@png"
-      },
-      {
-        "headline": "Bitcoin ETF-ները վերականգնում են ներհոսքերը",
-        "summary": "Bitcoin ETF-ները շաբաթը սկսել են 297.5 միլիոն դոլարի զուտ ներհոսքով՝ դադարեցնելով նախորդ շաբաթվա երեք նիստերի արտահոսքի շարքը։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-fidelity-drive-297-5m-bitcoin-etf-rebound/",
-        "source": "Bitcoin News",
-        "enTitle": "Blackrock, Fidelity Drive $297.5M Bitcoin ETF Rebound",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/blackrock-fidelity-drive-297-5m-bitcoin-etf-rebound-768x432.jpg"
-      },
-      {
-        "headline": "Cash App-ը ընդլայնում է կրիպտո աջակցությունը",
-        "summary": "Cash App-ի որակավորված օգտատերերը կկարողանան օգտագործել իրենց մնացորդները MoonPay-ի կողմից առաջարկվող թվային ակտիվներ գնելու համար, որոնք ներառում են ether, solana և stablecoin USDT։",
-        "link": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      }
-    ]
-  },
-  {
     "date": "2026-08-19",
     "ts": 1787156418921,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "The Block",
         "enTitle": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
         "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-11.44.15.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "ts": 1792230891591,
+    "fng": {
+      "value": 55,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 81605,
+        "change24h": -0.5211922792756691
+      },
+      {
+        "label": "Ethereum",
+        "price": 2434.28,
+        "change24h": -0.6432840031343519
+      }
+    ],
+    "overview": "Օրվա նորությունները ընդգծում են ինչպես ավանդական ֆինանսների կողմից կրիպտոյի ընդունման զգալի զարգացումները, այնպես էլ թվային ակտիվների անվտանգությունն ապահովելու շարունակական ջանքերը։ Stablecoin-ների ընդունումը շարունակում է ընդլայնվել ամբողջ աշխարհում, մինչդեռ խոշոր ինստիտուցիոնալ խաղացողները նոր մարտահրավերների են բախվում։",
+    "items": [
+      {
+        "headline": "Եվրոպական Կենտրոնական Բանկի թվային եվրոն մոտ է",
+        "summary": "Եվրոպական Կենտրոնական Բանկի նախագահ Լագարդը հայտարարել է, որ թվային եվրոն շուտով կգործարկվի՝ խթանելով նորարարությունն ու մրցակցությունը մանրածախ վճարումներում։",
+        "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Lagarde says euro-area economy is resilient, digital euro imminent",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54ENNHY19CENP5ZV5HX428Z/christine-lagarde-eu.jpg"
+      },
+      {
+        "headline": "Strategy-ի բաժնետոմսերը նվազել են MSCI-ի որոշումից",
+        "summary": "Strategy-ի բաժնետոմսերը ուրբաթ օրը կորցրել են իրենց արժեքի 9.6%-ը՝ MSCI-ի որոշումից հետո, որը վերաբերում է ինդեքսում ընդգրկվելու իրավունքին։",
+        "link": "https://news.bitcoin.com/market-updates/strategy-mstr-falls-msci-ruling-saylor-bitcoin-5b-profit/",
+        "source": "Bitcoin News",
+        "enTitle": "Strategy Sinks Nearly 10% on MSCI News But Saylor Is Still $5B Up",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/mstr-stock-quote-with-after-hours-pricing-768x432.jpg"
+      },
+      {
+        "headline": "Ինը բլոկչեյն խմբեր միավորվում են քվանտային սպառնալիքի դեմ",
+        "summary": "Ինը բլոկչեյն կազմակերպություններից բաղկացած նոր դաշինքը՝ Quantum Alliance-ը, ձգտում է սահմանել անվտանգության ընդհանուր ստանդարտներ՝ Bitcoin-ին սպառնացող քվանտային սպառնալիքին դիմակայելու համար։",
+        "link": "https://news.bitcoin.com/featured/nine-blockchain-groups-unite-as-quantum-threat-hangs-over-bitcoin/",
+        "source": "Bitcoin News",
+        "enTitle": "Nine Blockchain Groups Unite as Quantum Threat Hangs Over Bitcoin",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/nine-blockchain-groups-unite-as-quantum-threat-hangs-over-bitcoin-768x432.png"
+      },
+      {
+        "headline": "Visa-ն և Mastercard-ը ընդունում են USDC վճարումներ",
+        "summary": "Visa-ի և Mastercard-ի հարթակները թույլ են տալիս բիզնեսներին ստանալ stablecoin ֆինանսավորում USDC-ի միջոցով 200 երկրներում։",
+        "link": "https://cryptoslate.com/visa-and-mastercard-adopt-usdc-payouts-across-200-countries/",
+        "source": "CryptoSlate",
+        "enTitle": "Visa and Mastercard adopt USDC payouts across 200 countries",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/visa-mastercard-stablecoin-payments-standard.jpg"
+      },
+      {
+        "headline": "Solana-ի հավելվածները $193M եկամուտ են գեներացրել",
+        "summary": "Solana-ի հավելվածները վերջին 30 օրվա ընթացքում գեներացրել են 193.1 միլիոն դոլարի եկամուտ, քանի որ իրական աշխարհի ակտիվները (RWA) մեկ տարվա ընթացքում աճել են 700 միլիոն դոլարից մինչև 4.37 միլիարդ դոլար։",
+        "link": "https://news.bitcoin.com/altcoins/solana-apps-generate-193m-30-days-rwas-surge-600/",
+        "source": "Bitcoin News",
+        "enTitle": "Solana Apps Generate $193M in 30 Days Amid Real-World Assets Surge",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/solana-apps-generate-193m-in-30-days-as-rwas-surge-600-768x432.png"
+      },
+      {
+        "headline": "Circle-ը նախատեսում է ընդլայնվել զարգացող շուկաներում",
+        "summary": "Circle-ի գործադիր տնօրենը հայտարարել է, որ USDC թողարկողը նախատեսում է մուտք գործել մոտ 40 զարգացող շուկաներ՝ հղում անելով Հարավարևելյան Ասիայում, Լատինական Ամերիկայում, Աֆրիկայում և Մերձավոր Արևելքում աճող պահանջարկին։",
+        "link": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
+        "source": "Decrypt",
+        "enTitle": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-gID_7.png@png"
       }
     ]
   }
