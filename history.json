@@ -4241,7 +4241,7 @@
   },
   {
     "date": "2026-10-18",
-    "ts": 1792318006108,
+    "ts": 1792347734550,
     "fng": {
       "value": 53,
       "label": "Neutral",
@@ -4251,56 +4251,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 82080,
-        "change24h": 0.7139381887796283
+        "price": 81069,
+        "change24h": -0.46425727766952163
       },
       {
         "label": "Ethereum",
-        "price": 2422,
-        "change24h": -0.4107919570656471
+        "price": 2363.55,
+        "change24h": -2.1294111876011685
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների ուշադրության աճով և ավանդական ֆինանսական հաստատությունների կողմից թոքենիզացիայի նկատմամբ հետաքրքրությամբ։ Միջազգային համագործակցությունը կրիպտո հանցագործությունների դեմ պայքարում ուժեղանում է, մինչդեռ որոշ երկրներում նոր հարկային առաջարկները կարող են ազդել stablecoin-ների օգտագործման վրա։",
+    "overview": "Կրիպտո շուկան այսօր խառը ազդանշաններ է ցույց տալիս, քանի որ Bitcoin ETF-ներից զգալի արտահոսքը վկայում է ներդրողների զգուշության մասին, մինչդեռ stablecoin-ների վճարումները ցույց են տալիս իրական աշխարհում օգտագործման ուժեղ աճ։ Ռուսաստանում կարգավորող զարգացումները և թոքենացված բաժնետոմսերի առևտրի մարտահրավերները ընդգծում են ոլորտի համար շարունակվող իրավական և համապատասխանության խոչընդոտները։",
     "items": [
       {
-        "headline": "OKXICE-ի թոքենիզացված բաժնետոմսերին առարկություններ կան",
-        "summary": "Ինը խոշոր ընկերություններ, ներառյալ Broadcom-ը և Verizon-ը, պաշտոնապես առարկել են OKXICE-ում իրենց թոքենիզացված բաժնետոմսերի առևտրին՝ խոչընդոտելով կրիպտո բորսայի ծրագրերին։",
+        "headline": "Bitcoin ETF-ներից զգալի արտահոսք",
+        "summary": "Վերջին երկու շաբաթվա ընթացքում Bitcoin ETF-ներից մոտ 1 միլիարդ դոլար է արտահոսել՝ հոկտեմբեր ամիսը դարձնելով բացասական։",
+        "link": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
+      },
+      {
+        "headline": "Ռուսաստանը արգելում է P2P կրիպտո գործարքները",
+        "summary": "Ռուսաստանի Կենտրոնական բանկը 2027 թվականի հուլիսից կարգելափակի ռուս քաղաքացիների միջև P2P կրիպտո գործարքները՝ թույլատրելով դրանք միայն կարգավորվող բրոքերների միջոցով։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/russia-sets-july-2027-deadline-to-halt-p2p-crypto-transactions/",
+        "source": "Bitcoin News",
+        "enTitle": "Russia Sets July 2027 Deadline to Halt P2P Crypto Transactions",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/bank-of-russia-logo-768x432.jpg"
+      },
+      {
+        "headline": "OKXICE-ի թոքենացված բաժնետոմսերի դեմ առարկություններ",
+        "summary": "Ինը խոշոր ընկերություններ, այդ թվում՝ Broadcom-ը և Verizon-ը, պաշտոնապես առարկել են OKXICE-ում իրենց բաժնետոմսերի թոքենացված տարբերակների առևտրի դեմ։",
         "link": "https://news.bitcoin.com/finance/okxice-faces-9-formal-objections-to-tokenized-share-trading/",
         "source": "Bitcoin News",
         "enTitle": "OKXICE Faces 9 Formal Objections to Tokenized Share Trading",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/okxice-faces-9-formal-objections-to-tokenized-share-trading-768x432.png"
       },
       {
-        "headline": "ԵՄ-ն և 8 երկիր ստորագրել են կրիպտո արձանագրություն",
-        "summary": "Եվրոպական միությունը և ութ այլ երկրներ ստորագրել են Վարշավայի արձանագրության արդիականացված տարբերակը, որն ընդլայնում է կրիպտո ակտիվների շրջանակը և ուժեղացնում ֆինանսական հետախուզական ստորաբաժանումների լիազորությունները։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/eu-joins-8-nations-to-sign-warsaw-protocol-on-crypto-crime/",
-        "source": "Bitcoin News",
-        "enTitle": "EU Joins 8 Nations to Sign Warsaw Protocol on Crypto Crime",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/council-of-europe-building-768x432.jpg"
+        "headline": "Stablecoin վճարումների զգալի աճ",
+        "summary": "Չնայած stablecoin-ների առաջարկի դանդաղմանը, այս տարի վճարումները աճել են 45%-ով՝ հասնելով 482 միլիարդ դոլարի, քանի որ Visa-ն, Mastercard-ը և Stripe-ը ինտեգրում են կրիպտոն։",
+        "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb1df4637820d42a650a8dcab7641953887ebff1-720x406.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Goldman Sachs-ը թոքենիզացիան համարում է ֆինանսների ապագան",
-        "summary": "Goldman Sachs-ի գործադիր տնօրեն Դեյվիդ Սոլոմոնը կարծում է, որ թոքենիզացիան կվերափոխի ֆինանսական շուկաները՝ նոր եկամտի հնարավորություններ բացելով Wall Street-ի համար։",
-        "link": "https://news.bitcoin.com/finance/goldman-sachs-ceo-sees-tokenization-as-wall-streets-next-act/",
-        "source": "Bitcoin News",
-        "enTitle": "Goldman Sachs CEO Sees Tokenization as Wall Street’s Next Act",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/goldman-citi-ubs-join-21-firm-push-for-dollar-stablecoin-by-2027-768x432.png"
-      },
-      {
-        "headline": "Ֆրանսիան առաջարկում է հարկել stablecoin-ի փոխանակումները",
-        "summary": "Ֆրանսիայի Ազգային ժողովը նեղ մեծամասնությամբ ընդունել է առաջարկ, որը կրիպտո ակտիվների սեփականատերերին կպարտադրի 31.4% կապիտալի շահույթի հարկ՝ յուրաքանչյուր անգամ կրիպտոարժույթը stablecoin-ով փոխանակելիս։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/french-assembly-narrowly-adopts-stablecoin-swap-tax-proposal/",
-        "source": "Bitcoin News",
-        "enTitle": "French Assembly Narrowly Adopts Stablecoin Swap Tax Proposal",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/french-national-assembly-building-768x432.jpg"
-      },
-      {
-        "headline": "Թուրքիան հաստատում է Hex-ի հիմնադրի ձերբակալությունը",
-        "summary": "Թուրքիան հաստատել է Hex-ի հիմնադիր Ռիչարդ Հարթի ձերբակալությունը, իսկ ոստիկանությունը առգրավել է 7.15 միլիոն դոլար և վեց cold wallet։",
-        "link": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
+        "headline": "Cysic կամրջի կասեցում հաքերային հարձակման պատճառով",
+        "summary": "Cysic-ը կասեցրել է իր կամուրջը այն բանից հետո, երբ հարձակվողը 10 միլիոն CYS թոքեն է ստեղծել և մոտ 727,000 դոլար տեղափոխել Ethereum։",
+        "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
         "source": "The Block",
-        "enTitle": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250424_Law_News.jpg"
+        "enTitle": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/09/20210917_Hack_General.jpg"
+      },
+      {
+        "headline": "Կրիպտո ոլորտի քաղաքական ազդեցությունը ԱՄՆ-ում",
+        "summary": "ԱՄՆ-ում կրիպտո ոլորտը ձգտում է աջակցել այն թեկնածուներին, ովքեր համաձայն են իրենց դիրքորոշման հետ՝ անկախ կուսակցական պատկանելությունից։",
+        "link": "https://cryptoslate.com/crypto-doesnt-need-your-party-to-win-just-its-candidates/",
+        "source": "CryptoSlate",
+        "enTitle": "Crypto doesn’t need your party to win, just its candidates",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-election-influence.webp"
       }
     ]
   }
