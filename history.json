@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-19",
-    "ts": 1787156418921,
-    "fng": {
-      "value": 46,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 68626,
-        "change24h": 6.085122512589491
-      },
-      {
-        "label": "Ethereum",
-        "price": 2095.53,
-        "change24h": 9.531846562062107
-      }
-    ],
-    "overview": "Շուկան այսօր զգալի վերելք է ապրել՝ հիմնականում պայմանավորված մակրոտնտեսական գործոններով և դրական կարգավորող զարգացումներով։ Bitcoin-ը գլխավորել է աճը, մինչդեռ ինստիտուցիոնալ ընդունումը և ավելի հստակ կարգավորող շրջանակները շարունակել են ձևավորել կրիպտոյի լայն լանդշաֆտը։",
-    "items": [
-      {
-        "headline": "Bitcoin-ը բարձրացել է ԱՄՆ գանձապետարանի գնումների ֆոնին",
-        "summary": "Bitcoin-ի գինը հասել է 69,500 դոլարի՝ ԱՄՆ գանձապետարանի կողմից երկարաժամկետ պարտատոմսերի հետգնումները կրկնապատկելու մասին հայտարարությունից հետո։",
-        "link": "https://cryptoslate.com/bitcoin-price-hits-69500-as-over-400m-of-shorts-liquidated-because-us-doubles-treasury-debt-buybacks-to-crush-long-term-yields/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitcoin price hits $69,500 because US just doubled Treasury buybacks to crush long-term yields",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-bull-treasury.jpg"
-      },
-      {
-        "headline": "SEC-ը նոր կանոններ է առաջարկում կրիպտո ֆինանսավորման համար",
-        "summary": "Արժեթղթերի և բորսաների հանձնաժողովը (SEC) առաջարկել է նոր կանոններ, որոնք կարող են հստակ ուղիներ տրամադրել որոշ կրիպտո նախագծերի՝ ԱՄՆ-ում միջոցներ հայթայթելու համար։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/sec-opens-75m-crypto-funding-floodgate-with-new-rule-plan/",
-        "source": "Bitcoin News",
-        "enTitle": "SEC Opens $75M Crypto Funding Floodgate With New Rule Plan",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/sec-opens-27-question-review-of-novel-etfs-puts-crypto-products-in-focus-768x432.png"
-      },
-      {
-        "headline": "Ripple-ը 275 միլիոն դոլար է հավաքել ինստիտուցիոնալ ընդլայնման համար",
-        "summary": "Ripple-ը հայտարարել է 275 միլիոն դոլարի ներգրավման մասին՝ աջակցելու իր ընդլայնմանը ավանդական ֆինանսական ծառայությունների ոլորտում, ինչպիսիք են prime brokerage-ը և multi-asset clearing-ը։",
-        "link": "https://cointelegraph.com/news/ripple-raises-275m-us-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Ripple raises $275M for US prime brokerage to meet institutional demand",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-dubai-overview-ripple-and-blockchain.jpg"
-      },
-      {
-        "headline": "Injective-ը SEC-ի գրանցում է ստացել ինստիտուցիոնալ ծառայությունների համար",
-        "summary": "Injective-ի հետ կապված կազմակերպությունը ստացել է SEC-ի գրանցում որպես փոխանցման գործակալ՝ թույլ տալով պահպանել արժեթղթերի սեփականության գրառումները և ընդլայնել կարգավորվող շուկայական ենթակառուցվածքը։",
-        "link": "https://cointelegraph.com/news/injective-sec-transfer-agent-tokenized-securities-recordkeeping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Injective receives SEC transfer agent registration for institutional services arm",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-dlts-could-change-the-real-estate-investment-landscape-deal.jpg"
-      },
-      {
-        "headline": "Չինական InsurTech ընկերությունը Bitcoin է ավելացրել իր գանձարանին",
-        "summary": "Շանհայում գործող Zhibao InsurTech ընկերությունը 154.7 միլիոն դոլարի մասնավոր տեղաբաշխում է կատարել՝ ամբողջությամբ ֆինանսավորված կրիպտոյով, որի ներդրողները ուղղակիորեն Bitcoin են ներդրել։",
-        "link": "https://decrypt.co/375935/china-zhibao-bitcoin-treasury-pivot",
-        "source": "Decrypt",
-        "enTitle": "Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png"
-      },
-      {
-        "headline": "Bitcoin-ի «կետերը» դադարեցրել են վաճառքը և կուտակում են",
-        "summary": "Խոշոր Bitcoin սեփականատերերը վերջին 60 օրվա ընթացքում ավելացրել են մոտ 43,000 BTC՝ մոտ 2.75 միլիարդ դոլար արժողությամբ, դրանով իսկ դադարեցնելով նույն խմբի կողմից ամիսներ տևած կայուն վաճառքը։",
-        "link": "https://news.bitcoin.com/crypto-news/bitcoin-whales-add-43000-btc-ending-months-long-selling-spree/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Whales Add 43,000 BTC, Ending Months-Long Selling Spree",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-whales-add-43000-btc-ending-months-long-selling-spree3_nwmk-768x432.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-20",
     "ts": 1787242990293,
     "fng": {
@@ -4309,6 +4236,71 @@
         "source": "Decrypt",
         "enTitle": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-gID_7.png@png"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "ts": 1792318006108,
+    "fng": {
+      "value": 53,
+      "label": "Neutral",
+      "hy": "Չեզոք",
+      "dot": "🟡"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 82080,
+        "change24h": 0.7139381887796283
+      },
+      {
+        "label": "Ethereum",
+        "price": 2422,
+        "change24h": -0.4107919570656471
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների ուշադրության աճով և ավանդական ֆինանսական հաստատությունների կողմից թոքենիզացիայի նկատմամբ հետաքրքրությամբ։ Միջազգային համագործակցությունը կրիպտո հանցագործությունների դեմ պայքարում ուժեղանում է, մինչդեռ որոշ երկրներում նոր հարկային առաջարկները կարող են ազդել stablecoin-ների օգտագործման վրա։",
+    "items": [
+      {
+        "headline": "OKXICE-ի թոքենիզացված բաժնետոմսերին առարկություններ կան",
+        "summary": "Ինը խոշոր ընկերություններ, ներառյալ Broadcom-ը և Verizon-ը, պաշտոնապես առարկել են OKXICE-ում իրենց թոքենիզացված բաժնետոմսերի առևտրին՝ խոչընդոտելով կրիպտո բորսայի ծրագրերին։",
+        "link": "https://news.bitcoin.com/finance/okxice-faces-9-formal-objections-to-tokenized-share-trading/",
+        "source": "Bitcoin News",
+        "enTitle": "OKXICE Faces 9 Formal Objections to Tokenized Share Trading",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/okxice-faces-9-formal-objections-to-tokenized-share-trading-768x432.png"
+      },
+      {
+        "headline": "ԵՄ-ն և 8 երկիր ստորագրել են կրիպտո արձանագրություն",
+        "summary": "Եվրոպական միությունը և ութ այլ երկրներ ստորագրել են Վարշավայի արձանագրության արդիականացված տարբերակը, որն ընդլայնում է կրիպտո ակտիվների շրջանակը և ուժեղացնում ֆինանսական հետախուզական ստորաբաժանումների լիազորությունները։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/eu-joins-8-nations-to-sign-warsaw-protocol-on-crypto-crime/",
+        "source": "Bitcoin News",
+        "enTitle": "EU Joins 8 Nations to Sign Warsaw Protocol on Crypto Crime",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/council-of-europe-building-768x432.jpg"
+      },
+      {
+        "headline": "Goldman Sachs-ը թոքենիզացիան համարում է ֆինանսների ապագան",
+        "summary": "Goldman Sachs-ի գործադիր տնօրեն Դեյվիդ Սոլոմոնը կարծում է, որ թոքենիզացիան կվերափոխի ֆինանսական շուկաները՝ նոր եկամտի հնարավորություններ բացելով Wall Street-ի համար։",
+        "link": "https://news.bitcoin.com/finance/goldman-sachs-ceo-sees-tokenization-as-wall-streets-next-act/",
+        "source": "Bitcoin News",
+        "enTitle": "Goldman Sachs CEO Sees Tokenization as Wall Street’s Next Act",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/goldman-citi-ubs-join-21-firm-push-for-dollar-stablecoin-by-2027-768x432.png"
+      },
+      {
+        "headline": "Ֆրանսիան առաջարկում է հարկել stablecoin-ի փոխանակումները",
+        "summary": "Ֆրանսիայի Ազգային ժողովը նեղ մեծամասնությամբ ընդունել է առաջարկ, որը կրիպտո ակտիվների սեփականատերերին կպարտադրի 31.4% կապիտալի շահույթի հարկ՝ յուրաքանչյուր անգամ կրիպտոարժույթը stablecoin-ով փոխանակելիս։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/french-assembly-narrowly-adopts-stablecoin-swap-tax-proposal/",
+        "source": "Bitcoin News",
+        "enTitle": "French Assembly Narrowly Adopts Stablecoin Swap Tax Proposal",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/french-national-assembly-building-768x432.jpg"
+      },
+      {
+        "headline": "Թուրքիան հաստատում է Hex-ի հիմնադրի ձերբակալությունը",
+        "summary": "Թուրքիան հաստատել է Hex-ի հիմնադիր Ռիչարդ Հարթի ձերբակալությունը, իսկ ոստիկանությունը առգրավել է 7.15 միլիոն դոլար և վեց cold wallet։",
+        "link": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
+        "source": "The Block",
+        "enTitle": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250424_Law_News.jpg"
       }
     ]
   }
