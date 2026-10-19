@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-21",
-    "ts": 1787329275161,
-    "fng": {
-      "value": 72,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 77079,
-        "change24h": 6.607191695241614
-      },
-      {
-        "label": "Ethereum",
-        "price": 2393.96,
-        "change24h": 3.2448126588429673
-      }
-    ],
-    "overview": "Կրիպտոարժույթների շուկան այսօր դրական տրամադրություն է արտացոլում՝ պայմանավորված Bitcoin-ի զգալի աճով և հիմնարկային ներդրումների աճով։ Աճող հետաքրքրությունը և կարգավորող մարմինների հաստատումները նպաստում են շուկայի ընդհանուր լավատեսությանը։",
-    "items": [
-      {
-        "headline": "Bitcoin և Ether ETF-ները ներգրավել են $827 միլիոն",
-        "summary": "Bitcoin և Ether ETF-ները հինգշաբթի օրը ներգրավել են $827 միլիոն՝ նշանավորելով շաբաթվա ամենաուժեղ նիստը, քանի որ կրիպտոարժույթների աճը տարածվում է ֆոնդային շուկայում։",
-        "link": "https://news.bitcoin.com/crypto-news/bitcoin-ether-etfs-pull-in-827-million-as-crypto-rally-spreads/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin, Ether ETFs Pull in $827 Million as Crypto Rally Spreads",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/ether-etfs-add-26-million-as-bitcoins-7-day-streak-ends-768x432.jpg"
-      },
-      {
-        "headline": "Bitcoin-ը մոտենում է $80,000-ին, ոչնչացնելով $4 միլիարդ կարճ դիրքեր",
-        "summary": "Bitcoin-ը մոտեցել է $80,000-ին՝ երեքօրյա աճի ընթացքում լուծարելով ավելի քան $4 միլիարդի կարճ դիրքեր և հասնելով եռամսյա առավելագույնի։",
-        "link": "https://cryptoslate.com/bitcoins-road-to-80000-has-already-destroyed-4-billion-in-short-bets/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitcoin is closing in on $80,000 and already destroyed a record $4 billion in short bets",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-climb-80k.jpg"
-      },
-      {
-        "headline": "Laser Digital-ը ստացել է Ճապոնիայի առաջին կրիպտո լիցենզիան",
-        "summary": "Nomura-ի կողմից աջակցվող Laser Digital Japan-ը ստացել է գրանցում՝ տրամադրելու ներքին իրացվելիություն՝ նախքան ինստիտուցիոնալ կրիպտո առևտրի ընդլայնումը։",
-        "link": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-plans-tough-new-rules-for-crypto-exchanges-what-liability-reserves-actually-mean.jpg"
-      },
-      {
-        "headline": "Sharplink-ը խոշոր ներդրում է կատարել Ethereum-ում",
-        "summary": "Sharplink Gaming-ը դրել է ևս 39,319 ETH՝ մոտ $91 միլիոն արժողությամբ, ավելացնելով իր գանձարանը, որն արդեն աշխարհի խոշորագույն կորպորատիվ Ether պահուստներից է։",
-        "link": "https://news.bitcoin.com/crypto-news/sharplink-stakes-39319-eth-91-million/",
-        "source": "Bitcoin News",
-        "enTitle": "Sharplink Bets Big on Ethereum, Stakes Another 39,319 ETH Worth $91 Million",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/sharplink-stakes-another-39319-eth-worth-91-million2_nwmk-768x432.jpg"
-      },
-      {
-        "headline": "Solana-ն կրճատել է բլոկչեյնի սլոթի ժամանակը",
-        "summary": "Solana-ն կրճատել է իր սլոթի ժամանակը գենեզիսից ի վեր առաջին անգամ՝ ձգտելով հասնել 200 միլիվայրկյան թիրախին, որի նպատակն է նվազեցնել ցանցի ուշացումը։",
-        "link": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Solana cuts blockchain slot time to 350 milliseconds",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-china-solana-is-ready-new-1.jpg"
-      },
-      {
-        "headline": "Hyperliquid-ի համար ԱՄՆ կանոնների վերանայում է սպասվում",
-        "summary": "Նախագահ Դոնալդ Թրամփը հայտարարել է, որ CFTC-ի նախագահ Մայքլ Սելիգը աշխատում է Hyperliquid-ը ԱՄՆ բերելու ուղղությամբ՝ լիովին համապատասխան և օրինական ճանապարհով։",
-        "link": "https://cryptoslate.com/trumps-hyperliquid-push-forces-regulators-to-define-what-a-legal-on-chain-exchange-looks-like/",
-        "source": "CryptoSlate",
-        "enTitle": "US rule rewrite looms for $200B on-chain venue Hyperliquid as Trump signals onshore approval",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/hyperliquid-us-compliance-path.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-22",
     "ts": 1787415182329,
     "fng": {
@@ -4317,6 +4244,71 @@
         "source": "Bitcoin News",
         "enTitle": "Lagarde Advances Digital Euro to Defend EU Financial Autonomy",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/christine-lagarde-768x432.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-20",
+    "ts": 1792442886262,
+    "fng": {
+      "value": 59,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 81947,
+        "change24h": 1.4264527336832302
+      },
+      {
+        "label": "Ethereum",
+        "price": 2400.54,
+        "change24h": 2.4854221251742135
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ընդունման նոր զարգացումներով, ինչպես նաև կարգավորող և ժառանգական խնդիրների շարունակականությամբ։",
+    "items": [
+      {
+        "headline": "Visa-ն և Mesh-ը համագործակցում են կրիպտո ծախսերի համար",
+        "summary": "Mesh-ը կմիացնի կրիպտո և stablecoin դրամապանակները Visa-ի գլոբալ վճարային ցանցին՝ թույլ տալով օգտատերերին ծախսել թվային ակտիվներ առանց առանձին քարտի։",
+        "link": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AQTAX4CZKP1822SBZZMSMC/hi-could-those-who-left-visa-come-back.png"
+      },
+      {
+        "headline": "Mastercard-ը ներկայացնում է Stablecoin Security գործիքը",
+        "summary": "Mastercard-ը ներկայացրել է API-ի վրա հիմնված գործիք, որը համատեղում է վճարումների և բլոկչեյնի տվյալները՝ խարդախությունները, խաբեությունները և պատժամիջոցների ռիսկերը հայտնաբերելու համար։",
+        "link": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments",
+        "source": "Decrypt",
+        "enTitle": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/mastercard-decrypt-style-01-gID_7.png@png"
+      },
+      {
+        "headline": "JPM Coin-ը հասանելի է Ethereum-ում",
+        "summary": "JPMorgan-ը JPM Coin-ը ներկայացնում է Ethereum-ում ինստիտուցիոնալ հաճախորդների համար՝ թույլ տալով դոլարով ապահովված թոքենների վճարումներ վայրկյանների ընթացքում։",
+        "link": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
+        "source": "Decrypt",
+        "enTitle": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/jp-morgan-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Mt Gox-ի վճարումները կրկին հետաձգվել են",
+        "summary": "Mt Gox-ի պարտատերերի վճարումների գործընթացը կրկին հետաձգվել է մինչև 2027 թվականի հոկտեմբեր՝ թողնելով միլիարդավոր Bitcoin-ներ անգործ։",
+        "link": "https://news.bitcoin.com/crypto-news/mt-gox-repayments-delayed-again-bitcoin-billions-sit-idle/",
+        "source": "Bitcoin News",
+        "enTitle": "Mt Gox Repayments Delayed Again as Bitcoin Billions Sit Idle",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/mt-gox-repayments-delayed-again-as-bitcoin-billions-sit-idle-768x432.jpg"
+      },
+      {
+        "headline": "Strive-ը գնել է $335 միլիոնի Bitcoin",
+        "summary": "Strive ընկերությունը գնել է ևս 1,223 BTC՝ իր պահուստները հասցնելով 36,818 BTC-ի՝ շարունակելով ընդլայնել իր պահուստները կապիտալի ֆինանսավորման միջոցով։",
+        "link": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AEENVMENSY40QKZBNFA626/crypto-bitcoin-storage.png"
       }
     ]
   }
