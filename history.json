@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-08-20",
-    "ts": 1787242990293,
-    "fng": {
-      "value": 62,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 72290,
-        "change24h": 5.325298365212084
-      },
-      {
-        "label": "Ethereum",
-        "price": 2318.72,
-        "change24h": 10.587823570035228
-      }
-    ],
-    "overview": "Bitcoin-ը զգալի աճ է գրանցել՝ հասնելով $72,000-ի, ինչը պայմանավորված է կարճ դիրքերի լիկվիդացիայով և ETF-ների զգալի ներհոսքերով։ ԱՄՆ քաղաքական գործիչների կողմից կրիպտոարժույթների նկատմամբ դրական վերաբերմունքը նույնպես նպաստել է շուկայի լավատեսությանը։",
-    "items": [
-      {
-        "headline": "Bitcoin-ը հասել է $72,000-ի, լիկվիդացվել են կարճ դիրքեր",
-        "summary": "Bitcoin-ի գինը բարձրացել է՝ հասնելով $72,000-ի, ինչը հանգեցրել է ռեկորդային թվով կարճ դիրքերի լիկվիդացիայի։",
-        "link": "https://decrypt.co/376085/bitcoin-price-high-june-3-billion-shorts-liquidated",
-        "source": "Decrypt",
-        "enTitle": "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png"
-      },
-      {
-        "headline": "Թրամփը քննարկում է ԱՄՆ-ի կողմից Bitcoin-ի կուտակումը",
-        "summary": "Նախագահ Դոնալդ Թրամփը հայտարարել է, որ ԱՄՆ-ը դիտարկում է Bitcoin-ի և այլ կրիպտոարժույթների զգալի քանակություն կուտակելու հնարավորությունը։",
-        "link": "https://cryptoslate.com/trump-wants-the-us-to-become-a-bitcoin-whale-but-congress-controls-the-wallet/",
-        "source": "CryptoSlate",
-        "enTitle": "Trump wants the US to become a Bitcoin whale, but Congress controls the wallet",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-reserve-sorting-machine.jpg"
-      },
-      {
-        "headline": "Bitcoin ETF-ները գրավել են $517 միլիոն ներհոսք",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները մեկ օրում գրանցել են $517 միլիոնի ներհոսք՝ մայիսից ի վեր ամենամեծ ցուցանիշը։",
-        "link": "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed-1.jpg"
-      },
-      {
-        "headline": "Optimism-ը OP թոքենները վերաբաշխել է էկոհամակարգի ֆոնդին",
-        "summary": "Optimism-ը 546.9 միլիոն OP թոքեններ է տեղափոխել ապագա airdrop-ներից դեպի էկոհամակարգի աճի ֆոնդ՝ գործընկերությունների և խթանների համար։",
-        "link": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-market-desperately-needs-to-connect-with-real-world-assets2.png"
-      },
-      {
-        "headline": "X-ը ուսումնասիրում է stablecoin-ներ՝ վճարումների համար",
-        "summary": "Elon Musk-ի X հարթակը ուսումնասիրում է stablecoin-ների օգտագործումը՝ ազդեցիկ անձանց և բովանդակություն ստեղծողներին վճարելու համար։",
-        "link": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/acee6ae1d9fb1fcc92ccab7e5384aa3bce474936-1209x680.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      }
-    ]
-  },
-  {
     "date": "2026-08-21",
     "ts": 1787329275161,
     "fng": {
@@ -4309,6 +4244,79 @@
         "source": "CryptoSlate",
         "enTitle": "Crypto doesn’t need your party to win, just its candidates",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-election-influence.webp"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "ts": 1792409780509,
+    "fng": {
+      "value": 59,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 82119,
+        "change24h": 0.20054746554656228
+      },
+      {
+        "label": "Ethereum",
+        "price": 2411.87,
+        "change24h": -0.11102177117308805
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է խառը տրամադրություններով։ Մինչ JPMorgan-ը և Deutsche Bank-ը ընդլայնում են իրենց կրիպտո ծառայությունները, Եվրոպայում կարգավորիչները քննարկում են նոր հարկեր և թվային արժույթներ։",
+    "items": [
+      {
+        "headline": "JPMorgan-ը JPM Coin-ը տեղափոխում է Ethereum",
+        "summary": "JPMorgan-ը JPM Coin ավանդային թոքենը տեղափոխում է Ethereum՝ այն ավելի լայն ինստիտուցիոնալ հաճախորդներին առաջարկելու համար։",
+        "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/3f6583d261d45cb78f830c786e9a0cf1931cdc32-4000x2250.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Bitcoin և Ether ETF-ներից արտահոսքեր",
+        "summary": "ԱՄՆ-ում գրանցված Bitcoin և Ether ETF-ներից հոկտեմբերին արտահոսել է մոտ $549 միլիոն, իսկ Ether-ի արտահոսքերը մոտենում են $1 միլիարդի։",
+        "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59F6KYERPENFDEPMTNEM29K/big-wave-bitcoin-ethereum-market-fall-1.jpg"
+      },
+      {
+        "headline": "Ֆրանսիան առաջ է տանում stablecoin հարկը",
+        "summary": "Ֆրանսիայի Ազգային ժողովն ընդունել է կրիպտո հարկի փոփոխություն, որն ուղղված է որոշակի stablecoin փոխանակումներին։",
+        "link": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59SSVV6QT83TT37RVGQG9M0/hi-what-can-other-algorithmic-stablecoins-learn-for-tougher-limits-france.jpg"
+      },
+      {
+        "headline": "Mt. Gox-ի վճարման ժամկետը հետաձգվել է",
+        "summary": "Mt. Gox-ի պարտատերերը ևս մեկ տարի կսպասեն, քանի որ վճարման վերջնաժամկետը տեղափոխվել է 2027 թվական։",
+        "link": "https://cryptoslate.com/mt-gox-creditors-face-another-year-of-waiting-as-repayment-deadline-slips-to-2027/",
+        "source": "CryptoSlate",
+        "enTitle": "Mt. Gox creditors face another year of waiting as repayment deadline slips to 2027",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/mt-gox-bitcoin-hourglass.webp"
+      },
+      {
+        "headline": "Deutsche Bank-ը ընդլայնում է կրիպտո պահպանումը",
+        "summary": "Deutsche Bank-ը նպատակ ունի 2027 թվականին ընդլայնել կրիպտո ակտիվների պահպանման ծառայությունները Ասիայում՝ Գերմանիայում մեկնարկից հետո։",
+        "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/20b41cccd25baec46feebbec67358ee865ee71db-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Լագարդը խթանում է թվային եվրոն",
+        "summary": "Եվրոպական Կենտրոնական բանկի նախագահ Լագարդը կրկին շեշտել է թվային եվրոն որպես մանրածախ վճարումների արդյունավետ թվային համարժեք առաջ մղելու կարևորությունը։",
+        "link": "https://news.bitcoin.com/crypto-news/lagarde-advances-digital-euro-to-defend-eu-financial-autonomy/",
+        "source": "Bitcoin News",
+        "enTitle": "Lagarde Advances Digital Euro to Defend EU Financial Autonomy",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/christine-lagarde-768x432.jpg"
       }
     ]
   }
