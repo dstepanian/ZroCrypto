@@ -4249,7 +4249,7 @@
   },
   {
     "date": "2026-10-20",
-    "ts": 1792492854468,
+    "ts": 1792525506183,
     "fng": {
       "value": 55,
       "label": "Greed",
@@ -4259,56 +4259,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 81469,
-        "change24h": -1.0565261016989982
+        "price": 82496,
+        "change24h": 0.6051305396622888
       },
       {
         "label": "Ethereum",
-        "price": 2383.04,
-        "change24h": -1.6924641332196382
+        "price": 2434.14,
+        "change24h": 1.3555683240871048
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ներդրումների աճով, հատկապես Bitcoin ETF-ների նկատմամբ BlackRock-ի առաջատար դերով։ Այնուամենայնիվ, շարունակվում են կարգավորող մարտահրավերները և անցյալի խնդիրները, ինչպիսիք են Mt. Gox-ի պարտքերի մարման ժամկետի երկարաձգումը։",
+    "overview": "Կրիպտոարժույթների շուկայում նկատվում է ինստիտուցիոնալ ընդունման և իրական աշխարհում կիրառելիության աճ։ Կարգավորող մարմինների կողմից նույնպես դրական զարգացումներ կան։",
     "items": [
       {
-        "headline": "BlackRock-ի Bitcoin ETF-ները գրանցել են մեծ ներհոսքեր",
-        "summary": "ԱՄՆ-ի Bitcoin ETF-ները շաբաթը սկսել են 526.60 միլիոն դոլարի զուտ ներհոսքերով, որոնց մեծ մասը բաժին է ընկել BlackRock-ի IBIT ֆոնդին։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-posts-biggest-2026-inflow-as-bitcoin-etfs-add-527m/",
-        "source": "Bitcoin News",
-        "enTitle": "Blackrock Posts Biggest 2026 Inflow as Bitcoin ETFs Add $527M",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/blackrock-posts-biggest-2026-inflow-as-bitcoin-etfs-add-527m-768x432.jpg"
-      },
-      {
-        "headline": "BlackRock-ը նոր «Buffer» Bitcoin ETF է ներկայացրել",
-        "summary": "BlackRock-ը դիմել է iShares Bitcoin Managed Protection ETF-ի համար, որը կօգտագործի IBIT-ի օպցիոնները՝ կորուստները սահմանափակելու համար՝ հնարավոր շահույթի մի մասը զոհաբերելով։",
-        "link": "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day",
+        "headline": "Շվեյցարիան հաստատում է Bitcoin ֆոնդը",
+        "summary": "Շվեյցարիայի կարգավորող մարմինը հաստատել է առաջին մանրածախ ֆոնդը, որն ուղղակիորեն պահում է Bitcoin։",
+        "link": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
         "source": "Decrypt",
-        "enTitle": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-03-gID_7.png@png"
+        "enTitle": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png@png"
       },
       {
-        "headline": "JPMorgan-ը կանխատեսում է Bitcoin-ի գերազանցումը",
-        "summary": "JPMorgan-ն առաջին անգամ ներառել է Bitcoin-ը իր երկարաժամկետ կապիտալի շուկայի կանխատեսումներում՝ կանխատեսելով, որ այն կգերազանցի ԱՄՆ բաժնետոմսերին և ոսկուն հաջորդ տասնամյակում։",
-        "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5C5PPZ7JDZ592BE7GX5YMTD/btc-jpmorgan.jpg"
+        "headline": "Mastercard-ը գործարկում է AI վճարումներ",
+        "summary": "Mastercard-ը Coinbase-ի և Base-ի հետ համագործակցությամբ սկսում է AI գործակալների վճարումների ծառայության ներդրումը։",
+        "link": "https://news.bitcoin.com/crypto-news/mastercard-rolling-out-ai-agent-payments-coinbase-base/",
+        "source": "Bitcoin News",
+        "enTitle": "Mastercard Begins Rolling Out AI Agent Payments Service With Coinbase, Base",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/mastercard-closes-1-8b-bvnk-deal-in-stablecoin-payments-bet-768x432.jpg"
       },
       {
-        "headline": "Mt. Gox-ը երկարաձգել է պարտքերի մարման ժամկետը",
-        "summary": "Mt. Gox-ը ևս մեկ տարով՝ մինչև 2027 թվականը, երկարաձգել է պարտատերերի մարման ժամկետը՝ անավարտ ընթացակարգերի և վճարումների մշակման խնդիրների պատճառով։",
-        "link": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CCKGBRR4HTKS9W4W83F5VC/hi-what-are-inflows-and-outflows-on-crypto-exchanges2.jpg"
+        "headline": "Bitcoin ETF-ները գրանցել են ռեկորդային օր",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են իրենց լավագույն օրը գրեթե մեկ ամսվա ընթացքում, ընդ որում BlackRock-ի IBIT-ը կատարել է բոլոր գնումները։",
+        "link": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
       },
       {
-        "headline": "Ֆրանսիացի պատգամավորները հավանություն են տվել կրիպտո հարկին",
-        "summary": "Ֆրանսիացի պատգամավորները հավանություն են տվել կրիպտո հարկի առաջարկին, որը կանդրադառնա MiCA էլեկտրոնային փողի թոքեններին և stablecoin-ների փոխանակումներին՝ ուժի մեջ մտնելով 2027 թվականի հունվարից։",
-        "link": "https://cryptoslate.com/french-mps-back-crypto-tax-and-stablecoin-swaps-take-the-hit/",
-        "source": "CryptoSlate",
-        "enTitle": "French MPs back crypto tax, and stablecoin swaps take the hit",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/france-stablecoin-tax-vote-standard.jpg"
+        "headline": "JPMorgan-ը կանխատեսում է Bitcoin-ի եկամտաբերություն",
+        "summary": "JPMorgan-ը հրապարակել է Bitcoin-ի իր առաջին երկարաժամկետ եկամտաբերության կանխատեսումը՝ տարեկան 10%։",
+        "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
+        "source": "The Block",
+        "enTitle": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JpMorgan_News_3.jpg"
+      },
+      {
+        "headline": "Coinbase-ը ընդլայնում է stablecoin-ի հասանելիությունը",
+        "summary": "Coinbase-ը համագործակցում է Thunes-ի հետ՝ stablecoin փոխանցումները միլիարդավոր բանկային հաշիվների և բջջային դրամապանակների հետ կապելու համար։",
+        "link": "https://news.bitcoin.com/exchanges/coinbase-taps-thunes-link-stablecoins-billions-accounts/",
+        "source": "Bitcoin News",
+        "enTitle": "Coinbase Taps Thunes to Link Stablecoins to Billions of Accounts",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/coinbase-1-768x432.jpg"
       }
     ]
   }
