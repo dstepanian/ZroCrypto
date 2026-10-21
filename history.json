@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-08-22",
-    "ts": 1787415182329,
-    "fng": {
-      "value": 71,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 77006,
-        "change24h": 0.05771904795142611
-      },
-      {
-        "label": "Ethereum",
-        "price": 2412.97,
-        "change24h": 0.9787438317696162
-      }
-    ],
-    "overview": "Կրիպտո շուկաներում դրական տրամադրություններ են տիրում՝ պայմանավորված ինստիտուցիոնալ ներդրումների աճով և Bitcoin-ի ու որոշ ալտքոյնների գների զգալի բարձրացմամբ։ Կարգավորող մարմինները նույնպես նոր քայլեր են ձեռնարկում։",
-    "items": [
-      {
-        "headline": "Bitcoin-ը կտրուկ աճել է ETF ներհոսքերի շնորհիվ",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները հինգ օրում գրանցել են 1.92 միլիարդ դոլարի զուտ ներհոսք, ինչը նպաստել է Bitcoin-ի գնի զգալի աճին։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-add-1-92-billion-in-5-days-as-wall-street-buying-surges/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin ETFs Add $1.92 Billion in 5 Days as Wall Street Buying Surges",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-etfs-add-1-92b-in-5-days-as-wall-street-buying-surges-768x432.jpg"
-      },
-      {
-        "headline": "Grayscale-ը մոտենում է Zcash ETF-ի գործարկմանը",
-        "summary": "Grayscale-ը SEC-ին ներկայացրել է Zcash Trust-ը spot ETF-ի վերածելու նոր փոփոխված հայտ, ինչի արդյունքում Zcash-ի գինը աճել է 48%-ով։",
-        "link": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
-        "source": "The Block",
-        "enTitle": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
-        "image": "https://www.tbstat.com/wp/uploads/2025/09/20250919_Greyscale_News-1200x675.jpg"
-      },
-      {
-        "headline": "SEC-ը նոր ուղի է առաջարկում կրիպտո նախագծերի համար",
-        "summary": "ԱՄՆ-ի SEC-ը առաջարկել է նոր մեխանիզմ, որը թույլ կտա կրիպտո նախագծերին հավաքել մինչև 75 միլիոն դոլար և հետագայում դադարեցնել թոքենի արժեթղթի պայմանագիրը։",
-        "link": "https://cryptoslate.com/sec-proposes-a-path-for-crypto-projects-to-raise-75-million-and-later-end-the-tokens-securities-contract/",
-        "source": "CryptoSlate",
-        "enTitle": "SEC proposes a path for crypto projects to raise $75 million and later end the token’s securities contract",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/sec-crypto-funding-rules.jpg"
-      },
-      {
-        "headline": "Գանձապետարանը ժամկետ է սահմանել stablecoin-ների համար",
-        "summary": "ԱՄՆ Գանձապետարանը առաջարկել է GENIUS Act կանոններ, որոնք մինչև 2028 թվականի հուլիսի 18-ը կսահմանափակեն օֆշորային payment stablecoin-ների հասանելիությունը ԱՄՆ հաճախորդներին։",
-        "link": "https://cryptoslate.com/treasury-just-put-a-deadline-on-offshore-stablecoins-access-to-us-customers/",
-        "source": "CryptoSlate",
-        "enTitle": "Treasury just put a deadline on offshore stablecoins’ access to US customers",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-menu-filter.jpg"
-      },
-      {
-        "headline": "Stanley Druckenmiller-ը ներդրումներ է կատարել կրիպտոյում",
-        "summary": "Լեգենդար ներդրող Stanley Druckenmiller-ը բացահայտել է ավելի քան 80 միլիոն դոլարի ներդրումներ Bitdeer-ում և Hyperliquid-ում՝ ընդգծելով ինստիտուցիոնալ հետաքրքրությունը թվային ակտիվների նկատմամբ։",
-        "link": "https://news.bitcoin.com/finance/druckenmiller-bets-88m-on-bitdeer-and-hyperliquid-strategies/",
-        "source": "Bitcoin News",
-        "enTitle": "Druckenmiller Bets $88m on Bitdeer and Hyperliquid Strategies",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/duquesne-13f-form-768x432.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-23",
     "ts": 1787501657805,
     "fng": {
@@ -4309,6 +4244,79 @@
         "source": "Bitcoin News",
         "enTitle": "Coinbase Taps Thunes to Link Stablecoins to Billions of Accounts",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/coinbase-1-768x432.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "ts": 1792579859974,
+    "fng": {
+      "value": 63,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 83320,
+        "change24h": 2.243740610692198
+      },
+      {
+        "label": "Ethereum",
+        "price": 2454.26,
+        "change24h": 2.9210601440520576
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բազմազան պատկեր է ներկայացնում՝ Bitcoin-ի համար նկատվում է ինստիտուցիոնալ ընդունման աճ և ETF-ների զգալի ներհոսք, մինչդեռ Ether-ի ETF-ները շարունակում են արտահոսքեր գրանցել։ Միաժամանակ, Solana-ն և Zcash-ը հայտարարել են իրենց ցանցերի կարևոր թարմացումների մասին, իսկ SpaceX-ի և Tesla-ի միաձուլման հնարավորությունը շարունակում է քննարկվել։",
+    "items": [
+      {
+        "headline": "SpaceX-ի և Tesla-ի միաձուլման քննարկումներ",
+        "summary": "SpaceX-ը և Tesla-ն ուսումնասիրում են միաձուլման հնարավորությունը, որը կարող է միավորել ավելի քան 30,000 Bitcoin։",
+        "link": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1f89c15f2364b145f85b22adbe4a17df0dfa1e2-5201x2926.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Bitcoin ETF-ների ներհոսք, Ether-ի արտահոսք",
+        "summary": "ԱՄՆ-ի Bitcoin ETF-ները երկու օրում ներգրավել են 550 միլիոն դոլար, մինչդեռ Ether ETF-ներից հոկտեմբերին արտահոսել է ավելի քան 1 միլիարդ դոլար։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-add-550m-in-2-days-as-ether-outflows-persist/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin ETFs Add $550M in 2 Days as Ether Outflows Persist",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/bitcoin-etfs-add-550m-in-2-days-as-ether-outflows-persist-768x432.jpg"
+      },
+      {
+        "headline": "Գերմանական բանկը գործարկում է Bitcoin առևտուր",
+        "summary": "Գերմանիայի խնայբանկերի հիմնական ցանցը գործարկել է Bitcoin առևտրի հնարավորություն՝ ընդլայնելով կրիպտո ակտիվների հասանելիությունը։",
+        "link": "https://cryptoslate.com/germanys-main-savings-bank-network-launches-bitcoin-trading/",
+        "source": "CryptoSlate",
+        "enTitle": "Germany’s main savings bank network launches Bitcoin trading",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/sparkasse-bitcoin-railway.webp"
+      },
+      {
+        "headline": "Շվեյցարիան հաստատել է Bitcoin ETF-ը",
+        "summary": "Շվեյցարիան հաստատել է Bitcoin ETF-ը՝ կարևոր քայլ կատարելով դեպի կրիպտոարժույթների ինստիտուցիոնալ ընդունում։",
+        "link": "https://cryptoslate.com/switzerland-approves-landmark-bitcoin-etf-after-ruling-trading-volume-sufficient/",
+        "source": "CryptoSlate",
+        "enTitle": "Switzerland approves landmark Bitcoin ETF after ruling trading volume sufficient",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/finma-bitcoin-cable-car.webp"
+      },
+      {
+        "headline": "Solana-ի Alpenglow թարմացումը գործարկվում է",
+        "summary": "Solana-ի Alpenglow ցանցի ամենամեծ թարմացումը 2020 թվականից ի վեր գործարկվում է՝ նպատակ ունենալով բարելավել համակարգի արդյունավետությունը։",
+        "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Zcash-ի NU7 թարմացման ամսաթիվը հաստատված է",
+        "summary": "Zcash-ի մշակողները հաստատել են նոյեմբեր ամսվա թարմացման ամսաթիվը, որը կեռապատկի վճարումների արագությունը։",
+        "link": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Zcash developers confirm November date for upgrade that triples payment speed",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c406a3e3098454cbb4f4d02cbcd26e638eb2a0e-1500x999.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       }
     ]
   }
