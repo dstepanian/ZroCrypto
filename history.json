@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-23",
-    "ts": 1787501657805,
-    "fng": {
-      "value": 66,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 77232,
-        "change24h": 0.31664175977662307
-      },
-      {
-        "label": "Ethereum",
-        "price": 2444.51,
-        "change24h": 1.4173113254689127
-      }
-    ],
-    "overview": "Այս շաբաթ կրիպտո շուկան ցույց տվեց դրական շարժեր, ինչպես նաև շարունակվող կարգավորող մարտահրավերներ և ընդունման աճող միտումներ։",
-    "items": [
-      {
-        "headline": "XRP-ի շաբաթական զգալի աճ",
-        "summary": "XRP-ի գինը այս շաբաթ աճել է 50%-ով՝ նշելով իր ամենամեծ շաբաթական աճը 21 ամսվա ընթացքում։",
-        "link": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/5f60efd49e0a819f81091f39acbb1766f5bf3819-2961x995.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Սենատորը պահանջում է Թրամփի կրիպտո շահույթների արգելք",
-        "summary": "ԱՄՆ սենատոր Քիրսթեն Գիլիբրանդը պահանջում է նախագահական կրիպտո շահույթների արգելք՝ հիմնվելով հարցման վրա, որտեղ ամերիկացիների 63%-ը Թրամփի շահույթներն անպատշաճ է համարում։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/senator-seeks-trump-crypto-ban-as-63-call-his-profits-inappropriate/",
-        "source": "Bitcoin News",
-        "enTitle": "Senator Seeks Trump Crypto Ban as 63% Call His Profits Inappropriate",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/congress-1-768x432.jpg"
-      },
-      {
-        "headline": "Կրիպտո քարտերով ծախսերը գերազանցել են $1 միլիարդը",
-        "summary": "Կրիպտո քարտերով ծախսերի ծավալը մեկ տարվա ընթացքում եռապատկվել է՝ հասնելով ավելի քան $1 միլիարդի, ընդ որում USDC-ն և USDT-ն ֆինանսավորում են ծախսերի ավելի քան 70%-ը։",
-        "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/da5caf65adc295012880cf200ddf9e937f2db11c-1920x1282.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "ԱՄՆ-ում Bitcoin-ի բարձր լծակային առևտուրը հաստատվել է",
-        "summary": "ԱՄՆ-ում հաստատվել է Bitcoin-ի բարձր լծակային առևտուրը, մինչդեռ կրիպտո նախագծերի հիմնադիրները դեռևս իրավականորեն արգելափակված են հանրային ֆինանսավորում ներգրավելուց։",
-        "link": "https://cryptoslate.com/the-us-approved-high-leverage-bitcoin-trading-while-crypto-founders-remain-legally-blocked-from-raising-funds/",
-        "source": "CryptoSlate",
-        "enTitle": "The US approved high-leverage Bitcoin trading while crypto founders remain legally blocked from raising funds",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-regulatory-green-light.jpg"
-      },
-      {
-        "headline": "Grayscale-ը ներկայացրել է Zcash ETF-ի հայտ",
-        "summary": "Grayscale-ը ներկայացրել է Zcash ETF-ի հայտ՝ առաջարկելով 2.5% վճար և DCG-ի 34% պոտենցիալ բաժնեմաս հիմնադրամում։",
-        "link": "https://cryptoslate.com/grayscales-zcash-etf-filing-proposes-a-2-5-fee-and-a-potential-34-dcg-stake/",
-        "source": "CryptoSlate",
-        "enTitle": "Grayscale’s Zcash ETF filing proposes a 2.5% fee and a potential 34% DCG stake",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/zcash-etf-vault-door.jpg"
-      },
-      {
-        "headline": "Bitcoin և Ether ETF-ները գրավել են $2.6 միլիարդ ներհոսք",
-        "summary": "Bitcoin և Ether ETF-ները գրանցել են $2.6 միլիարդի ներհոսք՝ հոկտեմբերից ի վեր ամենաուժեղ շաբաթը, իսկ առևտրի ծավալը եռապատկվել է։",
-        "link": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
-        "source": "The Block",
-        "enTitle": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
-        "image": "https://www.tbstat.com/wp/uploads/2024/05/20240513_Bitcoin_News_10-1200x675.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-24",
     "ts": 1787588702809,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Bitcoin News",
         "enTitle": "Solana’s Alpenglow Upgrade Goes Live, Promising 99% Faster Finality",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/solana-dex-trades-top-nyse-with-208m-weekly-transactions-768x432.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-22",
+    "ts": 1792666359376,
+    "fng": {
+      "value": 68,
+      "label": "Greed",
+      "hy": "Ագահություն",
+      "dot": "🟢"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 81956,
+        "change24h": -1.669152241334097
+      },
+      {
+        "label": "Ethereum",
+        "price": 2403.86,
+        "change24h": -2.0903026628190347
+      }
+    ],
+    "overview": "Շուկան նշանակալի ինստիտուցիոնալ ներհոսքեր է արձանագրել Bitcoin ETF-ներում, սակայն նաև բախվել է կարգավորող փոփոխությունների ԱՄՆ-ում և Ասիայում, ինչպես նաև շարունակական կիբերանվտանգության մտահոգությունների: Օրը նշանավորվել է նաև խոշոր ցանցային արդիականացումներով և իրավական գործողություններով:",
+    "items": [
+      {
+        "headline": "Bitcoin ETF-ների ներհոսքը շարունակվում է",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները երեք առևտրային նստաշրջանների ընթացքում ներգրավել են 1.08 միլիարդ դոլար՝ հոկտեմբերյան հոսքերը դրական դարձնելով:",
+        "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NJXA13RF9N1Q13C8RH5D6G/surfing-blockchain-wave-etf-1.jpg"
+      },
+      {
+        "headline": "Չինաստանը փորձում է բռնագրավել Bitcoin-ը",
+        "summary": "Չինական դատախազները փորձում են բռնագրավել ավելի քան 5.1 միլիարդ դոլար արժողությամբ Bitcoin, որը բռնագրավվել է Մեծ Բրիտանիայում Qian գործով:",
+        "link": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
+        "source": "Decrypt",
+        "enTitle": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png"
+      },
+      {
+        "headline": "ԱՄՆ-ի OCC-ն նոր կանոններ է սահմանում stablecoin-ների համար",
+        "summary": "ԱՄՆ-ի Արժույթի Վերահսկիչի Գրասենյակի (OCC) նոր կանոնները պահանջում են, որ գործող stablecoin թողարկողները լրացուցիչ թույլտվություն ստանան մինչև 2027 թվականի հունվարի 18-ը:",
+        "link": "https://cryptoslate.com/occ-waiver-rule-puts-active-stablecoin-issuers-on-notice/",
+        "source": "CryptoSlate",
+        "enTitle": "OCC waiver rule puts active stablecoin issuers on notice",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-regulatory-deadline.webp"
+      },
+      {
+        "headline": "Coinbase-ը և Bitgo-ն անվտանգ են PHP խոցելիությունից",
+        "summary": "Coinbase-ը, Bitgo-ն և մի քանի այլ խոշոր կրիպտո ընկերություններ հայտարարել են, որ իրենք չեն տուժել PHP-ի վերջին խոցելիությունից, մինչդեռ Binance-ի CZ-ը զգուշություն է կոչ արել:",
+        "link": "https://news.bitcoin.com/security/coinbase-bitgo-say-unaffected-by-php-flaw-binances-cz-urges-caution/",
+        "source": "Bitcoin News",
+        "enTitle": "Coinbase, Bitgo Say Unaffected by PHP Flaw; Binance’s CZ Urges Caution",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/untitled-design1-11-768x432.png"
+      },
+      {
+        "headline": "Starknet-ը ուսումնասիրում է անկախ Layer 1 դառնալու հնարավորությունը",
+        "summary": "Starknet-ի համայնքը աջակցել է Ethereum-ից անկախ, քվանտային դիմացկուն Layer 1 բլոկչեյն դառնալու հնարավորության ուսումնասիրությանը:",
+        "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Starknet voters back research into life beyond Ethereum",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HD0868XDVMAEX50APTK2HS/quantum.png"
+      },
+      {
+        "headline": "Solana-ի ցանցի ամենամեծ փոփոխությունը կյանքի է կոչվել",
+        "summary": "Solana-ի ցանցի ամենամեծ փոփոխությունը 2020 թվականից ի վեր գործարկվել է, որը նպատակ ունի բարելավել վճարումների և ավանդների սպասման ժամանակը:",
+        "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       }
     ]
   }
