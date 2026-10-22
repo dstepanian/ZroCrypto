@@ -4249,7 +4249,7 @@
   },
   {
     "date": "2026-10-22",
-    "ts": 1792666359376,
+    "ts": 1792697918389,
     "fng": {
       "value": 68,
       "label": "Greed",
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 81956,
-        "change24h": -1.669152241334097
+        "price": 81388,
+        "change24h": -3.67310494483711
       },
       {
         "label": "Ethereum",
-        "price": 2403.86,
-        "change24h": -2.0903026628190347
+        "price": 2386.94,
+        "change24h": -4.360088683662915
       }
     ],
-    "overview": "Շուկան նշանակալի ինստիտուցիոնալ ներհոսքեր է արձանագրել Bitcoin ETF-ներում, սակայն նաև բախվել է կարգավորող փոփոխությունների ԱՄՆ-ում և Ասիայում, ինչպես նաև շարունակական կիբերանվտանգության մտահոգությունների: Օրը նշանավորվել է նաև խոշոր ցանցային արդիականացումներով և իրավական գործողություններով:",
+    "overview": "Վերջին 24 ժամվա ընթացքում կրիպտոարժույթների շուկան բնութագրվել է ավանդական ֆինանսական հաստատությունների ինտեգրմամբ, կարգավորող մարմինների ուշադրությամբ և տեխնոլոգիական զարգացումներով։",
     "items": [
       {
-        "headline": "Bitcoin ETF-ների ներհոսքը շարունակվում է",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները երեք առևտրային նստաշրջանների ընթացքում ներգրավել են 1.08 միլիարդ դոլար՝ հոկտեմբերյան հոսքերը դրական դարձնելով:",
-        "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NJXA13RF9N1Q13C8RH5D6G/surfing-blockchain-wave-etf-1.jpg"
-      },
-      {
-        "headline": "Չինաստանը փորձում է բռնագրավել Bitcoin-ը",
-        "summary": "Չինական դատախազները փորձում են բռնագրավել ավելի քան 5.1 միլիարդ դոլար արժողությամբ Bitcoin, որը բռնագրավվել է Մեծ Բրիտանիայում Qian գործով:",
-        "link": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
-        "source": "Decrypt",
-        "enTitle": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png"
-      },
-      {
-        "headline": "ԱՄՆ-ի OCC-ն նոր կանոններ է սահմանում stablecoin-ների համար",
-        "summary": "ԱՄՆ-ի Արժույթի Վերահսկիչի Գրասենյակի (OCC) նոր կանոնները պահանջում են, որ գործող stablecoin թողարկողները լրացուցիչ թույլտվություն ստանան մինչև 2027 թվականի հունվարի 18-ը:",
-        "link": "https://cryptoslate.com/occ-waiver-rule-puts-active-stablecoin-issuers-on-notice/",
+        "headline": "Standard Chartered-ը կրիպտո ակտիվների պահպանման ոլորտում",
+        "summary": "Standard Chartered բանկը նախատեսում է ինքնուրույն իրականացնել կրիպտո ակտիվների պահպանումը՝ արագացնելով Wall Street-ի թվային ակտիվների ենթակառուցվածքի մրցավազքը։",
+        "link": "https://cryptoslate.com/standard-chartered-moves-to-bring-crypto-custody-in-house-as-wall-streets-digital-asset-infrastructure-race-accelerates/",
         "source": "CryptoSlate",
-        "enTitle": "OCC waiver rule puts active stablecoin issuers on notice",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-regulatory-deadline.webp"
+        "enTitle": "Standard Chartered moves to bring crypto custody in-house as Wall Street’s digital asset infrastructure race accelerates",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/zodia-custody-transaction-split.webp"
       },
       {
-        "headline": "Coinbase-ը և Bitgo-ն անվտանգ են PHP խոցելիությունից",
-        "summary": "Coinbase-ը, Bitgo-ն և մի քանի այլ խոշոր կրիպտո ընկերություններ հայտարարել են, որ իրենք չեն տուժել PHP-ի վերջին խոցելիությունից, մինչդեռ Binance-ի CZ-ը զգուշություն է կոչ արել:",
-        "link": "https://news.bitcoin.com/security/coinbase-bitgo-say-unaffected-by-php-flaw-binances-cz-urges-caution/",
+        "headline": "Ethereum-ի նոր առաջարկը՝ ավելի արագ վերջնականության համար",
+        "summary": "Ethereum-ի հետազոտողները նոր առաջարկ են ներկայացրել, որը նպատակ ունի կրճատել գործարքների վերջնականության ժամանակը 16 րոպեից մինչև 4 րոպե և ուժեղացնել պաշտպանությունը քվանտային հարձակումներից։",
+        "link": "https://news.bitcoin.com/blockchain/ethereum-draft-targets-faster-finality-future-quantum-defense/",
         "source": "Bitcoin News",
-        "enTitle": "Coinbase, Bitgo Say Unaffected by PHP Flaw; Binance’s CZ Urges Caution",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/untitled-design1-11-768x432.png"
+        "enTitle": "Ethereum Draft Targets Faster Finality and Future Quantum Defense",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/ethereum-draft-targets-faster-finality-and-future-quantum-defense-768x432.png"
       },
       {
-        "headline": "Starknet-ը ուսումնասիրում է անկախ Layer 1 դառնալու հնարավորությունը",
-        "summary": "Starknet-ի համայնքը աջակցել է Ethereum-ից անկախ, քվանտային դիմացկուն Layer 1 բլոկչեյն դառնալու հնարավորության ուսումնասիրությանը:",
-        "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Starknet voters back research into life beyond Ethereum",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HD0868XDVMAEX50APTK2HS/quantum.png"
+        "headline": "Coinbase-ը տուգանվել է Իռլանդիայում",
+        "summary": "Իռլանդիայի Կենտրոնական բանկը Coinbase Ireland-ին տուգանել է 3.6 միլիոն դոլար՝ հաճախորդների միջոցների պահպանման կանոնները խախտելու համար։",
+        "link": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding",
+        "source": "Decrypt",
+        "enTitle": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png"
       },
       {
-        "headline": "Solana-ի ցանցի ամենամեծ փոփոխությունը կյանքի է կոչվել",
-        "summary": "Solana-ի ցանցի ամենամեծ փոփոխությունը 2020 թվականից ի վեր գործարկվել է, որը նպատակ ունի բարելավել վճարումների և ավանդների սպասման ժամանակը:",
-        "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+        "headline": "Fireblocks-ը հերքում է Visa-ի հետ գործարքի լուրերը",
+        "summary": "Fireblocks կրիպտո ենթակառուցվածքային ընկերությունը հերքել է Visa-ի կողմից իրեն մոտ 2.5 միլիարդ դոլարով ձեռք բերելու մասին լուրերը։",
+        "link": "https://news.bitcoin.com/finance/fireblocks-denies-visa-deal-rumors-after-2-5b-buyout-report/",
+        "source": "Bitcoin News",
+        "enTitle": "Fireblocks Denies Visa Deal Rumors After $2.5B Buyout Report",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/fireblocks-denies-visa-deal-rumors-after-2-5b-buyout-report-768x432.png"
+      },
+      {
+        "headline": "Չինաստանը պահանջում է Բրիտանիայում առգրավված Bitcoin-ները",
+        "summary": "Չինաստանի դատախազները ձգտում են բռնագրավել 61,896 Bitcoin, որոնք գնահատվում են մոտ 5.1 միլիարդ դոլար և ներկայումս պահվում են բրիտանական իշխանությունների կողմից։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/china-targets-61896-bitcoin-still-held-british-authorities-report/",
+        "source": "Bitcoin News",
+        "enTitle": "China Targets 61,896 Bitcoin Still Held by British Authorities: Report",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/report-china-targets-61896-bitcoin-still-held-by-british-authorities-768x432.png"
+      },
+      {
+        "headline": "Tether-ը ներդրում է կատարում Peso ֆինտեխ ընկերությունում",
+        "summary": "Tether-ը ներդրում է կատարել Peso ֆինտեխ ընկերությունում՝ նպատակ ունենալով ընդլայնել USDT-ի մանրածախ վճարումները Լատինական Ամերիկայի չորս հիմնական շուկաներում։",
+        "link": "https://news.bitcoin.com/crypto-news/tether-backs-fintech-peso-push-usdt-retail-payments-across-bolivia/",
+        "source": "Bitcoin News",
+        "enTitle": "Tether Backs Fintech Peso to Push USDT Retail Payments Across Bolivia",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/tether-pushes-into-artificial-intelligence-as-user-base-tops-650m-768x432.jpg"
       }
     ]
   }
