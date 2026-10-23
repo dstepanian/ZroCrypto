@@ -4249,7 +4249,7 @@
   },
   {
     "date": "2026-10-23",
-    "ts": 1792752226420,
+    "ts": 1792784329425,
     "fng": {
       "value": 50,
       "label": "Neutral",
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 81645,
-        "change24h": -0.48824846636232616
+        "price": 81201,
+        "change24h": -0.17695539132251478
       },
       {
         "label": "Ethereum",
-        "price": 2398.67,
-        "change24h": -0.2774707643378953
+        "price": 2393.78,
+        "change24h": 0.3240900702715626
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան նշանավորվում է կարգավորող զարգացումներով և ինստիտուցիոնալ որդեգրմամբ, հատկապես stablecoin-ների և ETF-ների ոլորտում։ Միաժամանակ, առկա են մարտահրավերներ արձանագրությունների անվտանգության և խոշոր շահագործումների հետ կապված։",
+    "overview": "Օրվա նորությունները ներկայացնում են կարգավորող մարմինների մտահոգությունների, անվտանգության միջադեպերի և կրիպտո տարածքում շարունակվող ինստիտուցիոնալ ընդունման խառը պատկեր։ Կարևոր զարգացումներից են խոշոր բանկի կողմից stablecoin-ի գործարկումը և AI-ի առաջընթացներով պայմանավորված հիմնական արձանագրությունների թարմացումները։",
     "items": [
       {
-        "headline": "Հարավային Կորեան կկարգավորի stablecoin-ները",
-        "summary": "Հարավային Կորեան նախատեսում է փոփոխել արտարժույթի օրենքը՝ stablecoin-ները որպես վճարային գործիքներ կարգավորելու համար։",
-        "link": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028",
+        "headline": "Իսրայելը քննարկում է բլոկչեյնը պատժամիջոցներից խուսափելու համար",
+        "summary": "Իսրայելի վարչապետ Բենյամին Նեթանյահուն հրահանգել է պաշտոնյաներին մշակել բլոկչեյն տեխնոլոգիայի և կրիպտոարժույթների կիրառման պլան՝ երկրին հնարավոր միջազգային տնտեսական պատժամիջոցներից խուսափելու համար։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/netanyahu-orders-blockchain-plan-israel-evade-sanctions/",
+        "source": "Bitcoin News",
+        "enTitle": "Netanyahu Orders Blockchain Plan to Help Israel Evade Potential Sanctions",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/israel.jpg"
+      },
+      {
+        "headline": "SEC-ը AI-ն և Tokenization-ը համարում է շուկայական ռիսկեր",
+        "summary": "SEC-ի քննությունների բաժինը «գերխելքը և այլ առաջադեմ տեխնոլոգիաները» նշել է որպես համակարգային շուկայական ռիսկերի ուշադրության կենտրոնում, ինչպես նաև Tokenization-ի հետ կապված ռիսկերը։",
+        "link": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+        "source": "Decrypt",
+        "enTitle": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg@png"
+      },
+      {
+        "headline": "Initia բլոկչեյնը դադարեցրել է աշխատանքը հաքերային հարձակումից հետո",
+        "summary": "Initia բլոկչեյնը դադարեցրել է իր layer-1 ցանցի և rollups-ի աշխատանքը այն բանից հետո, երբ անվտանգության հետազոտողները հայտնաբերել են չարտոնված token-ների թողարկում և միլիոնավոր ակտիվների փոխանցում Ethereum։",
+        "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png"
+      },
+      {
+        "headline": "HSBC-ն գործարկել է իր առաջին stablecoin-ը",
+        "summary": "HSBC-ն գործարկել է իր առաջին stablecoin-ը՝ Հոնկոնգի դոլարով ապահովված թվային արժույթ, որը նախատեսված է ամենօրյա վճարումների համար։",
+        "link": "https://news.bitcoin.com/stablecoins/hsbc-first-stablecoin-hong-kong-dollar-payments-3-3m-users/",
+        "source": "Bitcoin News",
+        "enTitle": "HSBC Launches First Stablecoin, Bringing Hong Kong Dollar Payments to 3.3M Users",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/hsbc-768x432.jpg"
+      },
+      {
+        "headline": "Սենատորը հարցում է կատարում Tether-ի վերաբերյալ",
+        "summary": "Սենատոր Բլումենթալը պատասխաններ է պահանջել Tether-ից այն հաղորդումներից հետո, որ այն միլիոններ է վճարել նախկին Սպիտակ տան կրիպտո խորհրդականի կողմից հիմնադրված ընկերությանը։",
+        "link": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
         "source": "The Block",
-        "enTitle": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/korea.png"
+        "enTitle": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/02/image-d3d3f946-f84d-4ec0-af8e-b8e8f8da2cab-4.jpg"
       },
       {
-        "headline": "Bybit-ը լիցենզիա է ստացել Դուբայում",
-        "summary": "Bybit-ը ստացել է իր առաջին ամբողջական լիցենզիան Դուբայում՝ spot trading ծառայություններ մատուցելու համար։",
-        "link": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bybit secures first full Dubai license for spot trading services",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5M0F2CE9T8P48F2FE5V5FKF/bybit-uae-license-dubai.jpg"
-      },
-      {
-        "headline": "HSBC-ն գործարկում է RedCoin stablecoin-ը",
-        "summary": "HSBC-ն իր առաջին HKD stablecoin RedCoin-ը ներկայացնում է մանրածախ օգտատերերին՝ PayMe հավելվածի միջոցով։",
-        "link": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
-        "source": "The Block",
-        "enTitle": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/hsbc-redcoin.png"
-      },
-      {
-        "headline": "Շվեյցարիայի առաջին Bitcoin ETF-ը",
-        "summary": "Շվեյցարիայի առաջին մանրածախ spot Bitcoin ETF-ը նախատեսվում է գործարկել նոյեմբերին SIX Swiss Exchange-ում։",
-        "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5K495GNDHMTE3BPW7ZKE90T/bitcoin-etf-6.jpg"
-      },
-      {
-        "headline": "Ethereum-ի Glamsterdam թարմացումը հետաձգվել է",
-        "summary": "Ethereum-ի Glamsterdam թարմացումը հետաձգվել է անվտանգության 13 ռիսկերի հայտնաբերման պատճառով, որոնք կարող են ազդել գոյություն ունեցող smart contract-ների վրա։",
-        "link": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
-        "source": "CryptoSlate",
-        "enTitle": "Ethereum’s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/glamsterdam-security-cover-fixed-2.webp"
-      },
-      {
-        "headline": "Cysic-ի կոտրում և Tornado Cash",
-        "summary": "Հաքերը Cysic-ի կամուրջը շահագործելուց հետո $744,000 արժողությամբ ETH և BNB է տեղափոխել Tornado Cash։",
-        "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KZARS72JZC0FSMD8WX2PAG/aml-money-laundering-crypto-1.jpg"
+        "headline": "Bitcoin Core-ը փոխում է անվտանգության քաղաքականությունը AI-ի պատճառով",
+        "summary": "Bitcoin Core-ի մշակողներն այժմ անմիջապես կթարմացնեն և կթողարկեն շտկումներ «հեշտությամբ հայտնաբերվող» թերությունների համար՝ հրաժարվելով երկար էմբարգոներից այն սխալների համար, որոնք հարձակվողը կարող է բացահայտել մեկ AI հրահանգով։",
+        "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-screen-gID_7.png@png"
       }
     ]
   }
