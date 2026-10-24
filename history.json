@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-08-25",
-    "ts": 1787675153110,
-    "fng": {
-      "value": 74,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 79200,
-        "change24h": -0.703588400346506
-      },
-      {
-        "label": "Ethereum",
-        "price": 2474.24,
-        "change24h": -1.0861833732484283
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ներդրումների աճով և թոքենիզացիայի ոլորտում նորարարություններով։ Bitcoin ETF-ները շարունակում են զգալի ներհոսքեր գրանցել, մինչդեռ նոր ETF-ներ և թոքենացված պորտֆելներ են գործարկվում։",
-    "items": [
-      {
-        "headline": "LayerZero-ն ներկայացրել է նոր առևտրային ենթակառուցվածք",
-        "summary": "LayerZero-ն գործարկել է կրիպտո և թոքենացված շուկաների համար նախատեսված առևտրային ենթակառուցվածք, ինչի արդյունքում ZRO թոքենի գինը կտրուկ աճել է։",
-        "link": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/cacddf721a616875f4ffcac5f2979bfe02adef35-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Bitcoin ETF-ների ներհոսքը հասել է $2.2 միլիարդի",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները վեց օրում գրանցել են $2.2 միլիարդի ներհոսք, իսկ ընդհանուր ակտիվները մոտենում են $100 միլիարդին։",
-        "link": "https://cryptoslate.com/bitcoin-etfs-inflow-streak-reaches-2-2-billion-in-6-days-as-assets-near-100-billion/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitcoin ETFs inflow streak reaches $2.2 billion in 6 days as assets near $100 billion",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-etf-100b-rebound.jpg"
-      },
-      {
-        "headline": "Bitwise-ը գործարկում է թոքենացված բաժնետոմսերի պորտֆելներ",
-        "summary": "Bitwise-ը ներկայացրել է ավտոմատացված թոքենացված բաժնետոմսերի պորտֆելներ՝ կենտրոնանալով Mag 7, AI և ռոբոտաշինության թեմաների վրա։",
-        "link": "https://www.theblock.co/news/business/2026-08-25-bitwise-launches-automated-tokenized-stock-portfolios-for-mag-7-ai-and-robotics-themes-412706",
-        "source": "The Block",
-        "enTitle": "Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes",
-        "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Bitwise_News_2-1200x675.jpg"
-      },
-      {
-        "headline": "Grayscale-ի Zcash ETF-ը սկսել է առևտուրը NYSE Arca-ում",
-        "summary": "Grayscale-ի Zcash ETF-ը (ZCSH) սկսել է առևտուրը NYSE Arca-ում՝ ներդրողներին հնարավորություն տալով ուղղակիորեն մուտք գործել ZEC-ի շուկա։",
-        "link": "https://news.bitcoin.com/featured/grayscales-zcash-etf-begins-trading-on-nyse-arca-with-spot-zec/",
-        "source": "Bitcoin News",
-        "enTitle": "Grayscale’s Zcash ETF Begins Trading on NYSE Arca With Spot ZEC",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/nyse-768x432.jpg"
-      },
-      {
-        "headline": "Հնդկաստանը նախատեսում է թոքենացված պարտատոմսեր թողարկել",
-        "summary": "Հնդկաստանը նախատեսում է փորձարկել թոքենացված կորպորատիվ պարտատոմսեր՝ օգտագործելով wholesale CBDC վճարումներ։",
-        "link": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "India plans first tokenized bonds using wholesale CBDC: Report",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-business-environment-for-crypto-like-in-india2.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-26",
     "ts": 1787762503620,
     "fng": {
@@ -4317,6 +4252,79 @@
         "source": "Decrypt",
         "enTitle": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-screen-gID_7.png@png"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "ts": 1792836024625,
+    "fng": {
+      "value": 51,
+      "label": "Neutral",
+      "hy": "Չեզոք",
+      "dot": "🟡"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 80544,
+        "change24h": -1.274337683230185
+      },
+      {
+        "label": "Ethereum",
+        "price": 2364.89,
+        "change24h": -1.3252428461274657
+      }
+    ],
+    "overview": "Ամփոփելով վերջին 24 ժամվա իրադարձությունները, կրիպտո շուկան դրսևորեց զգալի անկում՝ հատկապես Bitcoin ETF-ների զանգվածային արտահոսքերով, մինչդեռ կարգավորող մարմինները շարունակում են ուշադրություն դարձնել ոլորտի ռիսկերին։ Միևնույն ժամանակ, միջազգային մարմինները ակտիվացել են կրիպտոարժույթների օգտագործմամբ ֆինանսական հանցագործությունների դեմ պայքարում։",
+    "items": [
+      {
+        "headline": "Bitcoin ETF-ները գրանցել են ամսվա ամենամեծ արտահոսքը",
+        "summary": "ԱՄՆ-ի սպոտ Bitcoin ETF-ները գրանցել են 635 միլիոն դոլարի զուտ արտահոսք, ինչը ամսվա ամենամեծ օրական անկումն է, քանի որ Bitcoin-ի գինը մոտենում է ETF-ների կողմից պահվող բիթքոյնի գնի հիմքին:",
+        "link": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
+      },
+      {
+        "headline": "ԱՄՆ Սենատորը հետաքրքրվում է Tether-ի վճարումներով",
+        "summary": "Սենատոր Ռիչարդ Բլումենտալը հետաքննություն է սկսել Tether-ի կողմից նախկին Սպիտակ տան կրիպտո խորհրդականի ընկերությանը կատարված վճարումների վերաբերյալ՝ մտահոգություն հայտնելով շահերի բախման և էթիկայի խախտումների վերաբերյալ:",
+        "link": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
+        "source": "The Block",
+        "enTitle": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/02/image-d3d3f946-f84d-4ec0-af8e-b8e8f8da2cab-4.jpg"
+      },
+      {
+        "headline": "Interpol-ի գործողությունը Աֆրիկայում հանգեցրել է կրիպտո լվացման բացահայտման",
+        "summary": "Interpol-ի կողմից համակարգված կիբերհանցագործության դեմ պայքարի արդյունքում Աֆրիկայում ձերբակալվել է 1,462 մարդ, բացահայտվել են կրիպտոարժույթների օգտագործմամբ լվացված ավելի քան 105 միլիոն դոլար:",
+        "link": "https://news.bitcoin.com/featured/interpol-africa-sweep-nets-1462-arrests-exposes-crypto-laundering/",
+        "source": "Bitcoin News",
+        "enTitle": "Interpol Africa Sweep Nets 1,462 Arrests, Exposes Crypto Laundering",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/interpol-1-768x432.jpg"
+      },
+      {
+        "headline": "Չինաստանը նախատեսում է ազգային բլոկչեյն ցանցը գործարկել մինչև 2030 թվականը",
+        "summary": "Չինաստանը մինչև 2030 թվականը նախատեսում է գործարկել իր ազգային բլոկչեյն ցանցը՝ որպես երկրի տեղեկատվական ենթակառուցվածքների արդիականացման մաս:",
+        "link": "https://news.bitcoin.com/blockchain/china-targets-2030-to-complete-national-blockchain-network/",
+        "source": "Bitcoin News",
+        "enTitle": "China Targets 2030 to Complete National Blockchain Network",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/chinese-flag-768x432.jpg"
+      },
+      {
+        "headline": "Initia բլոկչեյնը կանգնել է հաքերային հարձակումից հետո",
+        "summary": "Modular բլոկչեյն պլատֆորմը՝ Initia-ն, դադարեցրել է իր ցանցի գործունեությունը անվտանգության միջադեպից հետո, որի հետևանքով հարձակվողը թողարկել է մոտ 2.7 միլիոն դոլարի կրիպտոարժույթ:",
+        "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png"
+      },
+      {
+        "headline": "SEC-ը նշում է տոկենացումը որպես բարձր ռիսկային ոլորտ",
+        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) իր 2027 թվականի շուկայական ստուգումների առաջնահերթություններում տոկենացումը նշել է որպես զարգացող շուկայական ռիսկ:",
+        "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "SEC flags tokenization as high-risk area in 2027 market examinations",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-international-crypto-tax-enforcement-coming-next1.png"
       }
     ]
   }
