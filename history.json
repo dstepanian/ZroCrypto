@@ -4257,7 +4257,7 @@
   },
   {
     "date": "2026-10-24",
-    "ts": 1792836024625,
+    "ts": 1792866456535,
     "fng": {
       "value": 51,
       "label": "Neutral",
@@ -4267,64 +4267,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 80544,
-        "change24h": -1.274337683230185
+        "price": 80208,
+        "change24h": -1.5719323802592104
       },
       {
         "label": "Ethereum",
-        "price": 2364.89,
-        "change24h": -1.3252428461274657
+        "price": 2322.51,
+        "change24h": -3.3748092528998095
       }
     ],
-    "overview": "Ամփոփելով վերջին 24 ժամվա իրադարձությունները, կրիպտո շուկան դրսևորեց զգալի անկում՝ հատկապես Bitcoin ETF-ների զանգվածային արտահոսքերով, մինչդեռ կարգավորող մարմինները շարունակում են ուշադրություն դարձնել ոլորտի ռիսկերին։ Միևնույն ժամանակ, միջազգային մարմինները ակտիվացել են կրիպտոարժույթների օգտագործմամբ ֆինանսական հանցագործությունների դեմ պայքարում։",
+    "overview": "Վերջին 24 ժամվա ընթացքում կրիպտո շուկան բախվել է մակրոտնտեսական և աշխարհաքաղաքական անորոշությանը, ինչը դրդել է որոշ խոշոր խաղացողների դուրս գալ դիրքերից: Միաժամանակ, դիտվում է բլոկչեյն տեխնոլոգիայի և թոքենիզացված ակտիվների ինստիտուցիոնալ ընդունման շարունակական աճ, հատկապես ԱՄՆ-ից դուրս գտնվող տարածաշրջաններում, որտեղ կարգավորող հստակությունը նպաստում է նորարարություններին։",
     "items": [
       {
-        "headline": "Bitcoin ETF-ները գրանցել են ամսվա ամենամեծ արտահոսքը",
-        "summary": "ԱՄՆ-ի սպոտ Bitcoin ETF-ները գրանցել են 635 միլիոն դոլարի զուտ արտահոսք, ինչը ամսվա ամենամեծ օրական անկումն է, քանի որ Bitcoin-ի գինը մոտենում է ETF-ների կողմից պահվող բիթքոյնի գնի հիմքին:",
-        "link": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+        "headline": "Arthur Hayes-ը դուրս է գալիս կրիպտո դիրքերից",
+        "summary": "Arthur Hayes-ը դուրս է եկել Maelstrom-ի ուղղորդված կրիպտո դիրքերից՝ վկայակոչելով մակրոտնտեսական և աշխարհաքաղաքական աճող անորոշությունը։",
+        "link": "https://cryptoslate.com/arthur-hayes-exits-crypto-trading-positions-as-analysts-track-26-million-in-sales/",
+        "source": "CryptoSlate",
+        "enTitle": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/arthur-hayes-crypto-retreat.webp"
+      },
+      {
+        "headline": "Նեթանյահուն դիտարկում է կրիպտո պլան",
+        "summary": "Իսրայելի վարչապետ Նեթանյահուն դիտարկում է բլոկչեյնի վրա հիմնված պլան՝ բանկային պատժամիջոցներից խուսափելու համար։",
+        "link": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
         "source": "Decrypt",
-        "enTitle": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
+        "enTitle": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Israel-Flag-DecryptStyle-gID_7.jpg@png"
       },
       {
-        "headline": "ԱՄՆ Սենատորը հետաքրքրվում է Tether-ի վճարումներով",
-        "summary": "Սենատոր Ռիչարդ Բլումենտալը հետաքննություն է սկսել Tether-ի կողմից նախկին Սպիտակ տան կրիպտո խորհրդականի ընկերությանը կատարված վճարումների վերաբերյալ՝ մտահոգություն հայտնելով շահերի բախման և էթիկայի խախտումների վերաբերյալ:",
-        "link": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
-        "source": "The Block",
-        "enTitle": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/02/image-d3d3f946-f84d-4ec0-af8e-b8e8f8da2cab-4.jpg"
+        "headline": "NYSE-ի սեփականատերը աջակցում է 24/7 բաժնետոմսերի թոքեններին",
+        "summary": "New York Stock Exchange-ի սեփականատեր ընկերությունը ցանկանում է, որ մարդիկ կարողանան գնել բաժնետոմսեր 24/7՝ թոքենիզացված ակտիվների միջոցով։",
+        "link": "https://cryptoslate.com/nyses-owner-is-backing-24-7-stock-tokens-without-wall-streets-usual-price-rules/",
+        "source": "CryptoSlate",
+        "enTitle": "NYSE’s owner is backing 24/7 stock tokens without Wall Street’s usual price rules",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stock-token-pricing-divide.webp"
       },
       {
-        "headline": "Interpol-ի գործողությունը Աֆրիկայում հանգեցրել է կրիպտո լվացման բացահայտման",
-        "summary": "Interpol-ի կողմից համակարգված կիբերհանցագործության դեմ պայքարի արդյունքում Աֆրիկայում ձերբակալվել է 1,462 մարդ, բացահայտվել են կրիպտոարժույթների օգտագործմամբ լվացված ավելի քան 105 միլիոն դոլար:",
-        "link": "https://news.bitcoin.com/featured/interpol-africa-sweep-nets-1462-arrests-exposes-crypto-laundering/",
-        "source": "Bitcoin News",
-        "enTitle": "Interpol Africa Sweep Nets 1,462 Arrests, Exposes Crypto Laundering",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/interpol-1-768x432.jpg"
+        "headline": "HSBC-ն Hong Kong դոլարի stablecoin է թողարկում",
+        "summary": "HSBC-ն իր Hong Kong դոլարի stablecoin-ը ներդրել է PayMe հավելվածում՝ փորձարկելով բանկի կողմից թողարկված թոքենի ամենօրյա օգտագործումը։",
+        "link": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+        "source": "Decrypt",
+        "enTitle": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hong-kong-decrypt-style-gID_7.jpg@png"
       },
       {
-        "headline": "Չինաստանը նախատեսում է ազգային բլոկչեյն ցանցը գործարկել մինչև 2030 թվականը",
-        "summary": "Չինաստանը մինչև 2030 թվականը նախատեսում է գործարկել իր ազգային բլոկչեյն ցանցը՝ որպես երկրի տեղեկատվական ենթակառուցվածքների արդիականացման մաս:",
-        "link": "https://news.bitcoin.com/blockchain/china-targets-2030-to-complete-national-blockchain-network/",
-        "source": "Bitcoin News",
-        "enTitle": "China Targets 2030 to Complete National Blockchain Network",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/chinese-flag-768x432.jpg"
+        "headline": "ԱՄՆ Clarity Act-ի ձախողումը մրցակցային առավելություն է տալիս",
+        "summary": "Apex Group-ի գործադիր տնօրենը զգուշացրել է, որ ԱՄՆ Clarity Act-ի ձախողումը թվային ակտիվների բիզնեսները կտանի դեպի Ասիայի և Մերձավոր Արևելքի ավելի արագ զարգացող իրավասություններ։",
+        "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Initia բլոկչեյնը կանգնել է հաքերային հարձակումից հետո",
-        "summary": "Modular բլոկչեյն պլատֆորմը՝ Initia-ն, դադարեցրել է իր ցանցի գործունեությունը անվտանգության միջադեպից հետո, որի հետևանքով հարձակվողը թողարկել է մոտ 2.7 միլիոն դոլարի կրիպտոարժույթ:",
-        "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png"
-      },
-      {
-        "headline": "SEC-ը նշում է տոկենացումը որպես բարձր ռիսկային ոլորտ",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) իր 2027 թվականի շուկայական ստուգումների առաջնահերթություններում տոկենացումը նշել է որպես զարգացող շուկայական ռիսկ:",
-        "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "SEC flags tokenization as high-risk area in 2027 market examinations",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-international-crypto-tax-enforcement-coming-next1.png"
+        "headline": "Սենատորը հետաքննում է Tether-ի վճարումները",
+        "summary": "Սենատոր Ռիչարդ Բլյումենթալը պահանջել է Tether-ից գրառումներ՝ նախկին Սպիտակ տան կրիպտո խորհրդականի ընկերությանը կատարված վճարումների վերաբերյալ։",
+        "link": "https://cryptoslate.com/senator-probes-tethers-reported-6-million-payments-to-ex-white-house-crypto-advisers-firm/",
+        "source": "CryptoSlate",
+        "enTitle": "Senator probes Tether’s reported $6 million payments to ex-White House crypto adviser’s firm",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/tether-payment-papertrail.webp"
       }
     ]
   }
