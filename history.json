@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-26",
-    "ts": 1787762503620,
-    "fng": {
-      "value": 65,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 78025,
-        "change24h": -1.4899378065977478
-      },
-      {
-        "label": "Ethereum",
-        "price": 2447.2,
-        "change24h": -1.1229859191996965
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների ակտիվությամբ և ինստիտուցիոնալ ընդունման աճով, մինչդեռ նորարարությունները շարունակվում են տեխնիկական և ֆինանսական ճակատներում։ Կան նաև զգուշացումներ թվային ակտիվների հնարավոր ազդեցությունների վերաբերյալ ավանդական ֆինանսական համակարգի վրա։",
-    "items": [
-      {
-        "headline": "SEC-ը վերանայման է ուղարկում կրիպտո ակտիվների պահպանման կանոնները",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) Սպիտակ տուն է ուղարկել կրիպտո ակտիվների պահպանման կանոնների փոփոխությունների առաջարկը՝ պարզաբանելու համար, թե ինչպես են ներդրումային խորհրդատուները և հիմնադրամները պահում թվային ակտիվները հաճախորդների համար։",
-        "link": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "SEC sends crypto custody rule overhaul to White House for review",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/political-tokens-into-the-white-house-sec-1.jpg"
-      },
-      {
-        "headline": "Dallas Fed-ը զգուշացնում է թոքենացված ավանդների մասին",
-        "summary": "Dallas Fed-ի հետազոտողները նախազգուշացրել են, որ թոքենացված ավանդների անցումը կարող է 700 միլիարդ դոլարով կրճատել բանկային վարկավորումը, սահմանափակել վարկավորումը և բարձրացնել փոխառությունների արժեքը։",
-        "link": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
-        "source": "Decrypt",
-        "enTitle": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg@png"
-      },
-      {
-        "headline": "Shinhan-ը և Visa-ն համագործակցում են stablecoin-ի թողարկման համար",
-        "summary": "Shinhan Financial Group-ը և Visa-ն Հարավային Կորեայում համագործակցում են stablecoin-ի թողարկումը, դրամական փոխանցումները և մարումները փորձարկելու, ինչպես նաև AI-ով աշխատող վճարային նոր մոդելներ կառուցելու համար։",
-        "link": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0b33f1bb25f1192885403a37624d1c465d514180-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Ethereum-ի մշակողները առաջարկում են քվանտային պաշտպանություն",
-        "summary": "Ethereum-ի մշակողները առաջարկել են ավանդային պայմանագրի վերանորոգում՝ staking-ը քվանտային հարձակումներից պաշտպանելու համար, ինչը թույլ կտա վավերացնող բանալիներին աճել մինչև 8,192 բայթ։",
-        "link": "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
-        "source": "Decrypt",
-        "enTitle": "Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg@png"
-      },
-      {
-        "headline": "Blackrock-ը մշակում է $5 միլիարդի Bitcoin-ETF փոխարկումներ",
-        "summary": "Խոշոր կրիպտո ակտիվներ ունեցողները ավելի ու ավելի են Bitcoin-ը ուղղակիորեն փոխանակում ETF բաժնետոմսերի հետ՝ կանխիկ վաճառելու փոխարեն, ինչը ցույց է տալիս ETF-ների ընդունման աճող միտում։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-processes-5-billion-in-direct-bitcoin-to-etf-conversions/",
-        "source": "Bitcoin News",
-        "enTitle": "Blackrock Processes $5 Billion in Direct Bitcoin-to-ETF Conversions",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/blackrock-processes-5-billion-in-direct-bitcoin-to-etf-conversions-768x432.jpg"
-      },
-      {
-        "headline": "Եվրոպական Կենտրոնական Բանկը խոստանում է թվային եվրոյի գաղտնիություն",
-        "summary": "Եվրոպական Կենտրոնական Բանկի (ECB) խորհրդի անդամ Պիերո Չիպոլոնեն հայտարարել է, որ թվային եվրոն կառաջարկի գաղտնիության առավելագույն մակարդակ, քանի որ Eurosystem-ը չի կարողանա անհատներին կապել գործարքների հետ։",
-        "link": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
-        "source": "Decrypt",
-        "enTitle": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ECB-gID_7.jpg@png"
-      }
-    ]
-  },
-  {
     "date": "2026-08-27",
     "ts": 1787850438811,
     "fng": {
@@ -4325,6 +4252,79 @@
         "source": "CryptoSlate",
         "enTitle": "Senator probes Tether’s reported $6 million payments to ex-White House crypto adviser’s firm",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/10/tether-payment-papertrail.webp"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25",
+    "ts": 1792923901177,
+    "fng": {
+      "value": 54,
+      "label": "Neutral",
+      "hy": "Չեզոք",
+      "dot": "🟡"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 80315,
+        "change24h": -0.19271724460838544
+      },
+      {
+        "label": "Ethereum",
+        "price": 2327.36,
+        "change24h": -1.4810563442539295
+      }
+    ],
+    "overview": "Կրիպտոարժույթների շուկայում այսօր նկատվում է բլոկչեյն տեխնոլոգիաների ինտեգրման աճ ավանդական ֆինանսական համակարգերում և կարգավորող մարմինների կողմից: Միաժամանակ, որոշ խոշոր ընկերություններ դեռևս զգուշություն են ցուցաբերում թոքենիզացված արժեթղթերի նկատմամբ։",
+    "items": [
+      {
+        "headline": "Բրազիլիան պարտադիր թոքենիզացիա է մտցնում",
+        "summary": "Բրազիլիայի SEC-ի համարժեք CVM-ի նախագահ Օտտո Լոբոն շեշտել է, որ պարտադիր թոքենիզացիան, AI հսկողության հետ համատեղ, անհրաժեշտ է շուկայի վերահսկողության արդիականացման համար։",
+        "link": "https://news.bitcoin.com/finance/brazil-pushes-mandatory-tokenization-to-overhaul-market-tracking/",
+        "source": "Bitcoin News",
+        "enTitle": "Brazil Pushes Mandatory Tokenization to Overhaul Market Tracking",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/cvm-logo-abstract-768x432.jpg"
+      },
+      {
+        "headline": "Kraken-ը ձեռք է բերում բանկ",
+        "summary": "Kraken-ի մայր ընկերությունը՝ Payward-ը, համաձայնել է ձեռք բերել Saldo Finance Oy-ին՝ Լիտվայի Saldo Bank-ի սեփականատրոջը, որը նպատակ ունի ընդլայնել իր ֆինանսական ծառայությունները։",
+        "link": "https://cryptoslate.com/kraken-wants-to-be-your-bank-but-who-would-protect-your-money/",
+        "source": "CryptoSlate",
+        "enTitle": "Kraken wants to be your bank, but who will protect your money?",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-saldo-bank-deposit-protection.webp"
+      },
+      {
+        "headline": "Ռուսաստանի թվային ռուբլին հասել է 270K հաշվի",
+        "summary": "Ռուսաստանի Կենտրոնական բանկի կառավարիչ Էլվիրա Նաբիուլինան հայտարարել է, որ թվային ռուբլու նկատմամբ հետաքրքրությունն ավելի բարձր է, քան սպասվում էր, և պլանավորվում են նոր ծառայություններ՝ ընդունումը խրախուսելու համար։",
+        "link": "https://news.bitcoin.com/featured/russia-hits-270000-digital-ruble-accounts-in-rapid-cbdc-launch/",
+        "source": "Bitcoin News",
+        "enTitle": "Russia Hits 270,000 Digital Ruble Accounts in Rapid CBDC Launch",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/elvira-nabiullina-768x432.jpg"
+      },
+      {
+        "headline": "NYSE-ի սեփականատերը աջակցում է 24/7 բաժնետոմսերի թոքեններին",
+        "summary": "Նյու Յորքի ֆոնդային բորսայի սեփականատեր ընկերությունը ցանկանում է, որ մարդիկ կարողանան բաժնետոմսեր գնել օրական 24 ժամ, շաբաթական 7 օր, ինչը հանգեցրել է բաժնետոմսերի թոքենների ներդրմանը։",
+        "link": "https://cryptoslate.com/nyses-owner-is-backing-24-7-stock-tokens-without-wall-streets-usual-price-rules/",
+        "source": "CryptoSlate",
+        "enTitle": "NYSE’s owner is backing 24/7 stock tokens without Wall Street’s usual price rules",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stock-token-pricing-divide.webp"
+      },
+      {
+        "headline": "Ընկերությունները դեմ են թոքենիզացված բաժնետոմսերին",
+        "summary": "Wells Fargo-ն, Cisco-ն և Marvell-ը այն ընկերությունների շարքում են, որոնք դեմ են արտահայտվել իրենց բաժնետոմսերի թոքենիզացված տարբերակները OKXICE հարթակում ցուցակելու ծրագրին։",
+        "link": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/e73f268e229858cf3a57675d0f3f6ee3ae61a1ab-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "HSBC-ն stablecoin է ներդրել 3 միլիոն դրամապանակում",
+        "summary": "Հոնկոնգի խոշորագույն բանկը՝ HSBC-ն, իր PayMe հավելվածում գործարկել է Հոնկոնգի դոլարի stablecoin-ը՝ փորձարկելով, թե արդյոք բանկի կողմից թողարկված թոքենը կարող է դառնալ առօրյա վճարման միջոց։",
+        "link": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+        "source": "Decrypt",
+        "enTitle": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hong-kong-decrypt-style-gID_7.jpg@png"
       }
     ]
   }
