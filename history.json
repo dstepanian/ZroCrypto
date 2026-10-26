@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-27",
-    "ts": 1787850438811,
-    "fng": {
-      "value": 71,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 80318,
-        "change24h": 2.9209459190236817
-      },
-      {
-        "label": "Ethereum",
-        "price": 2519.6,
-        "change24h": 3.0252989477824235
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների ակտիվությամբ և ավանդական ֆինանսական հաստատությունների կողմից կրիպտոարժույթների ընդունման աճով։ Կարևոր իրադարձությունները ներառում են ԱՄՆ SEC-ի կողմից կրիպտո ակտիվների պահպանման կանոնների վերանայումը և Մեծ Բրիտանիայի Կենտրոնական բանկի նոր մանդատը՝ կապված ստեյբլքոյնների հետ։",
-    "items": [
-      {
-        "headline": "ԱՄՆ SEC-ը վերանայում է կրիպտո պահպանման կանոնները",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովը (SEC) վերանայում է կրիպտո ակտիվների պահպանման կանոնները և փոփոխված առաջարկն ուղարկել է Սպիտակ տուն՝ քննարկման։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/sec-eyes-sweeping-crypto-custody-rewrite-as-white-house-weighs-in/",
-        "source": "Bitcoin News",
-        "enTitle": "SEC Eyes Sweeping Crypto Custody Rewrite as White House Weighs In",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/sec-chair-paul-atkins-2026-priorities-crypto-768x432.jpg"
-      },
-      {
-        "headline": "Charles Schwab-ը ավելացնում է նոր կրիպտոարժույթներ",
-        "summary": "Ֆինանսական ծառայությունների հսկա Charles Schwab-ը նախատեսում է ընդլայնել իր Schwab Crypto հարթակը՝ ավելացնելով Solana, Avalanche և Chainlink՝ Bitcoin-ից և Ether-ից բացի։",
-        "link": "https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bank-bitcoin-charles-schwab-corp.png"
-      },
-      {
-        "headline": "AI-ի հայտնաբերած խոցելիություններ Bitcoin Lightning-ում",
-        "summary": "Lightning ծրագրային նախագիծը շտկումներ է պատրաստում՝ հաստատելով, որ AI-ի կողմից ստեղծված մի քանի խոցելիության զեկույցներ ճշգրիտ էին։",
-        "link": "https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning",
-        "source": "Decrypt",
-        "enTitle": "AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png"
-      },
-      {
-        "headline": "BlackRock-ի ETF-ները գրավում են հարյուրավոր միլիոններ",
-        "summary": "Bitcoin և Ether ETF-ները շարունակել են ներհոսքերը ութ նիստ անընդմեջ՝ գրավելով $232.12 միլիոն և $192.35 միլիոն համապատասխանաբար։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-captures-322-79m-as-bitcoin-ether-etfs-add-424m/",
-        "source": "Bitcoin News",
-        "enTitle": "Blackrock Captures $322.79M as Bitcoin, Ether ETFs Add $424M",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/blackrock-captures-322-79m-as-bitcoin-ether-etfs-add-424m-768x432.png"
-      },
-      {
-        "headline": "CZ-ը կանխատեսում է Bitcoin-ի գերազանցումը ոսկուն",
-        "summary": "Binance-ի հիմնադիր CZ-ը հայտարարել է, որ Bitcoin-ը կարող է գերազանցել ոսկուն հաջորդ աճի շրջանում, քանի որ երկրները տարիներ կպահանջեն «անցնելու Bitcoin-ի»։",
-        "link": "https://decrypt.co/376717/bitcoin-could-overtake-gold-in-the-next-bull-run-binance-founder-cz",
-        "source": "Decrypt",
-        "enTitle": "Bitcoin Could Overtake Gold in the Next Bull Run: Binance Founder CZ",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/changpeng-zhao-cz-decrypt-style-02-gID_7.jpg@png"
-      },
-      {
-        "headline": "Անգլիայի Բանկը նոր մանդատ կունենա ստեյբլքոյնների համար",
-        "summary": "Միացյալ Թագավորությունը նախատեսում է ընդլայնել Անգլիայի Բանկի լիազորությունները՝ աջակցելու թվային վճարումների նորարարությանը, ներառյալ ստեյբլքոյնները, միաժամանակ պահպանելով ֆինանսական կայունությունը։",
-        "link": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bank of England set for new innovation mandate covering stablecoins",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations2-1.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-28",
     "ts": 1787939670369,
     "fng": {
@@ -4325,6 +4252,79 @@
         "source": "Bitcoin News",
         "enTitle": "Brazil Pushes Mandatory Tokenization to Overhaul Market Tracking",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/cvm-logo-abstract-768x432.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-26",
+    "ts": 1793015644106,
+    "fng": {
+      "value": 50,
+      "label": "Neutral",
+      "hy": "Չեզոք",
+      "dot": "🟡"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 80293,
+        "change24h": -0.26679730685965564
+      },
+      {
+        "label": "Ethereum",
+        "price": 2328.67,
+        "change24h": -0.4987089871167037
+      }
+    ],
+    "overview": "Կրիպտո շուկայում նկատվում է խառը տրամադրություն՝ ինստիտուցիոնալ ընդունման դրական նորություններով, ինչպիսիք են նոր ETF ներհոսքերը և թոքենիզացիան, սակայն նաև անվտանգության հետ կապված լուրջ մտահոգություններով, ներառյալ դրամապանակների խոցելիությունը և փոխանակումների կորուստները։",
+    "items": [
+      {
+        "headline": "Aviva Investors-ը թոքենիզացված ֆոնդ է գործարկում XRP Ledger-ում",
+        "summary": "Aviva Investors-ը Ripple-ի աջակցությամբ XRP Ledger-ում գործարկել է իր Sterling Liquidity Fund-ի թոքենիզացված բաժնետոմսերի դասը։",
+        "link": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
+        "source": "The Block",
+        "enTitle": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-26-at-10.56.59.png"
+      },
+      {
+        "headline": "BlackRock-ի Bitcoin ETF-ները վերադառնում են ներհոսքերի",
+        "summary": "ԱՄՆ-ի Bitcoin ETF-ները, BlackRock-ի գլխավորությամբ, գրանցել են $305 միլիոնի շաբաթական ներհոսք՝ շրջելով նախորդ շաբաթվա արտահոսքերը։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/blackrock-drives-305m-bitcoin-etf-comeback-with-676m-inflow/",
+        "source": "Bitcoin News",
+        "enTitle": "Blackrock Drives $305M Bitcoin ETF Comeback With $676M Inflow",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/blackrock-drives-305m-bitcoin-etf-comeback-with-676m-inflow-768x432.jpg"
+      },
+      {
+        "headline": "Foundation սարքային դրամապանակի տվյալների արտահոսք",
+        "summary": "Foundation սարքային դրամապանակի արտադրողը բախվել է հաճախորդների տվյալների արտահոսքի, որի ընթացքում հաքերները գողացել են անձնական տվյալներ։",
+        "link": "https://news.bitcoin.com/security/hardware-wallet-maker-foundation-faces-customer-data-breach/",
+        "source": "Bitcoin News",
+        "enTitle": "Hardware Wallet Maker Foundation Faces Customer Data Breach",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/hardware-wallet-maker-foundation-faces-customer-data-breach-768x432.png"
+      },
+      {
+        "headline": "Հարավային Կորեան քննարկում է կրիպտո հարկի հետաձգումը",
+        "summary": "Հարավային Կորեան քննարկում է կրիպտո շահույթի հարկի չորրորդ հետաձգումը՝ նպատակ ունենալով այն սկսել 2029 թվականին։",
+        "link": "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649",
+        "source": "The Block",
+        "enTitle": "South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/korea.png"
+      },
+      {
+        "headline": "Հնդկաստանի խոշորագույն կրիպտո բորսան կորցրել է $16 միլիոն",
+        "summary": "Հնդկաստանի ամենամեծ կրիպտո բորսան կլանել է 16 միլիոն դոլարի կորուստ՝ ներքին գործընթացի ձախողման պատճառով։",
+        "link": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/00d356f53a801bd0f750248d0414a782fcdafaeb-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Հոնկոնգը Solana ընկերությանը ճանաչել է ռազմավարական ձեռնարկություն",
+        "summary": "Հոնկոնգը Nasdaq-ում գրանցված Solana ընկերությանը ճանաչել է ռազմավարական ձեռնարկություն, որը նախատեսում է Solana վալիդատորի գործունեություն հաստատել քաղաքում։",
+        "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V29PC31CCCR3TY3KBGFNVX/hi-an-overview-of-the-cryptocurrency-regulations-in-hong-kong.jpg"
       }
     ]
   }
