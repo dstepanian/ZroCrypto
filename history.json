@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-28",
-    "ts": 1787939670369,
-    "fng": {
-      "value": 73,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 77942,
-        "change24h": -3.176340726845351
-      },
-      {
-        "label": "Ethereum",
-        "price": 2444.49,
-        "change24h": -3.0128984814524795
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ներդրումների աճով և հիմնական ցանցերի զարգացումներով։ Bitcoin-ի ETF-ները հասել են նշանակալի նվաճումների, մինչդեռ ավանդական ֆինանսական ընկերությունները ընդլայնում են իրենց կրիպտո առաջարկները։",
-    "items": [
-      {
-        "headline": "Solana-ն կրճատում է SOL-ի թողարկումը",
-        "summary": "Solana ցանցի օգտատերերը քվեարկությամբ հաստատել են SOL թոքենի թողարկման կրճատման առաջարկը՝ նպատակ ունենալով նվազեցնել գնաճը։",
-        "link": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
-        "source": "Decrypt",
-        "enTitle": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png"
-      },
-      {
-        "headline": "Bitcoin ETF-ների ակտիվները գերազանցել են $100 միլիարդը",
-        "summary": "Bitcoin ETF-ների ընդհանուր ակտիվները հատել են 100 միլիարդ դոլարի շեմը՝ արձանագրելով զգալի ներհոսքեր։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-cross-100-billion-with-242-million-inflow/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin ETFs Cross $100 Billion With $242 Million Inflow",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-etfs-cross-100-billion-with-242-million-inflow-768x432.jpg"
-      },
-      {
-        "headline": "BlackRock-ի Bitcoin ETF-ը վերականգնում է օպցիոնների ժամկետները",
-        "summary": "BlackRock-ի IBIT Bitcoin ETF-ը վերականգնել է շաբաթական օպցիոնների ժամկետները՝ կանոնների փոփոխությունից հետո, ինչը բարելավում է շուկայի հասանելիությունը։",
-        "link": "https://cryptoslate.com/blackrocks-bitcoin-etf-regains-key-weekly-options-expiries-after-rule-overhaul/",
-        "source": "CryptoSlate",
-        "enTitle": "BlackRock’s Bitcoin ETF regains key weekly options expiries after rule overhaul",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/miax-ibit-pathway.jpg"
-      },
-      {
-        "headline": "Charles Schwab-ը ընդլայնում է կրիպտո առևտուրը",
-        "summary": "Charles Schwab բրոքերային ընկերությունը կընդլայնի իր կրիպտո առևտրի առաջարկները՝ ներառելով Solana, Avalanche և Chainlink թոքենները։",
-        "link": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-        "source": "Decrypt",
-        "enTitle": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-charles-schwab-gID_7.png@png"
-      },
-      {
-        "headline": "Dunamu-ն և Visa-ն համագործակցում են վճարումների համար",
-        "summary": "Upbit-ի մայր ընկերություն Dunamu-ն ռազմավարական համագործակցություն է սկսել Visa-ի հետ՝ ստեղծելու stablecoin-ի և AI-ի վրա հիմնված վճարային ենթակառուցվածքներ։",
-        "link": "https://news.bitcoin.com/stablecoins/dunamu-visa-stablecoin-ai-payment-partnership/",
-        "source": "Bitcoin News",
-        "enTitle": "Dunamu Partners With Visa to Build Stablecoin, AI Payment Rails",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/dunamu-partners-with-visa-to-build-stablecoin-ai-payment-rails2_nwmk-768x432.jpg"
-      },
-      {
-        "headline": "Ethereum ETF-ները գրավել են $226 միլիոն ներհոսք",
-        "summary": "Ethereum ETF-ները մեկ օրում ներգրավել են 226 միլիոն դոլարի ներհոսք՝ ցույց տալով աճող հետաքրքրություն ինստիտուցիոնալ ներդրողների կողմից։",
-        "link": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul",
-        "source": "Decrypt",
-        "enTitle": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-08-scaled-gID_7.jpeg@png"
-      }
-    ]
-  },
-  {
     "date": "2026-08-29",
     "ts": 1788030064776,
     "fng": {
@@ -4325,6 +4252,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V29PC31CCCR3TY3KBGFNVX/hi-an-overview-of-the-cryptocurrency-regulations-in-hong-kong.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "ts": 1793047724511,
+    "fng": {
+      "value": 50,
+      "label": "Neutral",
+      "hy": "Չեզոք",
+      "dot": "🟡"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 79729,
+        "change24h": -0.8528453972906499
+      },
+      {
+        "label": "Ethereum",
+        "price": 2304.49,
+        "change24h": -1.7124179033138214
+      }
+    ],
+    "overview": "Կրիպտոարժույթների շուկան այսօր բնութագրվում է կարգավորող զարգացումներով և անվտանգության մտահոգություններով։ Կանադան քննարկում է stablecoin-ների կանոնները, մինչդեռ Հարավային Կորեան հետաձգում է կրիպտո հարկը, և միաժամանակ արձանագրվել են զգալի անվտանգության խախտումներ։",
+    "items": [
+      {
+        "headline": "Ripple-ը ընդլայնում է ինստիտուցիոնալ հասանելիությունը",
+        "summary": "Ripple-ը ընդլայնել է իր ինստիտուցիոնալ հասանելիությունը, քանի որ Aviva-ն ավելացրել է ևս մեկ tokenized fund share class XRP Ledger-ին։",
+        "link": "https://cryptoslate.com/ripple-connects-xrp-ledger-to-a-22-billion-investment-giant-while-chasing-the-next-wave-of-corporate-money/",
+        "source": "CryptoSlate",
+        "enTitle": "Ripple connects XRP Ledger to a £22 billion investment giant while chasing the next wave of corporate money",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/aviva-tokenized-share-transfer.webp"
+      },
+      {
+        "headline": "Keystone-ի սարքերի անվտանգության խախտում",
+        "summary": "Keystone-ի կայքի խախտումից հետո հաքերները ստացել են սարքի իսկության բանալի, ինչը ստիպել է ընկերությանը ոչնչացնել 18,835 սարք։",
+        "link": "https://news.bitcoin.com/security/keystone-breach-deepens-18835-crypto-hardware-wallets-face-destruction/",
+        "source": "Bitcoin News",
+        "enTitle": "Keystone Breach Deepens as 18,835 Crypto Hardware Wallets Face Destruction",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/keystone-breach-deepens-as-18835-hardware-wallets-face-destruction-768x432.png"
+      },
+      {
+        "headline": "Հարավային Կորեան հետաձգում է կրիպտո հարկը",
+        "summary": "Հարավային Կորեան պատրաստվում է չորրորդ անգամ հետաձգել կրիպտոարժույթների շահույթի հարկը՝ հնարավոր է մինչև 2029 թվականը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/south-korea-crypto-tax-faces-fourth-delay-2029-date-looms-report/",
+        "source": "Bitcoin News",
+        "enTitle": "South Korea’s Crypto Tax Faces Fourth Delay as 2029 Date Looms: Report",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/report-south-koreas-crypto-tax-faces-fourth-delay-as-2029-date-looms-768x432.png"
+      },
+      {
+        "headline": "Կանադան քննարկում է stablecoin-ների կանոնները",
+        "summary": "Կանադայի կառավարությունը հանրային քննարկում է սկսել stablecoin-ների նախագծային կանոնների վերաբերյալ՝ պահպանելով եկամտաբերության արգելքը։",
+        "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/c380b97dddcd8138aeaafd733f574fccd63dbd5a-4369x2421.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "NBA-ը համաձայնում է CFTC-ի հետ",
+        "summary": "NBA-ը համաձայնագիր է կնքել CFTC-ի հետ՝ կանխատեսումների շուկաներում ինսայդերական առևտրից պաշտպանվելու համար՝ տեղեկատվության փոխանակման միջոցով։",
+        "link": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+        "source": "Decrypt",
+        "enTitle": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/nba-basketball-sports-betting-gID_7.jpg@png"
+      },
+      {
+        "headline": "CoinDCX-ը հաստատում է $16 միլիոնի կորուստ",
+        "summary": "Հնդկական CoinDCX բորսան հաստատել է $16 միլիոն կրիպտոարժույթի կորուստը՝ այն բանից հետո, երբ գործադիր տնօրենը կասկածելի գործարքները «կեղծ տագնապ» էր անվանել։",
+        "link": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
+        "source": "Decrypt",
+        "enTitle": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/coindcx-decrypt-style-gID_7.jpg@png"
       }
     ]
   }
