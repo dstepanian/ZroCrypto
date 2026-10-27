@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-29",
-    "ts": 1788030064776,
-    "fng": {
-      "value": 68,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 78176,
-        "change24h": 0.830164223969721
-      },
-      {
-        "label": "Ethereum",
-        "price": 2452.51,
-        "change24h": 1.0129643280004013
-      }
-    ],
-    "overview": "Կրիպտո շուկան այսօր ցույց տվեց խառը տրամադրություններ՝ Bitcoin ETF-ների արտահոսքերով և Solana-ի գնաճի տեմպերի փոփոխությամբ։ Դաշնային պահուստային համակարգի պաշտոնյաների գնաճի վերաբերյալ մեկնաբանությունները նույնպես ազդեցին Bitcoin-ի գնի վրա։",
-    "items": [
-      {
-        "headline": "Bitcoin ETF-ների արտահոսք, Ethereum-ի ներհոսք",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցեցին 202 միլիոն դոլարի զուտ արտահոսք՝ ընդհատելով իննօրյա ներհոսքերի շարքը, մինչդեռ spot Ethereum ETF-ները նույն օրը ավելացրեցին 102 միլիոն դոլար։",
-        "link": "https://news.bitcoin.com/crypto-news/bitcoin-etf-202-million-outflow-ether-102-million/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin ETFs Snap 9-Day Streak With $202M Exit as Ether Gains $102M",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-etfs-snap-9-day-streak-with-202m-exit-as-ether-gains-102m_nwmk-768x432.jpg"
-      },
-      {
-        "headline": "Solana-ն հաստատեց գնաճի արագացում",
-        "summary": "Solana-ի վալիդատորները հաստատեցին առաջարկը՝ կրկնապատկելու SOL-ի տարեկան դիսինֆլյացիայի տեմպը 15%-ից մինչև 30%։",
-        "link": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Solana validators approve proposal to accelerate SOL disinflation",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14TAFCZGB4VMQ151R2N0EKE/hi-bitcoin-vs-fiat-currencies-over-the-past-several-years-have-they-been-hampered-by-the-inflation2-2.png"
-      },
-      {
-        "headline": "Bitcoin-ի գինը նվազեց Fed-ի մեկնաբանություններից",
-        "summary": "Bitcoin-ի գինը նահանջեց այն բանից հետո, երբ Fed-ի նախագահ Քևին Ուորշը Jackson Hole-ի իր ելույթում խիստ մեկնաբանություններ արեց գնաճի վերաբերյալ։",
-        "link": "https://news.bitcoin.com/market-updates/bitcoin-price-retreats-after-warshs-hawkish-jackson-hole-keynote/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Price Retreats After Warsh’s Hawkish Jackson Hole Keynote",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bitcoin-price-retreats-after-warshs-hawkish-jackson-hole-keynote-768x432.png"
-      },
-      {
-        "headline": "SEC-ը վերանայում է էկզոտիկ ETF-ները",
-        "summary": "SEC-ը վերանայում է ավտոմատ ներկայացման ուղիները այն բանից հետո, երբ շուկան հեղեղվեց էկզոտիկ կրիպտո և իրադարձություններին կապված ETF առաջարկներով։",
-        "link": "https://cryptoslate.com/the-sec-is-reviewing-automatic-filing-pathways-after-exotic-crypto-and-event-linked-etf-proposals-flooded-the-market/",
-        "source": "CryptoSlate",
-        "enTitle": "The SEC is reviewing automatic filing pathways after exotic crypto and event-linked ETF proposals flooded the market",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/cracked-etf-capsule.jpg"
-      },
-      {
-        "headline": "Grayscale-ը՝ ԱՄՆ պարտքի և կրիպտոյի մասին",
-        "summary": "Grayscale-ը նշում է, որ ԱՄՆ պարտքի անվերահսկելի աճը կարող է թուլացնել վստահությունը ֆիատ արժույթների նկատմամբ և մեծացնել պահանջարկը այլընտրանքային արժեքների պահպանման միջոցների նկատմամբ, ինչպիսիք են Bitcoin-ը, Ethereum-ը և Zcash-ը։",
-        "link": "https://news.bitcoin.com/market-updates/grayscale-names-3-cryptos-that-could-gain-from-surging-us-debt/",
-        "source": "Bitcoin News",
-        "enTitle": "Grayscale Names 3 Cryptos That Could Gain From Surging US Debt",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/grayscale-clarity-act-4-blockchain-networks-to-benefit-768x432.jpg"
-      },
-      {
-        "headline": "Ethereum ETF-ների $10B մեկնարկի պարզաբանում",
-        "summary": "ԱՄՆ-ի spot Ethereum ETF-ների մեկնարկային 10.36 միլիարդ դոլարի մեծ մասը եկել է Grayscale-ի հին տրաստների կողմից արդեն պահվող ETH-ից, այլ ոչ թե նոր ինստիտուցիոնալ գնումներից։",
-        "link": "https://cryptoslate.com/crypto-etfs-appeared-to-hit-10b-in-hours-but-filing-data-exposes-where-that-money-really-came-from/",
-        "source": "CryptoSlate",
-        "enTitle": "Crypto ETFs appeared to hit $10B in hours, but filing data exposes where that money really came from",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-etf-piggy-bank.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-30",
     "ts": 1788116184473,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XH194AWQZA2BD0554BJQHS/hi-hardware-vs-software-wallets-key-differences-to-know.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-28",
+    "ts": 1793132334611,
+    "fng": {
+      "value": 48,
+      "label": "Neutral",
+      "hy": "Չեզոք",
+      "dot": "🟡"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 80679,
+        "change24h": 1.0439898086661517
+      },
+      {
+        "label": "Ethereum",
+        "price": 2345.07,
+        "change24h": 1.353218849559602
+      }
+    ],
+    "overview": "Օրվա նորությունները կարևոր զարգացումներ են ընդգծում կրիպտո կարգավորման և ինստիտուցիոնալ ընդունման ոլորտում։ Հիմնական թեմաներն են stablecoin-ների ընդլայնումը, ավանդական ակտիվների թոքենիզացիան և շարունակվող կարգավորող պայքարները։",
+    "items": [
+      {
+        "headline": "Robinhood-ը կինտեգրի Ripple-ի RLUSD stablecoin-ը",
+        "summary": "Robinhood-ը կինտեգրի Ripple-ի RLUSD stablecoin-ը իր հավելվածում այս տարվա վերջին՝ ընդլայնելով համագործակցությունը մանրածախ և ինստիտուցիոնալ ֆինանսների ոլորտում։",
+        "link": "https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
+        "source": "Decrypt",
+        "enTitle": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png"
+      },
+      {
+        "headline": "Ripple-ը ստացել է ԱՄՆ բանկային հաստատության վերջնական հաստատում",
+        "summary": "Ripple-ը ստացել է ԱՄՆ-ի ազգային վստահության բանկի վերջնական հաստատումը՝ չնայած ավանդական բանկային խմբերի առարկություններին։",
+        "link": "https://cryptoslate.com/ripple-gets-final-us-trust-bank-approval-what-does-xrp-gain/",
+        "source": "CryptoSlate",
+        "enTitle": "Ripple gets final US trust bank approval. What does XRP gain?",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ripple-institutional-charter.webp"
+      },
+      {
+        "headline": "Խոշոր ընկերությունները դեմ են OKXICE-ի թոքենիզացված բաժնետոմսերին",
+        "summary": "Intel-ը, Oracle-ը, IBM-ը և IonQ-ն առարկել են OKXICE-ի առաջարկվող բլոկչեյն առևտրային հարթակում իրենց բաժնետոմսերի թոքենիզացմանը՝ ընդհանուր առարկող ընկերությունների թիվը հասցնելով 26-ի։",
+        "link": "https://news.bitcoin.com/finance/intel-oracle-ibm-ionq-join-opposition-okxice-tokenized-stocks-plan/",
+        "source": "Bitcoin News",
+        "enTitle": "Intel, Oracle, IBM and IonQ Join Growing Opposition to OKXICE Tokenized Stock Plan",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/ibm-768x432.jpg"
+      },
+      {
+        "headline": "CFTC-ն դատի է տվել Յուտային",
+        "summary": "ԱՄՆ-ի Ապրանքային ֆյուչերսների առևտրի հանձնաժողովը (CFTC) դատի է տվել Յուտա նահանգին՝ արգելափակելու Kalshi-ի դեմ նրա գործողությունները կանխատեսումների շուկաներում։",
+        "link": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "CFTC sues Utah to block action against prediction markets",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg"
+      },
+      {
+        "headline": "Nasdaq-100-ի թոքենիզացված ֆոնդը գործարկվել է",
+        "summary": "Janus Henderson-ը և Centrifuge-ը գործարկել են JQQQ-ն՝ ներկայացնելով Nasdaq-100 ինդեքսին հետևող առաջին բլոկչեյն-բնիկ, թոքենիզացված ֆոնդը։",
+        "link": "https://news.bitcoin.com/finance/nasdaq-100-enters-tokenized-fund-era-janus-henderson-jqqq/",
+        "source": "Bitcoin News",
+        "enTitle": "Nasdaq-100 Enters Tokenized Fund Era With Janus Henderson JQQQ",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/nasdaq-100-enters-tokenized-fund-era-with-janus-henderson-jqqq-768x432.png"
+      },
+      {
+        "headline": "USDC-ն առաջ է անցել USDT-ից եվրոյի stablecoin առևտրում",
+        "summary": "Kaiko-ի տվյալներով՝ USDC-ի մասնաբաժինը եվրոյի stablecoin առևտրում աճել է մինչև 56%՝ 2024 թվականի հունվարից ի վեր, քանի որ ԵՄ կանոնները վերաձևում են շուկան։",
+        "link": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YYH4W8ZJZR3K8EWNZDKXQ3/coin-crushing-euro.jpg"
       }
     ]
   }
