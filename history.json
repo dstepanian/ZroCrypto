@@ -4257,9 +4257,9 @@
   },
   {
     "date": "2026-10-27",
-    "ts": 1793047724511,
+    "ts": 1793099826485,
     "fng": {
-      "value": 50,
+      "value": 48,
       "label": "Neutral",
       "hy": "Չեզոք",
       "dot": "🟡"
@@ -4267,64 +4267,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 79729,
-        "change24h": -0.8528453972906499
+        "price": 79833,
+        "change24h": -0.45074152717628646
       },
       {
         "label": "Ethereum",
-        "price": 2304.49,
-        "change24h": -1.7124179033138214
+        "price": 2314.56,
+        "change24h": -0.3623422657987563
       }
     ],
-    "overview": "Կրիպտոարժույթների շուկան այսօր բնութագրվում է կարգավորող զարգացումներով և անվտանգության մտահոգություններով։ Կանադան քննարկում է stablecoin-ների կանոնները, մինչդեռ Հարավային Կորեան հետաձգում է կրիպտո հարկը, և միաժամանակ արձանագրվել են զգալի անվտանգության խախտումներ։",
+    "overview": "Կրիպտոարժույթների շուկան այսօր նշանավորվեց կարգավորող մարմինների կողմից կարևոր հաստատումներով և ինստիտուցիոնալ հետաքրքրության աճով։ Միևնույն ժամանակ, անվտանգության հետ կապված մտահոգությունները շարունակում են մնալ օրակարգում։",
     "items": [
       {
-        "headline": "Ripple-ը ընդլայնում է ինստիտուցիոնալ հասանելիությունը",
-        "summary": "Ripple-ը ընդլայնել է իր ինստիտուցիոնալ հասանելիությունը, քանի որ Aviva-ն ավելացրել է ևս մեկ tokenized fund share class XRP Ledger-ին։",
-        "link": "https://cryptoslate.com/ripple-connects-xrp-ledger-to-a-22-billion-investment-giant-while-chasing-the-next-wave-of-corporate-money/",
-        "source": "CryptoSlate",
-        "enTitle": "Ripple connects XRP Ledger to a £22 billion investment giant while chasing the next wave of corporate money",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/aviva-tokenized-share-transfer.webp"
-      },
-      {
-        "headline": "Keystone-ի սարքերի անվտանգության խախտում",
-        "summary": "Keystone-ի կայքի խախտումից հետո հաքերները ստացել են սարքի իսկության բանալի, ինչը ստիպել է ընկերությանը ոչնչացնել 18,835 սարք։",
-        "link": "https://news.bitcoin.com/security/keystone-breach-deepens-18835-crypto-hardware-wallets-face-destruction/",
-        "source": "Bitcoin News",
-        "enTitle": "Keystone Breach Deepens as 18,835 Crypto Hardware Wallets Face Destruction",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/keystone-breach-deepens-as-18835-hardware-wallets-face-destruction-768x432.png"
-      },
-      {
-        "headline": "Հարավային Կորեան հետաձգում է կրիպտո հարկը",
-        "summary": "Հարավային Կորեան պատրաստվում է չորրորդ անգամ հետաձգել կրիպտոարժույթների շահույթի հարկը՝ հնարավոր է մինչև 2029 թվականը։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/south-korea-crypto-tax-faces-fourth-delay-2029-date-looms-report/",
-        "source": "Bitcoin News",
-        "enTitle": "South Korea’s Crypto Tax Faces Fourth Delay as 2029 Date Looms: Report",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/report-south-koreas-crypto-tax-faces-fourth-delay-as-2029-date-looms-768x432.png"
-      },
-      {
-        "headline": "Կանադան քննարկում է stablecoin-ների կանոնները",
-        "summary": "Կանադայի կառավարությունը հանրային քննարկում է սկսել stablecoin-ների նախագծային կանոնների վերաբերյալ՝ պահպանելով եկամտաբերության արգելքը։",
-        "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/c380b97dddcd8138aeaafd733f574fccd63dbd5a-4369x2421.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "NBA-ը համաձայնում է CFTC-ի հետ",
-        "summary": "NBA-ը համաձայնագիր է կնքել CFTC-ի հետ՝ կանխատեսումների շուկաներում ինսայդերական առևտրից պաշտպանվելու համար՝ տեղեկատվության փոխանակման միջոցով։",
-        "link": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+        "headline": "Ripple-ը ստացել է վերջնական հաստատում",
+        "summary": "Ripple-ը ստացել է OCC-ի վերջնական հաստատումը՝ ստեղծելու իր Ripple National Trust Bank-ը, որը կկառավարի RLUSD stablecoin-ի պահուստները։",
+        "link": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
         "source": "Decrypt",
-        "enTitle": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/nba-basketball-sports-betting-gID_7.jpg@png"
+        "enTitle": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ripple-logo-decrypt-style-01-gID_7.png@png"
       },
       {
-        "headline": "CoinDCX-ը հաստատում է $16 միլիոնի կորուստ",
-        "summary": "Հնդկական CoinDCX բորսան հաստատել է $16 միլիոն կրիպտոարժույթի կորուստը՝ այն բանից հետո, երբ գործադիր տնօրենը կասկածելի գործարքները «կեղծ տագնապ» էր անվանել։",
-        "link": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
+        "headline": "BlackRock-ը և SBI-ը՝ ճապոնական Yen stablecoin-ի համար",
+        "summary": "BlackRock-ը միացել է SBI Holdings-ին և Startale Group-ին՝ ուսումնասիրելու թոքենացված դրամական շուկայի ֆոնդերը Ճապոնիայի JPYSC Yen stablecoin-ի հետ կապելու հնարավորությունը։",
+        "link": "https://news.bitcoin.com/stablecoins/blackrock-sbi-startale-jpysc-yen-stablecoin-tokenized-funds/",
+        "source": "Bitcoin News",
+        "enTitle": "Blackrock Joins Ripple Ally SBI in a Yen Stablecoin Bet on Japan",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/blackrock-drives-305m-bitcoin-etf-comeback-with-676m-inflow-768x432.jpg"
+      },
+      {
+        "headline": "Binance-ը դիմել է Բրազիլիայում լիցենզիայի համար",
+        "summary": "Binance-ը դիմել է Բրազիլիայում կրիպտոարժույթների լիցենզիա ստանալու համար՝ նախքան ուրբաթ օրվա վերջնաժամկետը, միաժամանակ հանելով 22 կրիպտո ակտիվ բրազիլացի օգտատերերի համար։",
+        "link": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Binance files for Brazil crypto license ahead of Friday deadline",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y3HTZGMXQ7SC5P5EPWXX7B/binance-brazil-edition.png"
+      },
+      {
+        "headline": "Կանադայի նոր կանոնները stablecoin-ների համար",
+        "summary": "Կանադան հրապարակել է stablecoin-ների նախագծային կանոններ, որոնք սահմանում են մարման վճարները առավելագույնը 1%-ով և արգելում են տոկոսներ վճարել stablecoin-ի սեփականատերերին։",
+        "link": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
         "source": "Decrypt",
-        "enTitle": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/coindcx-decrypt-style-gID_7.jpg@png"
+        "enTitle": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png"
+      },
+      {
+        "headline": "Keystone-ի անվտանգության խախտումը խորանում է",
+        "summary": "Keystone-ի անվտանգության խախտման հետևանքով հաքերները գողացել են բանալի, որն օգտագործվում է դրամապանակների իսկությունը հաստատելու համար, ինչը խորացնում է նախնական տվյալների արտահոսքի խնդիրը։",
+        "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XH194AWQZA2BD0554BJQHS/hi-hardware-vs-software-wallets-key-differences-to-know.jpg"
       }
     ]
   }
