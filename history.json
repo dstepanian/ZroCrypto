@@ -4249,9 +4249,9 @@
   },
   {
     "date": "2026-10-28",
-    "ts": 1793132334611,
+    "ts": 1793188295430,
     "fng": {
-      "value": 48,
+      "value": 51,
       "label": "Neutral",
       "hy": "Չեզոք",
       "dot": "🟡"
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 80679,
-        "change24h": 1.0439898086661517
+        "price": 81296,
+        "change24h": 1.8993026509302056
       },
       {
         "label": "Ethereum",
-        "price": 2345.07,
-        "change24h": 1.353218849559602
+        "price": 2362.42,
+        "change24h": 2.164074089311435
       }
     ],
-    "overview": "Օրվա նորությունները կարևոր զարգացումներ են ընդգծում կրիպտո կարգավորման և ինստիտուցիոնալ ընդունման ոլորտում։ Հիմնական թեմաներն են stablecoin-ների ընդլայնումը, ավանդական ակտիվների թոքենիզացիան և շարունակվող կարգավորող պայքարները։",
+    "overview": "Կրիպտո շուկան շարունակում է ինտեգրվել ավանդական ֆինանսների հետ՝ նոր թոքենացված արտադրանքների և կարգավորող քայլերի միջոցով, սակայն անվտանգության խախտումները մնում են մտահոգության առարկա։",
     "items": [
       {
-        "headline": "Robinhood-ը կինտեգրի Ripple-ի RLUSD stablecoin-ը",
-        "summary": "Robinhood-ը կինտեգրի Ripple-ի RLUSD stablecoin-ը իր հավելվածում այս տարվա վերջին՝ ընդլայնելով համագործակցությունը մանրածախ և ինստիտուցիոնալ ֆինանսների ոլորտում։",
-        "link": "https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
-        "source": "Decrypt",
-        "enTitle": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png"
-      },
-      {
-        "headline": "Ripple-ը ստացել է ԱՄՆ բանկային հաստատության վերջնական հաստատում",
-        "summary": "Ripple-ը ստացել է ԱՄՆ-ի ազգային վստահության բանկի վերջնական հաստատումը՝ չնայած ավանդական բանկային խմբերի առարկություններին։",
-        "link": "https://cryptoslate.com/ripple-gets-final-us-trust-bank-approval-what-does-xrp-gain/",
-        "source": "CryptoSlate",
-        "enTitle": "Ripple gets final US trust bank approval. What does XRP gain?",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ripple-institutional-charter.webp"
-      },
-      {
-        "headline": "Խոշոր ընկերությունները դեմ են OKXICE-ի թոքենիզացված բաժնետոմսերին",
-        "summary": "Intel-ը, Oracle-ը, IBM-ը և IonQ-ն առարկել են OKXICE-ի առաջարկվող բլոկչեյն առևտրային հարթակում իրենց բաժնետոմսերի թոքենիզացմանը՝ ընդհանուր առարկող ընկերությունների թիվը հասցնելով 26-ի։",
-        "link": "https://news.bitcoin.com/finance/intel-oracle-ibm-ionq-join-opposition-okxice-tokenized-stocks-plan/",
+        "headline": "Bithumb-ի ներքին համակարգի կոտրում",
+        "summary": "Հարավկորեական Bithumb կրիպտո փոխանակումը հաստատել է ներքին համակարգի կոտրումը և անձնական տվյալների արտահոսքը։",
+        "link": "https://news.bitcoin.com/security/bithumb-confirms-breach-hackers-hit-south-korean-financial-firms/",
         "source": "Bitcoin News",
-        "enTitle": "Intel, Oracle, IBM and IonQ Join Growing Opposition to OKXICE Tokenized Stock Plan",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/ibm-768x432.jpg"
+        "enTitle": "Bithumb Confirms Breach as Hackers Hit 3 South Korean Financial Firms",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/report-police-raid-bithumb-hq-in-probe-tied-to-lawmakers-son_nwmk-768x432.png"
       },
       {
-        "headline": "CFTC-ն դատի է տվել Յուտային",
-        "summary": "ԱՄՆ-ի Ապրանքային ֆյուչերսների առևտրի հանձնաժողովը (CFTC) դատի է տվել Յուտա նահանգին՝ արգելափակելու Kalshi-ի դեմ նրա գործողությունները կանխատեսումների շուկաներում։",
-        "link": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Coinbase-ի տվյալների արտահոսք վաճառողի մոտ",
+        "summary": "Coinbase-ը հայտարարել է, որ վերլուծական Amplitude ընկերությունում տեղի ունեցած միջադեպի հետևանքով տուժել են իր հաճախորդների տվյալները, սակայն միջոցները չեն տուժել։",
+        "link": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "CFTC sues Utah to block action against prediction markets",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg"
+        "enTitle": "Coinbase denies systems breach, says vendor exposed customer data",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60N3ET67QN71X4TK3YBZTNR/hi-how-cryptocurrency-prices-work-explained3.jpg"
       },
       {
-        "headline": "Nasdaq-100-ի թոքենիզացված ֆոնդը գործարկվել է",
-        "summary": "Janus Henderson-ը և Centrifuge-ը գործարկել են JQQQ-ն՝ ներկայացնելով Nasdaq-100 ինդեքսին հետևող առաջին բլոկչեյն-բնիկ, թոքենիզացված ֆոնդը։",
-        "link": "https://news.bitcoin.com/finance/nasdaq-100-enters-tokenized-fund-era-janus-henderson-jqqq/",
+        "headline": "Mirae Asset-ի թոքենացված արժեթղթեր Solana-ի վրա",
+        "summary": "Mirae Asset Securities-ի Հոնկոնգի ստորաբաժանումը թողարկել է թոքենացված արժեթղթեր Solana-ի վրա՝ ընդլայնելով բլոկչեյնի վրա հիմնված բաշխումը ինստիտուցիոնալ ներդրողներին։",
+        "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Mirae Asset Securities issues tokenized notes on Solana",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6120BTEQBS14CMZ858YG88A/hi-hong-kong-situation-solana.jpg"
+      },
+      {
+        "headline": "Moody’s-ը գնահատում է Ripple-ի RLUSD-ը",
+        "summary": "Moody’s Ratings-ը Ripple-ի RLUSD stablecoin-ին շնորհել է ներդրումային կարգի վարկանիշներ՝ հաշվի առնելով դրա պահուստային ակտիվների վարկային որակը և շուկայական արժեքը։",
+        "link": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
+        "source": "The Block",
+        "enTitle": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ripple-usd-rlusd-stablecoin.png"
+      },
+      {
+        "headline": "Բրազիլիայի բանկը պաշտոնականացնում է կրիպտո ծառայությունները",
+        "summary": "Բրազիլիայի խոշորագույն բանկ Itaú Unibanco-ն դարձել է առաջինը, որը պաշտոնականացրել է կրիպտո բրոքերային ծառայությունները նոր կանոնների համաձայն։",
+        "link": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d46ba6649c1aae115103732eff1cb5d1d02aaf6-960x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "ԱՄՆ Գանձապետարանը կրիպտո կանոնակարգման մասին",
+        "summary": "ԱՄՆ Գանձապետարանի քարտուղար Սքոթ Բեսենթը Ripple’s Swell կոնֆերանսում քննարկել է CLARITY Act-ի ձախողումից հետո առաջացած կրիպտո կանոնակարգման բացերը լրացնելու ուղիները։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/bessent-clarity-act-plan-b-ripple-swell/",
         "source": "Bitcoin News",
-        "enTitle": "Nasdaq-100 Enters Tokenized Fund Era With Janus Henderson JQQQ",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/nasdaq-100-enters-tokenized-fund-era-with-janus-henderson-jqqq-768x432.png"
-      },
-      {
-        "headline": "USDC-ն առաջ է անցել USDT-ից եվրոյի stablecoin առևտրում",
-        "summary": "Kaiko-ի տվյալներով՝ USDC-ի մասնաբաժինը եվրոյի stablecoin առևտրում աճել է մինչև 56%՝ 2024 թվականի հունվարից ի վեր, քանի որ ԵՄ կանոնները վերաձևում են շուկան։",
-        "link": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YYH4W8ZJZR3K8EWNZDKXQ3/coin-crushing-euro.jpg"
+        "enTitle": "Ripple Swell Sees Bessent Bring a Plan B for the Stalled CLARITY Act",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bessents-bond-buyback-gamble-could-pour-fuel-on-bitcoin-price-768x432.png"
       }
     ]
   }
