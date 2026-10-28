@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-08-30",
-    "ts": 1788116184473,
-    "fng": {
-      "value": 69,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 79022,
-        "change24h": 1.053152567326646
-      },
-      {
-        "label": "Ethereum",
-        "price": 2510.14,
-        "change24h": 2.311948160020149
-      }
-    ],
-    "overview": "Կրիպտո շուկան այսօր բնութագրվում է մի քանի անվտանգության խախտումներով և կարգավորող մարմինների ուշադրությամբ stablecoin-ների նկատմամբ, ինչպես նաև ինստիտուցիոնալ խաղացողների կողմից Bitcoin-ի նկատմամբ հետաքրքրության ակնարկներով։",
-    "items": [
-      {
-        "headline": "Cronos ցանցի դադարեցումը Tectonic-ի շահագործման պատճառով",
-        "summary": "Cronos ցանցը դադարեցվել է Tectonic-ի 75 միլիոն դոլարի շահագործումից հետո, որը կապված է TONIC թոքենի գնի մանիպուլյացիայի հետ։",
-        "link": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
-        "source": "The Block",
-        "enTitle": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
-        "image": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-1200x675.jpg"
-      },
-      {
-        "headline": "Michael Saylor-ը ակնարկում է Bitcoin-ի գնումների մասին",
-        "summary": "Michael Saylor-ը ակնարկել է, որ Strategy-ն կարող է վերսկսել Bitcoin-ի գնումները երկու ամսվա դադարից հետո՝ ընկերության հաշվեկշիռն ամրապնդելուց հետո։",
-        "link": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M19WS2MWX8WK42HTJNANTQJ5/hi-michael-saylor.png"
-      },
-      {
-        "headline": "Sber-ը նախատեսում է կրիպտո-ապահովված վարկեր տրամադրել",
-        "summary": "Ռուսաստանի խոշորագույն բանկը՝ Sber-ը, նախատեսում է ընդլայնել կրիպտո-ապահովված վարկավորումը՝ ընդունելով Bitcoin, Ether և USDT որպես գրավ։",
-        "link": "https://news.bitcoin.com/finance/russias-largest-bank-sber-eyes-btc-eth-usdt-for-crypto-backed-loans/",
-        "source": "Bitcoin News",
-        "enTitle": "Russia’s Largest Bank Sber Eyes BTC, ETH, USDT for Crypto-Backed Loans",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/sberbank-768x432.jpg"
-      },
-      {
-        "headline": "ԱՄՆ գանձապետարանը պահանջում է stablecoin-ների աուդիտ",
-        "summary": "ԱՄՆ գանձապետարանի առաջարկած փոփոխությունը պահանջում է, որ US բորսաները աուդիտ անցկացնեն օտարերկրյա stablecoin-ների նկատմամբ կամ բախվեն դրանց ցուցակից հանելուն։",
-        "link": "https://cryptoslate.com/treasury-proposed-genius-change-forces-us-exchanges-to-audit-foreign-stablecoin-or-face-delisting/",
-        "source": "CryptoSlate",
-        "enTitle": "Treasury proposed GENIUS change forces US exchanges to audit foreign stablecoin or face delisting",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-access-denied.jpg"
-      },
-      {
-        "headline": "Կենտրոնական բանկերը stablecoin-ների մասին",
-        "summary": "Եվրոպական Կենտրոնական Բանկի և Միջազգային Հաշվարկների Բանկի պաշտոնյաները հայտարարել են, որ stablecoin-ները դեռևս վստահելի փող չեն լայնածավալ գործարքների համար։",
-        "link": "https://news.bitcoin.com/crypto-news/ecb-schnabel-central-bank-money-onchain/",
-        "source": "Bitcoin News",
-        "enTitle": "ECB’s Schnabel Says Central Bank Money ‘Must Go Onchain’",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/ecbs-schnabel-says-central-bank-money-must-go-onchain2_nwmk-768x432.jpg"
-      },
-      {
-        "headline": "Cosmos Labs-ը սխալմամբ մաքրել է վրիպակը",
-        "summary": "Cosmos Labs-ը հայտարարել է, որ սխալմամբ մաքրել է վրիպակը, որը հանգեցրել է 5.7 միլիոն դոլարի վեց շղթայական հաքի։",
-        "link": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
-        "source": "The Block",
-        "enTitle": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
-        "image": "https://www.tbstat.com/wp/uploads/2025/09/extra2-1200x675.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-08-31",
     "ts": 1788178291254,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Bitcoin News",
         "enTitle": "Ripple Swell Sees Bessent Bring a Plan B for the Stalled CLARITY Act",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/bessents-bond-buyback-gamble-could-pour-fuel-on-bitcoin-price-768x432.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-29",
+    "ts": 1793220095460,
+    "fng": {
+      "value": 51,
+      "label": "Neutral",
+      "hy": "Չեզոք",
+      "dot": "🟡"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 81094,
+        "change24h": 0.6409834210886861
+      },
+      {
+        "label": "Ethereum",
+        "price": 2351.01,
+        "change24h": 0.5031759683264491
+      }
+    ],
+    "overview": "Շուկաներում տիրում է խառը տրամադրություն, քանի որ թոքենիզացիան շարունակում է զարգանալ՝ միաժամանակ բախվելով կորպորատիվ դիմադրության։ Մակրոտնտեսական գործոնները, ինչպիսիք են Դաշնային պահուստային համակարգի որոշումները, մնում են կարևոր, մինչդեռ խոշոր կրիպտո ընկերությունները ընդլայնում են իրենց ծառայությունները և լուծում անվտանգության խնդիրները։",
+    "items": [
+      {
+        "headline": "Թոքենիզացված բաժնետոմսերի շուկան աճում է",
+        "summary": "Apple-ի և Microsoft-ի նման խոշոր ընկերությունների բաժնետոմսերի թոքենիզացիայի շնորհիվ թոքենիզացված բաժնետոմսերի շուկան հասել է 3.84 միլիարդ դոլարի։",
+        "link": "https://news.bitcoin.com/defi/tokenized-stocks-hit-3-84b-apple-microsoft-move-onchain/",
+        "source": "Bitcoin News",
+        "enTitle": "Tokenized Stocks Hit $3.84B as Apple, Microsoft Move Onchain",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/tokenized-stocks-hit-3-84b-as-apple-microsoft-move-onchain-768x432.png"
+      },
+      {
+        "headline": "Coinbase-ը հերքում է հարթակի ներթափանցումը",
+        "summary": "Coinbase-ը հերքում է իր համակարգերի ուղղակի ներթափանցումը, սակայն Amplitude վերլուծական մատակարարի մոտ տեղի ունեցած տվյալների արտահոսքը բացահայտել է հաճախորդների կոնտակտային տվյալները։",
+        "link": "https://news.bitcoin.com/security/coinbase-denies-platform-intrusion-vendor-data-leak-emerges/",
+        "source": "Bitcoin News",
+        "enTitle": "Coinbase Denies Platform Intrusion as Vendor Data Leak Emerges",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/coinbase-denies-platform-intrusion-as-vendor-data-leak-emerges-768x432.png"
+      },
+      {
+        "headline": "Դաշնային պահուստային համակարգը տոկոսադրույքները անփոփոխ է թողել",
+        "summary": "Դաշնային պահուստային համակարգը չի փոխել տոկոսադրույքները, ինչի արդյունքում Bitcoin-ի գինը կայուն է մնացել, սակայն դեկտեմբերին հնարավոր է տոկոսադրույքի բարձրացում։",
+        "link": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
+        "source": "Decrypt",
+        "enTitle": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png"
+      },
+      {
+        "headline": "Strategy-ն ամենօրյա շահաբաժիններ կվճարի",
+        "summary": "Strategy ընկերության բաժնետերերը հավանություն են տվել չորս արտոնյալ բաժնետոմսերի համար ամենօրյա շահաբաժինների վճարմանը։",
+        "link": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Strategy shareholders approve daily dividends for four preferred stocks",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61RMMV26WRZDXS27BN2ZMZH/hi-strategyb-3.jpg"
+      },
+      {
+        "headline": "Ընկերությունները դեմ են թոքենիզացված բաժնետոմսերին",
+        "summary": "Coca-Cola-ն, JPMorgan-ը և Dell-ը այն յոթ ընկերություններից են, որոնք դեմ են արտահայտվել իրենց բաժնետոմսերի թոքենիզացիային OKXICE-ի առաջարկվող բլոկչեյն առևտրային հարթակում։",
+        "link": "https://news.bitcoin.com/finance/coca-cola-jpmorgan-dell-oppose-okxice-tokenized-stocks-push/",
+        "source": "Bitcoin News",
+        "enTitle": "Coca-Cola, JPMorgan and Dell Among Latest to Oppose OKXICE Tokenized Stock Push",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/jpmorgan-lends-its-expertise-to-solanas-atomic-settlement-program-768x432.png"
+      },
+      {
+        "headline": "Coinbase-ը ավելացնում է Ripple-ի RLUSD stablecoin-ը",
+        "summary": "Coinbase-ը ավելացրել է Ripple-ի RLUSD stablecoin-ը իր մանրածախ, բորսայական և Prime հարթակներում՝ աջակցելով XRP Ledger-ին, Base-ին և Ethereum-ին։",
+        "link": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
+        "source": "The Block",
+        "enTitle": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/08/ripple-usd.jpg"
       }
     ]
   }
