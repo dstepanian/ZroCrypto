@@ -4249,7 +4249,7 @@
   },
   {
     "date": "2026-10-29",
-    "ts": 1793220095460,
+    "ts": 1793275129979,
     "fng": {
       "value": 51,
       "label": "Neutral",
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 81094,
-        "change24h": 0.6409834210886861
+        "price": 80094,
+        "change24h": -1.385714637899402
       },
       {
         "label": "Ethereum",
-        "price": 2351.01,
-        "change24h": 0.5031759683264491
+        "price": 2323.29,
+        "change24h": -1.4998351224895168
       }
     ],
-    "overview": "Շուկաներում տիրում է խառը տրամադրություն, քանի որ թոքենիզացիան շարունակում է զարգանալ՝ միաժամանակ բախվելով կորպորատիվ դիմադրության։ Մակրոտնտեսական գործոնները, ինչպիսիք են Դաշնային պահուստային համակարգի որոշումները, մնում են կարևոր, մինչդեռ խոշոր կրիպտո ընկերությունները ընդլայնում են իրենց ծառայությունները և լուծում անվտանգության խնդիրները։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ընդունման և կարգավորող զարգացումների խառնուրդով։ Խոշոր ընկերությունները, ինչպիսիք են Google-ը և NYSE-ի սեփականատերը, ընդլայնում են իրենց ներկայությունը կրիպտո տարածքում, մինչդեռ կարգավորող մարմինները շարունակում են լուծել անօրինական գործունեության և իրավական հստակության հարցերը։",
     "items": [
       {
-        "headline": "Թոքենիզացված բաժնետոմսերի շուկան աճում է",
-        "summary": "Apple-ի և Microsoft-ի նման խոշոր ընկերությունների բաժնետոմսերի թոքենիզացիայի շնորհիվ թոքենիզացված բաժնետոմսերի շուկան հասել է 3.84 միլիարդ դոլարի։",
-        "link": "https://news.bitcoin.com/defi/tokenized-stocks-hit-3-84b-apple-microsoft-move-onchain/",
+        "headline": "Google-ը կրիպտո պահպանման հարթակ է ստեղծում բանկերի համար",
+        "summary": "Google-ը ներկայացրել է բազմակողմանի հաշվարկային հարթակ, որը նախատեսված է բանկերին և ֆինանսական հաստատություններին օգնելու ապահովել կրիպտոարժույթները և թոքենացված ակտիվները՝ առանց ամբողջական մասնավոր բանալին մեկ տեղում պահելու։",
+        "link": "https://news.bitcoin.com/security/google-builds-crypto-custody-security-platform-for-banks/",
         "source": "Bitcoin News",
-        "enTitle": "Tokenized Stocks Hit $3.84B as Apple, Microsoft Move Onchain",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/tokenized-stocks-hit-3-84b-as-apple-microsoft-move-onchain-768x432.png"
+        "enTitle": "Google Builds Crypto Custody Security Platform for Banks",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/google-builds-crypto-custody-security-platform-for-banks-768x432.jpg"
       },
       {
-        "headline": "Coinbase-ը հերքում է հարթակի ներթափանցումը",
-        "summary": "Coinbase-ը հերքում է իր համակարգերի ուղղակի ներթափանցումը, սակայն Amplitude վերլուծական մատակարարի մոտ տեղի ունեցած տվյալների արտահոսքը բացահայտել է հաճախորդների կոնտակտային տվյալները։",
-        "link": "https://news.bitcoin.com/security/coinbase-denies-platform-intrusion-vendor-data-leak-emerges/",
-        "source": "Bitcoin News",
-        "enTitle": "Coinbase Denies Platform Intrusion as Vendor Data Leak Emerges",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/coinbase-denies-platform-intrusion-as-vendor-data-leak-emerges-768x432.png"
-      },
-      {
-        "headline": "Դաշնային պահուստային համակարգը տոկոսադրույքները անփոփոխ է թողել",
-        "summary": "Դաշնային պահուստային համակարգը չի փոխել տոկոսադրույքները, ինչի արդյունքում Bitcoin-ի գինը կայուն է մնացել, սակայն դեկտեմբերին հնարավոր է տոկոսադրույքի բարձրացում։",
-        "link": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
+        "headline": "Գանձապետարանը պատժամիջոցներ է կիրառում Հյուսիսային Կորեայի դեմ",
+        "summary": "ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել 11 անձի նկատմամբ՝ Հյուսիսային Կորեայի ՏՏ աշխատողների սխեմայի համար, որը միլիոնավոր դոլարներ է տեղափոխել կրիպտոարժույթով։",
+        "link": "https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto",
         "source": "Decrypt",
-        "enTitle": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png"
+        "enTitle": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg@png"
       },
       {
-        "headline": "Strategy-ն ամենօրյա շահաբաժիններ կվճարի",
-        "summary": "Strategy ընկերության բաժնետերերը հավանություն են տվել չորս արտոնյալ բաժնետոմսերի համար ամենօրյա շահաբաժինների վճարմանը։",
-        "link": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "NYSE-ի սեփականատերը քայլեր է ձեռնարկում Hyperliquid ֆյուչերսների համար",
+        "summary": "NYSE-ի սեփականատերը՝ Intercontinental Exchange-ը (ICE), քայլեր է ձեռնարկում ԱՄՆ-ում Hyperliquid perpetual futures-ը ներդնելու ուղղությամբ՝ սպասելով CFTC-ի հաստատմանը։",
+        "link": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca9b2a4236d3b64cddb157ea18300e69cd1b587a-1200x800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Թաիլանդի Գերագույն դատարանը Bitcoin-ը ճանաչել է որպես սեփականություն",
+        "summary": "Թաիլանդի Գերագույն դատարանը որոշել է, որ Bitcoin-ը սեփականություն է, քանի որ այն ունի շուկայական գին, կարող է կանխիկացվել և պահվել հանրության կողմից։",
+        "link": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/9289c1541319da92ae2e95b9caa00df9328e4bdf-1920x1272.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Bitcoin ETF-ները հոկտեմբերին ավելացրել են $137M",
+        "summary": "Bitcoin ETF-ները հոկտեմբերին ներգրավել են $137 միլիոն, ինչը ամսվա զուտ ներհոսքերը դրական է դարձրել։",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Strategy shareholders approve daily dividends for four preferred stocks",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61RMMV26WRZDXS27BN2ZMZH/hi-strategyb-3.jpg"
+        "enTitle": "Bitcoin ETFs add $137M, pushing October back into the green",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M635F2FZPQBQ2SP21XCPWHDQ/hi-bitcoins-are-flash-green-1.jpg"
       },
       {
-        "headline": "Ընկերությունները դեմ են թոքենիզացված բաժնետոմսերին",
-        "summary": "Coca-Cola-ն, JPMorgan-ը և Dell-ը այն յոթ ընկերություններից են, որոնք դեմ են արտահայտվել իրենց բաժնետոմսերի թոքենիզացիային OKXICE-ի առաջարկվող բլոկչեյն առևտրային հարթակում։",
-        "link": "https://news.bitcoin.com/finance/coca-cola-jpmorgan-dell-oppose-okxice-tokenized-stocks-push/",
-        "source": "Bitcoin News",
-        "enTitle": "Coca-Cola, JPMorgan and Dell Among Latest to Oppose OKXICE Tokenized Stock Push",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/jpmorgan-lends-its-expertise-to-solanas-atomic-settlement-program-768x432.png"
-      },
-      {
-        "headline": "Coinbase-ը ավելացնում է Ripple-ի RLUSD stablecoin-ը",
-        "summary": "Coinbase-ը ավելացրել է Ripple-ի RLUSD stablecoin-ը իր մանրածախ, բորսայական և Prime հարթակներում՝ աջակցելով XRP Ledger-ին, Base-ին և Ethereum-ին։",
-        "link": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
-        "source": "The Block",
-        "enTitle": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/08/ripple-usd.jpg"
+        "headline": "Ripple-ի RLUSD stablecoin-ը ստանում է Moody's-ի վարկանիշ",
+        "summary": "Ripple-ի RLUSD stablecoin-ը հասանելի է դարձել Coinbase-ում, այն բանից հետո, երբ Moody's-ը թոքենին շնորհել է ներդրումային կարգի վարկանիշ։",
+        "link": "https://cryptoslate.com/ripples-rlusd-stablecoin-gains-coinbase-access-as-moodys-awards-investment-grade-rating/",
+        "source": "CryptoSlate",
+        "enTitle": "Ripple’s RLUSD stablecoin gains Coinbase access as Moody’s awards investment-grade rating",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/rlusd-coinbase-base-launch-standard.jpg"
       }
     ]
   }
