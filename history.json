@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-01",
-    "ts": 1788289326577,
-    "fng": {
-      "value": 69,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 77010,
-        "change24h": -2.5521543146891705
-      },
-      {
-        "label": "Ethereum",
-        "price": 2410.17,
-        "change24h": -2.741686350033892
-      }
-    ],
-    "overview": "Շուկաներում նկատվում է անկայունություն՝ կապված աշխարհաքաղաքական իրադարձությունների և ԱՄՆ-ում տոկոսադրույքների փոփոխության հնարավորության հետ։ Միևնույն ժամանակ, ֆինանսական հաստատությունները շարունակում են ակտիվորեն ներդրումներ կատարել կրիպտոարժույթների ոլորտում և մշակել նոր տեխնոլոգիաներ։",
-    "items": [
-      {
-        "headline": "ԱՄՆ-ի հարվածները Իրանին՝ ազդեցություն շուկաների վրա",
-        "summary": "ԱՄՆ-ի ռազմական գործողությունները Իրանի դեմ հանգեցրել են բացասական արձագանքի ֆինանսական շուկաներում, ներառյալ բիթքոյնի գնի անկումը։",
-        "link": "https://news.bitcoin.com/finance/markets-buckle-after-us-strikes-iran-dow-sinks-400-points/",
-        "source": "Bitcoin News",
-        "enTitle": "Markets Buckle After US Strikes Iran, Dow Sinks 400 Points",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/markets-buckle-after-us-strikes-iran-dow-sinks-400-points-768x432.png"
-      },
-      {
-        "headline": "SEC-ը թարմացնում է կանոնները բլոկչեյնի համար",
-        "summary": "ԱՄՆ-ի Արժեթղթերի և բորսաների հանձնաժողովը (SEC) առաջարկում է արդիականացնել փոխանցման գործակալների կանոնները՝ հաշվի առնելով բլոկչեյն տեխնոլոգիան և թոքենիզացված արժեթղթերը։",
-        "link": "https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278",
-        "source": "The Block",
-        "enTitle": "SEC seeks to update its 1970s-era transfer agent rules for the blockchain age",
-        "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg"
-      },
-      {
-        "headline": "Խոշոր բանկերը մշակում են stablecoin",
-        "summary": "BofA, Citi, Goldman Sachs-ը և ևս 18 խոշոր ֆինանսական հաստատություններ ծրագրում են թողարկել stablecoin՝ սկզբում ԱՄՆ դոլարով, այնուհետև՝ եվրոյով։",
-        "link": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ERC5JF5XKZ3F15CXNCAGXJ/hi-what-is-a-decentralized-money-market-and-how-does-it-work-stablecoin-1.jpg"
-      },
-      {
-        "headline": "Bitcoin ETF-ները գրավում են ներդրումներ",
-        "summary": "Bitcoin ETF-ները վերադարձել են ներհոսքերի միտումին՝ գրավելով 216.70 միլիոն դոլար, մինչդեռ Ether ETF-ները շարունակում են իրենց հաջողությունները։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-ether-xrp-etfs-pull-in-310m-as-blackrock-drives-demand/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin, Ether, XRP ETFs Pull In $310M as Blackrock Drives Demand",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-ether-xrp-etfs-pull-in-310m-as-blackrock-drives-demand-768x432.jpg"
-      },
-      {
-        "headline": "Ռուսաստանը գործարկում է թվային ռուբլին",
-        "summary": "Ռուսաստանի կենտրոնական բանկը հասանելի է դարձնում իր թվային արժույթը միլիոնավոր քաղաքացիների համար՝ 12 խոշոր բանկերի և խոշոր մանրածախ առևտրականների մասնակցությամբ։",
-        "link": "https://cryptoslate.com/russia-opens-central-bank-digital-currency-to-millions-as-12-major-banks-and-top-retailers-face-rollout-rules/",
-        "source": "CryptoSlate",
-        "enTitle": "Russia opens central bank digital currency to millions as 12 major banks and top retailers face rollout rules",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/digital-ruble-choice-map.jpg"
-      },
-      {
-        "headline": "Ethena-ն առաջարկում է 6% պարգևատրում",
-        "summary": "Ethena-ն թողարկել է USDe վճարային հավելված, որը առաջարկում է մինչև 6% տարեկան պարգևատրում՝ հեշտացնելով ամենօրյա վճարումները և խաչաձև սահմանային փոխանցումները։",
-        "link": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Ethena launches USDe payments app, offers 6% rewards",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ESRB24SSYCV2PQDNVNCJ2Z/blockchain-coin-crypto-payment-logistics.png"
-      }
-    ]
-  },
-  {
     "date": "2026-09-02",
     "ts": 1788375995841,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "Trezor warns CryptoBilis buyers to move funds over suspected implant",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65XV5M4X2K1YMKC92QM6YWV/trezor-cryptobilis.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "ts": 1793391372465,
+    "fng": {
+      "value": 30,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 76888,
+        "change24h": -4.265558804248855
+      },
+      {
+        "label": "Ethereum",
+        "price": 2238.02,
+        "change24h": -3.1964222882682978
+      }
+    ],
+    "overview": "Կրիպտոարժույթների շուկան այսօր գլխավորապես կենտրոնացած է Binance-ի խոշոր հաքերային հարձակման հետևանքների վրա, սակայն կան նաև դրական զարգացումներ, ինչպիսիք են Tether-ի շահույթը և Bitcoin ETF-ների ներհոսքերը: Շուկան ցույց է տալիս կայունություն՝ չնայած անվտանգության մարտահրավերներին։",
+    "items": [
+      {
+        "headline": "Binance-ը հատկացնում է $6.34B հաքերային կորուստները ծածկելու համար",
+        "summary": "Binance-ը հայտարարել է, որ 6.34 միլիարդ դոլար է հատկացրել հաքերային հարձակման հետևանքով առաջացած կորուստները ծածկելու համար, և գործադիր տնօրենը հավաստիացրել է, որ օգտատերերի ակտիվներն ապահով են։",
+        "link": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+        "source": "Decrypt",
+        "enTitle": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-ceo-richard-teng-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "FBI-ն և Secret Service-ը միանում են Binance-ի հաքերային հետաքննությանը",
+        "summary": "ԱՄՆ Secret Service-ը և FBI-ն միացել են Binance-ի դեմ իրականացված հաքերային հարձակման հետաքննությանը, մինչդեռ Circle-ը սառեցրել է 823 միլիոն դոլարի գողացված միջոցներ։",
+        "link": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
+        "source": "Decrypt",
+        "enTitle": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Tether-ը հայտնում է $1.5B շահույթ երրորդ եռամսյակում",
+        "summary": "Stablecoin թողարկող Tether-ը երրորդ եռամսյակում գրանցել է 1.5 միլիարդ դոլարի զուտ օպերացիոն շահույթ, իսկ ընդհանուր պահուստները հասել են 191.5 միլիարդ դոլարի։",
+        "link": "https://news.bitcoin.com/finance/tether-reports-1-5b-q3-profit-total-reserves-reach-191-5b/",
+        "source": "Bitcoin News",
+        "enTitle": "Tether Reports $1.5B Q3 Profit as Total Reserves Reach $191.5B",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/tether-completes-audit-wintermute-bets-on-ai-and-high-frequency-trading-and-more--weekly-recap-768x432.jpg"
+      },
+      {
+        "headline": "Trezor-ը նախազգուշացնում է վտանգված սարքային դրամապանակի մասին",
+        "summary": "Trezor-ը նախազգուշացրել է հաճախորդներին նախկին լիազորված վերավաճառողի միջոցով վաճառված պոտենցիալ վտանգված սարքային դրամապանակի մասին՝ Ledger-ի անվտանգության վերջին միջադեպից հետո։",
+        "link": "https://news.bitcoin.com/security/trezor-warns-compromised-hardware-wallet-93m-ledger-security-scare/",
+        "source": "Bitcoin News",
+        "enTitle": "Trezor Warns of Compromised Hardware Wallet Following $93M Ledger Security Scare",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2022/08/trezor-768x432.jpg"
+      },
+      {
+        "headline": "Bitcoin ETF-ները 4 օրում ավելացրել են $441M",
+        "summary": "Bitcoin ETF-ները չորս օր անընդմեջ դրական ներհոսքեր են գրանցել՝ ավելացնելով 441 միլիոն դոլար, ինչը ցույց է տալիս շարունակական ինստիտուցիոնալ հետաքրքրություն։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-add-441m-4-days-zcash-streak-hits-day-8/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin ETFs Add $441M in 4 Days as Zcash Streak Hits Day 8",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/bitcoin-etfs-add-441m-in-4-days-as-zcash-streak-hits-day-8-768x432.jpg"
+      },
+      {
+        "headline": "Իսրայելը ԱՄՆ-ին է արտահանձնել Nomad Bridge-ի շահագործողին",
+        "summary": "Իսրայելի Գերագույն դատարանը որոշել է ԱՄՆ-ին արտահանձնել Nomad Bridge-ի ենթադրյալ շահագործողին՝ 2.8 միլիոն դոլարի գողության համար՝ սահմանելով նախադեպ կոդի թերությունների շահագործման համար։",
+        "link": "https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
+        "source": "Decrypt",
+        "enTitle": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png"
       }
     ]
   }
