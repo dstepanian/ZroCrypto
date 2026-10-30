@@ -4249,74 +4249,74 @@
   },
   {
     "date": "2026-10-30",
-    "ts": 1793306702838,
+    "ts": 1793361172215,
     "fng": {
-      "value": 51,
-      "label": "Neutral",
-      "hy": "Չեզոք",
-      "dot": "🟡"
+      "value": 30,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
     },
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 79589,
-        "change24h": -1.8049475521763378
+        "price": 77356,
+        "change24h": -3.507352417426047
       },
       {
         "label": "Ethereum",
-        "price": 2282.26,
-        "change24h": -2.8868396304938284
+        "price": 2233.24,
+        "change24h": -3.9604527225645505
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինչպես խոշոր ինստիտուցիոնալ ներգրավվածությամբ և նորարարական համագործակցություններով, այնպես էլ կարգավորող մարմինների ճնշումներով, որոնք հանգեցնում են որոշ բորսաների՝ շուկաներից դուրս գալուն։ Անվտանգության հետ կապված միջադեպերը նույնպես մնում են օրակարգում։",
+    "overview": "Այսօրվա կրիպտո շուկան հիմնականում գտնվում է Binance-ի դեմ իրականացված խոշոր հաքերային հարձակման ազդեցության տակ, որը հանգեցրել է զգալի լիկվիդացիաների և անվտանգության հետ կապված մտահոգությունների։ Միևնույն ժամանակ, Bitcoin ETF-ները շարունակում են դրական ներհոսքեր գրանցել՝ ցույց տալով ինստիտուցիոնալ հետաքրքրության կայունությունը։",
     "items": [
       {
-        "headline": "Polymarket-ը վերսկսում է առևտուրը հաքերային հարձակումից հետո",
-        "summary": "Կանխատեսումների Polymarket հարթակը վերսկսել է առևտուրը՝ հայտնելով, որ երրորդ կողմի մատակարարի միջոցով տեղի ունեցած հաքերային հարձակման հետևանքով օգտատերերից գողացվել է մոտ 2.65 միլիոն դոլար։",
-        "link": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
-        "source": "The Block",
-        "enTitle": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241111_Polymarket_News_2.jpg"
+        "headline": "Binance-ը կփոխհատուցի $6.34 միլիարդի կորուստը",
+        "summary": "Binance կրիպտոարժույթի բորսան հայտարարել է, որ 6.34 միլիարդ դոլար է հատկացրել վերջին հաքերային հարձակման հետևանքով առաջացած կորուստները ծածկելու համար, որի ընթացքում մոտ 3 միլիարդ դոլար արդեն սառեցվել է։",
+        "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Live updates: Binance says $6.34B set aside to cover hack losses",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg"
       },
       {
-        "headline": "NYSE-ի սեփականատերը Hyperliquid-ի հետ համագործակցում է ԱՄՆ-ում",
-        "summary": "New York Stock Exchange-ի սեփականատեր Intercontinental Exchange-ը (ICE) ձեռք է բերել Trade[XYZ]-ի բաժնեմասը՝ նախատեսելով ԱՄՆ-ում Hyperliquid-ի վրա հիմնված perpetual futures շուկա ստեղծել։",
-        "link": "https://cryptoslate.com/nyse-owner-takes-tradexyz-stake-as-it-plans-us-hyperliquid-futures/",
-        "source": "CryptoSlate",
-        "enTitle": "NYSE owner takes Trade[XYZ] stake as it plans US Hyperliquid futures",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ice-hyperliquid-retail-deal.webp"
-      },
-      {
-        "headline": "HTX-ը և KuCoin-ը դուրս են գալիս որոշ շուկաներից",
-        "summary": "Կրիպտոարժույթների խոշոր բորսաներ HTX-ը և KuCoin-ը հայտարարել են Միացյալ Թագավորությունից, Ռուսաստանից և Բելառուսից դուրս գալու մասին՝ կարգավորող մարմինների պահանջների և պատժամիջոցների պատճառով։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/htx-exits-uk-fca-settlement-kucoin-abandons-russia-belarus/",
+        "headline": "Binance հաքը հանգեցրել է լիկվիդացիաների",
+        "summary": "Binance-ի դեմ իրականացված հաքերային հարձակումից հետո կրիպտոարժույթների շուկայում լիկվիդացիաները գերազանցել են 1.5 միլիարդ դոլարը, ինչը հիմնականում ազդել է լծակային երկար դիրքերի վրա։",
+        "link": "https://news.bitcoin.com/market-updates/binance-hack-sparks-1-5b-liquidation-bloodbath-across-crypto/",
         "source": "Bitcoin News",
-        "enTitle": "HTX Exits UK After FCA Settlement as KuCoin Abandons Russia and Belarus",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/htx-and-kucoin-768x432.png"
+        "enTitle": "Binance Hack Sparks $1.5B Liquidation Bloodbath Across Crypto",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/binance-hack-sparks-1-5b-liquidation-bloodbath-across-crypto-768x432.jpg"
       },
       {
-        "headline": "Binance-ը և Itaú-ն լիցենզիա են հայցում Բրազիլիայում",
-        "summary": "Առաջատար կրիպտո բորսա Binance-ը և Բրազիլիայի խոշորագույն բանկ Itaú-ն պաշտոնապես դիմել են՝ դառնալու վիրտուալ ակտիվների ծառայություններ մատուցողներ (VASP) Բրազիլիայում։",
-        "link": "https://news.bitcoin.com/crypto-news/binance-itau-file-crypto-licenses-rivals-exit-brazil/",
+        "headline": "Binance հաքը վերագրվում է Հյուսիսային Կորեային",
+        "summary": "Բլոկչեյնի մի քանի հետազոտողներ, ներառյալ TRM Labs-ը և ZachXBT-ը, ենթադրում են, որ Binance-ի դեմ 6.3 միլիարդ դոլարի հաքերային հարձակումը, որը կրիպտոյի պատմության մեջ ամենամեծն է, հավանաբար իրականացվել է Հյուսիսային Կորեայի Lazarus Group-ի կողմից։",
+        "link": "https://news.bitcoin.com/security/binance-hack-north-korea-lazarus-tradertraitor/",
         "source": "Bitcoin News",
-        "enTitle": "Binance and Itau File for Crypto Licenses in Brazil as Rivals Exit",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/central-bank-of-brazil-building-facade-768x432.jpg"
+        "enTitle": "Binance Hack Pinned on North Korea’s Lazarus Group by TRM Labs and ZachXBT",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/inside-the-5-8b-binance-hack-whats-confirmed-and-what-isnt-768x432.png"
       },
       {
-        "headline": "Polygon-ը և Solana-ն համագործակցում են բանկային վճարումների համար",
-        "summary": "Polygon-ը և Solana-ն համատեղ ուժեր են ներդրում՝ բանկերին stablecoin վճարումներ մատուցելու համար՝ միացնելով Solana-ի stablecoin ակտիվությունը Polygon-ի բանկային ենթակառուցվածքին։",
-        "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d38bf40fdfdf026ca35418b9ee6dbe506fd52705-1280x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Kalshi-ն 1 միլիարդ դոլար է ներգրավում՝ հասնելով 40 միլիարդի",
-        "summary": "Կանխատեսումների շուկայի օպերատոր Kalshi-ն ապահովել է ևս 1 միլիարդ դոլարի ֆինանսավորում՝ իր գնահատումը հասցնելով 40 միլիարդ դոլարի։",
-        "link": "https://news.bitcoin.com/finance/kalshi-hits-40-billion-valuation-after-another-1-billion-raise/",
+        "headline": "Ripple-ը և World Liberty-ն սառեցրել են հաքերային միջոցներ",
+        "summary": "Ripple-ը սառեցրել է մոտ 200 միլիոն դոլար, իսկ World Liberty Financial-ը՝ 27 միլիոն դոլար՝ կապված Binance-ի հաքերային հարձակման հետ՝ միանալով Tether-ին, Circle-ին և Coinbase-ին այս աննախադեպ համաարդյունաբերական արգելափակմանը։",
+        "link": "https://news.bitcoin.com/security/ripple-world-liberty-freeze-binance-hacker-funds/",
         "source": "Bitcoin News",
-        "enTitle": "Kalshi Hits $40 Billion Valuation After Another $1 Billion Raise",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/kalshi-hits-40-billion-valuation-after-another-1-billion-raise-768x432.png"
+        "enTitle": "Ripple and Trump’s World Liberty Help Freeze Binance Hacker’s Loot",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/ripple-labs-1-8-768x432.jpg"
+      },
+      {
+        "headline": "Bitcoin ETF-ները ներգրավել են $423 միլիոն",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները երեք օրում ներգրավել են 423 միլիոն դոլարի ներհոսք, ընդ որում BlackRock-ը առաջատարն է եղել այս աճի մեջ։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-add-423m-in-3-days-as-blackrock-leads/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin ETFs Add $423M in 3 Days as Blackrock Leads",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/bitcoin-etfs-add-423m-in-3-days-as-blackrock-leads-768x432.jpg"
+      },
+      {
+        "headline": "Trezor-ը զգուշացնում է CryptoBilis-ի գնորդներին",
+        "summary": "Trezor-ը հորդորել է CryptoBilis-ից սարքեր գնած հաճախորդներին տեղափոխել իրենց միջոցները՝ Safe 5 սարքերում հնարավոր ապարատային իմպլանտի մասին հաղորդումից հետո։",
+        "link": "https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Trezor warns CryptoBilis buyers to move funds over suspected implant",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65XV5M4X2K1YMKC92QM6YWV/trezor-cryptobilis.jpg"
       }
     ]
   }
