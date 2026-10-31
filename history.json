@@ -4249,7 +4249,7 @@
   },
   {
     "date": "2026-10-31",
-    "ts": 1793445973876,
+    "ts": 1793475496659,
     "fng": {
       "value": 30,
       "label": "Fear",
@@ -4259,56 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 77378,
-        "change24h": -0.3133367596684386
+        "price": 77498,
+        "change24h": 1.4654906917918922
       },
       {
         "label": "Ethereum",
-        "price": 2243.99,
-        "change24h": 0.018889371324478807
+        "price": 2253.21,
+        "change24h": 1.1664614708368355
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան հիմնականում գտնվում է Binance-ի խոշոր հաքի ազդեցության տակ, սակայն նկատվում են նաև կարգավորող մարմինների ակտիվ քննարկումներ և կայունության նշաններ։ Չնայած անվտանգության մարտահրավերներին՝ արդյունաբերությունը շարունակում է զարգանալ և հարմարվել։",
+    "overview": "Այսօրվա կրիպտո շուկան նշանավորվեց Binance-ի խոշոր հաքի հետևանքների շուրջ շարունակվող քննարկումներով և անվտանգության մտահոգություններով։ Միաժամանակ, դիտվում են ինստիտուցիոնալ ընդունման նոր նշաններ և Bitcoin-ի սպիտակ թղթի 18-ամյակը։",
     "items": [
       {
-        "headline": "Binance-ը հատկացնում է $6.34B հաքի կորուստները ծածկելու համար",
-        "summary": "Binance-ի գործադիր տնօրենը հայտարարել է, որ ընկերությունը 6.34 միլիարդ դոլար է հատկացրել հաքի հետևանքով առաջացած կորուստները ծածկելու համար՝ վստահեցնելով օգտատերերին, որ իրենց ակտիվներն ապահով են։",
-        "link": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
-        "source": "Decrypt",
-        "enTitle": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-ceo-richard-teng-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "FBI-ը և Secret Service-ը միանում են Binance-ի հաքի հետաքննությանը",
-        "summary": "ԱՄՆ Secret Service-ը և FBI-ը միացել են Binance-ի հաքի հետաքննությանը, մինչդեռ Circle-ը սառեցրել է 823 միլիոն դոլարի գողացված ակտիվներ։",
-        "link": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
-        "source": "Decrypt",
-        "enTitle": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "Tether-ի պահուստները կրկնապատկվել են՝ հասնելով $8B-ի",
-        "summary": "Tether-ի ավելցուկային պահուստները գրեթե կրկնապատկվել են՝ հասնելով 8 միլիարդ դոլարի, իսկ երրորդ եռամսյակի շահույթը կազմել է 1.5 միլիարդ դոլար։",
-        "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M671D68XPHRMK1R429A6YV2Q/analytics3-tether.jpg"
-      },
-      {
-        "headline": "CFTC-ի նախագահը կոչ է անում ԱՄՆ վերահսկողություն սահմանել",
-        "summary": "CFTC-ի նախագահը հայտարարել է, որ Binance-ի 6.4 միլիարդ դոլարի գողությունը ցույց է տալիս, թե ինչու օֆշորային բորսաները կարիք ունեն գրանցվելու CFTC-ում և ընդունելու ԱՄՆ անվտանգության չափանիշները։",
-        "link": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
-        "source": "Decrypt",
-        "enTitle": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "Իլինոյսի կրիպտո հարկային կանոնները կարող են արգելել DeFi-ը",
-        "summary": "Andreessen Horowitz-ը (a16z) և Uniswap Labs-ը նախազգուշացրել են, որ Իլինոյսի առաջարկվող կրիպտոարժույթի հարկային կանոնները կարող են արդյունավետորեն արգելել DeFi գործունեությունը նահանգում։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/a16z-uniswap-warn-illinois-crypto-tax-rules-ban-defi/",
+        "headline": "Binance-ը վերականգնում է գողացված ակտիվները",
+        "summary": "Binance-ը հայտարարել է, որ վերականգնել է գողացված ակտիվների 90%-ը և նպատակ ունի վերսկսել դուրսբերումները կիրակի օրը։",
+        "link": "https://news.bitcoin.com/security/binance-says-btc-eth-xrp-and-7-other-cryptos-fully-backed-after-hack/",
         "source": "Bitcoin News",
-        "enTitle": "A16z, Uniswap Warn Illinois Crypto Tax Rules Could Effectively Ban DeFi",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2019/03/FQZ0VYxN-illinois-cryptocurrency-bill-768x384.jpg"
+        "enTitle": "Binance Says BTC, ETH, XRP and 7 Other Cryptos Fully Backed After Hack",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/binance-4-2-768x432.jpg"
+      },
+      {
+        "headline": "Binance-ի հաքը բարձրացնում է կարգավորման հարցեր",
+        "summary": "6.3 միլիարդ դոլարի Binance հաքը, որը կապված է Հյուսիսային Կորեայի հետ, առաջացրել է կարգավորող մարմինների բանավեճեր և կենտրոնացման մասին քննարկումներ։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/cftc-and-us-lawmaker-offer-two-different-answers-to-binances-6-3b-hack/",
+        "source": "Bitcoin News",
+        "enTitle": "CFTC and US Lawmaker Offer Two Different Answers to Binance’s $6.3B Hack",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/cftc-and-us-lawmaker-offer-two-different-answers-to-binances-6-3b-hack-768x432.png"
+      },
+      {
+        "headline": "Bitcoin-ի սպիտակ թուղթը դարձավ 18 տարեկան",
+        "summary": "Bitcoin-ի սպիտակ թուղթը նշում է իր 18-ամյակը՝ ընդգծելով դրա հեղափոխական ազդեցությունը ֆինանսական համակարգի վրա։",
+        "link": "https://news.bitcoin.com/featured/satoshis-bitcoin-white-paper-turns-18-with-a-new-question-who-pays-for-security/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin’s White Paper Turns 18: From Nine Pages to Wall Street and Washington",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/xe9fsrf3-triple-entry-bookkeeping-how-satoshi-nakamoto-solved-the-byzantine-generals-problem.webp"
+      },
+      {
+        "headline": "Uber-ը փորձարկում է թոքենիզացված ֆոնդեր",
+        "summary": "Uber-ը HSBC-ի և Franklin Templeton-ի հետ փորձարկում է թոքենիզացված դրամական ֆոնդեր՝ 24/7 եկամտաբերություն ապահովելու համար։",
+        "link": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/cf10fe72dc45107c49ea689a4c5e174e19f59191-2488x1400.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Nasdaq-ի ընկերությունը դիտարկում է BTC վաճառք",
+        "summary": "Nasdaq-ում ցուցակված մի ընկերություն դիտարկում է 450 միլիոն դոլարի Bitcoin վաճառքը՝ վկայակոչելով Binance-ի հաքը և քվանտային հաշվարկների մտավախությունները։",
+        "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4e9b4fc10f323d6782a7f938b1c23617a36d9d2b-1825x1369.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Westpac-ը սահմանափակում է կրիպտո ավանդները",
+        "summary": "Westpac բանկը սահմանափատում է կրիպտո փոխանակումների ավանդները՝ խարդախության կանխարգելման և անվտանգության նկատառումներով։",
+        "link": "https://cryptoslate.com/westpac-limits-crypto-exchange-deposits-driven-by-fraud-rules/",
+        "source": "CryptoSlate",
+        "enTitle": "Westpac limits crypto exchange deposits driven by fraud rules",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/westpac-crypto-deposit-limit-standard-image-v2.jpg"
       }
     ]
   }
