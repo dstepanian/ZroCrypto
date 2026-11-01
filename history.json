@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-02",
-    "ts": 1788375995841,
-    "fng": {
-      "value": 63,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 77313,
-        "change24h": 0.09680362968690875
-      },
-      {
-        "label": "Ethereum",
-        "price": 2393.25,
-        "change24h": -0.9777334794327402
-      }
-    ],
-    "overview": "Այսօրվա նորությունները ցույց են տալիս կարգավորող մարմինների և ավանդական ֆինանսների աճող հետաքրքրությունը բլոկչեյն տեխնոլոգիայի նկատմամբ, միաժամանակ արծարծելով Bitcoin մայնինգի և DeFi անվտանգության հետ կապված մարտահրավերները:",
-    "items": [
-      {
-        "headline": "SEC-ը վերաշարադրում է Wall Street-ի կանոնները",
-        "summary": "SEC-ը վերանայում է 50-ամյա կանոնները՝ հնարավորություն տալով հանրային բլոկչեյններին որոշել բաժնետոմսերի իրավական սեփականությունը:",
-        "link": "https://cryptoslate.com/the-sec-is-rewriting-50-year-old-wall-street-rules-to-let-public-blockchains-decide-who-legally-owns-a-stock/",
-        "source": "CryptoSlate",
-        "enTitle": "The SEC is rewriting 50-year-old Wall Street rules to let public blockchains decide who legally owns a stock",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/recordkeeping-gate-blockchain.jpg"
-      },
-      {
-        "headline": "Blackrock-ը և Nasdaq-ը կմիանան SEC-ի քննարկմանը",
-        "summary": "Blackrock-ը, Nasdaq-ը և Citadel-ը կմասնակցեն SEC-ի կազմակերպած կլոր սեղանին՝ քննարկելու 24/7 առևտուրը:",
-        "link": "https://news.bitcoin.com/finance/blackrock-nasdaq-citadel-to-join-secs-24-7-trading-roundtable/",
-        "source": "Bitcoin News",
-        "enTitle": "Blackrock, Nasdaq, Citadel to Join SEC’s 24/7 Trading Roundtable",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/sec-logo-on-building-768x432.jpg"
-      },
-      {
-        "headline": "Նյու Ջերսին դիմում է Գերագույն դատարան",
-        "summary": "Նյու Ջերսին դարձել է առաջին նահանգը, որը դիմել է ԱՄՆ Գերագույն դատարան՝ կանխատեսումների շուկաների կարգավորման հարցով:",
-        "link": "https://www.coindesk.com/policy/2026/09/02/new-jersey-becomes-first-state-to-ask-supreme-court-to-weigh-in-on-prediction-markets",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/7912f8af2cf1731212d8aac5aa93c6fbbde00c1e-1280x622.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Bitcoin Hashrate-ը մտնում է «արջի շուկա»",
-        "summary": "Bitcoin-ի հաշրեյթը մտնում է իր առաջին կայուն «արջի շուկա», քանի որ AI-ն հեռացնում է մայնինգի օպերատորներին:",
-        "link": "https://news.bitcoin.com/mining/bitcoin-hashrate-enters-first-bear-market-as-ai-pulls-miners-away/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Hashrate Enters First Bear Market as AI Pulls Miners Away",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-hashrate-enters-first-bear-market-as-ai-pulls-miners-away-768x432.png"
-      },
-      {
-        "headline": "Հյուսիսային Կորեայի կրիպտո գործարքը և DeFi-ն",
-        "summary": "Հյուսիսային Կորեայի 30 միլիոն դոլարի կրիպտո դուրսբերումը լրջագույն մարտահրավեր է ստեղծում DeFi-ի համար ԱՄՆ-ում:",
-        "link": "https://cryptoslate.com/north-koreas-30m-crypto-cashout-just-handed-legacy-finance-its-best-weapon-to-kill-defis-us-debut/",
-        "source": "CryptoSlate",
-        "enTitle": "North Korea’s $30M crypto cashout just handed legacy finance its best weapon to kill DeFi’s US debut",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-regulation-turnstile-1.jpg"
-      },
-      {
-        "headline": "Վայոմինգը Chainlink-ի հետ համագործակցում է",
-        "summary": "Վայոմինգը Chainlink-ի միջոցով ավելացնում է FRNT նահանգային ստաբիլ թոքենի պահուստների գրեթե իրական ժամանակի ստուգումը:",
-        "link": "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Wyoming adds Chainlink reserve verification to state-issued stable token",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HMS4JRWZ5GYFS8E74WQ8XR/hi-wyoming-crypto.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-09-03",
     "ts": 1788461971233,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "CryptoSlate",
         "enTitle": "Westpac limits crypto exchange deposits driven by fraud rules",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/10/westpac-crypto-deposit-limit-standard-image-v2.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-01",
+    "ts": 1793535635396,
+    "fng": {
+      "value": 34,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 77827,
+        "change24h": 0.410062741082229
+      },
+      {
+        "label": "Ethereum",
+        "price": 2260.14,
+        "change24h": 0.6496592027258657
+      }
+    ],
+    "overview": "Օրվա կրիպտո նորությունները գերակշռում են Binance-ի խոշոր հաքերային հարձակման հետևանքները՝ վերականգնման ջանքերի և ՀԴԲ-ի ներգրավվածության մասին թարմացումներով: Դրան զուգահեռ, շուկայի զգալի շարժումները ներառում են Bitcoin ETF-ների արտահոսքը, մինչդեռ ոլորտում նկատվում են զարգացումներ AI-ի ազդեցության, Solana-ի stablecoin-ի ինտեգրման և ձեռնարկությունների թոքենիզացիայի ոլորտներում:",
+    "items": [
+      {
+        "headline": "ՀԴԲ-ն Հյուսիսային Կորեային է մեղադրում Binance-ի հաքի համար",
+        "summary": "ՀԴԲ-ն Հյուսիսային Կորեային է մեղադրել Binance-ի դեմ իրականացված ռեկորդային 6.3 միլիարդ դոլարի հաքերային հարձակման համար։",
+        "link": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "FBI blames North Korea for record $6.3B Binance hack",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B0XQQ2RWMNW96K4XFZN2DN/kimjong-unnorth-korea.jpg"
+      },
+      {
+        "headline": "Binance-ը վերականգնել է գողացված կրիպտոյի 90%-ը",
+        "summary": "Binance-ը հայտարարել է, որ 6.3 միլիարդ դոլարի հաքերային հարձակումից հետո փոխարինել է գողացված կրիպտոարժույթների 90%-ը։",
+        "link": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Bitcoin ETF-ները կորցրել են $643 միլիոն",
+        "summary": "Bitcoin ETF-ները մեկ օրում կորցրել են 643 միլիոն դոլար՝ չեզոքացնելով շաբաթվա ներհոսքերը։",
+        "link": "https://cryptoslate.com/bitcoin-etfs-643-million-outflows-weekly-reversal/",
+        "source": "CryptoSlate",
+        "enTitle": "Bitcoin ETFs lose $643 million in a day, wiping out the week’s inflows",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-etf-market-spill.webp"
+      },
+      {
+        "headline": "AI-ն հետաքրքրված է Bitcoin մայնինգի էներգիայով",
+        "summary": "AI ընկերությունները ցանկանում են օգտագործել Bitcoin մայնինգի համար նախատեսված էներգիայի աղբյուրները, սակայն պայմանագրերը ցույց են տալիս, թե ով է իրականում շահում։",
+        "link": "https://cryptoslate.com/ai-wants-bitcoin-miners-power-but-the-contracts-reveal-who-really-gets-paid/",
+        "source": "CryptoSlate",
+        "enTitle": "AI wants Bitcoin miners’ power, but the contracts reveal who really gets paid",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-mining-gpu-conversion.webp"
+      },
+      {
+        "headline": "Anchorpoint-ը Solana-ում HKDAP stablecoin է գործարկում",
+        "summary": "Anchorpoint-ը, համագործակցելով Solana Foundation-ի հետ, նպատակ ունի HKDAP կարգավորվող stablecoin-ը բերել Solana էկոհամակարգ։",
+        "link": "https://news.bitcoin.com/stablecoins/anchorpoint-taps-solana-to-launch-hkdap-regulated-stablecoin/",
+        "source": "Bitcoin News",
+        "enTitle": "Anchorpoint Taps Solana to Launch HKDAP Regulated Stablecoin",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/anchorpoint-logo-768x432.jpg"
+      },
+      {
+        "headline": "Uber-ը փորձարկում է թոքենիզացիան HSBC-ի հետ",
+        "summary": "Uber-ը HSBC-ի և Franklin Templeton-ի հետ փորձարկում է, թե ինչպես կարող է թոքենիզացիան օգտագործել չգործող կանխիկ միջոցները շահավետ դարձնելու համար։",
+        "link": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/cf10fe72dc45107c49ea689a4c5e174e19f59191-2488x1400.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       }
     ]
   }
