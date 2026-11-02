@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-03",
-    "ts": 1788461971233,
-    "fng": {
-      "value": 65,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 81224,
-        "change24h": 5.043662319205307
-      },
-      {
-        "label": "Ethereum",
-        "price": 2510.79,
-        "change24h": 4.916887047649452
-      }
-    ],
-    "overview": "Bitcoin-ը վերականգնել է $80,000-ի շեմը՝ ի պատասխան Fed-ի տոկոսադրույքների դադարի ազդանշանների, մինչդեռ ինստիտուցիոնալ խաղացողները շարունակում են ընդլայնել իրենց ներկայությունը կրիպտո շուկայում։",
-    "items": [
-      {
-        "headline": "Bitcoin-ը բարձրացել է $80,000-ից",
-        "summary": "Bitcoin-ի գինը բարձրացել է $80,000-ից՝ այն բանից հետո, երբ Fed-ը ազդանշաններ է տվել տոկոսադրույքները կայուն պահելու մասին։",
-        "link": "https://decrypt.co/377314/bitcoin-pump-fed-rate-pause-shorts-get-rekt",
-        "source": "Decrypt",
-        "enTitle": "Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-07-gID_7.png@png"
-      },
-      {
-        "headline": "Bitcoin ETF-ները վերականգնվել են",
-        "summary": "Bitcoin ETF-ները վերականգնվել են՝ գրանցելով $101.15 միլիոն մեկ օրում, մինչդեռ Ethereum և XRP ETF-ների շահող շարքերը դադարել են։",
-        "link": "https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
-        "source": "Decrypt",
-        "enTitle": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
-      },
-      {
-        "headline": "Revolut-ը քայլ է անում դեպի ԱՄՆ բանկ",
-        "summary": "Revolut-ը ստացել է նախնական հավանություն ԱՄՆ-ի կարևոր բանկային կարգավորող մարմնից՝ երկրում բանկ դառնալու իր ձգտման շրջանակներում։",
-        "link": "https://www.theblock.co/news/regulation/2026-09-03-revolut-takes-important-step-toward-becoming-a-us-bank-with-conditional-occ-approval-413474",
-        "source": "The Block",
-        "enTitle": "Revolut takes ‘important’ step toward becoming a US bank with conditional OCC approval",
-        "image": "https://www.tbstat.com/wp/uploads/2022/11/20221118_Revolut-1200x675.jpg"
-      },
-      {
-        "headline": "Kraken-ը և SoFi-ը համագործակցում են",
-        "summary": "Kraken-ի մայր ընկերություն Payward-ը համագործակցում է SoFi-ի հետ՝ SoFiUSD stablecoin-ի և շուրջօրյա հաշվարկների համար։",
-        "link": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KYWSE94CPJJA8YZQS23VKP/hi-what-is-a-decentralized-money-market-and-kraken.png"
-      },
-      {
-        "headline": "Standard Chartered-ը՝ կրիպտո առևտուր Դուբայում",
-        "summary": "Standard Chartered բանկն այժմ առաջարկում է ինստիտուցիոնալ կրիպտո spot առևտուր Դուբայում՝ BTC-ն և ETH-ն ներառելով իր eFX հարթակում։",
-        "link": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Standard Chartered brings spot crypto trading to Dubai FX platform",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/340d393dde0aee90bc02178a19a6f92588da4886-3200x1800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Bitget-ը բանակցում է BlackRock-ի հետ",
-        "summary": "Bitget-ը բանակցություններ է վարում Wall Street-ի հսկաների, այդ թվում՝ BlackRock-ի հետ, Ասիայում իրենց tokenized ETF-ների տարածումն ընդլայնելու համար։",
-        "link": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b211dc0a2c42f8c64487bc73e191e498111d9fed-7737x5161.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      }
-    ]
-  },
-  {
     "date": "2026-09-04",
     "ts": 1788547372072,
     "fng": {
@@ -4317,6 +4244,71 @@
         "source": "CryptoSlate",
         "enTitle": "Zero-token withdrawals let a hacker drain 97 million CORE from Bitcoin staking platform b14g",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/11/b14g-zero-withdrawal-579689.webp"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-02",
+    "ts": 1793628914952,
+    "fng": {
+      "value": 37,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 77821,
+        "change24h": -0.1365078686771387
+      },
+      {
+        "label": "Ethereum",
+        "price": 2286.43,
+        "change24h": 0.8525552046463538
+      }
+    ],
+    "overview": "Կրիպտո շուկան այսօր գերակշռում է Binance-ի հաքերային հարձակման հետևանքներով, ինչը հանգեցրել է զգալի արտահոսքերի և Bitcoin ETF-ների բացասական տրամադրությունների: Միևնույն ժամանակ, Strategy-ն շարունակում է Bitcoin կուտակել, իսկ կարգավորող մարմինները ուժեղացնում են վերահսկողությունը:",
+    "items": [
+      {
+        "headline": "Strategy-ն կրկին Bitcoin է գնել",
+        "summary": "Strategy ընկերությունը ձեռք է բերել ևս 811 Bitcoin՝ մոտ 65.5 միլիոն դոլարով, հասցնելով իր ընդհանուր պահուստները 4.9 միլիարդ դոլարի:",
+        "link": "https://news.bitcoin.com/crypto-news/strategy-buys-811-bitcoin-for-65-5m-as-reserve-reaches-4-9b/",
+        "source": "Bitcoin News",
+        "enTitle": "Strategy Buys 811 Bitcoin for $65.5M as Reserve Reaches $4.9B",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/strategy-20-months-dividends-1-768x432.jpg"
+      },
+      {
+        "headline": "FATF-ը թիրախավորում է կրիպտո հանգույցները",
+        "summary": "FATF-ը վերանայում է փողերի լվացման դեմ պայքարի վերահսկողությունը՝ թիրախավորելով կրիպտո հանգույցները, սակայն չի նշել ստուգվող իրավասությունները:",
+        "link": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "FATF targets crypto hubs in review of money laundering controls",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E1Z69CTQ1SFH9R33DZWPA6/fatf-rules.jpg"
+      },
+      {
+        "headline": "FBI-ն Հյուսիսային Կորեային է մեղադրում Binance-ի հաքի համար",
+        "summary": "FBI-ն Հյուսիսային Կորեային է մեղադրել Binance-ի 6 միլիարդ դոլարի հաքերային հարձակման համար, մինչդեռ Binance-ը վերաբացել է դուրսբերումները՝ արձանագրելով 3.64 միլիարդ դոլարի զուտ արտահոսք:",
+        "link": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+        "source": "Decrypt",
+        "enTitle": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Bitcoin ETF-ներից արտահոսքեր Binance-ի հաքից հետո",
+        "summary": "ԱՄՆ-ի Bitcoin ETF-ները հոկտեմբերն ավարտել են 515 միլիոն դոլարի զուտ արտահոսքերով, իսկ Ether ֆոնդերը գրանցել են ռեկորդային 1.61 միլիարդ դոլարի ամսական արտահոսքեր՝ Binance-ի հաքերային հարձակումից հետո:",
+        "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DFVVTB1BSHSCFQ2R7VR4PQ/hi-top-news-of-the-week-5-bitcoin.jpg"
+      },
+      {
+        "headline": "Binance-ի հաքերը տեղափոխել է գողացված XRP-ն",
+        "summary": "Binance-ի հաքերը տեղափոխել է գողացված բոլոր 233.46 միլիոն XRP-ները՝ մոտ 293 միլիոն դոլար արժողությամբ, վեց նոր դրամապանակներ:",
+        "link": "https://news.bitcoin.com/security/binance-hacker-moves-293m-stolen-xrp/",
+        "source": "Bitcoin News",
+        "enTitle": "Binance Hacker Moves All $293M in Stolen XRP as $242M Slips out Through Tron",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/xrp-moved-by-binance-hacker-768x432.jpg"
       }
     ]
   }
