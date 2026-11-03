@@ -4249,9 +4249,9 @@
   },
   {
     "date": "2026-11-03",
-    "ts": 1793661369727,
+    "ts": 1793711825083,
     "fng": {
-      "value": 37,
+      "value": 26,
       "label": "Fear",
       "hy": "Վախ",
       "dot": "🟠"
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 76693,
-        "change24h": -1.783765907374823
+        "price": 77242,
+        "change24h": -0.4869962175145848
       },
       {
         "label": "Ethereum",
-        "price": 2251.68,
-        "change24h": -0.7759974367397814
+        "price": 2277.05,
+        "change24h": -0.13433377241832228
       }
     ],
-    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս անվտանգության շարունակական մարտահրավերներ, ինչպես նաև կարգավորող մարմինների կողմից որոշ դրական զարգացումներ և վերականգնման ջանքեր։",
+    "overview": "Կրիպտո շուկան այսօր բնութագրվում է խոշոր անվտանգության միջադեպերից (ինչպես Binance-ի հաքերային հարձակումը) վերականգնմամբ և ETF-ների զգալի արտահոսքերով: Շուկայի տրամադրությունները մնում են զգույշ՝ չնայած որոշ վերականգնողական նշաններին:",
     "items": [
       {
-        "headline": "Հյուսիսային Կորեան հերքում է Binance-ի հաքը",
-        "summary": "Հյուսիսային Կորեան հերքել է FBI-ի մեղադրանքները՝ կապված Binance-ի վրա հարձակման հետ՝ այն անվանելով քաղաքական դրդապատճառներով։",
-        "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "North Korea denies role in $6.3B Binance hack, points finger at US",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F7B7K3T1C90EANET9800H1/north-korea.jpg"
+        "headline": "Binance-ի վերականգնումը հաքերային հարձակումից հետո",
+        "summary": "Binance բորսայից զուտ արտահոսքերը հասել են 5.3 միլիարդ դոլարի՝ ռեկորդային հաքերային հարձակումից հետո, սակայն գործադիր տնօրենը հայտարարել է վերականգնման ընթացքի մասին։",
+        "link": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d192b08272461dcbb7c45518a92e5a3725b11ce1-742x562.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Mercado Bitcoin-ի հաքը և Tether-ի սառեցումը",
-        "summary": "Tether-ը սառեցրել է 4.5 միլիոն դոլար, քանի որ Mercado Bitcoin բորսայի հաքերը պահում է 46 միլիոն դոլար արժողությամբ կրիպտոարժույթ։",
-        "link": "https://cryptoslate.com/tether-freezes-4-5-million-as-mercado-bitcoin-hacker-holds-46-million-in-crypto/",
+        "headline": "Binance-ի SAFU ֆոնդի կրճատում",
+        "summary": "Binance-ը ծախսել է իր SAFU Bitcoin-ի կեսը՝ մոտ 580 միլիոն դոլար արժողությամբ, ինչը նշանակում է, որ օգտատերերի պաշտպանության ֆոնդը ցածր է իր սահմանած 800 միլիոն դոլարի մակարդակից։",
+        "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d9828d5a1dcf4e1f9551968a3a6c2c75a4fc3166-3657x2057.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Tether-ը սառեցրել է միջոցներ Binance-ի հաքից հետո",
+        "summary": "Tether-ը սառեցրել է 1.5 միլիարդ դոլար արժողությամբ USDT՝ Binance-ի հաքերային հարձակումից 30 րոպե անց, սակայն 729 միլիոն դոլար փախել է։",
+        "link": "https://cryptoslate.com/tether-freezes-1-5-billion-in-30-minutes-after-binance-hack-but-729-million-escapes/",
         "source": "CryptoSlate",
-        "enTitle": "Tether freezes $4.5 million as Mercado Bitcoin hacker holds $46 million in crypto",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/mercado_bitcoin_tether_freeze_featured.jpg"
+        "enTitle": "Tether freezes $1.5 billion in 30 minutes after Binance hack, but $729 million escapes",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/tether-frozen-release-hatch.webp"
       },
       {
-        "headline": "ԵՄ կազմակերպությունից 106 միլիոն դոլարի գողություն",
-        "summary": "Համաձայն onchain հետաքննող ZachXBT-ի՝ անհայտ ԵՄ կազմակերպությունը կորցրել է ավելի քան 106 միլիոն դոլար կենտրոնացված բորսայական հաշիվներից։",
-        "link": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
-        "source": "Decrypt",
-        "enTitle": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png@png"
-      },
-      {
-        "headline": "Custodia Bank-ը դիմում է Գերագույն դատարան",
-        "summary": "Custodia Bank-ը կրկին դիմել է ԱՄՆ Գերագույն դատարան՝ վերանայելու 10-րդ շրջանային դատարանի որոշումը, որը թույլ էր տալիս Federal Reserve-ին մերժել հիմնական հաշիվները։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/crypto-bank-custodia-urges-supreme-court-end-tyranny-federal-reserve/",
-        "source": "Bitcoin News",
-        "enTitle": "Crypto Bank Custodia Urges Supreme Court to End ‘Tyranny’ of Federal Reserve",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/supremecourt-768x432.jpg"
-      },
-      {
-        "headline": "Նյու Ջերսին չեղարկում է Coinbase-ի ստեյքինգի արգելքը",
-        "summary": "Նյու Ջերսին չեղարկել է Coinbase-ի ստեյքինգի արգելքը և հանել 5 միլիոն դոլարի տուգանքը՝ ճանապարհ բացելով ԱՄՆ նահանգի օգտատերերի համար։",
-        "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F487G3J8FRTKB5QXJC6MD5/larger-brian-armstrong.png"
-      },
-      {
-        "headline": "Binance-ը ավարտում է պահուստների ապացույցը",
-        "summary": "Binance-ն ավարտել է պահուստների վերջին ապացույցը՝ աշխատելով վերականգնել ակտիվները և դուրսբերումները ռեկորդային հաքից հետո։",
-        "link": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321",
+        "headline": "Liquid Network-ը վերականգնել է Bitcoin-ի պահուստները",
+        "summary": "Liquid Network-ը հայտարարել է, որ իր Bitcoin պահուստները լիովին վերականգնվել են սեպտեմբերյան շահագործումից հետո, Blockstream-ի կողմից տրամադրված միջոցներով։",
+        "link": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
         "source": "The Block",
-        "enTitle": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241127_Binance_News.jpg"
+        "enTitle": "Liquid Network restores full bitcoin backing following $320 million exploit",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-03-at-10.31.29.png"
+      },
+      {
+        "headline": "BlackRock-ի Bitcoin ETF-ի զգալի արտահոսքեր",
+        "summary": "BlackRock-ի IBIT-ը գրանցել է Bitcoin ETF-ի ամենամեծ արտահոսքերը հունիսից ի վեր՝ երկուշաբթի օրը կորցնելով 405.3 միլիոն դոլար։",
+        "link": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg"
+      },
+      {
+        "headline": "NEAR-ի թողարկման տոկոսադրույքի կրճատում",
+        "summary": "NEAR-ի կառավարումը հաստատել է առաջարկը՝ կրճատելու թոքենների տարեկան թողարկման առավելագույն տոկոսադրույքը մինչև 1.6%։",
+        "link": "https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378",
+        "source": "The Block",
+        "enTitle": "NEAR governance approves proposal to cut token issuance ceiling to 1.6%",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20220126_Near_Protocol_News.jpg"
       }
     ]
   }
