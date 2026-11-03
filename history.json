@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-05",
-    "ts": 1788630533937,
-    "fng": {
-      "value": 73,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 80041,
-        "change24h": 0.7134976832095057
-      },
-      {
-        "label": "Ethereum",
-        "price": 2476.78,
-        "change24h": 1.2428069532221901
-      }
-    ],
-    "overview": "Կրիպտոարժույթների շուկան այսօր ցույց է տվել խառը տրամադրություններ։ Մինչ Bitcoin ETF-ները շարունակում են զգալի ներհոսքեր գրանցել, որոշ ալտքոյններ, ինչպիսին է Zcash-ը, զգալի աճ են ապրել։ Միևնույն ժամանակ, նորարարական ապրանքները և կարգավորող մարմինների վերահսկողությունը մնում են ուշադրության կենտրոնում։",
-    "items": [
-      {
-        "headline": "Bitcoin ETF-ների ներհոսքը շարունակվում է",
-        "summary": "ԱՄՆ-ի Bitcoin ETF-ները գրանցել են զգալի ներհոսքեր, ընդհանուր առմամբ ավելի քան $3.8 միլիարդ վերջին երեք շաբաթվա ընթացքում, նույնիսկ երբ Bitcoin-ի գինը ժամանակավորապես իջել է $80,000-ից։",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1R63FX0B48YA7B473RBB8TA/hi-bitcoin-etf-infrastructure-investment-2.jpg"
-      },
-      {
-        "headline": "Zcash-ը հատում է $1,000 շեմը",
-        "summary": "Zcash-ի գինը հատել է $1,000-ը՝ առաջին անգամ 2016 թվականի իր գործարկումից ի վեր, իսկ նրա Grayscale ETF-ի ակտիվները գերազանցել են $400 միլիոնը։",
-        "link": "https://cryptoslate.com/zcash-breaks-1000-as-its-spot-etf-crosses-400-million-in-assets/",
-        "source": "CryptoSlate",
-        "enTitle": "Zcash breaks $1,000 as its spot ETF crosses $400 million in assets",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/zcash-1000-zcsh-etf-privacy-rally.jpg"
-      },
-      {
-        "headline": "Robinhood Chain-ի շուրջ վեճ է բռնկվել",
-        "summary": "AMC Entertainment-ի գործադիր տնօրենը կոչ է արել Robinhood-ին դադարեցնել AMC բաժնետոմսերին կապված թոքենի առևտուրը, ինչը հանգեցրել է հանրային բախման և Robinhood Chain-ի անսարքության։",
-        "link": "https://cryptoslate.com/a-major-outage-and-corporate-backlash-hit-robinhood-chain-at-the-peak-of-its-growth/",
-        "source": "CryptoSlate",
-        "enTitle": "A major outage and corporate backlash hit Robinhood Chain at the peak of its growth",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/robinhood-chain-broken-bridge.jpg"
-      },
-      {
-        "headline": "IMF-ը կասկածի տակ է դնում Էլ Սալվադորի Bitcoin-ի ֆինանսավորումը",
-        "summary": "Արժույթի միջազգային հիմնադրամը հայտարարել է, որ Էլ Սալվադորի կողմից ավելացված 1,540 Bitcoin-ը չի ֆինանսավորվել պետական միջոցներով, ինչը հակասում է երկրի պաշտոնական հաղորդագրությանը։",
-        "link": "https://cryptoslate.com/el-salvador-added-1540-bitcoin-but-the-imf-says-bukeles-government-didnt-pay-for-them/",
-        "source": "CryptoSlate",
-        "enTitle": "El Salvador added 1,540 Bitcoin, but the IMF says Bukele’s government didn’t pay for them",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-donation-reservoir.jpg"
-      },
-      {
-        "headline": "Polymarket-ը գործարկում է անժամկետ ֆյուչերսներ",
-        "summary": "Կանխատեսումների շուկայի հարթակ Polymarket-ը գործարկել է նոր Perps արտադրանք՝ մինչև 20x լծակով, ընդլայնելով իր առաջարկները և գրավելով հայտնի անունների ուշադրությունը։",
-        "link": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures",
-        "source": "Decrypt",
-        "enTitle": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "Կենտրոնական բանկերը ուսումնասիրում են stablecoin-ների ազդեցությունը",
-        "summary": "Դաշնային պահուստային համակարգի և Կորեայի Բանկի ուսումնասիրությունները ցույց են տալիս, որ դոլարով ապահովված stablecoin-ները կարող են կրկնակի հաշվարկվել M1 կամ M2-ում և իջեցնել տեղական արժույթները։",
-        "link": "https://cryptoslate.com/fed-economists-stablecoin-research-exposes-how-the-same-dollar-could-count-twice-in-m1-or-m2/",
-        "source": "CryptoSlate",
-        "enTitle": "Fed stablecoin research exposes how the same dollar could count twice in M1 or M2",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/fed-stablecoin-money-pipes.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-09-06",
     "ts": 1788717209402,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "The Block",
         "enTitle": "NEAR governance approves proposal to cut token issuance ceiling to 1.6%",
         "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20220126_Near_Protocol_News.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-04",
+    "ts": 1793740911866,
+    "fng": {
+      "value": 26,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 77880,
+        "change24h": 1.425046734656914
+      },
+      {
+        "label": "Ethereum",
+        "price": 2295.43,
+        "change24h": 2.011189848431877
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո նորությունները կենտրոնացած են Binance-ի վերջին հաքերային հարձակման մանրամասների և դրա հետևանքների վրա, ինչպես նաև կարգավորող մարմինների կողմից նորարարական ֆինանսական գործիքների հաստատման վրա։ Կարևորվում են անվտանգության մարտահրավերները և ավանդական ֆինանսների ինտեգրումը կրիպտո աշխարհին։",
+    "items": [
+      {
+        "headline": "Binance-ի հաքերային հարձակման մանրամասները",
+        "summary": "Binance-ը բացահայտել է, որ 6.3 միլիարդ դոլարի կրիպտոարժույթի գողությունը տեղի է ունեցել կեղծ հարցազրույցների և ներքին AI գործիքների միջոցով։",
+        "link": "https://news.bitcoin.com/security/binance-fake-job-interview-compromised-ai-tools-6-3b-hack/",
+        "source": "Bitcoin News",
+        "enTitle": "Binance Says Fake Job Interview, Compromised AI Tools Led to $6.3 Billion Hack",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/binance-hack-fallout_-aave-freezes-lending-across-16-networks-768x432.jpg"
+      },
+      {
+        "headline": "Հյուսիսային Կորեան հերքում է Binance-ի հաքը",
+        "summary": "Հյուսիսային Կորեան հերքել է Binance-ից 6.3 միլիարդ դոլարի կրիպտոարժույթի գողության մեղադրանքները՝ դրանք անվանելով «քաղաքական սադրանք»։",
+        "link": "https://news.bitcoin.com/security/north-korea-denies-role-6-3b-binance-hack-fbi-blame-political-provocation/",
+        "source": "Bitcoin News",
+        "enTitle": "North Korea Denies Role in $6.3B Binance Hack, Calls FBI Blame ‘Political Provocation’",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/kim-jong-un-and-north-korea-memes-flood-x-after-binances-6-3b-hack-768x432.png"
+      },
+      {
+        "headline": "CFTC-ն հաստատում է բաժնետոմսերի մշտական ֆյուչերսները",
+        "summary": "CFTC-ն թույլատրել է բաժնետոմսերի մշտական ֆյուչերսների առևտուրը, ինչը կրիպտո առևտրի մոդելը բերում է Wall Street։",
+        "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/3211fa7939c28f624c2b9b14fdc888817b3e9cbe-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Tether-ի Bitcoin պահուստները ավելի մեծ են",
+        "summary": "Tether-ի գործադիր տնօրենը բացահայտել է, որ ընկերության Bitcoin պահուստները զգալիորեն ավելի մեծ են, քան նախկինում հրապարակված էր։",
+        "link": "https://news.bitcoin.com/crypto-news/tethers-bitcoin-fortune-extends-beyond-publicly-identified-wallet/",
+        "source": "Bitcoin News",
+        "enTitle": "Tether’s Bitcoin Fortune Extends Beyond Its Publicly Identified Wallet",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/tethers-bitcoin-fortune-extends-beyond-its-publicly-identified-wallet-768x432.png"
+      },
+      {
+        "headline": "Ընկերությունները դեմ են OKX–ICE թոքենացված բաժնետոմսերին",
+        "summary": "Amazon-ը, Tesla-ն և SpaceX-ը միացել են OKX–ICE-ի թոքենացված բաժնետոմսերի ծրագրին դեմ արտահայտվող ընկերություններին։",
+        "link": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0102104c2692d915fff79b732d54ff5e49cd7c12-4066x2710.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "CZ-ը կոչ է անում կրիպտո անվտանգության դաշինք ստեղծել",
+        "summary": "Binance-ի հաքերային հարձակումից հետո CZ-ը կոչ է անում կրիպտո արդյունաբերությանը ստեղծել անվտանգության դաշինք՝ AI-ի կողմից պայմանավորված հարձակումների արագացման պատճառով։",
+        "link": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
+        "source": "The Block",
+        "enTitle": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230419_CZ_Generic3.jpg"
       }
     ]
   }
