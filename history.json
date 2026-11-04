@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-06",
-    "ts": 1788717209402,
-    "fng": {
-      "value": 73,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 79730,
-        "change24h": -0.4143312571111354
-      },
-      {
-        "label": "Ethereum",
-        "price": 2491.81,
-        "change24h": 0.5369957964510883
-      }
-    ],
-    "overview": "Այսօր շուկայում նկատվում է խառը պատկեր՝ ինստիտուցիոնալ ներհոսքերի նվազում Bitcoin ETF-ներում, միաժամանակ նոր կիրառություններ են առաջանում կրիպտո ոլորտում։ Անվտանգության հետ կապված միջադեպերը, ինչպիսիք են բորսայի գործունեության դադարեցումը, շարունակում են մնալ ուշադրության կենտրոնում։",
-    "items": [
-      {
-        "headline": "Bitcoin ETF-ների ներհոսքերը նվազել են",
-        "summary": "Աշխատանքի օրվա տոնի ընդմիջումից առաջ Bitcoin ETF-ների ներհոսքերը նվազել են 76%-ով, ընդ որում միայն BlackRock-ն ու Fidelity-ն են նոր միջոցներ ներգրավել։",
-        "link": "https://cryptoslate.com/bitcoin-etf-inflows-fall-76-entering-labor-day-break-as-only-blackrock-and-fidelity-attract-fresh-money/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitcoin ETF inflows fall 76% entering Labor Day break as only BlackRock and Fidelity attract fresh money",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-inflow-trains.jpg"
-      },
-      {
-        "headline": "BIS-ը փորձարկում է XRP Ledger-ը",
-        "summary": "Ripple-ի գործադիր տնօրեն Բրեդ Գարլինգհաուսը հայտարարել է, որ Շվեյցարիայի Միջազգային Հաշվարկների Բանկի (BIS) կողմից XRP Ledger-ի փորձարկումը իր համար անակնկալ չէր՝ հաշվի առնելով դրա ցածր վճարները և արագությունը։",
-        "link": "https://news.bitcoin.com/crypto-news/ripple-ceo-says-bis-testing-with-xrp-ledger-is-no-surprise-to-him/",
-        "source": "Bitcoin News",
-        "enTitle": "Ripple CEO Says BIS Testing With XRP Ledger Is No Surprise to Him",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/xrp-768x432.jpg"
-      },
-      {
-        "headline": "Bitcoin-ով ապահովված հիփոթեքներ",
-        "summary": "Better Mortgage-ը և Coinbase-ը թույլ են տալիս վերաօգտագործել Bitcoin-ով ապահովված հիփոթեքային վարկերի գրավը, սակայն փոխառուները չեն կարող վերականգնել իրենց կրիպտոն մինչև հիմնական հիփոթեքի ամբողջական մարումը։",
-        "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/a02993e4b0be694cb7d7b4718d4e0922311ed0c6-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Էլ Սալվադորը հերքում է Bitcoin-ի փոխանցումը",
-        "summary": "Նախագահ Նայիբ Բուկելեն հերքել է այն պնդումները, թե Էլ Սալվադորը իր ռազմավարական Bitcoin պահուստը փոխանցել է մասնավոր օպերատորի՝ դրանք անվանելով «ամբողջովին կեղծ»։",
-        "link": "https://news.bitcoin.com/crypto-news/bukele-denies-el-salvador-transferred-its-bitcoin-reserve/",
-        "source": "Bitcoin News",
-        "enTitle": "Bukele Denies El Salvador Transferred Its Bitcoin Reserve",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bukele-x-post-768x432.jpg"
-      },
-      {
-        "headline": "Հին Bitcoin-ի խոշոր տեղաշարժ",
-        "summary": "Շաբաթ օրը, 2010 թվականին ստեղծված դրամապանակներից 12 տարբեր փոխանցումներով, 600 BTC՝ մոտ 47.84 միլիոն դոլար արժողությամբ, տեղաշարժվել է 16 տարվա անգործությունից հետո։",
-        "link": "https://news.bitcoin.com/featured/satoshi-era-bitcoin-whale-awakens-moves-48m-in-vintage-btc/",
-        "source": "Bitcoin News",
-        "enTitle": "Satoshi-Era Bitcoin Whale Awakens, Moves $48M in Vintage BTC",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/satoshi-era-bitcoin-whale-awakens-moves-48m-in-vintage-btc-768x432.png"
-      },
-      {
-        "headline": "Orionx բորսան դադարեցրել է գործունեությունը",
-        "summary": "Tether-ի կողմից աջակցվող Orionx կրիպտոարժույթի բորսան մշտապես փակվում է այն բանից հետո, երբ աուդիտը հայտնաբերել է ավելի քան 7 միլիոն դոլարի հաճախորդների ակտիվների բացակայություն։",
-        "link": "https://news.bitcoin.com/exchanges/orionx-halts-operations-after-audit-uncovers-7m-financial-hole/",
-        "source": "Bitcoin News",
-        "enTitle": "Orionx Halts Operations After Audit Uncovers $7M Financial Hole",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/orionx-message-768x432.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-09-07",
     "ts": 1788809376692,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K35HFSNDXKSZPYH2YBQQTR/hi-interest-in-crypto-derivatives-rising-on-the-back-of-a-bullish-crypto-rally.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "ts": 1793828282934,
+    "fng": {
+      "value": 34,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 80094,
+        "change24h": 2.8706064028735163
+      },
+      {
+        "label": "Ethereum",
+        "price": 2418.95,
+        "change24h": 5.406524040188429
+      }
+    ],
+    "overview": "ԱՄՆ միջանկյալ ընտրությունների արդյունքները և դրանց հնարավոր ազդեցությունը կրիպտոարժույթների կարգավորման վրա այսօրվա հիմնական թեմաներն են։ Միաժամանակ, շարունակվում է բլոկչեյն տեխնոլոգիաների ինստիտուցիոնալ ընդունումը, իսկ անվտանգության հարցերը մնում են ուշադրության կենտրոնում՝ Binance-ի հաքերային հարձակումից հետո։",
+    "items": [
+      {
+        "headline": "Դեմոկրատները թիրախավորում են Թրամփի կրիպտո նախաձեռնությունները",
+        "summary": "Կոնգրեսում դեմոկրատների հաղթանակները սպառնում են հետաքննությունների ենթարկել նախագահ Դոնալդ Թրամփի կրիպտոարժույթների հետ կապված բիզնեսները։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/congressional-democrats-target-trumps-lucrative-crypto-ventures/",
+        "source": "Bitcoin News",
+        "enTitle": "Congressional Democrats to Target Trump’s Lucrative Crypto Ventures: Report",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/report-congressional-democrats-target-trumps-lucrative-crypto-ventures-768x432.png"
+      },
+      {
+        "headline": "Bitcoin-ը վերականգնվում է, բայց դժվարություններ են սպասվում",
+        "summary": "Bitcoin-ը վերականգնվել է Կոնգրեսում դեմոկրատների հաղթանակից հետո, սակայն կրիպտո արդյունաբերությունը Վաշինգտոնում ավելի դժվար պայքարի է բախվում։",
+        "link": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-America-decrypt-style-01-gID_7.png@png"
+      },
+      {
+        "headline": "Coinbase-ի ակտիվների մեծ մասը պաշտպանված է",
+        "summary": "Coinbase-ը հայտարարում է, որ հաճախորդների ակտիվների ավելի քան 99%-ը պահվում է անցանց cold storage-ում՝ Binance-ի 6.3 միլիարդ դոլարի հաքերային հարձակումից հետո։",
+        "link": "https://news.bitcoin.com/exchanges/coinbase-99-percent-customer-assets-cold-storage-after-binance-hack/",
+        "source": "Bitcoin News",
+        "enTitle": "Coinbase Says 99% of Customer Assets in Cold Storage After $6.3B Binance Hack",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/coinbase-says-99-of-customer-assets-in-cold-storage-after-binance-hack-768x432.png"
+      },
+      {
+        "headline": "Morgan Stanley-ը թոքենիզացնում է արժեթղթերը",
+        "summary": "Morgan Stanley-ը հայտարարել է, որ ԱՄՆ բաժնետոմսերն ու գանձապետական պարտատոմսերը վերածել է թոքենիզացված ձևի՝ DTCC Tokenization Service-ի միջոցով։",
+        "link": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
+        "source": "Decrypt",
+        "enTitle": "Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-morgan-stanley-gID_7.png@png"
+      },
+      {
+        "headline": "Canton Coin-ը ստանում է SEC-ի հավանությունը",
+        "summary": "SEC-ի աշխատակիցները Canton Coin-ը համարում են թվային ապրանք և խորհուրդ չեն տա իրավական գործողություններ ձեռնարկել դրա թողարկման համար։",
+        "link": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+        "source": "Decrypt",
+        "enTitle": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png"
+      },
+      {
+        "headline": "Riot-ը ընդլայնվում է AI ոլորտում",
+        "summary": "Bitcoin մայնինգի Riot ընկերության բաժնետոմսերը կտրուկ աճել են 28 միլիարդ դոլար արժողությամբ AI վարձակալության պայմանագրի շնորհիվ։",
+        "link": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KQ5FY3D9P23X31GYKTVT1C/hi-bitcoin-miners-unaffected-by-heat-waves-still-plan-to-establish-operations-in-texas-ai-2.jpg"
       }
     ]
   }
