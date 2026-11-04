@@ -4249,9 +4249,9 @@
   },
   {
     "date": "2026-11-04",
-    "ts": 1793740911866,
+    "ts": 1793798982798,
     "fng": {
-      "value": 26,
+      "value": 34,
       "label": "Fear",
       "hy": "Վախ",
       "dot": "🟠"
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 77880,
-        "change24h": 1.425046734656914
+        "price": 78363,
+        "change24h": 1.3311947111739764
       },
       {
         "label": "Ethereum",
-        "price": 2295.43,
-        "change24h": 2.011189848431877
+        "price": 2317.83,
+        "change24h": 1.6606680383614278
       }
     ],
-    "overview": "Այսօրվա կրիպտո նորությունները կենտրոնացած են Binance-ի վերջին հաքերային հարձակման մանրամասների և դրա հետևանքների վրա, ինչպես նաև կարգավորող մարմինների կողմից նորարարական ֆինանսական գործիքների հաստատման վրա։ Կարևորվում են անվտանգության մարտահրավերները և ավանդական ֆինանսների ինտեգրումը կրիպտո աշխարհին։",
+    "overview": "ԱՄՆ միջանկյալ ընտրությունների արդյունքները և դրանց ազդեցությունը կրիպտո քաղաքականության վրա օրվա գլխավոր թեմաներից են, ինչպես նաև կարևոր ինստիտուցիոնալ զարգացումները և ընկերությունների նորությունները։",
     "items": [
       {
-        "headline": "Binance-ի հաքերային հարձակման մանրամասները",
-        "summary": "Binance-ը բացահայտել է, որ 6.3 միլիարդ դոլարի կրիպտոարժույթի գողությունը տեղի է ունեցել կեղծ հարցազրույցների և ներքին AI գործիքների միջոցով։",
-        "link": "https://news.bitcoin.com/security/binance-fake-job-interview-compromised-ai-tools-6-3b-hack/",
-        "source": "Bitcoin News",
-        "enTitle": "Binance Says Fake Job Interview, Compromised AI Tools Led to $6.3 Billion Hack",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/binance-hack-fallout_-aave-freezes-lending-across-16-networks-768x432.jpg"
+        "headline": "Ժողովրդավարների հաղթանակը և կրիպտո քաղաքականությունը",
+        "summary": "Փորձագետները նշում են, որ ԱՄՆ միջանկյալ ընտրություններում Ժողովրդավարների հաղթանակը, թեև ակնկալվող էր, այնուամենայնիվ, կբարդացնի կրիպտո քաղաքականության ճանապարհը։",
+        "link": "https://decrypt.co/382492/bitcoin-shrugs-off-midterms-as-experts-say-democratic-sweep-was-priced-in",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin Shrugs Off Midterms as Experts Say Democratic Sweep Was 'Priced In'",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/bitcoin-btc-coin-american-flag-gID_7.png@png"
       },
       {
-        "headline": "Հյուսիսային Կորեան հերքում է Binance-ի հաքը",
-        "summary": "Հյուսիսային Կորեան հերքել է Binance-ից 6.3 միլիարդ դոլարի կրիպտոարժույթի գողության մեղադրանքները՝ դրանք անվանելով «քաղաքական սադրանք»։",
-        "link": "https://news.bitcoin.com/security/north-korea-denies-role-6-3b-binance-hack-fbi-blame-political-provocation/",
-        "source": "Bitcoin News",
-        "enTitle": "North Korea Denies Role in $6.3B Binance Hack, Calls FBI Blame ‘Political Provocation’",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/kim-jong-un-and-north-korea-memes-flood-x-after-binances-6-3b-hack-768x432.png"
-      },
-      {
-        "headline": "CFTC-ն հաստատում է բաժնետոմսերի մշտական ֆյուչերսները",
-        "summary": "CFTC-ն թույլատրել է բաժնետոմսերի մշտական ֆյուչերսների առևտուրը, ինչը կրիպտո առևտրի մոդելը բերում է Wall Street։",
-        "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/3211fa7939c28f624c2b9b14fdc888817b3e9cbe-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Tether-ի Bitcoin պահուստները ավելի մեծ են",
-        "summary": "Tether-ի գործադիր տնօրենը բացահայտել է, որ ընկերության Bitcoin պահուստները զգալիորեն ավելի մեծ են, քան նախկինում հրապարակված էր։",
-        "link": "https://news.bitcoin.com/crypto-news/tethers-bitcoin-fortune-extends-beyond-publicly-identified-wallet/",
-        "source": "Bitcoin News",
-        "enTitle": "Tether’s Bitcoin Fortune Extends Beyond Its Publicly Identified Wallet",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/tethers-bitcoin-fortune-extends-beyond-its-publicly-identified-wallet-768x432.png"
-      },
-      {
-        "headline": "Ընկերությունները դեմ են OKX–ICE թոքենացված բաժնետոմսերին",
-        "summary": "Amazon-ը, Tesla-ն և SpaceX-ը միացել են OKX–ICE-ի թոքենացված բաժնետոմսերի ծրագրին դեմ արտահայտվող ընկերություններին։",
-        "link": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0102104c2692d915fff79b732d54ff5e49cd7c12-4066x2710.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "CZ-ը կոչ է անում կրիպտո անվտանգության դաշինք ստեղծել",
-        "summary": "Binance-ի հաքերային հարձակումից հետո CZ-ը կոչ է անում կրիպտո արդյունաբերությանը ստեղծել անվտանգության դաշինք՝ AI-ի կողմից պայմանավորված հարձակումների արագացման պատճառով։",
-        "link": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
+        "headline": "Circle-ի եկամուտները և աշխատատեղերի կրճատումը",
+        "summary": "USDC թողարկող Circle-ը հայտնել է երրորդ եռամսյակի $865 միլիոն եկամուտների մասին, միաժամանակ հայտարարելով աշխատուժի մոտ 5%-ի կրճատման մասին։",
+        "link": "https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671",
         "source": "The Block",
-        "enTitle": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230419_CZ_Generic3.jpg"
+        "enTitle": "Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-04-at-12.45.57.png"
+      },
+      {
+        "headline": "Morgan Stanley-ն թոքենացնում է ակտիվները",
+        "summary": "Morgan Stanley-ն հայտարարել է, որ առաջին բանկերից է, որը DTCC-ի նոր ծառայության միջոցով թոքենացրել է ԱՄՆ բաժնետոմսերն ու գանձապետական պարտատոմսերը։",
+        "link": "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633",
+        "source": "The Block",
+        "enTitle": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-04-at-11.18.11.png"
+      },
+      {
+        "headline": "Schroders-ը Solana-ում պարտատոմսերի ֆոնդ է բերում",
+        "summary": "Համաշխարհային ակտիվների կառավարիչ Schroders-ը, որը վերահսկում է $1.1 տրիլիոն ակտիվներ, Solana բլոկչեյն է բերում զարգացող շուկաների պարտատոմսերի ֆոնդ։",
+        "link": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Global asset manager Schroders brings emerging market bond fund to Solana",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Հարավային Կորեան խստացնում է կրիպտո կանոնները",
+        "summary": "Հարավային Կորեայի ֆինանսական կարգավորիչները Binance-ի հաքերային հարձակումից հետո հրամայել են կրիպտո ընկերություններին խստացնել սառը դրամապանակների վերահսկողությունը և փոխանցումների մոնիտորինգը։",
+        "link": "https://cryptoslate.com/south-korea-orders-massive-crypto-wallet-lockdown-following-the-binance-hack/",
+        "source": "CryptoSlate",
+        "enTitle": "South Korea orders massive crypto wallet lockdown following the Binance hack",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/south-korea-fsc-cold-wallet-security-binance-hack-v2.jpg"
+      },
+      {
+        "headline": "SEC-ը Canton Coin-ը համարում է ապրանք",
+        "summary": "SEC-ի աշխատակազմի «no-action» նամակը Canton Coin-ը դիտարկում է որպես «թվային ապրանք», թեև դա պարտադիր որոշում չէ դրա իրավական կարգավիճակի վերաբերյալ։",
+        "link": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K35HFSNDXKSZPYH2YBQQTR/hi-interest-in-crypto-derivatives-rising-on-the-back-of-a-bullish-crypto-rally.jpg"
       }
     ]
   }
