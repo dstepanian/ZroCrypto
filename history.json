@@ -4249,74 +4249,74 @@
   },
   {
     "date": "2026-11-05",
-    "ts": 1793828282934,
+    "ts": 1793886236210,
     "fng": {
-      "value": 34,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
+      "value": 50,
+      "label": "Neutral",
+      "hy": "Չեզոք",
+      "dot": "🟡"
     },
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 80094,
-        "change24h": 2.8706064028735163
+        "price": 79678,
+        "change24h": 1.7539518629927637
       },
       {
         "label": "Ethereum",
-        "price": 2418.95,
-        "change24h": 5.406524040188429
+        "price": 2388.51,
+        "change24h": 3.068401283426698
       }
     ],
-    "overview": "ԱՄՆ միջանկյալ ընտրությունների արդյունքները և դրանց հնարավոր ազդեցությունը կրիպտոարժույթների կարգավորման վրա այսօրվա հիմնական թեմաներն են։ Միաժամանակ, շարունակվում է բլոկչեյն տեխնոլոգիաների ինստիտուցիոնալ ընդունումը, իսկ անվտանգության հարցերը մնում են ուշադրության կենտրոնում՝ Binance-ի հաքերային հարձակումից հետո։",
+    "overview": "Կրիպտոարժույթների շուկայում այսօր նկատվում են ինչպես կարգավորող զարգացումներ տարբեր երկրներում, այնպես էլ կարևոր քայլեր դեպի ավելի լայն ընդունում և արդյունաբերության դիվերսիֆիկացիա դեպի AI ոլորտ:",
     "items": [
       {
-        "headline": "Դեմոկրատները թիրախավորում են Թրամփի կրիպտո նախաձեռնությունները",
-        "summary": "Կոնգրեսում դեմոկրատների հաղթանակները սպառնում են հետաքննությունների ենթարկել նախագահ Դոնալդ Թրամփի կրիպտոարժույթների հետ կապված բիզնեսները։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/congressional-democrats-target-trumps-lucrative-crypto-ventures/",
+        "headline": "Հարավային Կորեան հետաձգում է կրիպտո հարկը",
+        "summary": "Հարավային Կորեան ևս երկու տարով՝ մինչև 2029 թվականը, հետաձգում է կրիպտոարժույթների շահույթի 22% հարկի ներդրումը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/south-korea-pushes-implementation-of-crypto-income-tax-to-2029/",
         "source": "Bitcoin News",
-        "enTitle": "Congressional Democrats to Target Trump’s Lucrative Crypto Ventures: Report",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/report-congressional-democrats-target-trumps-lucrative-crypto-ventures-768x432.png"
+        "enTitle": "South Korea Pushes Implementation of Crypto Income Tax to 2029",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/south-korea-pushes-crypto-income-tax-to-2029-to-align-with-u-s--reporting-rules-768x432.jpg"
       },
       {
-        "headline": "Bitcoin-ը վերականգնվում է, բայց դժվարություններ են սպասվում",
-        "summary": "Bitcoin-ը վերականգնվել է Կոնգրեսում դեմոկրատների հաղթանակից հետո, սակայն կրիպտո արդյունաբերությունը Վաշինգտոնում ավելի դժվար պայքարի է բախվում։",
-        "link": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
+        "headline": "Հոնկոնգը պահանջում է կրիպտո բորսաներից հաշվետվություն",
+        "summary": "Հոնկոնգը օրենք է ընդունել, որը պահանջում է կրիպտո բորսաներից 2027 թվականից հաճախորդների գործարքների մասին տվյալներ հաղորդել հարկային մարմիններին։",
+        "link": "https://www.coindesk.com/policy/2026/11/04/hong-kong-passes-law-requiring-crypto-exchanges-to-report-customer-transactions-to-tax-authorities",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee1f6aa8d9fba0788e1caa531b53c15fbc6174ba-4608x2880.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Samsung Wallet-ը ավելացնում է USDC-ը Solana-ում",
+        "summary": "Samsung Wallet-ի ԱՄՆ օգտատերերն այժմ կարող են գնել, պահել և ուղարկել USDC Solana ցանցում անմիջապես իրենց դրամապանակից։",
+        "link": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
         "source": "Decrypt",
-        "enTitle": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-America-decrypt-style-01-gID_7.png@png"
+        "enTitle": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-samsung-galaxy-s26-gID_7.jpg@png"
       },
       {
-        "headline": "Coinbase-ի ակտիվների մեծ մասը պաշտպանված է",
-        "summary": "Coinbase-ը հայտարարում է, որ հաճախորդների ակտիվների ավելի քան 99%-ը պահվում է անցանց cold storage-ում՝ Binance-ի 6.3 միլիարդ դոլարի հաքերային հարձակումից հետո։",
-        "link": "https://news.bitcoin.com/exchanges/coinbase-99-percent-customer-assets-cold-storage-after-binance-hack/",
-        "source": "Bitcoin News",
-        "enTitle": "Coinbase Says 99% of Customer Assets in Cold Storage After $6.3B Binance Hack",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/coinbase-says-99-of-customer-assets-in-cold-storage-after-binance-hack-768x432.png"
+        "headline": "Binance-ը դադարեցնում է SignalPlus-ի մուտքը",
+        "summary": "Binance-ը դադարեցրել է SignalPlus-ի API մուտքը անվտանգության հնարավոր խնդրի պատճառով՝ հայտարարելով, որ իր համակարգերը և օգտատերերի միջոցները պաշտպանված են։",
+        "link": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/fadd44ea64cc18b26239fc7651fefaf2d2a62fe3-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Morgan Stanley-ը թոքենիզացնում է արժեթղթերը",
-        "summary": "Morgan Stanley-ը հայտարարել է, որ ԱՄՆ բաժնետոմսերն ու գանձապետական պարտատոմսերը վերածել է թոքենիզացված ձևի՝ DTCC Tokenization Service-ի միջոցով։",
-        "link": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
-        "source": "Decrypt",
-        "enTitle": "Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-morgan-stanley-gID_7.png@png"
+        "headline": "Riot-ը խոշոր AI գործարք է կնքել",
+        "summary": "Bitcoin մայնինգի Riot ընկերությունը 28 միլիարդ դոլար արժողությամբ AI լիզինգային համաձայնագիր է կնքել Anthropic-ի հետ՝ ընդլայնելով իր գործունեությունը դեպի տվյալների կենտրոններ։",
+        "link": "https://cryptoslate.com/riots-28-billion-ai-lease-gives-anthropic-a-veto-on-voluntary-power-cuts/",
+        "source": "CryptoSlate",
+        "enTitle": "Riot’s $28 billion AI lease gives Anthropic a veto on voluntary power cuts",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/riot-anthropic-consent-lock.webp"
       },
       {
-        "headline": "Canton Coin-ը ստանում է SEC-ի հավանությունը",
-        "summary": "SEC-ի աշխատակիցները Canton Coin-ը համարում են թվային ապրանք և խորհուրդ չեն տա իրավական գործողություններ ձեռնարկել դրա թողարկման համար։",
-        "link": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
-        "source": "Decrypt",
-        "enTitle": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png"
-      },
-      {
-        "headline": "Riot-ը ընդլայնվում է AI ոլորտում",
-        "summary": "Bitcoin մայնինգի Riot ընկերության բաժնետոմսերը կտրուկ աճել են 28 միլիարդ դոլար արժողությամբ AI վարձակալության պայմանագրի շնորհիվ։",
-        "link": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Bitcoin և Ether ETF-ները ներգրավում են միջոցներ",
+        "summary": "Bitcoin և Ether ETF-ները ներգրավել են 128 միլիոն դոլար, ընդ որում Fidelity-ն առաջատար է Bitcoin ETF-ի ներհոսքերում։",
+        "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KQ5FY3D9P23X31GYKTVT1C/hi-bitcoin-miners-unaffected-by-heat-waves-still-plan-to-establish-operations-in-texas-ai-2.jpg"
+        "enTitle": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N87QAZCRG7H93QMDFANP2Q/hi-blockchain-and-elections.jpg"
       }
     ]
   }
