@@ -4249,74 +4249,74 @@
   },
   {
     "date": "2026-11-06",
-    "ts": 1793914909400,
+    "ts": 1793971705359,
     "fng": {
-      "value": 50,
-      "label": "Neutral",
-      "hy": "Չեզոք",
-      "dot": "🟡"
+      "value": 28,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
     },
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 75968,
-        "change24h": -5.22421346025574
+        "price": 75867,
+        "change24h": -4.715642822066702
       },
       {
         "label": "Ethereum",
-        "price": 2236.15,
-        "change24h": -7.5645340321326415
+        "price": 2238.12,
+        "change24h": -6.288884082348993
       }
     ],
-    "overview": "Վերջին 24 ժամվա ընթացքում կրիպտո շուկան բախվել է զգալի անկման՝ պայմանավորված Wall Street-ի տեխնոլոգիական բաժնետոմսերի վաճառքով և AI-ի հետ կապված մտավախություններով։ Միաժամանակ, նկատվել են կարևոր զարգացումներ անվտանգության ոլորտում, կարգավորող մարմինների գործողություններ և ինստիտուցիոնալ ընդունման նոր քայլեր։",
+    "overview": "Կրիպտո շուկաներում նկատվում է զգալի արտահոսք ETF-ներից, մինչդեռ կարգավորող մարմինները շարունակում են ուշադրություն դարձնել ոլորտին՝ ներդնելով նոր հարկեր և մշակելով թվային արժույթներ։ Անվտանգության հետ կապված խնդիրները ևս մնում են օրակարգում։",
     "items": [
       {
-        "headline": "Bitcoin-ի անկումը և AI-ի մտավախությունները",
-        "summary": "Bitcoin-ը իջել է $76,000-ից, քանի որ AI-ի փուչիկի մտավախությունները $2.5 տրիլիոն են ջնջել Wall Street-ից։",
-        "link": "https://cryptoslate.com/bitcoin-crashes-below-76000-as-ai-bubble-fears-wipe-2-5-trillion-from-wall-street/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitcoin crashes below $76,000 as AI bubble fears wipe $2.5 trillion from Wall Street",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-wall-street-dominoes.webp"
+        "headline": "Կրիպտո ETF-ներից զգալի արտահոսք",
+        "summary": "ԱՄՆ-ի spot կրիպտո ETF-ները հինգշաբթի օրը գրանցել են ավելի քան 540 միլիոն դոլարի զուտ արտահոսք։",
+        "link": "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873",
+        "source": "The Block",
+        "enTitle": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-06-at-11.04.48.png"
       },
       {
-        "headline": "Chainalysis-ի անվտանգության խախտում",
-        "summary": "Blockchain վերլուծական Chainalysis ընկերությունը հայտնել է, որ հաքերները մուտք են գործել իր հարթակի բոլոր օգտատերերի գաղտնաբառերի հեշերին և ակտիվ նույնականացման թոքեններին։",
-        "link": "https://news.bitcoin.com/crypto-news/chainalysis-breach-exposes-passwords-tokens-all-users/",
-        "source": "Bitcoin News",
-        "enTitle": "Chainalysis Breach Exposes Passwords and Tokens for All Users, Forcing Service Shutdowns",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2024/05/shutterstock_2395432621-768x432.jpg"
-      },
-      {
-        "headline": "ԱՄՆ Արդարադատության նախարարության AI թասք-ֆորս",
-        "summary": "ԱՄՆ Արդարադատության նախարարությունը ստեղծել է «Super Intelligence» թասք-ֆորս՝ պաշտպանվելու AI-ի չարաշահումներից։",
-        "link": "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
-        "source": "Decrypt",
-        "enTitle": "DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/DOJ-gID_7.jpg@png"
-      },
-      {
-        "headline": "Հարավային Կորեան հետաձգում է կրիպտո հարկը",
-        "summary": "Հարավային Կորեան կրկին ցանկանում է հետաձգել իր 22% կրիպտո հարկը և ներդրողներին նոր արտոնություն տրամադրել կորուստների համար։",
-        "link": "https://cryptoslate.com/south-korea-wants-to-delay-its-22-crypto-tax-again-and-give-investors-a-new-break-on-losses/",
-        "source": "CryptoSlate",
-        "enTitle": "South Korea wants to delay its 22% crypto tax again and give investors a new break on losses",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/korea-tax-deadline-anchor.webp"
-      },
-      {
-        "headline": "Թաիլանդը քրեական գործ է հարուցել Bitget-ի դեմ",
-        "summary": "Թաիլանդի արժեթղթերի կարգավորող մարմինը քրեական բողոք է ներկայացրել Bitget կրիպտո բորսայի օպերատորի դեմ՝ առանց լիցենզիայի թվային ակտիվների բիզնես վարելու համար։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/thailand-targets-bitget-criminal-complaint-imminent-ban/",
-        "source": "Bitcoin News",
-        "enTitle": "Thailand Targets Crypto Exchange Bitget With Criminal Complaint, Imminent Ban",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/thailand-targets-bitget-with-criminal-complaint-access-ban-768x432.jpg"
-      },
-      {
-        "headline": "Amundi-ն թոքենացնում է ֆոնդը Ethereum-ում",
-        "summary": "Եվրոպայի խոշորագույն ակտիվների կառավարիչ Amundi-ն Ethereum-ի վրա թոքենացրել է բաժնետոմսերի ինդեքսային ֆոնդ։",
-        "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Binance-ի հաքերները մուտք են ունեցել 8 շաբաթ",
+        "summary": "Կիբերանվտանգության ընկերությունը գնահատում է, որ Binance-ի հաքերները ունեցել են 8 շաբաթվա մուտք մինչև 6.3 միլիարդ դոլարի շահագործումը։",
+        "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6P8H9870ZQY6MMMYHJSDGZ5/hi-how-binance-plans-to-bring-tokenized-us-stocks-4.png"
+        "enTitle": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R6HFGR0ZQXJ31EX11P2NV5/hi-how-zachxbt-traced-a-31m-bitcoin-donation-to-a-flagged-wallet.jpg"
+      },
+      {
+        "headline": "Էլիզաբեթ Ուորենը կգլխավորի Սենատի բանկային հանձնաժողովը",
+        "summary": "Սենատոր Էլիզաբեթ Ուորենը, ով հայտնի է կրիպտոարժույթների նկատմամբ իր քննադատական դիրքորոշմամբ, ակնկալվում է, որ կգլխավորի Սենատի բանկային հանձնաժողովը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/elizabeth-warren-senate-banking-chair-crypto/",
+        "source": "Bitcoin News",
+        "enTitle": "Crypto’s Toughest Critic Elizabeth Warren Set to Run Senate Banking",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/07/ddunce-768x432.png"
+      },
+      {
+        "headline": "Հունաստանը հաստատել է կրիպտո շահույթների հարկը",
+        "summary": "Հունաստանը հաստատել է 10% հարկ կրիպտոարժույթների շահույթների և 15% հարկ DeFi եկամուտների վրա՝ սկսած 2027 թվականից։",
+        "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/42d4c9ccc3b896065fd01389069573b1eb1ed6cb-5229x3486.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Նախկին FBI գործակալը մեղավոր է ճանաչվել կրիպտո գողության մեջ",
+        "summary": "Նախկին FBI գործակալ Պատրիկ Յարոչը մեղավոր է ճանաչվել 35 հետաքննությունից 2.5 միլիոն դոլար արժողությամբ կրիպտոարժույթ գողանալու մեջ։",
+        "link": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+        "source": "Decrypt",
+        "enTitle": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png@png"
+      },
+      {
+        "headline": "ԵԿԲ-ն նախատեսում է թվային եվրոյի գործարկում 2029-ին",
+        "summary": "Եվրոպական Կենտրոնական Բանկը (ECB) նպատակ ունի թվային եվրոն գործարկել 2029 թվականին՝ 2027 թվականին լայնածավալ փորձնական ծրագրից հետո։",
+        "link": "https://news.bitcoin.com/crypto-news/ecb-targets-2029-digital-euro-launch-after-massive-2027-pilot/",
+        "source": "Bitcoin News",
+        "enTitle": "ECB Targets 2029 Digital Euro Launch After Massive 2027 Pilot",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/ecb-building-facade-768x432.jpg"
       }
     ]
   }
