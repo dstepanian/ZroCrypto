@@ -4249,7 +4249,7 @@
   },
   {
     "date": "2026-11-07",
-    "ts": 1794053255254,
+    "ts": 1794080684457,
     "fng": {
       "value": 25,
       "label": "Extreme Fear",
@@ -4259,64 +4259,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 75929,
-        "change24h": -0.21667503386136344
+        "price": 75698,
+        "change24h": 0.005273929107233977
       },
       {
         "label": "Ethereum",
-        "price": 2242.72,
-        "change24h": 0.07316820717041457
+        "price": 2231.8,
+        "change24h": 0.062293296083660646
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների կողմից տարբեր գործողություններով, ներառյալ ԱՄՆ Գանձապետարանի կողմից MEXC-ի արգելափակումը և Հունաստանում նոր հարկային շրջանակի հաստատումը։ Միևնույն ժամանակ, նկատվում է կրիպտոարժույթների ինտեգրման աճ ավանդական ֆինանսական համակարգերում, ինչպես օրինակ՝ Մոսկվայի բորսայում առևտրի մեկնարկը և Samsung-ի կողմից USDC-ի ներդրումը։",
+    "overview": "Կրիպտո շուկան համաշխարհային մասշտաբով զգալի կարգավորող և գործառնական փոփոխություններ է ապրում, քանի որ խոշոր բորսերը բախվում են նոր սահմանափակումների, իսկ երկրները ներդնում են հարկային նոր համակարգեր։ Անվտանգության մտահոգությունները նույնպես մնում են արդիական՝ տվյալների վերջին արտահոսքերի և բարձր մակարդակի գողությունների ֆոնին։",
     "items": [
       {
-        "headline": "ԱՄՆ Գանձապետարանը արգելափակում է MEXC-ը",
-        "summary": "ԱՄՆ Գանձապետարանը MEXC Global կրիպտո փոխանակումը կտրել է ամերիկյան ֆինանսական համակարգից՝ Իրանի, Հյուսիսային Կորեայի և Ռուսաստանի հետ կապված 16 միլիարդ դոլարի ապօրինի գործարքներին աջակցելու մեղադրանքով։",
+        "headline": "Binance-ը փակում է եվրոպական որոշ հաշիվներ",
+        "summary": "Binance-ը որոշ եվրոպական երկրների օգտատերերին հայտնել է, որ մինչև տարեվերջ իրենց հաշիվները կփակվեն, և մինչ այդ գանձվելու են վճարներ։",
+        "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "ԱՄՆ Գանձապետարանը արգելում է MEXC-ի հետ գործարքները",
+        "summary": "ԱՄՆ Գանձապետարանը MEXC կրիպտո փոխանակման հարթակը կտրել է ԱՄՆ ֆինանսական համակարգից՝ 16 միլիարդ դոլարի ապօրինի գործարքների մեղադրանքով։",
         "link": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
         "source": "Decrypt",
         "enTitle": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg@png"
       },
       {
-        "headline": "Մոսկվայի բորսան կսկսի կրիպտո առևտուրը",
-        "summary": "Մոսկվայի բորսան նախատեսում է դեկտեմբերի 1-ից գործարկել Bitcoin և Ethereum-ի առևտուրը՝ ոչ որակավորված գնորդների համար սահմանելով տարեկան 300,000 ռուբլու սահմանաչափ։",
+        "headline": "Gnosis Pay-ի տվյալների արտահոսք",
+        "summary": "Gnosis Pay-ի խախտումը բացահայտել է օգտատերերի քարտերի համարները, տնային հասցեները և կապված կրիպտո դրամապանակները։",
+        "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Նախկին FBI գործակալը գողացել է կրիպտոարժույթ",
+        "summary": "FBI-ի նախկին հակահետախուզության գործակալը մեղավոր է ճանաչվել 35 գործերով գրեթե 2.5 միլիոն դոլար արժողությամբ կրիպտոարժույթ գողանալու մեջ։",
+        "link": "https://news.bitcoin.com/security/former-fbi-agent-guilty-stealing-2-47m-crypto-35-cases/",
+        "source": "Bitcoin News",
+        "enTitle": "Former FBI Agent Pleads Guilty to Stealing $2.47M in Crypto Across 35 Cases",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/fbi-2-1-768x432.jpg"
+      },
+      {
+        "headline": "Մոսկվայի բորսան կսկսի Bitcoin և Ethereum առևտուրը",
+        "summary": "Մոսկվայի բորսան դեկտեմբերի 1-ից նախատեսում է գործարկել Bitcoin և Ethereum-ի առևտուրը՝ որոշ սահմանափակումներով ոչ որակավորված գնորդների համար։",
         "link": "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
         "source": "CryptoSlate",
-        "enTitle": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading",
+        "enTitle": "Moscow Exchange sets December 1 to launch Bitcoin and Ethereum trading",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/11/moex-one-live-lane.jpg"
       },
       {
-        "headline": "Հունաստանը հաստատում է կրիպտո հարկը",
-        "summary": "Հունաստանի խորհրդարանը հաստատել է կրիպտոարժույթների հարկման համապարփակ շրջանակ՝ սահմանելով 10% հարկ կապիտալ շահույթի և 15% հարկ Staking-ից և DeFi եկամուտների վրա։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/greece-approves-crypto-gains-tax-levy-staking-defi-income/",
-        "source": "Bitcoin News",
-        "enTitle": "Greece Approves 10% Crypto Gains Tax, 15% Levy on Staking and DeFi Income",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/greece-unsplash-768x432.png"
-      },
-      {
-        "headline": "Samsung-ը և Stripe-ը USDC-ն կբերեն հեռախոսներ",
-        "summary": "Samsung-ը համագործակցում է Stripe-ի հետ՝ USDC-ն 82 միլիոն հեռախոսների հասանելի դարձնելու համար՝ ֆինանսավորելով Samsung Pay-ի, քարտերի և ACH-ի միջոցով։",
-        "link": "https://cryptoslate.com/samsung-teams-with-stripe-to-bring-usdc-to-82m-phones/",
-        "source": "CryptoSlate",
-        "enTitle": "Samsung teams with Stripe to bring USDC to 82M phones",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/samsung-stripe-usdc-fingerprint-1280x720-1.jpg"
-      },
-      {
-        "headline": "Binance France-ը կփակի հաշիվները",
-        "summary": "Binance France-ը 2026 թվականի դեկտեմբերի 31-ին կփակի իր բոլոր հաճախորդների հաշվետվությունները և նոյեմբերի 29-ից կսկսի ամսական վճարներ գանձել անգործուն հաշիվներից։",
-        "link": "https://news.bitcoin.com/exchanges/binance-france-closes-accounts-december-31-fees/",
-        "source": "Bitcoin News",
-        "enTitle": "Binance France To Charge Idle Accounts Fees Before Shutting Them Down",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/binance-france-shutdown-768x432.jpg"
-      },
-      {
-        "headline": "Կրիպտոն՝ 401(k) կենսաթոշակային պլաններում",
-        "summary": "ԱՄՆ-ում առաջարկը, որը թույլ կտա կրիպտոարժույթները ներառել 401(k) կենսաթոշակային պլաններում, մոտենում է հաստատմանը։",
-        "link": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
-        "source": "The Block",
-        "enTitle": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/05/20250523_DJT.jpg"
+        "headline": "Հունաստանը ընդունել է կրիպտո հարկի օրենք",
+        "summary": "Հունաստանը հաստատել է կրիպտո հարկի օրենսդրություն՝ 10% շահույթի հարկով և նոր կանոններով staking-ի և DeFi եկամուտների համար։",
+        "link": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+        "source": "Decrypt",
+        "enTitle": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png"
       }
     ]
   }
