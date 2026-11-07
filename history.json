@@ -4249,74 +4249,74 @@
   },
   {
     "date": "2026-11-07",
-    "ts": 1793999390198,
+    "ts": 1794053255254,
     "fng": {
-      "value": 28,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
+      "value": 25,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
     },
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 75793,
-        "change24h": -0.20507395777442813
+        "price": 75929,
+        "change24h": -0.21667503386136344
       },
       {
         "label": "Ethereum",
-        "price": 2226.98,
-        "change24h": -0.5279288799562506
+        "price": 2242.72,
+        "change24h": 0.07316820717041457
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների զգալի քայլերով և անվտանգության մտահոգություններով։ Մի կողմից, ԱՄՆ գանձապետարանը պատժամիջոցներ է կիրառել MEXC բորսայի նկատմամբ, մյուս կողմից՝ հետ է կանչել կրիպտո փոխանցումների վերաբերյալ առաջարկը։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող մարմինների կողմից տարբեր գործողություններով, ներառյալ ԱՄՆ Գանձապետարանի կողմից MEXC-ի արգելափակումը և Հունաստանում նոր հարկային շրջանակի հաստատումը։ Միևնույն ժամանակ, նկատվում է կրիպտոարժույթների ինտեգրման աճ ավանդական ֆինանսական համակարգերում, ինչպես օրինակ՝ Մոսկվայի բորսայում առևտրի մեկնարկը և Samsung-ի կողմից USDC-ի ներդրումը։",
     "items": [
       {
-        "headline": "ԱՄՆ-ը պատժամիջոցներ է կիրառել MEXC-ի նկատմամբ",
-        "summary": "ԱՄՆ գանձապետարանը MEXC կրիպտո բորսան անջատել է ԱՄՆ ֆինանսական համակարգից՝ Իրանի, Հյուսիսային Կորեայի և Ռուսաստանի հետ կապված անօրինական գործարքների համար։",
+        "headline": "ԱՄՆ Գանձապետարանը արգելափակում է MEXC-ը",
+        "summary": "ԱՄՆ Գանձապետարանը MEXC Global կրիպտո փոխանակումը կտրել է ամերիկյան ֆինանսական համակարգից՝ Իրանի, Հյուսիսային Կորեայի և Ռուսաստանի հետ կապված 16 միլիարդ դոլարի ապօրինի գործարքներին աջակցելու մեղադրանքով։",
         "link": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
         "source": "Decrypt",
         "enTitle": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg@png"
       },
       {
-        "headline": "ԱՄՆ գանձապետարանը հետ է կանչել «travel rule»-ի առաջարկը",
-        "summary": "ԱՄՆ գանձապետարանը և Դաշնային պահուստային համակարգը հետ են կանչել կրիպտո փոխանցումների համար տեղեկատվության հավաքագրման ընդլայնման առաջարկը՝ պահպանելով գործող $3,000 շեմը։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/us-treasury-fed-abandon-plan-track-smaller-bitcoin-crypto-transfers/",
+        "headline": "Մոսկվայի բորսան կսկսի կրիպտո առևտուրը",
+        "summary": "Մոսկվայի բորսան նախատեսում է դեկտեմբերի 1-ից գործարկել Bitcoin և Ethereum-ի առևտուրը՝ ոչ որակավորված գնորդների համար սահմանելով տարեկան 300,000 ռուբլու սահմանաչափ։",
+        "link": "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
+        "source": "CryptoSlate",
+        "enTitle": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/moex-one-live-lane.jpg"
+      },
+      {
+        "headline": "Հունաստանը հաստատում է կրիպտո հարկը",
+        "summary": "Հունաստանի խորհրդարանը հաստատել է կրիպտոարժույթների հարկման համապարփակ շրջանակ՝ սահմանելով 10% հարկ կապիտալ շահույթի և 15% հարկ Staking-ից և DeFi եկամուտների վրա։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/greece-approves-crypto-gains-tax-levy-staking-defi-income/",
         "source": "Bitcoin News",
-        "enTitle": "US Treasury and Fed Abandon Plan to Track Smaller Bitcoin, Crypto Transfers",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/us-treasury-1-768x432.jpg"
+        "enTitle": "Greece Approves 10% Crypto Gains Tax, 15% Levy on Staking and DeFi Income",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/greece-unsplash-768x432.png"
       },
       {
-        "headline": "Հունաստանը հաստատել է կրիպտո հարկի օրենքը",
-        "summary": "Հունաստանը հաստատել է կրիպտո հարկի նոր օրենք՝ 10% շահույթի հարկով և 15% staking-ի ու DeFi եկամուտների համար, տարեկան մինչև €500 շահույթն ազատված է հարկից։",
-        "link": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
-        "source": "Decrypt",
-        "enTitle": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png"
+        "headline": "Samsung-ը և Stripe-ը USDC-ն կբերեն հեռախոսներ",
+        "summary": "Samsung-ը համագործակցում է Stripe-ի հետ՝ USDC-ն 82 միլիոն հեռախոսների հասանելի դարձնելու համար՝ ֆինանսավորելով Samsung Pay-ի, քարտերի և ACH-ի միջոցով։",
+        "link": "https://cryptoslate.com/samsung-teams-with-stripe-to-bring-usdc-to-82m-phones/",
+        "source": "CryptoSlate",
+        "enTitle": "Samsung teams with Stripe to bring USDC to 82M phones",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/samsung-stripe-usdc-fingerprint-1280x720-1.jpg"
       },
       {
-        "headline": "Կրիպտոարժույթները մոտ են 401(k) պլաններին",
-        "summary": "ԱՄՆ-ում առաջարկվող կանոնը, որը թույլ կտա այլընտրանքային ակտիվներ, ներառյալ կրիպտոարժույթները, մտնել 401(k) կենսաթոշակային հաշիվներ, հասել է Սպիտակ տուն։",
+        "headline": "Binance France-ը կփակի հաշիվները",
+        "summary": "Binance France-ը 2026 թվականի դեկտեմբերի 31-ին կփակի իր բոլոր հաճախորդների հաշվետվությունները և նոյեմբերի 29-ից կսկսի ամսական վճարներ գանձել անգործուն հաշիվներից։",
+        "link": "https://news.bitcoin.com/exchanges/binance-france-closes-accounts-december-31-fees/",
+        "source": "Bitcoin News",
+        "enTitle": "Binance France To Charge Idle Accounts Fees Before Shutting Them Down",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/binance-france-shutdown-768x432.jpg"
+      },
+      {
+        "headline": "Կրիպտոն՝ 401(k) կենսաթոշակային պլաններում",
+        "summary": "ԱՄՆ-ում առաջարկը, որը թույլ կտա կրիպտոարժույթները ներառել 401(k) կենսաթոշակային պլաններում, մոտենում է հաստատմանը։",
         "link": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
         "source": "The Block",
         "enTitle": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
         "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/05/20250523_DJT.jpg"
-      },
-      {
-        "headline": "Gnosis Pay-ի տվյալների արտահոսք",
-        "summary": "Gnosis Pay կրիպտո քարտի մատակարարը հայտարարել է տվյալների արտահոսքի մասին, որի արդյունքում հասանելի են դարձել հաճախորդների տվյալները, սակայն միջոցները մնացել են անվտանգ։",
-        "link": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
-        "source": "Decrypt",
-        "enTitle": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg@png"
-      },
-      {
-        "headline": "Apple-ը և Meta-ն մերժել են OKX-ի պլանները",
-        "summary": "Apple-ը և Meta-ն մերժել են OKX-ի և ICE-ի թոքենացված բաժնետոմսերի պլանները՝ թողնելով կրիպտո ընկերություններին որպես դիտարկման ենթակա։",
-        "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0ce426499b0ff515dc82a647f9da45b765043ee8-7508x5103.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       }
     ]
   }
