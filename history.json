@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-10",
-    "ts": 1789066186260,
-    "fng": {
-      "value": 69,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 77115,
-        "change24h": -1.7682519939342085
-      },
-      {
-        "label": "Ethereum",
-        "price": 2460.72,
-        "change24h": -1.0694310859761547
-      }
-    ],
-    "overview": "Կրիպտո շուկան այսօր ցույց է տվել ինչպես զարգացման, այնպես էլ մարտահրավերների խառը պատկեր։ Մինչդեռ խոշոր ֆինանսական հաստատությունները շարունակում են ներդրումներ կատարել և ընդունել թվային ակտիվները, կարգավորող մարմինների գործողությունները և անվտանգության հետ կապված միջադեպերը մնում են հիմնական մտահոգություն։",
-    "items": [
-      {
-        "headline": "Nasdaq-ը 100 միլիոն դոլար է ներդնում Kraken-ում",
-        "summary": "Nasdaq Ventures-ը համաձայնել է 100 միլիոն դոլար ներդնել Kraken-ի մայր ընկերություն Payward-ում՝ ընդլայնելով նրանց համագործակցությունը թոքենացված բաժնետոմսերի ենթակառուցվածքի ոլորտում։",
-        "link": "https://news.bitcoin.com/crypto-news/nasdaq-drops-100m-on-kraken-parent-in-tokenized-stock-power-play/",
-        "source": "Bitcoin News",
-        "enTitle": "Nasdaq Drops $100M on Kraken Parent in Tokenized Stock Power Play",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/nasdaq-drops-100m-on-kraken-parent-in-tokenized-stock-power-play-768x432.png"
-      },
-      {
-        "headline": "Liquid Network-ը վերսկսում է բլոկների արտադրությունը",
-        "summary": "Liquid ցանցը վերսկսել է բլոկների արտադրությունը 4,000 BTC-ի շահագործումից հետո, սակայն գործարքները և peg գործողությունները դեռևս կասեցված են վերականգնման աշխատանքների պատճառով։",
-        "link": "https://news.bitcoin.com/crypto-news/liquid-network-resumes-block-production-after-4000-btc-exploit/",
-        "source": "Bitcoin News",
-        "enTitle": "Liquid Network Resumes Block Production After 4,000 BTC Exploit",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/liquid-x-post-768x432.jpg"
-      },
-      {
-        "headline": "Հնդկաստանը արգելափակում է 15 կրիպտո հավելված",
-        "summary": "Հնդկաստանը քայլեր է ձեռնարկում արգելափակելու 15 կրիպտո հավելվածներ, ինչը կարող է հանգեցնել օգտատերերի հաշիվների հանկարծակի արգելափակման։",
-        "link": "https://cryptoslate.com/india-moves-to-block-15-crypto-apps-leaving-users-facing-sudden-account-lockout/",
-        "source": "CryptoSlate",
-        "enTitle": "India moves to block 15 crypto apps, leaving users facing sudden account lockout",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/india-crypto-access-stop.jpg"
-      },
-      {
-        "headline": "Մեծ Բրիտանիայի Լորդերի պալատը աջակցում է թվային ակտիվների ռազմավարությանը",
-        "summary": "Մեծ Բրիտանիայի Լորդերի պալատը պարտադիր թվային ակտիվների ռազմավարության օգտին է, որը կպահանջի Գանձապետարանից մշակել կրիպտոակտիվները, stablecoin-ները և թոքենացված արժեթղթերը ներառող ռազմավարություն։",
-        "link": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "UK House of Lords backs mandatory digital asset strategy over Labour position",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M265GXQKJCP1QSNW42GTAMVF/hi-uk-and-crypto-new.png"
-      },
-      {
-        "headline": "MoneyGram-ը գործարկում է Visa stablecoin քարտ",
-        "summary": "MoneyGram-ը գործարկում է Visa stablecoin-ով ապահովված դեբետային քարտ՝ ընդլայնելով բլոկչեյնի վրա հիմնված վճարումները և թույլ տալով հաճախորդներին ծախսել stablecoin-ով ապահովված մնացորդից։",
-        "link": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25YXEVJ4DH3H58PM7AA0KCM/hi-paystand-launches-stablecoin-for-enterprise-payments33331-960x640.webp"
-      },
-      {
-        "headline": "Bitcoin ֆոնդը կորցրել է իր աջակցության 36%-ը",
-        "summary": "Nomic-ի սխալի պատճառով Bitcoin ֆոնդի աջակցության մեկ երրորդը աննկատ կորել է երկու ամսվա ընթացքում, ինչը հանգեցրել է Alloyed BTC-ի 36% աջակցության բացի։",
-        "link": "https://news.bitcoin.com/security/bitcoin-fund-lost-36-of-its-backing-nobody-noticed-for-74-days/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Fund Lost 36% of Its Backing, Nobody Noticed for 74 Days",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-fund-lost-36-of-its-backing-nobody-noticed-for-74-days-768x432.png"
-      }
-    ]
-  },
-  {
     "date": "2026-09-11",
     "ts": 1789152779690,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "The Block",
         "enTitle": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
         "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Neon-Liquid-Bitcoin-and-Ethereum-Flow_clean.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-09",
+    "ts": 1794168277640,
+    "fng": {
+      "value": 28,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 75849,
+        "change24h": 0.1499011418067645
+      },
+      {
+        "label": "Ethereum",
+        "price": 2229.77,
+        "change24h": -0.15654026739398283
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո նորությունները գերակշտրում են անվտանգության խախտումներով, որոնք ազդում են Lightning Network-ի և Keplr Wallet-ի նման հիմնական հարթակների վրա, ինչպես նաև ԱՄՆ Գանձապետարանի կարգավորող գործողություններով, որոնք ազդում են MEXC-ի և Binance France-ի նման բորսաների վրա։ Կան նաև կարևոր կադրային փոփոխություններ Binance-ում։",
+    "items": [
+      {
+        "headline": "Lightning Network-ի անվտանգության տագնապ",
+        "summary": "LNbits-ը՝ Lightning Network-ի բաց կոդով դրամապանակի պլատֆորմը, արտակարգ անջատման նախազգուշացում է տվել անվտանգության բազմաթիվ խախտումների պատճառով։",
+        "link": "https://news.bitcoin.com/security/lightning-network-security-scare-forces-lnbits-servers-offline/",
+        "source": "Bitcoin News",
+        "enTitle": "Lightning Network Security Scare Forces LNbits Servers Offline",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/lightning-network-security-scare-forces-lnbits-servers-offline-768x432.png"
+      },
+      {
+        "headline": "Keplr Wallet-ի խոցելիություն և գողություններ",
+        "summary": "Web3Auth-ի անվտանգության խոցելիությունը ստիպել է Keplr դրամապանակի մատակարարին կասեցնել Google և Apple մուտքերը՝ անձնական բանալիների բացահայտման պատճառով, ինչը հանգեցրել է ավելի քան $6 միլիոնի չարտոնված փոխանցումների։",
+        "link": "https://news.bitcoin.com/security/keplr-wallet-breach-triggers-6-million-in-transfers-across-cosmos/",
+        "source": "Bitcoin News",
+        "enTitle": "Keplr Wallet Breach Triggers $6 Million in Transfers Across Cosmos",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/keplr-wallet-breach-triggers-6-million-in-transfers-across-cosmos-768x432.png"
+      },
+      {
+        "headline": "OKX-ը սառեցնում է MEXC-ի ավանդները",
+        "summary": "OKX-ը սկսել է սառեցնել MEXC-ի հետ կապված հասցեներից ավանդները այն բանից հետո, երբ ԱՄՆ Գանձապետարանը MEXC-ին սև ցուցակում է ներառել՝ պատժամիջոցների ենթարկված կազմակերպությունների հետ ավելի քան $16 միլիարդի անօրինական ֆինանսական գործունեություն մշակելու համար։",
+        "link": "https://news.bitcoin.com/exchanges/okx-freezes-mexc-user-deposits-following-strict-fincen-order/",
+        "source": "Bitcoin News",
+        "enTitle": "OKX Freezes MEXC User Deposits Following Strict FinCEN Order",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/mexc-logo-768x432.jpg"
+      },
+      {
+        "headline": "Binance France-ը փակում է հաշիվները",
+        "summary": "Binance France-ը հայտարարել է, որ դեկտեմբերի 31-ից կփակի իր օգտատերերի հաշիվները, իսկ փոխանակման վրա մնացած ցանկացած ակտիվի համար նոյեմբերի 29-ից կգանձվեն ամսական վճարներ։",
+        "link": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6XKMA4GCCY02X2C5H5XBVBP/hi-consortium-open-doors-binance.jpg"
+      },
+      {
+        "headline": "Binance-ի ֆինանսական տնօրենի հրաժարականը",
+        "summary": "Binance-ի ֆինանսական տնօրեն Kaiser Ng-ը հրաժարական է տվել՝ նոր ձեռնարկություն սկսելու համար, ինչը համա-գործադիր տնօրեն Yi He-ի խոսքերով՝ վեց ամիս առաջ պլանավորված անցում էր։",
+        "link": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+        "source": "The Block",
+        "enTitle": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Grayscale-Crypto-Leaders-with-Binance-Gold_clean.png"
+      },
+      {
+        "headline": "ԱՄՆ պատժամիջոցները խարդախ ցանցերի դեմ",
+        "summary": "ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել 41 ընկերությունների նկատմամբ, որոնք մեղադրվում են Prince Group-ի խարդախ ցանցի գործունեությունն ապահովելու մեջ։",
+        "link": "https://cryptoslate.com/us-sanctions-hit-41-companies-accused-of-keeping-prince-groups-scam-network-running/",
+        "source": "CryptoSlate",
+        "enTitle": "US sanctions hit 41 companies accused of keeping Prince Group’s scam network running",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/prince-ownership-scrutiny.webp"
       }
     ]
   }
