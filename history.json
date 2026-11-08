@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-09",
-    "ts": 1788980191970,
-    "fng": {
-      "value": 66,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 78480,
-        "change24h": 0.14876973186562106
-      },
-      {
-        "label": "Ethereum",
-        "price": 2485.58,
-        "change24h": 0.10252493891217392
-      }
-    ],
-    "overview": "Օրը նշանավորվել է կրիպտոարժույթների կարգավորման և ինստիտուցիոնալ որդեգրման զգալի զարգացումներով, ինչպես նաև խոշոր կորպորատիվ վերակազմավորումներով և նոր ֆինանսական նախաձեռնություններով։",
-    "items": [
-      {
-        "headline": "MetaMask-ը առանձնանում է Consensys-ից",
-        "summary": "Consensys-ը հայտարարել է երկու անկախ ընկերությունների բաժանման մասին, որի արդյունքում MetaMask-ը կդառնա առանձին սպառողական դրամապանակի հարթակ։",
-        "link": "https://news.bitcoin.com/crypto-news/metamask-breaks-free-from-consensys-as-2027-ipo-buzz-heats-up/",
-        "source": "Bitcoin News",
-        "enTitle": "Metamask Breaks Free From Consensys as 2027 IPO Buzz Heats Up",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/metamask-breaks-free-from-consensys-as-2027-ipo-buzz-heats-up-768x432.png"
-      },
-      {
-        "headline": "TRM Labs-ի արժեքը կրկնապատկվել է",
-        "summary": "Բլոկչեյն հետախուզական TRM Labs ընկերությունը Series C ֆինանսավորման փուլում կրկնապատկել է իր գնահատված արժեքը՝ հասնելով 2 միլիարդ դոլարի։",
-        "link": "https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "TRM Labs doubles valuation to $2B in Series C expansion",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23JCY6CREQKFY9A4SRB13GG/hi-institutional-trading-and-cryptocurrency-industry-investment.png"
-      },
-      {
-        "headline": "U.S. Bank-ը փորձարկում է stablecoin-ը Stellar-ում",
-        "summary": "U.S. Bank-ը փորձարկել է իր սեփական USBDC stablecoin-ը՝ իր հյուսիսամերիկյան և եվրոպական կառույցների միջև անդրսահմանային գործարքներ կատարելով հանրային Stellar բլոկչեյնի վրա։",
-        "link": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-swift-2.png"
-      },
-      {
-        "headline": "Tether-ը $400 մլն ֆոնդ է ստեղծում",
-        "summary": "Tether-ը Fasanara-ի հետ համատեղ գործարկել է 400 միլիոն դոլար արժողությամբ մասնավոր վարկային ֆոնդ՝ նպատակ ունենալով ընդլայնել իր ազդեցությունը մասնավոր վարկավորման ոլորտում։",
-        "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Tether pushes into private credit with $400 million fund with Fasanara",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfd80702a660a5deef3d056a315228038910dde5-1405x790.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել Xinbi-ի դեմ",
-        "summary": "ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել Xinbi Guarantee կիբերխարդախության կենտրոնի դեմ՝ մեղադրելով այն կրիպտոարժույթների գործարքների միջոցով հանցավոր ցանցերին ծառայություններ մատուցելու մեջ։",
-        "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/5b751c64af19824fc862118663629188f655c38e-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Գերմանիան կրիպտո շահույթի հարկ է սահմանում",
-        "summary": "Գերմանիայի ֆինանսների նախարարությունը նախագիծ է մշակել՝ 2027 թվականից կրիպտոարժույթների շահույթի վրա 25% հարկ սահմանելու համար, որը կազդի ապագա գնորդների վրա։",
-        "link": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
-        "source": "Decrypt",
-        "enTitle": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/cryptocurrency-world-decrypt-style-gID_7.jpg@png"
-      }
-    ]
-  },
-  {
     "date": "2026-09-10",
     "ts": 1789066186260,
     "fng": {
@@ -4317,6 +4244,79 @@
         "source": "Decrypt",
         "enTitle": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
         "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-08",
+    "ts": 1794140896391,
+    "fng": {
+      "value": 28,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 75879,
+        "change24h": -0.08010091039514287
+      },
+      {
+        "label": "Ethereum",
+        "price": 2237.13,
+        "change24h": -0.2252109878161338
+      }
+    ],
+    "overview": "Այսօր կրիպտո շուկան նշանավորվում է կարգավորող մարմինների զգալի գործողություններով և կորպորատիվ զարգացումներով, ինչպես նաև Bitcoin ETF-ների հոսքերի նկատելի անկումով։ Աճում է ուշադրությունը կրիպտոյի անօրինական օգտագործման դեմ պայքարի և անվտանգության խոցելիությունների լուծման վրա։",
+    "items": [
+      {
+        "headline": "Binance-ի ֆինանսական տնօրենի հրաժարականը",
+        "summary": "Binance-ի ֆինանսական տնօրեն Kaiser Ng-ն հեռանում է ընկերությունից՝ նախատեսված անցումային պլանի համաձայն։",
+        "link": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+        "source": "The Block",
+        "enTitle": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Grayscale-Crypto-Leaders-with-Binance-Gold_clean.png"
+      },
+      {
+        "headline": "ԱՄՆ Գանձապետարանը թիրախավորում է MEXC-ը",
+        "summary": "ԱՄՆ Գանձապետարանը քայլեր է ձեռնարկում MEXC կրիպտո փոխանակումը դադարեցնելու ուղղությամբ՝ ենթադրյալ 16 միլիարդ դոլարի անօրինական հոսքերի համար։",
+        "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/9b6c50614a95b8691bb96a1027e2c050c8f9b64c-960x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Խոշոր ընկերությունները մերժում են OKX-ICE-ի թոքենիզացիան",
+        "summary": "Apple-ի և Meta-ի առարկությունները նշանակում են, որ ԱՄՆ-ի յոթ խոշորագույն տեխնոլոգիական ընկերություններն էլ խնդրել են իրենց բաժնետոմսերը հեռու պահել OKX-ICE-ի նախատեսված հարթակից։",
+        "link": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
+        "source": "Decrypt",
+        "enTitle": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png"
+      },
+      {
+        "headline": "ԵՄ-ն ստեղծում է կրիպտո աշխատանքային խումբ",
+        "summary": "ԵՄ-ն հատուկ կրիպտո աշխատանքային խումբ է ստեղծում՝ ռուսական խուսափումները արգելափակելու համար՝ ուղղված թվային ակտիվների միջոցով պատժամիջոցների շրջանցմանը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/eu-deploys-dedicated-crypto-task-force-to-block-russian-evasion/",
+        "source": "Bitcoin News",
+        "enTitle": "EU Deploys Dedicated Crypto Task Force to Block Russian Evasion",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/tenth-high-level-meeting-on-union-restrictive-measures-768x432.jpg"
+      },
+      {
+        "headline": "CZ-ն զգուշացնում է AI-ի մասին",
+        "summary": "CZ-ն զգուշացրել է, որ AI-ն արագացնում է կիբերհարձակումները ավելի արագ, քան կրիպտո ընկերությունները կարող են ամրապնդել պաշտպանությունը։",
+        "link": "https://news.bitcoin.com/featured/cz-issues-ai-warning-following-binance-hack-strc-repegs-and-more-weekly-recap/",
+        "source": "Bitcoin News",
+        "enTitle": "CZ Issues AI Warning Following Binance Hack, STRC Repegs, And More – Weekly Recap",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/cz-issues-ai-warning-following-binance-hack-strc-repegs-and-more--weekly-recap-768x432.jpg"
+      },
+      {
+        "headline": "Bitcoin ETF-ների բացասական հոսքեր",
+        "summary": "Bitcoin ETF-ները 2026 թվականին բացասական են դարձել՝ 1.28 միլիարդ դոլարի արտահոսքի շաբաթից հետո, ինչը ամենավատն է հունիսից ի վեր։",
+        "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+        "source": "The Block",
+        "enTitle": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Neon-Liquid-Bitcoin-and-Ethereum-Flow_clean.png"
       }
     ]
   }
