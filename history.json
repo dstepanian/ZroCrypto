@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-11",
-    "ts": 1789152779690,
-    "fng": {
-      "value": 56,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 77056,
-        "change24h": -0.12510184176436567
-      },
-      {
-        "label": "Ethereum",
-        "price": 2540.54,
-        "change24h": 3.110413340998961
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ԱՄՆ-ի գնաճի տվյալների հրապարակմամբ, որոնք առաջացրել են Bitcoin-ի գնի անկայունություն։ Միաժամանակ, դիտվել են Bitcoin ETF-ներից զգալի արտահոսքեր, մինչդեռ ինստիտուցիոնալ ներդրումներն ու անվտանգության հետ կապված խնդիրները շարունակում են մնալ ուշադրության կենտրոնում։",
-    "items": [
-      {
-        "headline": "Bitcoin-ը արձագանքում է գնաճի տվյալներին",
-        "summary": "ԱՄՆ-ի սպառողական գների ինդեքսի (CPI) տվյալների հրապարակումից հետո Bitcoin-ի գինը կարճ ժամանակով մոտեցավ $80,000-ին, սակայն անկայուն առևտուրը հանգեցրեց ավելի քան $732 միլիոնի լիկվիդացիաների։",
-        "link": "https://news.bitcoin.com/market-updates/bitcoin-price-spikes-near-80k-as-cpi-matches-forecasts/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Price Spikes Near $80K as CPI Matches Forecasts",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-price-chart-768x432.jpg"
-      },
-      {
-        "headline": "Bitcoin ETF-ներից զգալի արտահոսքեր",
-        "summary": "Bitcoin ETF-ները գրանցել են $282.56 միլիոնի զուտ արտահոսք մեկ օրում, շարունակելով երեք օրվա անկումը, քանի որ Bitcoin-ը առևտուր էր անում $77,000-ի մոտ։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/ark-leads-bitcoin-etf-283m-selloff-as-xrp-funds-add-5-14m/",
-        "source": "Bitcoin News",
-        "enTitle": "ARK Leads Bitcoin ETF $283M Selloff as XRP Funds Add $5.14M",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/ark-leads-bitcoin-etf-283m-selloff-as-xrp-funds-add-5-14m-768x432.jpg"
-      },
-      {
-        "headline": "Blockstream-ը հրաժարվում է փրկագին վճարել",
-        "summary": "Blockstream-ը հրաժարվել է փրկագին վճարել Liquid Network-ից գողացված մոտ 4,000 BTC-ի մնացած 598.5 BTC-ի դիմաց՝ անվանելով այն գողություն։",
-        "link": "https://news.bitcoin.com/crypto-news/return-the-bitcoin-blockstream-draws-line-after-4000-btc-hack/",
-        "source": "Bitcoin News",
-        "enTitle": "‘Return the Bitcoin’: Blockstream Draws Line After 4,000 BTC Hack",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/return-the-bitcoin-blockstream-draws-line-after-4000-btc-hack-768x432.png"
-      },
-      {
-        "headline": "Nasdaq-ը խորացնում է Kraken-ի հետ կապերը",
-        "summary": "Nasdaq-ը նախատեսում է $100 միլիոն ներդրում կատարել Payward-ում (Kraken-ի մայր ընկերություն)՝ ընդլայնելով իր հարաբերությունները և շուկայի հսկողությունը։",
-        "link": "https://cryptoslate.com/nasdaq-deepens-kraken-ties-with-proposed-100-million-payward-investment/",
-        "source": "CryptoSlate",
-        "enTitle": "Nasdaq deepens Kraken ties with proposed $100 million Payward investment",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/nasdaq-kraken-token-bridge.jpg"
-      },
-      {
-        "headline": "Circle-ի Noble-ի փակումը ազդում է USDC-ի վրա",
-        "summary": "Circle-ի Noble-ի փակումը Cosmos էկոհամակարգում ստիպում է $92 միլիոն արժողությամբ USDC-ի տերերին արագ տեղափոխել իրենց միջոցները։",
-        "link": "https://cryptoslate.com/circles-noble-shutdown-leaves-cosmos-racing-to-move-92-million-in-usdc/",
-        "source": "CryptoSlate",
-        "enTitle": "Circle’s Noble shutdown leaves Cosmos racing to move $92 million in USDC",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/noble-usdc-departing-ferry.jpg"
-      },
-      {
-        "headline": "Robinhood Crypto-ի առևտրի ծավալի աճ",
-        "summary": "Robinhood-ի կրիպտո առևտրի ծավալը օգոստոսին աճել է 61%-ով՝ ցույց տալով կրիպտո առևտրի վերականգնում։",
-        "link": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august",
-        "source": "Decrypt",
-        "enTitle": "Robinhood Crypto Trading Volume Jumps 61% in August",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png"
-      }
-    ]
-  },
-  {
     "date": "2026-09-12",
     "ts": 1789235939523,
     "fng": {
@@ -4309,6 +4236,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "EU taps industry to set standards for tokenized securities",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M702QB3WBZE6GCA3TM7M3NJ9/hi-markets-in-crypto-assets-regulation-mica-explained.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "ts": 1794268478472,
+    "fng": {
+      "value": 29,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 75220,
+        "change24h": 0.6946805445171452
+      },
+      {
+        "label": "Ethereum",
+        "price": 2131.41,
+        "change24h": 0.38308963281049635
+      }
+    ],
+    "overview": "Կրիպտոարժույթների շուկայում շարունակվում է ինստիտուցիոնալ ընդունումը և նորարարությունները, հատկապես թոքենիզացիայի և stablecoin-ների ոլորտում: Միաժամանակ, անվտանգության հետ կապված մարտահրավերները, ինչպիսիք են հաքերային հարձակումներից ստացված միջոցների լվացումը, մնում են արդիական:",
+    "items": [
+      {
+        "headline": "Coinbase-ը ստացել է դաշնային վստահության հավանություն",
+        "summary": "Coinbase-ը ստացել է դաշնային վստահության բանկի վերջնական հավանություն և ընդլայնել է իր համագործակցությունը PNC Bank-ի հետ՝ USDC վճարումների համար:",
+        "link": "https://news.bitcoin.com/finance/coinbase-lands-federal-trust-approval-expands-pnc-stablecoin-deal/",
+        "source": "Bitcoin News",
+        "enTitle": "Coinbase Lands Federal Trust Approval and Expands PNC Stablecoin Deal",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/coinbase-lands-federal-trust-approval-and-expands-pnc-stablecoin-deal-768x432.png"
+      },
+      {
+        "headline": "Avalanche-ը համագործակցում է NYSE-ի հետ",
+        "summary": "Avalanche-ի AVAX թոքենը զգալիորեն աճել է այն բանից հետո, երբ NYSE-ն ընտրել է իր բլոկչեյնը՝ թոքենիզացված բաժնետոմսերի առևտրային հարթակի հաշվարկները սատարելու համար:",
+        "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70J2ENA2XKCHW53PWMMZG5X/hi-avalanche-avax-ecosystem.png"
+      },
+      {
+        "headline": "Հյուսիսկորեական հաքերները լվանում են միջոցներ",
+        "summary": "Հյուսիսկորեական հաքերները դիմել են meme coins-ի՝ Binance-ի մոտ 6.3 միլիարդ դոլարի հաքերային հարձակումից ստացված միջոցները քողարկելու համար:",
+        "link": "https://news.bitcoin.com/security/north-korea-binance-hack-takes-strange-turn-meme-coins/",
+        "source": "Bitcoin News",
+        "enTitle": "North Korea’s $6.3B Binance Hack Takes a Strange Turn With Meme Coins",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/elliptic-north-korea-binance-hack-meme-coins-768x432.jpg"
+      },
+      {
+        "headline": "Vitalik Buterin-ը ETH-ի արժեքի մասին",
+        "summary": "Ethereum-ի համահիմնադիր Vitalik Buterin-ը հայտարարել է, որ ETH-ի արժեքը գալիս է կայունությունից, այլ ոչ թե վճարների այրումից՝ նշելով դրա ապակենտրոնացումը, գրաքննության դիմադրությունը և անվտանգությունը:",
+        "link": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability",
+        "source": "Decrypt",
+        "enTitle": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/vitalik-buterin-ethereum-decrypt-style-05-1-gID_7.jpg@png"
+      },
+      {
+        "headline": "MARA-ն զգալի շահույթ է գրանցել",
+        "summary": "MARA-ն երրորդ եռամսյակում գրանցել է 634.4 միլիոն դոլար զուտ շահույթ՝ Bitcoin-ի շահույթների հաշվին, այնուհետև վաճառել է 13,597 BTC՝ 750 միլիոն դոլարի վարկերը մարելու համար:",
+        "link": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
+        "source": "The Block",
+        "enTitle": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260428_Mara_News.jpg"
+      },
+      {
+        "headline": "Amundi-ն եվրոպական բաժնետոմսերը տեղադրում է Ethereum-ում",
+        "summary": "Amundi-ն հայտարարել է եվրոպական բաժնետոմսերի միավորների թոքենիզացիայի մասին Ethereum-ի վրա, սակայն ներդրողների մուտքի, փոխանցման և մարման պայմանները դեռևս չեն հստակեցվել:",
+        "link": "https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/",
+        "source": "CryptoSlate",
+        "enTitle": "Amundi puts European stocks on Ethereum, but access terms stay hidden",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/amundi-fund-unit-viewfinder.webp"
       }
     ]
   }
