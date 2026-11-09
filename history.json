@@ -4249,9 +4249,9 @@
   },
   {
     "date": "2026-11-09",
-    "ts": 1794168277640,
+    "ts": 1794235405494,
     "fng": {
-      "value": 28,
+      "value": 29,
       "label": "Fear",
       "hy": "Վախ",
       "dot": "🟠"
@@ -4259,64 +4259,56 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 75849,
-        "change24h": 0.1499011418067645
+        "price": 74320,
+        "change24h": -2.1206799242406404
       },
       {
         "label": "Ethereum",
-        "price": 2229.77,
-        "change24h": -0.15654026739398283
+        "price": 2117.96,
+        "change24h": -5.346004323530792
       }
     ],
-    "overview": "Այսօրվա կրիպտո նորությունները գերակշտրում են անվտանգության խախտումներով, որոնք ազդում են Lightning Network-ի և Keplr Wallet-ի նման հիմնական հարթակների վրա, ինչպես նաև ԱՄՆ Գանձապետարանի կարգավորող գործողություններով, որոնք ազդում են MEXC-ի և Binance France-ի նման բորսաների վրա։ Կան նաև կարևոր կադրային փոփոխություններ Binance-ում։",
+    "overview": "Այսօրվա կրիպտո շուկայի հիմնական թեմաներն են ինստիտուցիոնալ ընդունումը և թոքենիզացիայի զարգացումները։ Կարգավորող մարմինների կողմից հստակեցումները նույնպես կարևոր դեր են խաղում։",
     "items": [
       {
-        "headline": "Lightning Network-ի անվտանգության տագնապ",
-        "summary": "LNbits-ը՝ Lightning Network-ի բաց կոդով դրամապանակի պլատֆորմը, արտակարգ անջատման նախազգուշացում է տվել անվտանգության բազմաթիվ խախտումների պատճառով։",
-        "link": "https://news.bitcoin.com/security/lightning-network-security-scare-forces-lnbits-servers-offline/",
+        "headline": "NYSE-ը կօգտագործի Avalanche-ը",
+        "summary": "NYSE-ը ընտրել է Avalanche տեխնոլոգիան՝ իր թոքենիզացված արժեթղթերի առևտրի հարթակի համար, որը կգործի շուրջօրյա։",
+        "link": "https://news.bitcoin.com/finance/nyse-chooses-avalanche-power-24-7-tokenized-stock-trades/",
         "source": "Bitcoin News",
-        "enTitle": "Lightning Network Security Scare Forces LNbits Servers Offline",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/lightning-network-security-scare-forces-lnbits-servers-offline-768x432.png"
+        "enTitle": "NYSE Chooses Avalanche to Power 24/7 Tokenized Stock Trades",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/nyse-facade-768x432.jpg"
       },
       {
-        "headline": "Keplr Wallet-ի խոցելիություն և գողություններ",
-        "summary": "Web3Auth-ի անվտանգության խոցելիությունը ստիպել է Keplr դրամապանակի մատակարարին կասեցնել Google և Apple մուտքերը՝ անձնական բանալիների բացահայտման պատճառով, ինչը հանգեցրել է ավելի քան $6 միլիոնի չարտոնված փոխանցումների։",
-        "link": "https://news.bitcoin.com/security/keplr-wallet-breach-triggers-6-million-in-transfers-across-cosmos/",
+        "headline": "Strategy-ն ավելացրել է Bitcoin-ի իր պահուստները",
+        "summary": "Strategy ընկերությունը ձեռք է բերել ևս 1,036 BTC՝ իր ընդհանուր Bitcoin պահուստները հասցնելով 850,364-ի։",
+        "link": "https://news.bitcoin.com/crypto-news/strategy-scoops-up-1036-btc-as-bitcoin-holdings-reach-850364/",
         "source": "Bitcoin News",
-        "enTitle": "Keplr Wallet Breach Triggers $6 Million in Transfers Across Cosmos",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/keplr-wallet-breach-triggers-6-million-in-transfers-across-cosmos-768x432.png"
+        "enTitle": "Strategy Scoops up 1,036 BTC as Bitcoin Holdings Reach 850,364",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/michael-saylor-1-2-768x432.jpg"
       },
       {
-        "headline": "OKX-ը սառեցնում է MEXC-ի ավանդները",
-        "summary": "OKX-ը սկսել է սառեցնել MEXC-ի հետ կապված հասցեներից ավանդները այն բանից հետո, երբ ԱՄՆ Գանձապետարանը MEXC-ին սև ցուցակում է ներառել՝ պատժամիջոցների ենթարկված կազմակերպությունների հետ ավելի քան $16 միլիարդի անօրինական ֆինանսական գործունեություն մշակելու համար։",
-        "link": "https://news.bitcoin.com/exchanges/okx-freezes-mexc-user-deposits-following-strict-fincen-order/",
-        "source": "Bitcoin News",
-        "enTitle": "OKX Freezes MEXC User Deposits Following Strict FinCEN Order",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/mexc-logo-768x432.jpg"
+        "headline": "Solana-ն կունենա թոքենիզացված բաժնետոմսերի հարթակ",
+        "summary": "Solana բլոկչեյնը պատրաստվում է ընդունել իր առաջին թոքենիզացված բաժնետոմսերի առևտրի հարթակը՝ SEC-ի շրջանակներում։",
+        "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Binance France-ը փակում է հաշիվները",
-        "summary": "Binance France-ը հայտարարել է, որ դեկտեմբերի 31-ից կփակի իր օգտատերերի հաշիվները, իսկ փոխանակման վրա մնացած ցանկացած ակտիվի համար նոյեմբերի 29-ից կգանձվեն ամսական վճարներ։",
-        "link": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Coinbase-ը ստացել է դաշնային լիցենզիա",
+        "summary": "Coinbase-ը ստացել է OCC-ի վերջնական հավանությունը դաշնային վստահության բանկային կանոնադրության համար՝ ընդլայնելով իր ինստիտուցիոնալ ծառայությունները։",
+        "link": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter",
+        "source": "Decrypt",
+        "enTitle": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png"
+      },
+      {
+        "headline": "ԵՄ-ն սահմանում է թոքենիզացված արժեթղթերի չափորոշիչներ",
+        "summary": "Եվրոպական Միությունը ներգրավում է արդյունաբերությանը՝ թոքենիզացված արժեթղթերի համար ստանդարտներ մշակելու նպատակով։",
+        "link": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Binance France emails announce closure of its users’ accounts on Dec. 31",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6XKMA4GCCY02X2C5H5XBVBP/hi-consortium-open-doors-binance.jpg"
-      },
-      {
-        "headline": "Binance-ի ֆինանսական տնօրենի հրաժարականը",
-        "summary": "Binance-ի ֆինանսական տնօրեն Kaiser Ng-ը հրաժարական է տվել՝ նոր ձեռնարկություն սկսելու համար, ինչը համա-գործադիր տնօրեն Yi He-ի խոսքերով՝ վեց ամիս առաջ պլանավորված անցում էր։",
-        "link": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
-        "source": "The Block",
-        "enTitle": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Grayscale-Crypto-Leaders-with-Binance-Gold_clean.png"
-      },
-      {
-        "headline": "ԱՄՆ պատժամիջոցները խարդախ ցանցերի դեմ",
-        "summary": "ԱՄՆ Գանձապետարանը պատժամիջոցներ է կիրառել 41 ընկերությունների նկատմամբ, որոնք մեղադրվում են Prince Group-ի խարդախ ցանցի գործունեությունն ապահովելու մեջ։",
-        "link": "https://cryptoslate.com/us-sanctions-hit-41-companies-accused-of-keeping-prince-groups-scam-network-running/",
-        "source": "CryptoSlate",
-        "enTitle": "US sanctions hit 41 companies accused of keeping Prince Group’s scam network running",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/prince-ownership-scrutiny.webp"
+        "enTitle": "EU taps industry to set standards for tokenized securities",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M702QB3WBZE6GCA3TM7M3NJ9/hi-markets-in-crypto-assets-regulation-mica-explained.jpg"
       }
     ]
   }
