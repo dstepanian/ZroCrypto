@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-12",
-    "ts": 1789235939523,
-    "fng": {
-      "value": 63,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 77186,
-        "change24h": -0.46279361533952074
-      },
-      {
-        "label": "Ethereum",
-        "price": 2525.34,
-        "change24h": -1.6279485730804388
-      }
-    ],
-    "overview": "Օրվա նորությունները կարևոր զարգացումներ են ընդգծում կրիպտո ոլորտում, ներառյալ տվյալների լուրջ արտահոսքը, Bitcoin-ի և Ether ETF-ների շուկայական դինամիկայի փոփոխությունները և թոքենիզացված ավանդների կարգավորման նկատելի առաջընթացը։ Քաղաքական ազդեցությունը կրիպտո միլիարդատերերի կողմից և հաքերի դեմ ուժեղ դիրքորոշումը նույնպես նշանավորեցին այս շրջանը։",
-    "items": [
-      {
-        "headline": "Revolut-ը տվյալներ է արտահոսել կեղծ հարցման պատճառով",
-        "summary": "Revolut ֆինտեխ ընկերությունը կատարել է կառավարական գործակալության կողմից ուղարկված կեղծ տեղեկատվության հարցում՝ բացահայտելով սահմանափակ թվով օգտատերերի անձնագրեր և Bitcoin գործարքների պատմություններ։",
-        "link": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
-        "source": "Decrypt",
-        "enTitle": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/revolut-decrypt-style-01-gID_7.jpg@png"
-      },
-      {
-        "headline": "Ether ETF-ները ներհոսք են գրանցել, Bitcoin ETF-ները՝ արտահոսք",
-        "summary": "ԱՄՆ-ի Bitcoin ETF-ները չորրորդ օրն անընդմեջ արտահոսք են գրանցել՝ կորցնելով $13.29 միլիոն, մինչդեռ Ether ֆոնդերը ներգրավել են $216.41 միլիոն։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/ether-etfs-gain-216m-as-bitcoin-etfs-extend-4-day-outflow-streak/",
-        "source": "Bitcoin News",
-        "enTitle": "Ether ETFs Gain $216M as Bitcoin ETFs Extend 4-Day Outflow Streak",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/ether-etfs-gain-216m-as-bitcoin-etfs-extend-4-day-outflow-streak-768x432.jpg"
-      },
-      {
-        "headline": "Կրիպտո միլիարդատերերը խոշոր նվիրատվություններ են կատարել Reform UK-ին",
-        "summary": "Կրիպտո միլիարդատերեր Ben Delo-ն և Christopher Harborne-ը յուրաքանչյուրը £36 միլիոն են նվիրաբերել Farage-ի Reform UK կուսակցությանը։",
-        "link": "https://www.theblock.co/news/regulation/2026-09-12-crypto-billionaires-ben-delo-and-christopher-harborne-each-donate-36-million-to-farages-reform-uk-414509",
-        "source": "The Block",
-        "enTitle": "Crypto billionaires Ben Delo and Christopher Harborne each donate £36 million to Farage’s Reform UK",
-        "image": "https://www.tbstat.com/wp/uploads/2022/02/20220210_UK_Generic_Funding-1200x675.jpg"
-      },
-      {
-        "headline": "Ripple-ը $13 տրիլիոնի հնարավորություն է տեսնում RLUSD-ի համար",
-        "summary": "Ripple-ի stablecoin-ի ղեկավարը RLUSD-ի համար $13 տրիլիոնի կորպորատիվ գանձապետական հնարավորություն է տեսնում՝ նպատակ ունենալով RLUSD-ը ներմուծել Եվրոպա MiCA-ի ներքո։",
-        "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/78fc00622b99b2c90daf763cd2507df02baaaf59-2560x1707.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Կանադայի կարգավորիչը հաստատել է թոքենիզացված ավանդները",
-        "summary": "Կանադայի ֆինանսական հաստատությունների վերահսկողության գրասենյակը հաստատել է թոքենիզացված ավանդները բանկային համակարգի համար՝ ճանապարհ հարթելով բանկերի համար։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/canada-regulator-clears-tokenized-deposits-for-banking-system/",
-        "source": "Bitcoin News",
-        "enTitle": "Canada Regulator Clears Tokenized Deposits for Banking System",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/osfi-logo-768x432.jpg"
-      },
-      {
-        "headline": "Blockstream-ը հրաժարվում է վճարել Liquid հաքերին",
-        "summary": "Blockstream-ը հրաժարվում է Liquid հաքերին վճարել մոտ 600 Bitcoin (մոտ $50 միլիոն)՝ սրելով վեճը, թե ինչպես պետք է կրիպտո արդյունաբերությունը պարգևատրի մասնակի փոխհատուցումը։",
-        "link": "https://cryptoslate.com/blockstream-bets-600-bitcoin-by-rejecting-liquid-hackers-50-million-bounty-demand/",
-        "source": "CryptoSlate",
-        "enTitle": "Blockstream bets 600 Bitcoin by rejecting Liquid hacker’s $50 million bounty demand",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/blockstream-bitcoin-bounty-gap.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-09-13",
     "ts": 1789323951507,
     "fng": {
@@ -4309,6 +4236,79 @@
         "source": "Bitcoin News",
         "enTitle": "MARA Dumps Over 13,500 Bitcoin for Over $1B to Wipe out Its BTC Loans",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/btc-sales-768x432.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-11",
+    "ts": 1794346478904,
+    "fng": {
+      "value": 32,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 73906,
+        "change24h": -1.3419098566597891
+      },
+      {
+        "label": "Ethereum",
+        "price": 2059.07,
+        "change24h": -3.3946483590118466
+      }
+    ],
+    "overview": "Օրը նշանավորվել է մակրոտնտեսական մտահոգությունների և ինստիտուցիոնալ կրիպտո ընդունման ու անվտանգության զարգացումների խառնուրդով։ ԱՄՆ-ում սպասվածից բարձր գնաճը հանգեցրել է Bitcoin-ի գնի անկմանը, մինչդեռ խոշոր բանկերը մուտք են գործում stablecoin-ների շուկա։",
+    "items": [
+      {
+        "headline": "Բանկերը ներդնում են stablecoin նախագծում",
+        "summary": "Goldman Sachs-ը, Citigroup-ը և այլ բանկեր 270 միլիոն դոլար են հատկացրել Project Faro անունով stablecoin նախագծին՝ մարտահրավեր նետելով գոյություն ունեցող կրիպտո stablecoin-ներին։",
+        "link": "https://news.bitcoin.com/stablecoins/wall-street-banks-commit-270m-stablecoin-challenger-project-faro/",
+        "source": "Bitcoin News",
+        "enTitle": "Wall Street Banks Commit $270M to Stablecoin Challenger Project Faro: Bloomberg",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/report-wall-street-banks-commit-270m-to-stablecoin-challenger-project-faro-768x432.png"
+      },
+      {
+        "headline": "Գնաճը բարձրացնում է Fed-ի տոկոսադրույքները",
+        "summary": "ԱՄՆ-ում հոկտեմբերին սպասվածից բարձր գնաճը մեծացրել է Fed-ի կողմից դեկտեմբերին տոկոսադրույքների բարձրացման հավանականությունը՝ անհանգստություն առաջացնելով կրիպտո ներդրողների մոտ։",
+        "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Hot US inflation raises odds of half-point Fed hike in December",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7336RAJMBE41VQRYSYWFP63/us-federal-reserve-1.jpg"
+      },
+      {
+        "headline": "iOS խոցելիությունը սպառնում է կրիպտո դրամապանակներին",
+        "summary": "Binance-ը նախազգուշացրել է Apple iOS-ի «worse_query» խոցելիության մասին, որը կարող է վտանգել կրիպտո դրամապանակների գաղտնաբառերը և անձնական բանալիները։",
+        "link": "https://news.bitcoin.com/security/apple-ios-vulnerability-puts-crypto-wallets-risk-binance-issues-warning/",
+        "source": "Bitcoin News",
+        "enTitle": "Apple iOS Vulnerability Puts Crypto Wallets at Risk as Binance Issues Warning",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/new-ios-vulnerability-puts-crypto-wallets-at-risk-as-binance-issues-warning-768x432.png"
+      },
+      {
+        "headline": "Kimber Digital-ը ստացել է բրոքեր-դիլերի կարգավիճակ",
+        "summary": "Plume-ի դուստր ձեռնարկություն Kimber Digital Securities-ը ստացել է բրոքեր-դիլերի կարգավիճակ՝ թույլ տալով առաջարկել ԱՄՆ-ի թոքենացված բաժնետոմսեր, ETF-ներ և պարտատոմսեր։",
+        "link": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73FG8EC57FA8HQ9HDV8619S/hi-what-are-pig-butchering-crypto-scams-and-how-to-combat-them.png"
+      },
+      {
+        "headline": "XRP Ledger-ը նախատեսում է քվանտային դիմացկուն թարմացում",
+        "summary": "XRP Ledger Foundation-ը մինչև 2028 թվականը նախատեսում է քվանտային դիմացկուն թարմացում՝ XRP հաշիվները և ցանցի վալիդատորները ապագա քվանտային հաշվարկային հարձակումներից պաշտպանելու համար։",
+        "link": "https://news.bitcoin.com/technology/xrp-ledger-quantum-resistant-upgrade-2028-risks-costs/",
+        "source": "Bitcoin News",
+        "enTitle": "XRP Ledger Targets Quantum-Resistant Upgrade by 2028—The Risks and Costs",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/xrp-price-slides-43-as-xrpl-stablecoins-tokenization-surge-768x432.jpg"
+      },
+      {
+        "headline": "Moody’s-ը և Chainlink-ը փորձարկում են վարկային վարկանիշները",
+        "summary": "Moody's Ratings-ը և Chainlink-ը փորձարկել են CCIP-ի միջոցով վարկային վարկանիշների տվյալների բաշխումը թույլատրված և հանրային բլոկչեյնների միջև։",
+        "link": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245",
+        "source": "The Block",
+        "enTitle": "Moody’s and Chainlink test cross-chain credit ratings distribution",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/10/20221005_Chainlink.jpg"
       }
     ]
   }
