@@ -4241,9 +4241,9 @@
   },
   {
     "date": "2026-11-10",
-    "ts": 1794268478472,
+    "ts": 1794319143852,
     "fng": {
-      "value": 29,
+      "value": 32,
       "label": "Fear",
       "hy": "Վախ",
       "dot": "🟠"
@@ -4251,64 +4251,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 75220,
-        "change24h": 0.6946805445171452
+        "price": 73776,
+        "change24h": -1.2282096274096213
       },
       {
         "label": "Ethereum",
-        "price": 2131.41,
-        "change24h": 0.38308963281049635
+        "price": 2067.52,
+        "change24h": -2.696530111055944
       }
     ],
-    "overview": "Կրիպտոարժույթների շուկայում շարունակվում է ինստիտուցիոնալ ընդունումը և նորարարությունները, հատկապես թոքենիզացիայի և stablecoin-ների ոլորտում: Միաժամանակ, անվտանգության հետ կապված մարտահրավերները, ինչպիսիք են հաքերային հարձակումներից ստացված միջոցների լվացումը, մնում են արդիական:",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է մակրոտնտեսական մտահոգություններով՝ ԱՄՆ-ի սպասվածից բարձր գնաճի տվյալների պատճառով, ինչպես նաև կարգավորող և անվտանգության կարևոր իրադարձություններով։ Կրիպտո ոլորտի խոշոր խաղացողները նույնպես ակտիվ են եղել՝ իրականացնելով զգալի գործարքներ և անվտանգության նախազգուշացումներ։",
     "items": [
       {
-        "headline": "Coinbase-ը ստացել է դաշնային վստահության հավանություն",
-        "summary": "Coinbase-ը ստացել է դաշնային վստահության բանկի վերջնական հավանություն և ընդլայնել է իր համագործակցությունը PNC Bank-ի հետ՝ USDC վճարումների համար:",
-        "link": "https://news.bitcoin.com/finance/coinbase-lands-federal-trust-approval-expands-pnc-stablecoin-deal/",
-        "source": "Bitcoin News",
-        "enTitle": "Coinbase Lands Federal Trust Approval and Expands PNC Stablecoin Deal",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/coinbase-lands-federal-trust-approval-and-expands-pnc-stablecoin-deal-768x432.png"
+        "headline": "ԱՄՆ-ի CPI-ն սպասվածից բարձր է",
+        "summary": "Հոկտեմբերին ԱՄՆ-ի սպառողական գների ինդեքսը (CPI) աճել է 0.4%-ով, ինչը գերազանցել է սպասումները, և հիմնական ցուցանիշն աճել է 0.3%-ով։",
+        "link": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/51b1716c6a080eb7ea2f00c7c72ad06e2dc13cf7-1920x1040.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Avalanche-ը համագործակցում է NYSE-ի հետ",
-        "summary": "Avalanche-ի AVAX թոքենը զգալիորեն աճել է այն բանից հետո, երբ NYSE-ն ընտրել է իր բլոկչեյնը՝ թոքենիզացված բաժնետոմսերի առևտրային հարթակի հաշվարկները սատարելու համար:",
-        "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70J2ENA2XKCHW53PWMMZG5X/hi-avalanche-avax-ecosystem.png"
-      },
-      {
-        "headline": "Հյուսիսկորեական հաքերները լվանում են միջոցներ",
-        "summary": "Հյուսիսկորեական հաքերները դիմել են meme coins-ի՝ Binance-ի մոտ 6.3 միլիարդ դոլարի հաքերային հարձակումից ստացված միջոցները քողարկելու համար:",
-        "link": "https://news.bitcoin.com/security/north-korea-binance-hack-takes-strange-turn-meme-coins/",
-        "source": "Bitcoin News",
-        "enTitle": "North Korea’s $6.3B Binance Hack Takes a Strange Turn With Meme Coins",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/elliptic-north-korea-binance-hack-meme-coins-768x432.jpg"
-      },
-      {
-        "headline": "Vitalik Buterin-ը ETH-ի արժեքի մասին",
-        "summary": "Ethereum-ի համահիմնադիր Vitalik Buterin-ը հայտարարել է, որ ETH-ի արժեքը գալիս է կայունությունից, այլ ոչ թե վճարների այրումից՝ նշելով դրա ապակենտրոնացումը, գրաքննության դիմադրությունը և անվտանգությունը:",
-        "link": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability",
+        "headline": "Binance-ը դադարեցնում է MEXC փոխանցումները",
+        "summary": "Binance-ը դադարեցրել է MEXC-ի հետ փոխանցումները այն բանից հետո, երբ FinCEN-ը կապել է MEXC-ին 16 միլիարդ դոլարի կասկածելի հոսքերի հետ և անջատել այն ԱՄՆ ֆինանսական համակարգից։",
+        "link": "https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system",
         "source": "Decrypt",
-        "enTitle": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/vitalik-buterin-ethereum-decrypt-style-05-1-gID_7.jpg@png"
+        "enTitle": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/cryptocurrency-world-decrypt-style-gID_7.jpg@png"
       },
       {
-        "headline": "MARA-ն զգալի շահույթ է գրանցել",
-        "summary": "MARA-ն երրորդ եռամսյակում գրանցել է 634.4 միլիոն դոլար զուտ շահույթ՝ Bitcoin-ի շահույթների հաշվին, այնուհետև վաճառել է 13,597 BTC՝ 750 միլիոն դոլարի վարկերը մարելու համար:",
-        "link": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
-        "source": "The Block",
-        "enTitle": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260428_Mara_News.jpg"
+        "headline": "Binance-ը զգուշացնում է iOS-ի խոցելիության մասին",
+        "summary": "Binance-ը զգուշացրել է Apple iOS-ի խոցելիության մասին, որը կարող է բացահայտել iPhone օգտատերերի մասնավոր բանալիները, և հորդորել է հեռացնել անվստահելի աղբյուրներից տեղադրված հավելվածները։",
+        "link": "https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys",
+        "source": "Decrypt",
+        "enTitle": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-apple-iphone-gID_7.png@png"
       },
       {
-        "headline": "Amundi-ն եվրոպական բաժնետոմսերը տեղադրում է Ethereum-ում",
-        "summary": "Amundi-ն հայտարարել է եվրոպական բաժնետոմսերի միավորների թոքենիզացիայի մասին Ethereum-ի վրա, սակայն ներդրողների մուտքի, փոխանցման և մարման պայմանները դեռևս չեն հստակեցվել:",
-        "link": "https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/",
-        "source": "CryptoSlate",
-        "enTitle": "Amundi puts European stocks on Ethereum, but access terms stay hidden",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/amundi-fund-unit-viewfinder.webp"
+        "headline": "Լեհաստանը հավանություն է տվել պատժամիջոցների օրինագծին",
+        "summary": "Լեհաստանի խորհրդարանի ստորին պալատը հավանություն է տվել պատժամիջոցների օրինագծին, որը ներառում է կրիպտո ակտիվների սառեցումը և ընդլայնում է ազգային պատժամիջոցների ցուցակում անձանց և ընկերությունների ավելացման հիմքերը։",
+        "link": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Poland’s lower house backs sanctions bill covering crypto freezes",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72PYD519ZQBWS31RRW4K0PX/edited-cointelegraph-illustration.png"
+      },
+      {
+        "headline": "Coinbase-ը և Kalshi-ն աջակցում են CFTC-ին",
+        "summary": "Coinbase-ը, Kalshi-ն և չորս այլ ընկերություններ աջակցել են CFTC-ին դատական հայցում՝ կապված այն բանի հետ, թե արդյոք ԱՄՆ բորսաները կարող են ցուցակել անհատական բաժնետոմսերին կապված մշտական ֆյուչերսներ։",
+        "link": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72DGPHCSG70YGY72DZ7EFS4/hinew-us-government-crypto-coinbase.jpg"
+      },
+      {
+        "headline": "MARA-ն վաճառել է ավելի քան 13,500 Bitcoin",
+        "summary": "Bitcoin մայնինգի ընկերություն MARA Holdings-ը վաճառել է 13,597 BTC մոտ 1.1 միլիարդ դոլարով՝ իր Bitcoin-ով ապահովված բոլոր վարկերը մարելու համար։",
+        "link": "https://news.bitcoin.com/mining/mara-sells-13597-bitcoin-repays-750m-loans/",
+        "source": "Bitcoin News",
+        "enTitle": "MARA Dumps Over 13,500 Bitcoin for Over $1B to Wipe out Its BTC Loans",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/btc-sales-768x432.jpg"
       }
     ]
   }
