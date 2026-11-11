@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-13",
-    "ts": 1789323951507,
-    "fng": {
-      "value": 61,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 77342,
-        "change24h": 0.21681509884575184
-      },
-      {
-        "label": "Ethereum",
-        "price": 2507.41,
-        "change24h": -0.7294680245580969
-      }
-    ],
-    "overview": "Այսօրվա կրիպտոարժույթների շուկան բնութագրվում է անվտանգության հետ կապված մտահոգություններով և կարգավորող մարմինների աճող ուշադրությամբ: Տեղի են ունեցել խոշոր շահագործումներ և տվյալների արտահոսքեր, մինչդեռ տարբեր երկրներում ներդրվում են նոր կանոնակարգեր:",
-    "items": [
-      {
-        "headline": "Symbiosis Bitcoin կամրջի խոցելիություն",
-        "summary": "Symbiosis-ի Bitcoin կամուրջը շահագործվել է, ինչի հետևանքով միլիարդավոր չապահովված syBTC է ստեղծվել, և հաքերները կարողացել են կանխիկացնել մոտ 210,000 դոլար։",
-        "link": "https://news.bitcoin.com/security/another-bitcoin-bridge-broke-and-this-time-billions-were-minted/",
-        "source": "Bitcoin News",
-        "enTitle": "Another Bitcoin Bridge Broke, and This Time Billions Were Minted",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/another-bitcoin-bridge-broke-and-this-time-billions-were-minted-768x432.png"
-      },
-      {
-        "headline": "Bitcoin Lightning-ի կրիտիկական սխալներ",
-        "summary": "Bitcoin Lightning Network-ում հայտնաբերվել են կրիտիկական սխալներ, որոնք կարող էին հանգեցնել միջոցների գողության և հանգույցների վերագործարկման խափանումների։",
-        "link": "https://cryptoslate.com/critical-bitcoin-lightning-bugs-exposed-nodes-to-fund-theft-and-restart-failure/",
-        "source": "CryptoSlate",
-        "enTitle": "Critical Bitcoin Lightning bugs exposed nodes to fund theft and restart failure",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-lightning-patch.jpg"
-      },
-      {
-        "headline": "Կրիպտո դրամապանակների նոր կանոնակարգեր",
-        "summary": "Կրիպտո դրամապանակներ ստեղծողները այժմ պարտավոր են 24 ժամվա ընթացքում տեղեկացնել կարգավորող մարմիններին անվտանգության լուրջ խնդիրների շահագործման մասին։",
-        "link": "https://cryptoslate.com/crypto-wallet-creators-now-have-just-24-hours-to-alert-regulators-when-flaws-are-exploited/",
-        "source": "CryptoSlate",
-        "enTitle": "Crypto wallet creators now have just 24 hours to alert regulators when flaws are exploited",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-cra-compliance-path.jpg"
-      },
-      {
-        "headline": "Կրիպտո միլիարդատերերի նվիրատվությունները Մեծ Բրիտանիայում",
-        "summary": "Կրիպտոարժույթների ոլորտի մագնատները խոստացել են 72 միլիոն ֆունտ ստերլինգ նվիրաբերել Reform UK կուսակցության ընտրական քարոզարշավին։",
-        "link": "https://news.bitcoin.com/crypto-news/crypto-moguls-pledge-72m-to-fund-reform-uk-election-campaign/",
-        "source": "Bitcoin News",
-        "enTitle": "Crypto Moguls Pledge £72M to Fund Reform UK Election Campaign",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/reform-uk-logo-768x432.jpg"
-      },
-      {
-        "headline": "Բրազիլիայի կրիպտո ընկերությունների արտագաղթ",
-        "summary": "Բրազիլիայում խիստ կապիտալի պահանջները հանգեցրել են կրիպտո ընկերությունների զանգվածային արտագաղթի, քանի որ քչերն են կարողանում բավարարել նոր կանոնները։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/strict-capital-rules-trigger-mass-exit-of-brazil-crypto-firms/",
-        "source": "Bitcoin News",
-        "enTitle": "Strict Capital Rules Trigger Mass Exit of Brazil Crypto Firms",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/central-bank-of-brazil-logo-768x432.jpg"
-      },
-      {
-        "headline": "Revolut-ի հաճախորդների տվյալների արտահոսք",
-        "summary": "Revolut-ը հայտարարել է, որ հաճախորդների տվյալները, ներառյալ անձնագրերը և ֆինանսական գործարքների պատմությունները, բացահայտվել են կեղծ կառավարական էլ. փոստի միջոցով խարդախի կողմից։",
-        "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Revolut says customer data exposed through fake government email",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2D17VM4EG7ZBFYRBDRS7SSC/revolut-data-disclosure.png"
-      }
-    ]
-  },
-  {
     "date": "2026-09-14",
     "ts": 1789384735394,
     "fng": {
@@ -4309,6 +4236,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "ECB warns legislative delays could postpone digital euro launch",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74SWF2QW66F7C324VAAGKYJ/hi-european-union-moves-to-regulate-crypto-asset-market2-1.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-12",
+    "ts": 1794435758552,
+    "fng": {
+      "value": 29,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 74434,
+        "change24h": 0.8968159819853654
+      },
+      {
+        "label": "Ethereum",
+        "price": 2077.33,
+        "change24h": 1.1235085208179856
+      }
+    ],
+    "overview": "Ամփոփելով այսօրվա կրիպտո նորությունները, կարելի է նշել, որ շուկայում դիտվում է կապիտալի արտահոսք, ինչը հանգեցնում է Stablecoin-ների առաջիկա կրճատման և Bitcoin-ի գնի անկայունության։ Միևնույն ժամանակ, կրիպտոարժույթների ոլորտում նկատվում է նորարարություն՝ կապված AI-ի և տոկենացված արժեթղթերի հետ, թեև կարգավորող մարմինների ուշադրությունը և քաղաքական որոշումները շարունակում են ազդել շուկայի վրա։",
+    "items": [
+      {
+        "headline": "Bitcoin-ը «դատարկվում է»՝ Stablecoin-ների անկում և ETF-ների ելքեր",
+        "summary": "Stablecoin-ների մատակարարումը 30 օրվա ընթացքում նվազել է 14.2 միլիարդ դոլարով՝ ամենաարագ կրճատումը 2022 թվականի հունիսից ի վեր, ETF-ների թույլ պահանջարկի ֆոնին, ինչը Bitcoin-ի շուկայական կառուցվածքը թուլացնում է։",
+        "link": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+        "source": "Decrypt",
+        "enTitle": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png"
+      },
+      {
+        "headline": "Deutsche Bank-ը մեկնարկում է կրիպտո-պահառության ծառայություններ",
+        "summary": "Deutsche Bank-ը հինգ տարվա մշակումից հետո սկսել է առաջարկել կրիպտո-պահառության ծառայություններ՝ Եվրոպայում ինստիտուցիոնալ և կորպորատիվ հաճախորդների համար, որոնք կարող են պահել Bitcoin, Ethereum և երեք stablecoin։",
+        "link": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
+        "source": "Decrypt",
+        "enTitle": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "ԱՄՆ-ում կրիպտո-դաշնակիցները կարող են ավելանալ Կոնգրեսում",
+        "summary": "ԱՄՆ-ում մնացած ընտրական մրցավազքերը ներառում են կրիպտո-դաշնակից թեկնածուներ, ինչը հնարավորություն է տալիս ակտիվիստական խմբերին ընդլայնել իրենց ազդեցությունը Կոնգրեսում։",
+        "link": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Uncalled US House races could send more crypto allies to Congress",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75XNMPSEVD2H0XM5RBPTJMR/different-crypto-logos.png"
+      },
+      {
+        "headline": "OKX-ICE-ը մեկնարկում է տոկենացված բաժնետոմսերի հարթակը",
+        "summary": "OKX-ICE-ը նոյեմբերի 23-ին կմեկնարկի իր տոկենացված արժեթղթերի հարթակը՝ ավելի քան 70 ակտիվներով, ներառյալ կրիպտո-ընկերությունների բաժնետոմսեր, այն բանից հետո, երբ մի շարք խոշոր ընկերություններ հրաժարվեցին մասնակցել։",
+        "link": "https://news.bitcoin.com/finance/okxice-tokenized-stocks-launch-following-mass-company-objections/",
+        "source": "Bitcoin News",
+        "enTitle": "OKXICE Sets Tokenized Stocks Launch Following Mass Company Objections",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/04/okx-768x432.jpg"
+      },
+      {
+        "headline": "SEC-ը միջամտում է ածանցյալ ֆինանսական գործիքների կարգավորման պայքարին",
+        "summary": "ԱՄՆ-ի Արժեթղթերի և բորսաների հանձնաժողովը (SEC) միջամտում է այն վեճին, թե արդյոք իր քույր գործակալությունը պետք է հաստատեր առանձին բաժնետոմսերի վրա հիմնված մշտական ածանցյալ ֆինանսական գործիքների թողարկումը։",
+        "link": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
+        "source": "The Block",
+        "enTitle": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News.jpg"
+      },
+      {
+        "headline": "Bitcoin-ը պատմության մեջ առաջին անգամ կարող է երկու տարի անընդմեջ անկում գրանցել",
+        "summary": "Bitcoin-ը պատրաստվում է գրանցել իր պատմության մեջ առաջին անընդմեջ երկու տարվա կորուստները, որը խախտում է 18-ամյա միտումը, թեև տվյալներում կան որոշ նրբություններ։",
+        "link": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
+        "source": "Decrypt",
+        "enTitle": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-mountain-decrypt-style-gID_7.png@png"
       }
     ]
   }
