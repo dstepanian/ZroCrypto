@@ -4241,9 +4241,9 @@
   },
   {
     "date": "2026-11-11",
-    "ts": 1794346478904,
+    "ts": 1794402847697,
     "fng": {
-      "value": 32,
+      "value": 29,
       "label": "Fear",
       "hy": "Վախ",
       "dot": "🟠"
@@ -4251,64 +4251,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 73906,
-        "change24h": -1.3419098566597891
+        "price": 73771,
+        "change24h": -0.757569915175603
       },
       {
         "label": "Ethereum",
-        "price": 2059.07,
-        "change24h": -3.3946483590118466
+        "price": 2048.98,
+        "change24h": -2.2596706180940176
       }
     ],
-    "overview": "Օրը նշանավորվել է մակրոտնտեսական մտահոգությունների և ինստիտուցիոնալ կրիպտո ընդունման ու անվտանգության զարգացումների խառնուրդով։ ԱՄՆ-ում սպասվածից բարձր գնաճը հանգեցրել է Bitcoin-ի գնի անկմանը, մինչդեռ խոշոր բանկերը մուտք են գործում stablecoin-ների շուկա։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ներդրումների աճով՝ թոքենացված արժեթղթերի և թվային ակտիվների պահպանման ծառայությունների միջոցով: Միաժամանակ, նկատվում է Bitcoin ETF-ներից կապիտալի արտահոսքի շարունակական միտում:",
     "items": [
       {
-        "headline": "Բանկերը ներդնում են stablecoin նախագծում",
-        "summary": "Goldman Sachs-ը, Citigroup-ը և այլ բանկեր 270 միլիոն դոլար են հատկացրել Project Faro անունով stablecoin նախագծին՝ մարտահրավեր նետելով գոյություն ունեցող կրիպտո stablecoin-ներին։",
-        "link": "https://news.bitcoin.com/stablecoins/wall-street-banks-commit-270m-stablecoin-challenger-project-faro/",
-        "source": "Bitcoin News",
-        "enTitle": "Wall Street Banks Commit $270M to Stablecoin Challenger Project Faro: Bloomberg",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/report-wall-street-banks-commit-270m-to-stablecoin-challenger-project-faro-768x432.png"
+        "headline": "OKXICE-ը կսկսի թոքենացված բաժնետոմսերի առևտուրը",
+        "summary": "OKXICE-ը նոյեմբերի 23-ին կգործարկի թոքենացված արժեթղթերի իր հարթակը՝ առաջարկելով ավելի քան 70 ակտիվ, ներառյալ Strategy-ի բաժնետոմսերը և Direxion-ի ETF-ները:",
+        "link": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/5edaabfa8b7541835109ec0ac755c451f9b8f2c4-2760x1518.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Գնաճը բարձրացնում է Fed-ի տոկոսադրույքները",
-        "summary": "ԱՄՆ-ում հոկտեմբերին սպասվածից բարձր գնաճը մեծացրել է Fed-ի կողմից դեկտեմբերին տոկոսադրույքների բարձրացման հավանականությունը՝ անհանգստություն առաջացնելով կրիպտո ներդրողների մոտ։",
-        "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Kraken-ի xStocks-ն ավելացնում է Մեծ Բրիտանիայի և ԵՄ բաժնետոմսեր",
+        "summary": "Kraken-ի xStocks հարթակն ավելացրել է ավելի քան 200 թոքենացված Մեծ Բրիտանիայի և ԵՄ բաժնետոմսեր՝ իր ակտիվները հասցնելով 1.1 միլիարդ դոլարի:",
+        "link": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b575e5fb400b044ebb5d3c2d88d2a80846eafb-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Barclays-ը մեծացնում է BlackRock Bitcoin ETF-ի իր բաժնետոմսը",
+        "summary": "Barclays-ը հայտնել է BlackRock-ի Bitcoin ETF-ում իր բաժնետոմսի 48% աճի մասին՝ սեպտեմբերի 30-ի դրությամբ հասնելով 187 միլիոն դոլարի:",
+        "link": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Hot US inflation raises odds of half-point Fed hike in December",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7336RAJMBE41VQRYSYWFP63/us-federal-reserve-1.jpg"
+        "enTitle": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M750XDAB96KNY5BNHMGJV4GV/2222222-1.png"
       },
       {
-        "headline": "iOS խոցելիությունը սպառնում է կրիպտո դրամապանակներին",
-        "summary": "Binance-ը նախազգուշացրել է Apple iOS-ի «worse_query» խոցելիության մասին, որը կարող է վտանգել կրիպտո դրամապանակների գաղտնաբառերը և անձնական բանալիները։",
-        "link": "https://news.bitcoin.com/security/apple-ios-vulnerability-puts-crypto-wallets-risk-binance-issues-warning/",
-        "source": "Bitcoin News",
-        "enTitle": "Apple iOS Vulnerability Puts Crypto Wallets at Risk as Binance Issues Warning",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/new-ios-vulnerability-puts-crypto-wallets-at-risk-as-binance-issues-warning-768x432.png"
-      },
-      {
-        "headline": "Kimber Digital-ը ստացել է բրոքեր-դիլերի կարգավիճակ",
-        "summary": "Plume-ի դուստր ձեռնարկություն Kimber Digital Securities-ը ստացել է բրոքեր-դիլերի կարգավիճակ՝ թույլ տալով առաջարկել ԱՄՆ-ի թոքենացված բաժնետոմսեր, ETF-ներ և պարտատոմսեր։",
-        "link": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73FG8EC57FA8HQ9HDV8619S/hi-what-are-pig-butchering-crypto-scams-and-how-to-combat-them.png"
-      },
-      {
-        "headline": "XRP Ledger-ը նախատեսում է քվանտային դիմացկուն թարմացում",
-        "summary": "XRP Ledger Foundation-ը մինչև 2028 թվականը նախատեսում է քվանտային դիմացկուն թարմացում՝ XRP հաշիվները և ցանցի վալիդատորները ապագա քվանտային հաշվարկային հարձակումներից պաշտպանելու համար։",
-        "link": "https://news.bitcoin.com/technology/xrp-ledger-quantum-resistant-upgrade-2028-risks-costs/",
-        "source": "Bitcoin News",
-        "enTitle": "XRP Ledger Targets Quantum-Resistant Upgrade by 2028—The Risks and Costs",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/xrp-price-slides-43-as-xrpl-stablecoins-tokenization-surge-768x432.jpg"
-      },
-      {
-        "headline": "Moody’s-ը և Chainlink-ը փորձարկում են վարկային վարկանիշները",
-        "summary": "Moody's Ratings-ը և Chainlink-ը փորձարկել են CCIP-ի միջոցով վարկային վարկանիշների տվյալների բաշխումը թույլատրված և հանրային բլոկչեյնների միջև։",
-        "link": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245",
+        "headline": "Deutsche Bank-ը գործարկում է թվային ակտիվների պահպանման ծառայություն",
+        "summary": "Deutsche Bank-ը գործարկել է թվային ակտիվների պահպանման իր ծառայությունը և համաձայնագիր է ստորագրել թոքենացված ֆոնդերի, կրիպտո ETC-ների և stablecoin-ների վերաբերյալ:",
+        "link": "https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851",
         "source": "The Block",
-        "enTitle": "Moody’s and Chainlink test cross-chain credit ratings distribution",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/10/20221005_Chainlink.jpg"
+        "enTitle": "Deutsche Bank goes live with digital asset custody service, signs asset management deal",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-11-at-11.27.09.png"
+      },
+      {
+        "headline": "Bitcoin ETF-ներից կապիտալի արտահոսքը շարունակվում է",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ներից նոյեմբերի 10-ին արտահոսել է ևս 95 միլիոն դոլար՝ չորս օր շարունակ արտահոսքի պատճառ դառնալով և 2026 թվականի ընդհանուր արտահոսքը հասցնելով 1 միլիարդ դոլարից ավելիի:",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-outflows-fourth-straight-day-2026/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin ETFs Bleed for a 4th Straight Day as 2026 Outflows Top $1B Billion",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/bitcoin-etf-inflows-768x432.jpg"
+      },
+      {
+        "headline": "ECB-ն զգուշացնում է թվային եվրոյի գործարկման հնարավոր հետաձգման մասին",
+        "summary": "Եվրոպական Կենտրոնական Բանկը (ECB) զգուշացրել է, որ օրենսդրական ուշացումները կարող են հետաձգել թվային եվրոյի հնարավոր գործարկումը մինչև 2029 թվականը:",
+        "link": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "ECB warns legislative delays could postpone digital euro launch",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74SWF2QW66F7C324VAAGKYJ/hi-european-union-moves-to-regulate-crypto-asset-market2-1.jpg"
       }
     ]
   }
