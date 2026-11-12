@@ -4241,9 +4241,9 @@
   },
   {
     "date": "2026-11-12",
-    "ts": 1794435758552,
+    "ts": 1794493024733,
     "fng": {
-      "value": 29,
+      "value": 28,
       "label": "Fear",
       "hy": "Վախ",
       "dot": "🟠"
@@ -4251,64 +4251,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 74434,
-        "change24h": 0.8968159819853654
+        "price": 72294,
+        "change24h": -1.8171809917730228
       },
       {
         "label": "Ethereum",
-        "price": 2077.33,
-        "change24h": 1.1235085208179856
+        "price": 2006.59,
+        "change24h": -2.0659487880276446
       }
     ],
-    "overview": "Ամփոփելով այսօրվա կրիպտո նորությունները, կարելի է նշել, որ շուկայում դիտվում է կապիտալի արտահոսք, ինչը հանգեցնում է Stablecoin-ների առաջիկա կրճատման և Bitcoin-ի գնի անկայունության։ Միևնույն ժամանակ, կրիպտոարժույթների ոլորտում նկատվում է նորարարություն՝ կապված AI-ի և տոկենացված արժեթղթերի հետ, թեև կարգավորող մարմինների ուշադրությունը և քաղաքական որոշումները շարունակում են ազդել շուկայի վրա։",
+    "overview": "Շուկան անորոշության շրջան է ապրում, որը նշանավորվում է Bitcoin ETF-ներից զգալի արտահոսքերով և ավանդական ֆինանսների կարևոր նորություններով, որոնք ազդում են կրիպտոյի վրա։",
     "items": [
       {
-        "headline": "Bitcoin-ը «դատարկվում է»՝ Stablecoin-ների անկում և ETF-ների ելքեր",
-        "summary": "Stablecoin-ների մատակարարումը 30 օրվա ընթացքում նվազել է 14.2 միլիարդ դոլարով՝ ամենաարագ կրճատումը 2022 թվականի հունիսից ի վեր, ETF-ների թույլ պահանջարկի ֆոնին, ինչը Bitcoin-ի շուկայական կառուցվածքը թուլացնում է։",
-        "link": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+        "headline": "NVIDIA-ի գործադիր տնօրենի հրաժարականը",
+        "summary": "NVIDIA-ի գործադիր տնօրեն և խորհրդի անդամ Ջենսեն Հուանգը հրաժարական է տվել, ինչը հանգեցրել է ընկերության բաժնետոմսերի 10%-ով անկմանը։",
+        "link": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Nvidia shares plunge 10% to June 2025 levels as Jensen Huang resigns",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/693575c5c547ec149e1c707e4ac159476905398f-600x338.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Bitcoin ETF-ներից զգալի արտահոսք",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները հինգ օրում գրանցել են 1.44 միլիարդ դոլարի զուտ արտահոսք, քանի որ ներդրողները նահանջում են ռիսկային ակտիվներից։",
+        "link": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
         "source": "Decrypt",
-        "enTitle": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png"
+        "enTitle": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
       },
       {
-        "headline": "Deutsche Bank-ը մեկնարկում է կրիպտո-պահառության ծառայություններ",
-        "summary": "Deutsche Bank-ը հինգ տարվա մշակումից հետո սկսել է առաջարկել կրիպտո-պահառության ծառայություններ՝ Եվրոպայում ինստիտուցիոնալ և կորպորատիվ հաճախորդների համար, որոնք կարող են պահել Bitcoin, Ethereum և երեք stablecoin։",
-        "link": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
+        "headline": "DTCC-ն Solana-ում կներդնի թոքենիզացված արժեթղթեր",
+        "summary": "Wall Street-ի հիմնական հաշվարկային ընկերությունը՝ DTCC-ն, 2027 թվականին Solana-ում կներդնի թոքենիզացված բաժնետոմսեր և գանձապետական պարտատոմսեր։",
+        "link": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
         "source": "Decrypt",
-        "enTitle": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg@png"
+        "enTitle": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png@png"
       },
       {
-        "headline": "ԱՄՆ-ում կրիպտո-դաշնակիցները կարող են ավելանալ Կոնգրեսում",
-        "summary": "ԱՄՆ-ում մնացած ընտրական մրցավազքերը ներառում են կրիպտո-դաշնակից թեկնածուներ, ինչը հնարավորություն է տալիս ակտիվիստական խմբերին ընդլայնել իրենց ազդեցությունը Կոնգրեսում։",
-        "link": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Uncalled US House races could send more crypto allies to Congress",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75XNMPSEVD2H0XM5RBPTJMR/different-crypto-logos.png"
-      },
-      {
-        "headline": "OKX-ICE-ը մեկնարկում է տոկենացված բաժնետոմսերի հարթակը",
-        "summary": "OKX-ICE-ը նոյեմբերի 23-ին կմեկնարկի իր տոկենացված արժեթղթերի հարթակը՝ ավելի քան 70 ակտիվներով, ներառյալ կրիպտո-ընկերությունների բաժնետոմսեր, այն բանից հետո, երբ մի շարք խոշոր ընկերություններ հրաժարվեցին մասնակցել։",
-        "link": "https://news.bitcoin.com/finance/okxice-tokenized-stocks-launch-following-mass-company-objections/",
+        "headline": "Tether-ը, Tron-ը և Chainalysis-ը միավորվում են",
+        "summary": "Tether-ը, Tron-ը և Chainalysis-ը ստեղծել են թվային հանցագործությունների դեմ պայքարի աշխատանքային խումբ՝ գողացված կրիպտոարժույթները սառեցնելու համար։",
+        "link": "https://news.bitcoin.com/security/tether-tron-and-chainalysis-unite-to-freeze-stolen-crypto-before-it-moves/",
         "source": "Bitcoin News",
-        "enTitle": "OKXICE Sets Tokenized Stocks Launch Following Mass Company Objections",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/04/okx-768x432.jpg"
+        "enTitle": "Tether, Tron and Chainalysis Unite to Freeze Stolen Crypto Before It Moves",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/tether-tron-and-chainalysis-unite-to-freeze-stolen-crypto-before-it-moves-768x432.png"
       },
       {
-        "headline": "SEC-ը միջամտում է ածանցյալ ֆինանսական գործիքների կարգավորման պայքարին",
-        "summary": "ԱՄՆ-ի Արժեթղթերի և բորսաների հանձնաժողովը (SEC) միջամտում է այն վեճին, թե արդյոք իր քույր գործակալությունը պետք է հաստատեր առանձին բաժնետոմսերի վրա հիմնված մշտական ածանցյալ ֆինանսական գործիքների թողարկումը։",
-        "link": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
-        "source": "The Block",
-        "enTitle": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News.jpg"
+        "headline": "MSCI-ն MicroStrategy-ին հանում է ինդեքսից",
+        "summary": "MSCI-ի որոշումը՝ MicroStrategy-ին իր ինդեքսներից հանելու մասին, կարող է խոչընդոտել ընկերության՝ ավելի շատ Bitcoin գնելու կարողությանը։",
+        "link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f79b91e8670bd9e03760460c3a3750d7d34a5150-5021x3350.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Bitcoin-ը պատմության մեջ առաջին անգամ կարող է երկու տարի անընդմեջ անկում գրանցել",
-        "summary": "Bitcoin-ը պատրաստվում է գրանցել իր պատմության մեջ առաջին անընդմեջ երկու տարվա կորուստները, որը խախտում է 18-ամյա միտումը, թեև տվյալներում կան որոշ նրբություններ։",
-        "link": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
-        "source": "Decrypt",
-        "enTitle": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-mountain-decrypt-style-gID_7.png@png"
+        "headline": "Stablecoin-ների մատակարարման անկում",
+        "summary": "Stablecoin-ների շուկայական կապիտալիզացիան վերջին 30 օրվա ընթացքում նվազել է 14.2 միլիարդ դոլարով՝ նշելով 2022 թվականի հունիսից ի վեր ամենամեծ անկումը։",
+        "link": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77PBKEXBYJDHXJ50138KP8T/article-covers-259182-tether-may-delay-fundraising-500b-valuation-demand-report-1280x853.webp"
       }
     ]
   }
