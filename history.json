@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-14",
-    "ts": 1789384735394,
-    "fng": {
-      "value": 57,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 77763,
-        "change24h": 1.622633157308882
-      },
-      {
-        "label": "Ethereum",
-        "price": 2510.91,
-        "change24h": 1.6194450983566695
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող զարգացումներով և ինստիտուցիոնալ ընդունմամբ, մինչդեռ Bitcoin-ը դիմակայում է տեխնոլոգիական բաժնետոմսերի անկմանը։",
-    "items": [
-      {
-        "headline": "CLARITY Act-ի վերջնական նախագիծը և Թրամփի համաձայնությունը",
-        "summary": "ԱՄՆ Սենատի հանրապետականները հրապարակել են CLARITY Act-ի վերջնական նախագիծը, որը ներառում է էթիկայի դրույթներ, որոնց համաձայնել է նախագահ Դոնալդ Թրամփը, ինչը մեծացնում է օրինագծի ընդունման հավանականությունը։",
-        "link": "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575",
-        "source": "The Block",
-        "enTitle": "Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions",
-        "image": "https://www.tbstat.com/wp/uploads/2019/07/washington-dc-capitol-1-1200x675.jpg"
-      },
-      {
-        "headline": "Հնդկաստանը սկսում է կորպորատիվ պարտատոմսերի թոքենիզացիան",
-        "summary": "Հնդկաստանը սկսել է իր 620 միլիարդ դոլար արժողությամբ կորպորատիվ պարտատոմսերի շուկայի թոքենիզացիան՝ SEBI-ի և RBI-ի «Demat 2.0» պիլոտային ծրագրի շրջանակներում, որտեղ արդեն երեք ընկերություն հավաքել է մոտ 107 միլիոն դոլար։",
-        "link": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market",
-        "source": "Decrypt",
-        "enTitle": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-india-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "Bitcoin ETF-ները կորցրել են 463 միլիոն դոլար",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են 462.7 միլիոն դոլարի շաբաթական արտահոսք՝ դադարեցնելով ներդրողների մեծ պահանջարկի երեքշաբաթյա շրջանը։",
-        "link": "https://cryptoslate.com/bitcoin-etfs-just-lost-463-million-as-the-fed-puts-btcs-75000-breakout-at-risk/",
-        "source": "CryptoSlate",
-        "enTitle": "Bitcoin ETFs just lost $463 million as the Fed puts BTC at risk of losing $75,000",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-breakout-balance.jpg"
-      },
-      {
-        "headline": "Ռուսաստանը գործարկում է թվային ռուբլին",
-        "summary": "Ռուսաստանի Կենտրոնական բանկը հայտարարել է թվային ռուբլու համազգային գործարկման մասին, որի արդյունքում տասը օրվա ընթացքում բացվել է գրեթե 87,000 նոր հաշիվ։",
-        "link": "https://news.bitcoin.com/crypto-news/russia-launches-digital-ruble-nationwide-with-87k-new-accounts/",
-        "source": "Bitcoin News",
-        "enTitle": "Russia Launches Digital Ruble Nationwide With 87K New Accounts",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/nabiullina-768x432.jpg"
-      },
-      {
-        "headline": "Bitcoin-ը բարձրանում է AI-ի անկման ֆոնին",
-        "summary": "Bitcoin-ը բարձրացել է մինչև 78,000 դոլար, քանի որ կրիպտո շուկան անտարբեր է մնացել AI-ի զարգացումը դանդաղեցնելու կոչերի պատճառով տեխնոլոգիական բաժնետոմսերի անկման նկատմամբ։",
-        "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/29e39b5373dac797eed5f3d1e7dfde22b01c70b1-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Coinbase-ը բանկերին առաջարկում է stablecoin կամուրջ",
-        "summary": "Coinbase-ը համայնքային բանկերին տրամադրում է stablecoin կամուրջ՝ միաժամանակ ապահովելով հիմնական ենթակառուցվածքը, ինչը թույլ է տալիս բանկերին պահպանել հաճախորդների հետ շփումը։",
-        "link": "https://cryptoslate.com/coinbase-gives-community-banks-a-stablecoin-bridge-while-supplying-infrastructure-underneath/",
-        "source": "CryptoSlate",
-        "enTitle": "Coinbase gives community banks a stablecoin bridge while supplying infrastructure underneath",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/main-street-money-pipeline.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-09-15",
     "ts": 1789500161981,
     "fng": {
@@ -4309,6 +4236,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77PBKEXBYJDHXJ50138KP8T/article-covers-259182-tether-may-delay-fundraising-500b-valuation-demand-report-1280x853.webp"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "ts": 1794520714563,
+    "fng": {
+      "value": 28,
+      "label": "Fear",
+      "hy": "Վախ",
+      "dot": "🟠"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 71508,
+        "change24h": -3.815205114278799
+      },
+      {
+        "label": "Ethereum",
+        "price": 2016.59,
+        "change24h": -2.611931047934914
+      }
+    ],
+    "overview": "Շուկան բախվում է ինստիտուցիոնալ ընդունման կարևոր իրադարձությունների և կարգավորող մարտահրավերների խառնուրդի հետ, մինչդեռ տեխնոլոգիական շուկայի փոփոխությունները, ինչպիսին է Nvidia-ի ղեկավարության փոփոխությունը, ազդում են կրիպտոարժույթների գների վրա։",
+    "items": [
+      {
+        "headline": "DTCC-ն ընդլայնվում է դեպի Solana",
+        "summary": "ԱՄՆ արժեթղթերի քլիրինգային DTCC ընկերությունը նախատեսում է 2027 թվականին թոքենիզացված արժեթղթերը ներմուծել Solana բլոկչեյն։",
+        "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png"
+      },
+      {
+        "headline": "Visa-ն ավելացնում է USDPT ստեյբլքոինը",
+        "summary": "Visa-ն և Anchorage Digital-ը կաջակցեն ընտրված Anchorage-ի կողմից թողարկված ստեյբլքոիններին որպես հաշվարկային ակտիվներ VisaNet-ում, սկսած USDPT-ից։",
+        "link": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network",
+        "source": "Decrypt",
+        "enTitle": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg@png"
+      },
+      {
+        "headline": "Իլինոյսի կրիպտո հարկի վիճարկում",
+        "summary": "ԱՄՆ Արդարադատության նախարարությունը, բիզնես խմբերը և DeFi ընկերությունները դատական հայցերով վիճարկում են Իլինոյսի կրիպտո հարկը։",
+        "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78NNMK090K8VRSJK706GEH0/hi-more-irs-crypto-reporting-more-danger.png"
+      },
+      {
+        "headline": "Bitcoin-ը նվազում է Nvidia-ի պատճառով",
+        "summary": "Bitcoin-ը իջել է 12 շաբաթվա նվազագույն մակարդակ՝ Nvidia-ի գործադիր տնօրեն Ջենսեն Հուանգի հրաժարականի և MSCI-ի կողմից Strategy-ի հեռացման ֆոնին։",
+        "link": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
+        "source": "The Block",
+        "enTitle": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/nvidia_jensen_editorial_1920x1080_2jpg.jpg"
+      },
+      {
+        "headline": "MicroStrategy-ն հեռացվում է ինդեքսներից",
+        "summary": "MSCI-ն MicroStrategy-ին հեռացնում է խոշոր ներդրումային ինդեքսներից՝ հարցեր բարձրացնելով, թե ինչն է որակվում որպես բիզնես։",
+        "link": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
+        "source": "Decrypt",
+        "enTitle": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png"
+      },
+      {
+        "headline": "Tether Gold-ի աուդիտը հաջող է",
+        "summary": "Tether Gold-ի (XAUT) թողարկողը KPMG U.S.-ի կողմից ստացել է անվերապահ եզրակացություն իր 2025 թվականի ֆինանսական հաշվետվությունների վերաբերյալ՝ հաստատելով 2.24 միլիարդ դոլարի ֆիզիկական ոսկու պահուստները։",
+        "link": "https://news.bitcoin.com/crypto-news/kpmg-counts-every-gold-bar-tether-xaut-clears-2-24-billion-audit/",
+        "source": "Bitcoin News",
+        "enTitle": "KPMG Counts Every Gold Bar as Tether’s XAUT Clears $2.24 Billion Audit",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/kpmg-counts-every-gold-bar-as-tethers-xaut-clears-2-24-billion-audit-768x432.png"
       }
     ]
   }
