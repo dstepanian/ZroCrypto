@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-09-15",
-    "ts": 1789500161981,
-    "fng": {
-      "value": 69,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 76139,
-        "change24h": -3.84658651066866
-      },
-      {
-        "label": "Ethereum",
-        "price": 2410.9,
-        "change24h": -5.214517571299069
-      }
-    ],
-    "overview": "ԱՄՆ Սենատում CLARITY օրենքի ձախողումը օրվա հիմնական իրադարձությունն էր, որը որոշակի ազդեցություն ունեցավ շուկայի վրա։ Միևնույն ժամանակ, Bitcoin ETF-ները շարունակեցին դրական ներհոսքեր գրանցել, իսկ ոլորտում նկատվում էին նաև այլ կարևոր զարգացումներ։",
-    "items": [
-      {
-        "headline": "CLARITY օրենքը չանցավ Սենատում",
-        "summary": "ԱՄՆ Սենատը չկարողացավ հավաքել բավարար ձայներ՝ CLARITY օրենքը առաջ մղելու համար, ինչը հանգեցրեց Bitcoin-ի գնի անկմանը։",
-        "link": "https://decrypt.co/378283/clarity-act-fails-senate-hurdle",
-        "source": "Decrypt",
-        "enTitle": "Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png"
-      },
-      {
-        "headline": "Robinhood-ի ինժեներները մեղադրվում են խարդախության մեջ",
-        "summary": "Երկու Robinhood-ի աշխատակից մեղադրվում են խարդախության մեջ՝ Hyperliquid-ում կրիպտոարժույթների ցուցակագրումից առաջ առևտուր անելու համար։",
-        "link": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
-        "source": "Decrypt",
-        "enTitle": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png"
-      },
-      {
-        "headline": "Bitcoin ETF-ները գրանցել են զգալի ներհոսքեր",
-        "summary": "ԱՄՆ-ի կրիպտո ETF-ները շաբաթը սկսել են դրական տրամադրությամբ, ընդ որում Bitcoin ֆոնդերը ներգրավել են 160 միլիոն դոլարի ներհոսք։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-snap-four-day-slide-with-160-million-inflow/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin ETFs Snap Four-Day Slide With $160 Million Inflow",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-etfs-snap-four-day-slide-with-160-million-inflow-768x432.jpg"
-      },
-      {
-        "headline": "Bitdeer-ը ընդլայնում է AI տվյալների կենտրոնները",
-        "summary": "Bitcoin մայնինգի ընկերություն Bitdeer-ը Մալայզիայում ավելացրել է 65.1 մեգավատ AI տվյալների կենտրոնի հզորություն՝ ընդգծելով արդյունաբերության դիվերսիֆիկացիան դեպի AI եկամուտներ։",
-        "link": "https://news.bitcoin.com/mining/bitcoin-miner-bitdeer-adds-65-1mw-for-nvidia-ai-as-pipeline-hits-7b/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Miner Bitdeer Adds 65.1MW for Nvidia AI as Pipeline Hits $7B",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-miner-bitdeer-adds-65-1mw-for-nvidia-ai-as-pipeline-hits-7b-768x432.jpg"
-      },
-      {
-        "headline": "ԵԿԲ-ն կոչ է անում մասնակցել թվային եվրոյի փորձնական ծրագրին",
-        "summary": "Եվրոպական Կենտրոնական Բանկը կոչ է անում առևտրականներին մասնակցել թվային եվրոյի 12-ամսյա փորձնական ծրագրին, որը կներառի առցանց, բջջային և խանութային վճարումներ։",
-        "link": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "European Central Bank calls for merchants to participate in digital euro pilot",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      }
-    ]
-  },
-  {
     "date": "2026-09-16",
     "ts": 1789585999461,
     "fng": {
@@ -4309,6 +4244,79 @@
         "source": "CryptoSlate",
         "enTitle": "Ethereum unveils quantum-safe accounts, with a costly catch",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-quantum-gas-cost.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "ts": 1794606257757,
+    "fng": {
+      "value": 20,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 68193,
+        "change24h": -4.646603622161502
+      },
+      {
+        "label": "Ethereum",
+        "price": 1924.76,
+        "change24h": -4.666596485946137
+      }
+    ],
+    "overview": "Այսօրվա նորությունները ցույց են տալիս կրիպտոարժույթների շուկայում ինստիտուցիոնալ ներդրումների աճ և կարգավորող մարմինների ակտիվություն ԱՄՆ-ում, ինչպես նաև արհեստական բանականության նոր ինտեգրումներ վճարային համակարգերում։",
+    "items": [
+      {
+        "headline": "Twenty One Capital-ի շահույթը Bitcoin-ից",
+        "summary": "Tether-ի կողմից աջակցվող Twenty One Capital-ը երրորդ եռամսյակում գրանցել է 1.09 միլիարդ դոլար զուտ շահույթ՝ հիմնականում Bitcoin-ի իր պահուստների շնորհիվ։",
+        "link": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
+        "source": "The Block",
+        "enTitle": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-13-at-17.34.13.png"
+      },
+      {
+        "headline": "JPMorgan-ը մեծացնում է կրիպտո ներդրումները",
+        "summary": "JPMorgan-ը զգալիորեն ավելացրել է իր ներդրումները Blackrock Bitcoin ETF-ում, Strategy-ում և Coinbase-ում՝ ցույց տալով աճող ինստիտուցիոնալ հետաքրքրություն։",
+        "link": "https://news.bitcoin.com/finance/jpmorgan-boosts-blackrock-bitcoin-etf-strategy-coinbase-exposure/",
+        "source": "Bitcoin News",
+        "enTitle": "JPMorgan Boosts Blackrock Bitcoin ETF, Strategy, Coinbase Exposure",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/jpmorgan-expands-blackrock-bitcoin-etf-strategy-coinbase-exposure-768x432.jpg"
+      },
+      {
+        "headline": "Կանխատեսումների շուկայի կարգավորման պայքար",
+        "summary": "ԱՄՆ Արդարադատության նախարարությունը և CFTC-ն դատի են տվել Արկանզաս նահանգին՝ փորձելով կանխել Kalshi կանխատեսումների շուկայի փակումը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/doj-cftc-sue-arkansas-block-kalshi-crackdown-prediction-market-battle/",
+        "source": "Bitcoin News",
+        "enTitle": "DOJ, CFTC Sue Arkansas to Block Kalshi Crackdown as Prediction Market Battle Escalates",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/flag-of-arkansas-768x432.jpg"
+      },
+      {
+        "headline": "Թրամփը նշանակում է CFTC հանձնակատարներ",
+        "summary": "Նախագահ Դոնալդ Թրամփը նշանակել է երկու հանձնակատար Commodity Futures Trading Commission (CFTC)-ի համար, ինչը կարող է ազդել կրիպտոարժույթների կարգավորման վրա։",
+        "link": "https://news.bitcoin.com/igaming/trump-nominates-cftc-commissioners-prediction-market-fights-grow/",
+        "source": "Bitcoin News",
+        "enTitle": "Trump Nominates CFTC Commissioners as Prediction Market Fights Grow",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/trump-picks-two-cftc-commissioners-as-prediction-market-fights-grow-768x432.jpg"
+      },
+      {
+        "headline": "OpenAI-ը գործարկում է ChatGPT Wallet",
+        "summary": "OpenAI-ը ներկայացրել է ChatGPT Wallet-ը, որը թույլ է տալիս AI գործակալներին գնումներ կատարել՝ օգտագործելով Visa, Mastercard և Amex վճարային քարտերը։",
+        "link": "https://news.bitcoin.com/featured/openai-chatgpt-wallet-visa-mastercard-amex/",
+        "source": "Bitcoin News",
+        "enTitle": "OpenAI Rolls Out ChatGPT Wallet With Visa, Mastercard and Amex",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/chatgpt-wallet-768x432.jpg"
+      },
+      {
+        "headline": "ԱՄՆ-ի կարգավորողները հաստատում են կրիպտո վստահության կանոնադրությունները",
+        "summary": "ԱՄՆ կարգավորող մարմինները շարունակում են հաստատել կրիպտո վստահության կանոնադրությունները, քանի որ Սենատի կողմից վերահսկողությունն աճում է։",
+        "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EYQFNBQWHSKS9XVTDG9HXS/regulation-papers.jpg"
       }
     ]
   }
