@@ -4241,74 +4241,74 @@
   },
   {
     "date": "2026-11-13",
-    "ts": 1794520714563,
+    "ts": 1794577189165,
     "fng": {
-      "value": 28,
-      "label": "Fear",
-      "hy": "Վախ",
-      "dot": "🟠"
+      "value": 20,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
     },
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 71508,
-        "change24h": -3.815205114278799
+        "price": 69770,
+        "change24h": -3.8077858014067765
       },
       {
         "label": "Ethereum",
-        "price": 2016.59,
-        "change24h": -2.611931047934914
+        "price": 1972.44,
+        "change24h": -1.8162078302265086
       }
     ],
-    "overview": "Շուկան բախվում է ինստիտուցիոնալ ընդունման կարևոր իրադարձությունների և կարգավորող մարտահրավերների խառնուրդի հետ, մինչդեռ տեխնոլոգիական շուկայի փոփոխությունները, ինչպիսին է Nvidia-ի ղեկավարության փոփոխությունը, ազդում են կրիպտոարժույթների գների վրա։",
+    "overview": "Bitcoin-ի գինը նվազել է՝ պայմանավորված ETF-ների զգալի արտահոսքերով և շուկայական անորոշությամբ, սակայն ինստիտուցիոնալ ներդրումները և կենտրոնական բանկերի թվային արժույթների փորձարկումները շարունակվում են։ Կարգավորող մարմինների գործողությունները և տեխնոլոգիական զարգացումները նույնպես կարևոր դեր են խաղում։",
     "items": [
       {
-        "headline": "DTCC-ն ընդլայնվում է դեպի Solana",
-        "summary": "ԱՄՆ արժեթղթերի քլիրինգային DTCC ընկերությունը նախատեսում է 2027 թվականին թոքենիզացված արժեթղթերը ներմուծել Solana բլոկչեյն։",
-        "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png"
+        "headline": "Bitcoin ETF-ների զգալի արտահոսքեր",
+        "summary": "Bitcoin ETF-ներից տարեկան զուտ արտահոսքերը գերազանցել են 1.5 միլիարդ դոլարը, ինչը նպաստել է շուկայի անկմանը և Bitcoin-ի գնի իջեցմանը մինչև 70,000 դոլարից ցածր։",
+        "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/87bf3907a2c884b1e8a3a175c78f262519a2a9fe-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Visa-ն ավելացնում է USDPT ստեյբլքոինը",
-        "summary": "Visa-ն և Anchorage Digital-ը կաջակցեն ընտրված Anchorage-ի կողմից թողարկված ստեյբլքոիններին որպես հաշվարկային ակտիվներ VisaNet-ում, սկսած USDPT-ից։",
-        "link": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network",
-        "source": "Decrypt",
-        "enTitle": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg@png"
-      },
-      {
-        "headline": "Իլինոյսի կրիպտո հարկի վիճարկում",
-        "summary": "ԱՄՆ Արդարադատության նախարարությունը, բիզնես խմբերը և DeFi ընկերությունները դատական հայցերով վիճարկում են Իլինոյսի կրիպտո հարկը։",
-        "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78NNMK090K8VRSJK706GEH0/hi-more-irs-crypto-reporting-more-danger.png"
-      },
-      {
-        "headline": "Bitcoin-ը նվազում է Nvidia-ի պատճառով",
-        "summary": "Bitcoin-ը իջել է 12 շաբաթվա նվազագույն մակարդակ՝ Nvidia-ի գործադիր տնօրեն Ջենսեն Հուանգի հրաժարականի և MSCI-ի կողմից Strategy-ի հեռացման ֆոնին։",
-        "link": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
+        "headline": "JPMorgan-ի ներդրումները BlackRock Bitcoin ETF-ում",
+        "summary": "JPMorgan-ը հայտնել է երրորդ եռամսյակում Strategy բաժնետոմսերի աճի և BlackRock-ի Bitcoin ETF-ում 540 միլիոն դոլարի ներդրումների մասին։",
+        "link": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
         "source": "The Block",
-        "enTitle": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/nvidia_jensen_editorial_1920x1080_2jpg.jpg"
+        "enTitle": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-13-at-12.11.30.png"
       },
       {
-        "headline": "MicroStrategy-ն հեռացվում է ինդեքսներից",
-        "summary": "MSCI-ն MicroStrategy-ին հեռացնում է խոշոր ներդրումային ինդեքսներից՝ հարցեր բարձրացնելով, թե ինչն է որակվում որպես բիզնես։",
-        "link": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
-        "source": "Decrypt",
-        "enTitle": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png"
+        "headline": "Կենտրոնական բանկերի արտարժույթի փորձարկում",
+        "summary": "Մեծ Բրիտանիայի, Սինգապուրի և Թաիլանդի կենտրոնական բանկերն ավարտել են արտարժույթի միջսահմանային հաշվարկների փորձարկումը՝ կապելով ավանդական և թոքենացված համակարգերը։",
+        "link": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
+        "source": "The Block",
+        "enTitle": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-13-at-14.59.24.png"
       },
       {
-        "headline": "Tether Gold-ի աուդիտը հաջող է",
-        "summary": "Tether Gold-ի (XAUT) թողարկողը KPMG U.S.-ի կողմից ստացել է անվերապահ եզրակացություն իր 2025 թվականի ֆինանսական հաշվետվությունների վերաբերյալ՝ հաստատելով 2.24 միլիարդ դոլարի ֆիզիկական ոսկու պահուստները։",
-        "link": "https://news.bitcoin.com/crypto-news/kpmg-counts-every-gold-bar-tether-xaut-clears-2-24-billion-audit/",
+        "headline": "Լուիզիանայի դատարանի արգելքը կանխատեսումների շուկաներին",
+        "summary": "Լուիզիանայի նահանգի դատավորը ժամանակավորապես արգելել է Kalshi-ին, Polymarket U.S.-ին, Robinhood-ին, Coinbase-ին և այլ ընկերություններին իրադարձությունների պայմանագրեր առաջարկել նահանգի բնակիչներին։",
+        "link": "https://news.bitcoin.com/igaming/louisiana-judge-orders-kalshi-polymarket-to-halt-event-contracts/",
         "source": "Bitcoin News",
-        "enTitle": "KPMG Counts Every Gold Bar as Tether’s XAUT Clears $2.24 Billion Audit",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/kpmg-counts-every-gold-bar-as-tethers-xaut-clears-2-24-billion-audit-768x432.png"
+        "enTitle": "Louisiana Judge Orders Kalshi, Polymarket to Halt Event Contracts",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/louisiana-768x432.jpg"
+      },
+      {
+        "headline": "Արդարադատության նախարարության գործողությունները Binance հաքերային հարձակման դեմ",
+        "summary": "Արդարադատության նախարարությունը ձեռնարկել է գործողություններ՝ Binance հաքերային հարձակումից 1.2 միլիարդ դոլար բռնագրավելու և FaceStealer խարդախությունը խափանելու համար։",
+        "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79YHRJXWCDNFHCS2S55SWJY/hi-the-things-the-dojs-latest-move-again-mcafee-have-taught-us-about.jpg"
+      },
+      {
+        "headline": "Ethereum-ի քվանտային անվտանգ հաշիվներ",
+        "summary": "Ethereum-ը ներկայացրել է քվանտային անվտանգ հաշիվներ՝ առաջարկելով անցում դեպի հետքվանտային հաշիվներ մինչև լայնածավալ գործարքները, սակայն վաղ օգտվողների համար նախատեսված է լրացուցիչ վճար։",
+        "link": "https://cryptoslate.com/ethereum-unveils-quantum-safe-accounts-with-a-costly-catch/",
+        "source": "CryptoSlate",
+        "enTitle": "Ethereum unveils quantum-safe accounts, with a costly catch",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-quantum-gas-cost.jpg"
       }
     ]
   }
