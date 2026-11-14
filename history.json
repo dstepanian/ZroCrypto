@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-16",
-    "ts": 1789585999461,
-    "fng": {
-      "value": 51,
-      "label": "Neutral",
-      "hy": "Չեզոք",
-      "dot": "🟡"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 75826,
-        "change24h": -0.21716671425637035
-      },
-      {
-        "label": "Ethereum",
-        "price": 2407.21,
-        "change24h": 0.06321059445783832
-      }
-    ],
-    "overview": "Օրը նշանավորվել է ԱՄՆ-ում կարգավորող զարգացումներով՝ CLARITY Act-ի ձախողումից հետո, ինչպես նաև Դաշնային պահուստային համակարգի կողմից կայացված առանցքային մակրոտնտեսական որոշմամբ։ Ինստիտուցիոնալ ընդունումը շարունակում է աճել, մինչդեռ կրիպտո ETF-ները զգալի արտահոսքեր են գրանցել։",
-    "items": [
-      {
-        "headline": "Դաշնային պահուստային համակարգը բարձրացրել է տոկոսադրույքները",
-        "summary": "Դաշնային պահուստային համակարգը բարձրացրել է տոկոսադրույքները 25 բազիսային կետով՝ հասցնելով 3.75%-4%-ի, ինչը 2023 թվականի հուլիսից ի վեր առաջին բարձրացումն է։",
-        "link": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
-        "source": "Decrypt",
-        "enTitle": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png"
-      },
-      {
-        "headline": "SEC-ը և CFTC-ն պատրաստվում են կրիպտո կանոններ մշակել",
-        "summary": "CLARITY Act-ի ձախողումից հետո SEC-ը և CFTC-ն հայտարարել են, որ պատրաստ են առաջ մղել կրիպտոարժույթների կարգավորման իրենց կանոնները՝ օգտագործելով գործող լիազորությունները։",
-        "link": "https://www.theblock.co/news/regulation/2026-09-16-go-time-sec-cftc-prepare-push-crypto-rules-clarity-act-stalls-senate-415281",
-        "source": "The Block",
-        "enTitle": "‘Go time’: SEC, CFTC prepare to push crypto rules as Clarity Act stalls in Senate",
-        "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News_2-1200x675.jpg"
-      },
-      {
-        "headline": "ԱՄՆ Ներկայացուցիչների պալատը հավանություն է տվել կրիպտո հարկային օրինագծին",
-        "summary": "ԱՄՆ Ներկայացուցիչների պալատի հարկային հանձնաժողովը հավանություն է տվել օրենսդրությանը, որը կվերաձևավորի դաշնային հարկային կանոնները stablecoin-ների, staking-ի, կրիպտո վարկավորման և թվային ակտիվների գործարքների համար։",
-        "link": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "US House tax committee advances crypto tax overhaul in 38–5 vote",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NKZPXXHGWMSP41E47Q6TRZ/hi-more-irs-crypto-reporting-more-danger.jpg"
-      },
-      {
-        "headline": "Bitcoin ETF-ները գրանցել են զգալի արտահոսքեր",
-        "summary": "ԱՄՆ կրիպտո ETF-ները, հատկապես Bitcoin ETF-ները, գրանցել են 450.33 միլիոն դոլարի զուտ արտահոսք՝ CLARITY Act-ի ձախողված քվեարկությունից հետո, ինչը ամենամեծ օրական արտահոսքն է հունիսի 25-ից ի վեր։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/fidelity-leads-450m-bitcoin-etf-exit-as-senate-vote-fails/",
-        "source": "Bitcoin News",
-        "enTitle": "Fidelity Leads $450M Bitcoin ETF Exit as Senate Vote Fails",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/fidelity-leads-450m-bitcoin-etf-exit-as-senate-vote-fails-768x432.jpg"
-      },
-      {
-        "headline": "Deutsche Bank-ը կսկսի Bitcoin-ի պահպանումը Եվրոպայում",
-        "summary": "Deutsche Bank-ը նախատեսում է 2026 թվականի վերջին սկսել Bitcoin-ի, Ethereum-ի և ընտրված stablecoin-ների պահպանումը ինստիտուցիոնալ հաճախորդների համար Եվրոպայում։",
-        "link": "https://news.bitcoin.com/finance/deutsche-bank-brings-bitcoin-custody-to-europes-institutional-set/",
-        "source": "Bitcoin News",
-        "enTitle": "Deutsche Bank Brings Bitcoin Custody to Europe’s Institutional Set",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/03/deutsche-bank-1-768x432.jpg"
-      },
-      {
-        "headline": "Circle-ը գործարկել է Arc Mainnet-ը BlackRock-ի հետ",
-        "summary": "Circle-ը գործարկել է Arc Layer 1 ցանցի mainnet-ը՝ BlackRock-ի, DTCC-ի և Visa-ի մասնակցությամբ որպես վալիդատորներ։",
-        "link": "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
-        "source": "Decrypt",
-        "enTitle": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png@png"
-      }
-    ]
-  },
-  {
     "date": "2026-09-17",
     "ts": 1789673284067,
     "fng": {
@@ -4309,6 +4236,79 @@
         "source": "Bitcoin News",
         "enTitle": "Payward Pushes Into AI, Prediction Markets as EBITDA Drops 66%",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/payward-pushes-into-ai-prediction-markets-as-ebitda-drops-66-768x432.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-15",
+    "ts": 1794687281105,
+    "fng": {
+      "value": 13,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 65587,
+        "change24h": -4.949808375845169
+      },
+      {
+        "label": "Ethereum",
+        "price": 1829.91,
+        "change24h": -6.275476165718066
+      }
+    ],
+    "overview": "Շուկան զգալի արտահոսքեր է արձանագրում Bitcoin ETF-ներից և stablecoin հատվածի կրճատում, ինչը վկայում է արջային տրամադրությունների մասին: Միևնույն ժամանակ, անվտանգության խոշոր միջադեպերը և կարգավորող ճնշումները շարունակում են ձևավորել կրիպտո արդյունաբերությունը:",
+    "items": [
+      {
+        "headline": "Bitcoin ETF-ների զգալի արտահոսք",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ներից երկու շաբաթվա ընթացքում արտահոսել է 2.35 միլիարդ դոլար, ընդ որում BlackRock-ի IBIT-ը գրանցել է 11 օր շարունակական կորուստներ։",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
+      },
+      {
+        "headline": "Stablecoin շուկայի կրճատում",
+        "summary": "Stablecoin շուկայից մայիսյան գագաթնակետից ի վեր անհետացել է 26 միլիարդ դոլար, ինչը ցույց է տալիս լիկվիդայնության նվազում։",
+        "link": "https://news.bitcoin.com/stablecoins/2022-vibes-26-billion-vanishes-from-stablecoin-market-since-may-peak/",
+        "source": "Bitcoin News",
+        "enTitle": "2022 Vibes: $26 Billion Vanishes From Stablecoin Market Since May Peak",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/22-vibes-26-billion-vanishes-from-stablecoin-market-since-may-peak-768x432.png"
+      },
+      {
+        "headline": "DOJ-ը փորձում է առգրավել Binance-ի հաքից",
+        "summary": "ԱՄՆ Արդարադատության նախարարությունը (DOJ) քայլեր է ձեռնարկում Binance-ի հաքից 1.2 միլիարդ դոլար առգրավելու համար՝ միաժամանակ խափանելով Հյուսիսային Կորեայի deepfake սխեման։",
+        "link": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+        "source": "The Block",
+        "enTitle": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/05/20220518_Meta-Facebook-Mark-Zuckerberg.jpg"
+      },
+      {
+        "headline": "Unocoin-ը խոստովանում է կրիպտո կորուստ",
+        "summary": "Հնդկական Unocoin կրիպտոարժույթի բորսան հաստատել է, որ հաքերները գողացել են մոտ 200,000 դոլար արժողությամբ կրիպտոարժույթ երեք վտանգված hot wallet-ներից և զգուշացրել հաճախորդների տվյալների հնարավոր արտահոսքի մասին։",
+        "link": "https://news.bitcoin.com/featured/unocoin-admits-200k-crypto-loss-warns-of-customer-data-breach/",
+        "source": "Bitcoin News",
+        "enTitle": "Unocoin Admits $200K Crypto Loss, Warns of Customer Data Breach",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/unocoin-admits-200k-crypto-loss-after-initially-denying-funds-were-stolen-768x432.png"
+      },
+      {
+        "headline": "MegaETH-ը կրճատում է անձնակազմը և անցնում AI-ի",
+        "summary": "Ethereum-ի մասշտաբավորման MegaETH նախագիծը կրճատել է անձնակազմի 20%-ը և շարժվում է դեպի AI բիզնես՝ իր Decentralized Finance-ի ընդհանուր արժեքի զգալի անկումից հետո։",
+        "link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/2cf1692a573ca1ba4ffb9090bf7fede6b3cb53e3-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Elizabeth Warren-ի նոր ճնշումը կրիպտոյի վրա",
+        "summary": "Elizabeth Warren-ը կարող է վերսկսել կրիպտոյի բանկային պայքարը՝ առանց որևէ օրենք փոխելու, ինչը լուրջ ճնշում կգործադրի ընկերությունների և կարգավորող մարմինների վրա։",
+        "link": "https://cryptoslate.com/warren-could-reopen-crypto-banking-fight-without-changing-a-single-law/",
+        "source": "CryptoSlate",
+        "enTitle": "Elizabeth Warren could reopen crypto’s banking fight without changing a single law",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/crypto-custody-records-labyrinth.webp"
       }
     ]
   }
