@@ -4241,9 +4241,9 @@
   },
   {
     "date": "2026-11-15",
-    "ts": 1794687281105,
+    "ts": 1794748270825,
     "fng": {
-      "value": 13,
+      "value": 10,
       "label": "Extreme Fear",
       "hy": "Ծայրահեղ վախ",
       "dot": "🔴"
@@ -4251,64 +4251,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 65587,
-        "change24h": -4.949808375845169
+        "price": 65489,
+        "change24h": -1.9613505889526235
       },
       {
         "label": "Ethereum",
-        "price": 1829.91,
-        "change24h": -6.275476165718066
+        "price": 1831.63,
+        "change24h": -3.196690591557487
       }
     ],
-    "overview": "Շուկան զգալի արտահոսքեր է արձանագրում Bitcoin ETF-ներից և stablecoin հատվածի կրճատում, ինչը վկայում է արջային տրամադրությունների մասին: Միևնույն ժամանակ, անվտանգության խոշոր միջադեպերը և կարգավորող ճնշումները շարունակում են ձևավորել կրիպտո արդյունաբերությունը:",
+    "overview": "Շուկան զգալի անկում է ապրում, Bitcoin-ը և այլ կրիպտոարժույթները գրանցում են գների էական անկում և ETF-ների զգալի արտահոսք։ Այդուհանդերձ, շարունակվում են ինստիտուցիոնալ ընդունման և կարգավորող գործողությունների զարգացումները, ինչպես նաև որոշ կրիպտո նախագծեր անցում են կատարում դեպի AI ոլորտ։",
     "items": [
       {
-        "headline": "Bitcoin ETF-ների զգալի արտահոսք",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ներից երկու շաբաթվա ընթացքում արտահոսել է 2.35 միլիարդ դոլար, ընդ որում BlackRock-ի IBIT-ը գրանցել է 11 օր շարունակական կորուստներ։",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Bitcoin-ը հասել է չորսամսյա նվազագույնին",
+        "summary": "Կրիպտոարժույթների շուկայի խորացող վաճառքի ֆոնին Bitcoin-ի գինը իջել է մինչև $62,000՝ հասնելով չորս ամսվա նվազագույնին։",
+        "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
+        "enTitle": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg"
       },
       {
-        "headline": "Stablecoin շուկայի կրճատում",
-        "summary": "Stablecoin շուկայից մայիսյան գագաթնակետից ի վեր անհետացել է 26 միլիարդ դոլար, ինչը ցույց է տալիս լիկվիդայնության նվազում։",
-        "link": "https://news.bitcoin.com/stablecoins/2022-vibes-26-billion-vanishes-from-stablecoin-market-since-may-peak/",
-        "source": "Bitcoin News",
-        "enTitle": "2022 Vibes: $26 Billion Vanishes From Stablecoin Market Since May Peak",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/22-vibes-26-billion-vanishes-from-stablecoin-market-since-may-peak-768x432.png"
-      },
-      {
-        "headline": "DOJ-ը փորձում է առգրավել Binance-ի հաքից",
-        "summary": "ԱՄՆ Արդարադատության նախարարությունը (DOJ) քայլեր է ձեռնարկում Binance-ի հաքից 1.2 միլիարդ դոլար առգրավելու համար՝ միաժամանակ խափանելով Հյուսիսային Կորեայի deepfake սխեման։",
-        "link": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+        "headline": "Bitcoin ETF-ներից 1 միլիարդ դոլարի արտահոսք",
+        "summary": "Bitcoin ETF-ները երկրորդ շաբաթն անընդմեջ կորցրել են 1 միլիարդ դոլար, քանի որ կրիպտո ֆոնդերից, բացառությամբ մեկի, շարունակվում է կապիտալի արտահոսքը։",
+        "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
         "source": "The Block",
-        "enTitle": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/05/20220518_Meta-Facebook-Mark-Zuckerberg.jpg"
+        "enTitle": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Neon-Liquid-Bitcoin-and-Ethereum-Flow_clean.png"
       },
       {
-        "headline": "Unocoin-ը խոստովանում է կրիպտո կորուստ",
-        "summary": "Հնդկական Unocoin կրիպտոարժույթի բորսան հաստատել է, որ հաքերները գողացել են մոտ 200,000 դոլար արժողությամբ կրիպտոարժույթ երեք վտանգված hot wallet-ներից և զգուշացրել հաճախորդների տվյալների հնարավոր արտահոսքի մասին։",
-        "link": "https://news.bitcoin.com/featured/unocoin-admits-200k-crypto-loss-warns-of-customer-data-breach/",
+        "headline": "DTCC-ն ընտրել է Solana-ն թոքենիզացիայի համար",
+        "summary": "DTCC-ն ընդլայնում է իր թոքենիզացիայի ճանապարհային քարտեզը՝ ընտրելով Solana-ն, ինչը կարևոր քայլ է ինստիտուցիոնալ ընդունման համար։",
+        "link": "https://news.bitcoin.com/featured/bitcoin-falls-dtcc-chooses-solana-for-tokenization-expansion-and-more-weekly-recap/",
         "source": "Bitcoin News",
-        "enTitle": "Unocoin Admits $200K Crypto Loss, Warns of Customer Data Breach",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/unocoin-admits-200k-crypto-loss-after-initially-denying-funds-were-stolen-768x432.png"
+        "enTitle": "Bitcoin Falls, DTCC Chooses Solana for Tokenization Expansion, and More – Weekly Recap",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/bitcoin-falls-dtcc-chooses-solana-for-tokenization-expansion-and-more--weekly-recap-768x432.jpg"
       },
       {
-        "headline": "MegaETH-ը կրճատում է անձնակազմը և անցնում AI-ի",
-        "summary": "Ethereum-ի մասշտաբավորման MegaETH նախագիծը կրճատել է անձնակազմի 20%-ը և շարժվում է դեպի AI բիզնես՝ իր Decentralized Finance-ի ընդհանուր արժեքի զգալի անկումից հետո։",
+        "headline": "Արդարադատության նախարարությունը թիրախավորում է Binance-ից գողացված միջոցները",
+        "summary": "ԱՄՆ Արդարադատության նախարարությունը դատարանի թույլտվություն է ստացել՝ թիրախավորելու Binance-ից գողացված ավելի քան 1.2 միլիարդ դոլար արժողությամբ կրիպտոարժույթը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/doj-secures-court-approval-targeting-1-2b-in-stolen-binance-crypto/",
+        "source": "Bitcoin News",
+        "enTitle": "DOJ Secures Court Approval Targeting $1.2B in Stolen Binance Crypto",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/binance-3-768x432.jpg"
+      },
+      {
+        "headline": "Kava Lend-ը կորցրել է 3.8 միլիոն դոլար հաքերային հարձակման հետևանքով",
+        "summary": "Kava Lend-ը հաքերային հարձակման հետևանքով կորցրել է մոտ 3.8 միլիոն դոլար, ինչի հետևանքով KAVA թոքենի գինը նվազել է գրեթե 40%-ով։",
+        "link": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+        "source": "The Block",
+        "enTitle": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg"
+      },
+      {
+        "headline": "MegaETH-ը կրճատում է անձնակազմը՝ անցնելով AI ոլորտ",
+        "summary": "Ethereum-ի մասշտաբավորման MegaETH նախագիծը կրճատել է անձնակազմի 20%-ը՝ նպատակ ունենալով զարգացնել AI բիզնեսը։",
         "link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
         "enTitle": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
         "image": "https://cdn.sanity.io/images/s3y3vcno/production/2cf1692a573ca1ba4ffb9090bf7fede6b3cb53e3-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Elizabeth Warren-ի նոր ճնշումը կրիպտոյի վրա",
-        "summary": "Elizabeth Warren-ը կարող է վերսկսել կրիպտոյի բանկային պայքարը՝ առանց որևէ օրենք փոխելու, ինչը լուրջ ճնշում կգործադրի ընկերությունների և կարգավորող մարմինների վրա։",
-        "link": "https://cryptoslate.com/warren-could-reopen-crypto-banking-fight-without-changing-a-single-law/",
-        "source": "CryptoSlate",
-        "enTitle": "Elizabeth Warren could reopen crypto’s banking fight without changing a single law",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/crypto-custody-records-labyrinth.webp"
       }
     ]
   }
