@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-18",
-    "ts": 1789757104055,
-    "fng": {
-      "value": 56,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 80986,
-        "change24h": 5.840791622854624
-      },
-      {
-        "label": "Ethereum",
-        "price": 2615.64,
-        "change24h": 6.655746831651429
-      }
-    ],
-    "overview": "Այսօր կրիպտո շուկան դրական տրամադրություն է ցուցաբերել՝ պայմանավորված ԱՄՆ կարգավորող մարմինների կողմից նոր քայլերով և ինստիտուցիոնալ ներհոսքերով։ Սակայն Եվրոպայում կարգավորող մարմինների միջամտությունները շարունակում են մարտահրավերներ ստեղծել։",
-    "items": [
-      {
-        "headline": "CFTC-ն կարգավորման ծրագիր է ներկայացրել",
-        "summary": "ԱՄՆ-ի Ապրանքային ֆյուչերսների առևտրի հանձնաժողովը (CFTC) Սպիտակ տուն է ներկայացրել կրիպտո ակտիվների շուկաների կարգավորման ծրագիրը՝ շրջանցելով Կոնգրեսը։",
-        "link": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
-        "source": "Decrypt",
-        "enTitle": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "SEC-ը հաստատել է թոքենացված արժեթղթերը",
-        "summary": "ԱՄՆ-ի Արժեթղթերի և բորսաների հանձնաժողովը (SEC) հաստատել է «Նորարարության բացառություն»՝ առաջ մղելով թոքենացված արժեթղթերի առևտուրը։",
-        "link": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
-        "source": "Decrypt",
-        "enTitle": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png"
-      },
-      {
-        "headline": "Bitcoin ETF-ները վերադարձել են ներհոսքերի",
-        "summary": "ԱՄՆ-ի Bitcoin ETF-ները հինգշաբթի օրը վերադարձել են ներհոսքերի՝ գրանցելով 159 միլիոն դոլար, որը գլխավորել է BlackRock-ի IBIT-ը։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-returns-to-inflows-with-159m-as-zcash-etf-draws-46-6m/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Returns to Inflows With $159M as Zcash ETF Draws $46.6M",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-returns-to-inflows-with-159m-as-zcash-etf-draws-46-6m-768x432.jpg"
-      },
-      {
-        "headline": "Grayscale Zcash ETF-ը բաժանում է նախատեսում",
-        "summary": "Grayscale-ի Zcash ETF-ը (ZCSH) նախատեսում է 3-ը 1-ի բաժանում՝ 233 միլիոն դոլարի ներհոսքի աճից հետո։",
-        "link": "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
-        "source": "The Block",
-        "enTitle": "Grayscale’s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251202_ZCash_News.jpg"
-      },
-      {
-        "headline": "NYSE-ն փորձարկում է Avalanche տեխնոլոգիան",
-        "summary": "Ava Labs-ի նախագահը հայտարարել է, որ NYSE-ն մեկ տարի փորձարկել է Avalanche տեխնոլոգիան թոքենիզացիայի իր ծրագրերի համար։",
-        "link": "https://www.theblock.co/news/ecosystems/2026-09-18-ava-labs-president-says-nyse-spent-a-year-testing-avalanche-technology-tokenization-plans-415509",
-        "source": "The Block",
-        "enTitle": "Ava Labs president says NYSE spent a year testing Avalanche technology for tokenization plans",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/02/nyse.jpg"
-      },
-      {
-        "headline": "ԵԿԲ-ն արգելափակել է Binance-ի լիցենզիան",
-        "summary": "Եվրոպական Կենտրոնական Բանկի (ԵԿԲ) նախագահ Քրիստին Լագարդը միջամտել է՝ արգելափակելու Binance-ի ԵՄ MiCA լիցենզիան։",
-        "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      }
-    ]
-  },
-  {
     "date": "2026-09-19",
     "ts": 1789841904470,
     "fng": {
@@ -4309,6 +4236,79 @@
         "source": "The Block",
         "enTitle": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
         "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1238606759-scaled-e1794823855150.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "ts": 1794873297637,
+    "fng": {
+      "value": 10,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 64903,
+        "change24h": -0.4672795089300315
+      },
+      {
+        "label": "Ethereum",
+        "price": 1820.4,
+        "change24h": -0.5708793957542379
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս կարգավորող մարմինների խառը մոտեցումներ՝ բլոկչեյնի նորարարությունների հաստատումներից մինչև օրենսդրական ձախողումներ և խիստ վերահսկողություն։ Շուկան նաև բախվում է անվտանգության լուրջ խնդիրների և Bitcoin ETF-ներից զգալի արտահոսքերի։",
+    "items": [
+      {
+        "headline": "CFTC-ն հավանություն է տալիս բլոկչեյնի վրա հիմնված ածանցյալներին",
+        "summary": "ԱՄՆ Ապրանքային ֆյուչերսների առևտրի հանձնաժողովը (CFTC) հաստատել է բլոկչեյն տեխնոլոգիան օգտագործող կարգավորվող ածանցյալների և բորսայական քլիրինգային գործառնությունների ստեղծման առաջին դիմումները։",
+        "link": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+        "source": "The Block",
+        "enTitle": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/04/CFTC.jpg"
+      },
+      {
+        "headline": "Custodia Bank-ը կորցրեց Fed-ի ուղղակի մուտքը",
+        "summary": "Գերագույն դատարանը մերժեց Custodia Bank-ի բողոքը՝ Fed-ի վճարային համակարգին ուղղակի մուտքի համար, ինչը նշանակում է, որ ստորին դատարանի որոշումը՝ մերժելու հաշվի դիմումները, ուժի մեջ կմնա։",
+        "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7K7K4XWRM18K351JQ17SMMQ/hi-traditional-bank-account-vs-bitcoin-custodial-storage.jpg"
+      },
+      {
+        "headline": "Trezor-ի հաճախորդների տվյալները կրկին բացահայտվել են",
+        "summary": "Trezor-ը զգուշացրել է խարդախ զանգերի և ֆիզիկական անվտանգության ռիսկերի մասին այն բանից հետո, երբ հաճախորդների հասցեները արտահոսել են առաքման գործընկերոջ մոտ՝ ազդելով 27,000 Skladon պատվերների վրա։",
+        "link": "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524",
+        "source": "The Block",
+        "enTitle": "Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/02/20230222_Trezor.jpg"
+      },
+      {
+        "headline": "Հաքերները AI-ով վերահասցեագրել են Bitcoin հանքագործների պարգևները",
+        "summary": "Luxor-ի գործադիր տնօրենը հայտարարել է, որ հաքերները AI-ի միջոցով վերահասցեագրել են ավելի քան մեկ տասնյակ հաճախորդների հաշիվների հաշվողական հզորությունը՝ օգտագործելով «բարդ AI-ով աշխատող վեկտոր»։",
+        "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
+        "source": "Decrypt",
+        "enTitle": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png"
+      },
+      {
+        "headline": "Bitcoin ETF-ները մեկ շաբաթում կորցրել են $1.07B",
+        "summary": "ԱՄՆ Bitcoin ETF-ները նոյեմբերի 13-ին ավարտված շաբաթվա ընթացքում գրանցել են $1.07 միլիարդի զուտ արտահոսք՝ նշելով երրորդ անընդմեջ շաբաթական կորուստը և երկրորդ անընդմեջ շրջանը $1 միլիարդից ավելի դուրսբերումներով։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-1-07b-week-pushing-2-week-outflows-2-35b/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin ETFs Lose $1.07B in a Week, Pushing 2-Week Outflows to $2.35B",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/bitcoin-etfs-lose-1-07b-as-outflows-top-1b-for-2nd-week-768x432.jpg"
+      },
+      {
+        "headline": "Clarity Act-ի ձախողումը՝ «Ամերիկյան առաջնորդության ձախողում»",
+        "summary": "Սպիտակ տան նախկին կրիպտո ղեկավար Պատրիկ Վիթը հայտարարել է, որ Clarity Act-ը «ժամանակի դեմ պարտվել է», և այժմ կարգավորող մարմինները կսահմանեն կանոնները։",
+        "link": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
+        "source": "Decrypt",
+        "enTitle": "Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/patrick-witt-decrypt-style-gID_7.jpg@png"
       }
     ]
   }
