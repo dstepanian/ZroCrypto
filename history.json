@@ -4241,7 +4241,7 @@
   },
   {
     "date": "2026-11-16",
-    "ts": 1794775209158,
+    "ts": 1794838792698,
     "fng": {
       "value": 10,
       "label": "Extreme Fear",
@@ -4251,64 +4251,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 65042,
-        "change24h": -0.6130153441069492
+        "price": 64394,
+        "change24h": -1.588635240702857
       },
       {
         "label": "Ethereum",
-        "price": 1829.82,
-        "change24h": 0.4422570151860778
+        "price": 1818.31,
+        "change24h": -0.5478726493291299
       }
     ],
-    "overview": "Կրիպտո շուկան վերջին 24 ժամվա ընթացքում զգալի անկում է ապրել, ինչը հանգեցրել է Bitcoin ETF-ներից խոշոր դուրս հոսքերի և որոշ ակտիվների գների կտրուկ նվազման։ Այս անկմանը զուգահեռ, գրանցվել են նաև անվտանգության հետ կապված միջադեպեր և մայնինգի դժվարության նվազում։",
+    "overview": "Վերջին 24 ժամվա ընթացքում կրիպտո շուկան բախվել է Bitcoin-ի գնի անկմանը, սակայն նկատվել են նաև դրական զարգացումներ՝ կապված ինստիտուցիոնալ ընդունման և հիմնական բլոկչեյնների թարմացումների հետ: MicroStrategy-ն շարունակում է իր Bitcoin-ի կուտակման ռազմավարությունը:",
     "items": [
       {
-        "headline": "Bitcoin ETF-ներից դուրս հոսքեր",
-        "summary": "Նոյեմբերին Bitcoin ETF-ներից դուրս է հոսել մոտ 2.1 միլիարդ դոլար՝ յոթ օր անընդմեջ արձանագրելով դուրս հոսքեր։",
-        "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
-        "source": "Decrypt",
-        "enTitle": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
-      },
-      {
-        "headline": "Kava Lend-ի կորուստը հաքերային հարձակումից",
-        "summary": "Kava Lend-ը հաքերային հարձակման հետևանքով կորցրել է մոտ 3.8 միլիոն դոլար, ինչի պատճառով KAVA թոքենի գինը նվազել է գրեթե 40%-ով։",
-        "link": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+        "headline": "Strategy-ն 33 միլիոն դոլարի Bitcoin է գնել",
+        "summary": "Michael Saylor-ի Strategy ընկերությունը գնել է ևս 485 BTC՝ 33 միլիոն դոլարով, քանի որ Bitcoin-ի գինը նվազել է:",
+        "link": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
         "source": "The Block",
-        "enTitle": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg"
+        "enTitle": "‘This dip could use a little orange’: Michael Saylor’s Strategy buys another 485 BTC for $33 million as bitcoin tumbles",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/saylor.png"
       },
       {
-        "headline": "Coinone-ի տվյալների արտահոսքի նախազգուշացում",
-        "summary": "Հարավկորեական Coinone կրիպտո փոխանակումը նախազգուշացրել է հաճախորդների տվյալների արտահոսքի մասին՝ ներառյալ գաղտնաբառեր և բանկային տվյալներ։",
-        "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Ledger-ը Solana-ում ներդնում է Clear Signing",
+        "summary": "Սարքավորումային դրամապանակ արտադրող Ledger-ը հայտարարել է, որ օգտատերերն այժմ կարող են կարդալ, թե ինչ են հաստատում ինը Solana հավելվածներում՝ վերջ դնելով Jupiter Swaps-ի «կույր» ստորագրմանը:",
+        "link": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
+        "source": "Decrypt",
+        "enTitle": "Ledger Brings Clear Signing to Solana, Ending 'Blind' Signing for Jupiter Swaps",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg@png"
+      },
+      {
+        "headline": "Solana-ն հրաժարվում է «beta» պիտակից",
+        "summary": "Solana Foundation-ը հանել է ցանցի «mainnet beta» պիտակը և ներկայացրել Solana 1.0-ը որպես ընդհանուր արձանագրության տարբերակ:",
+        "link": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885",
+        "source": "The Block",
+        "enTitle": "Solana drops ‘mainnet beta’ label and adopts protocol version 1.0",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4-1.jpg"
+      },
+      {
+        "headline": "Binance Pay Later-ը վարկ է առաջարկում",
+        "summary": "Binance Pay Later-ը իրավասու օգտատերերին հնարավորություն է տալիս մինչև 1,000 USDC վարկ ստանալ իրենց Bitcoin, Ether կամ BNB պահուստների դիմաց՝ Binance Card-ի կամ QR Pay-ի միջոցով գնումներ կատարելու համար:",
+        "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Coinone warns of phishing, identity theft after customer data breach",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png"
+        "enTitle": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J07ZYWCJ0MH18HZT45S0TD/hi-which-cryptocurrency-is-the-most-usable-as-real-money-bitcoin.jpg"
       },
       {
-        "headline": "Bitcoin մայնինգի դժվարության անկում",
-        "summary": "Bitcoin-ի գների անկման հետ մեկտեղ, մայնինգի դժվարությունը նվազել է 9.13%-ով՝ հասնելով տարվա 23-րդ ճշգրտմանը։",
-        "link": "https://news.bitcoin.com/mining/bitcoin-mining-hits-breaking-point-as-difficulty-plunges-9-13/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Mining Hits Breaking Point as Difficulty Plunges 9.13%",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/bitcoin-mining-hits-breaking-point-as-difficulty-plunges-9-13-768x432.png"
+        "headline": "DBS-ը և JPMorgan-ը գործարկում են թոքենացված փոխանցումներ",
+        "summary": "DBS-ը և JPMorgan-ը գործարկել են թոքենացված ավանդների ակնթարթային փոխանցումներ ԱՄՆ-ի և Սինգապուրի միջև, որի առաջին հաճախորդն է Ant International-ը:",
+        "link": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
+        "source": "The Block",
+        "enTitle": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg"
       },
       {
-        "headline": "Michael Saylor-ը ակնարկում է Bitcoin գնումներ",
-        "summary": "Michael Saylor-ը ակնարկել է ևս մեկ Strategy Bitcoin գնման մասին՝ շուկայի կտրուկ անկման պայմաններում։",
-        "link": "https://news.bitcoin.com/featured/michael-saylor-hints-at-another-strategy-bitcoin-buy-as-btc-slides/",
-        "source": "Bitcoin News",
-        "enTitle": "Michael Saylor Hints at Another Strategy Bitcoin Buy as BTC Slides",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/strategy-tracker-nov-15-768x432.jpg"
-      },
-      {
-        "headline": "XRP-ի գնի անկում",
-        "summary": "XRP-ի գինը հասել է իր ամենացածր մակարդակին 2024 թվականի նոյեմբերից ի վեր՝ ETF-ների դուրս հոսքերի և stablecoin-ների մատակարարման կրճատման ֆոնին։",
-        "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f5ebb4afb940e3439b9bd9944fc26aaedb49540b-2213x1011.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+        "headline": "Vitalik Buterin-ը պաշտպանում է Ethereum-ի գազի ծախսերի բարձրացումը",
+        "summary": "Ethereum-ի համահիմնադիր Vitalik Buterin-ը պաշտպանել է Ethereum-ի գազի գների առաջարկվող վերանայումը՝ նշելով գործարքների թողունակությունը մեծացնելու անհրաժեշտությունը՝ առանց ապակենտրոնացումը վտանգելու:",
+        "link": "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870",
+        "source": "The Block",
+        "enTitle": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1238606759-scaled-e1794823855150.jpg"
       }
     ]
   }
