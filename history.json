@@ -4241,9 +4241,9 @@
   },
   {
     "date": "2026-11-17",
-    "ts": 1794873297637,
+    "ts": 1794928340948,
     "fng": {
-      "value": 10,
+      "value": 12,
       "label": "Extreme Fear",
       "hy": "Ծայրահեղ վախ",
       "dot": "🔴"
@@ -4251,64 +4251,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 64903,
-        "change24h": -0.4672795089300315
+        "price": 64545,
+        "change24h": 0.012815615072748714
       },
       {
         "label": "Ethereum",
-        "price": 1820.4,
-        "change24h": -0.5708793957542379
+        "price": 1799.14,
+        "change24h": -0.7951653152118701
       }
     ],
-    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս կարգավորող մարմինների խառը մոտեցումներ՝ բլոկչեյնի նորարարությունների հաստատումներից մինչև օրենսդրական ձախողումներ և խիստ վերահսկողություն։ Շուկան նաև բախվում է անվտանգության լուրջ խնդիրների և Bitcoin ETF-ներից զգալի արտահոսքերի։",
+    "overview": "Կրիպտո շուկան այսօր նշանավորվեց ինստիտուցիոնալ առաջընթացներով, կարևոր կարգավորող հաստատումներով և ուշագրավ իրավական արդյունքով, ինչպես նաև բազմաթիվ հարթակների վրա ազդող խոշոր անվտանգության միջադեպով։",
     "items": [
       {
-        "headline": "CFTC-ն հավանություն է տալիս բլոկչեյնի վրա հիմնված ածանցյալներին",
-        "summary": "ԱՄՆ Ապրանքային ֆյուչերսների առևտրի հանձնաժողովը (CFTC) հաստատել է բլոկչեյն տեխնոլոգիան օգտագործող կարգավորվող ածանցյալների և բորսայական քլիրինգային գործառնությունների ստեղծման առաջին դիմումները։",
-        "link": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
-        "source": "The Block",
-        "enTitle": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/04/CFTC.jpg"
+        "headline": "Հոնկոնգը և Swift-ը փորձարկում են թոքենացված ավանդներ",
+        "summary": "Հոնկոնգը և Swift-ը ընդլայնել են իրենց ջանքերը՝ միացնելու թոքենացված բանկային ավանդները տարբեր արժույթներով՝ հիմնվելով թվային կենտրոնական բանկի փողի վերաբերյալ նախկին աշխատանքների վրա։",
+        "link": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f96187856f3474dbbb316e0769389671addb2f9c-2288x1712.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Custodia Bank-ը կորցրեց Fed-ի ուղղակի մուտքը",
-        "summary": "Գերագույն դատարանը մերժեց Custodia Bank-ի բողոքը՝ Fed-ի վճարային համակարգին ուղղակի մուտքի համար, ինչը նշանակում է, որ ստորին դատարանի որոշումը՝ մերժելու հաշվի դիմումները, ուժի մեջ կմնա։",
-        "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7K7K4XWRM18K351JQ17SMMQ/hi-traditional-bank-account-vs-bitcoin-custodial-storage.jpg"
-      },
-      {
-        "headline": "Trezor-ի հաճախորդների տվյալները կրկին բացահայտվել են",
-        "summary": "Trezor-ը զգուշացրել է խարդախ զանգերի և ֆիզիկական անվտանգության ռիսկերի մասին այն բանից հետո, երբ հաճախորդների հասցեները արտահոսել են առաքման գործընկերոջ մոտ՝ ազդելով 27,000 Skladon պատվերների վրա։",
-        "link": "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524",
-        "source": "The Block",
-        "enTitle": "Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/02/20230222_Trezor.jpg"
-      },
-      {
-        "headline": "Հաքերները AI-ով վերահասցեագրել են Bitcoin հանքագործների պարգևները",
-        "summary": "Luxor-ի գործադիր տնօրենը հայտարարել է, որ հաքերները AI-ի միջոցով վերահասցեագրել են ավելի քան մեկ տասնյակ հաճախորդների հաշիվների հաշվողական հզորությունը՝ օգտագործելով «բարդ AI-ով աշխատող վեկտոր»։",
-        "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
-        "source": "Decrypt",
-        "enTitle": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png"
-      },
-      {
-        "headline": "Bitcoin ETF-ները մեկ շաբաթում կորցրել են $1.07B",
-        "summary": "ԱՄՆ Bitcoin ETF-ները նոյեմբերի 13-ին ավարտված շաբաթվա ընթացքում գրանցել են $1.07 միլիարդի զուտ արտահոսք՝ նշելով երրորդ անընդմեջ շաբաթական կորուստը և երկրորդ անընդմեջ շրջանը $1 միլիարդից ավելի դուրսբերումներով։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-1-07b-week-pushing-2-week-outflows-2-35b/",
+        "headline": "CFTC-ն հաստատում է ԱՄՆ կրիպտո ածանցյալները",
+        "summary": "Backpack-ը և Tzero-ն ստացել են CFTC-ի փոխանակման և քլիրինգի հիմնական հաստատումները՝ ամրապնդելով ԱՄՆ-ում բլոկչեյնի վրա հիմնված ածանցյալների կարգավորող հիմքը։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/backpack-tzero-win-cftc-approvals-for-us-crypto-derivatives/",
         "source": "Bitcoin News",
-        "enTitle": "Bitcoin ETFs Lose $1.07B in a Week, Pushing 2-Week Outflows to $2.35B",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/bitcoin-etfs-lose-1-07b-as-outflows-top-1b-for-2nd-week-768x432.jpg"
+        "enTitle": "Backpack, Tzero Win CFTC Approvals for US Crypto Derivatives",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/backpack-tzero-win-cftc-approvals-for-us-crypto-derivatives-768x432.jpg"
       },
       {
-        "headline": "Clarity Act-ի ձախողումը՝ «Ամերիկյան առաջնորդության ձախողում»",
-        "summary": "Սպիտակ տան նախկին կրիպտո ղեկավար Պատրիկ Վիթը հայտարարել է, որ Clarity Act-ը «ժամանակի դեմ պարտվել է», և այժմ կարգավորող մարմինները կսահմանեն կանոնները։",
-        "link": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
-        "source": "Decrypt",
-        "enTitle": "Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/patrick-witt-decrypt-style-gID_7.jpg@png"
+        "headline": "Եղբայրները արդարացվել են Ethereum-ի շահագործման գործով",
+        "summary": "ԱՄՆ դատարանը արդարացրել է MIT-ի կրթություն ստացած Peraire-Bueno եղբայրներին՝ 25 միլիոն դոլար արժողությամբ Ethereum-ի շահագործման գործով մետաղալարային խարդախության և փողերի լվացման մեղադրանքներից։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/judge-acquits-mit-brothers-25m-ethereum-exploit-case/",
+        "source": "Bitcoin News",
+        "enTitle": "Judge Acquits MIT-Educated Brothers in $25M Ethereum Exploit Case",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/us-court-aqcuits-alleged-to-frausters-1-768x431.jpg"
+      },
+      {
+        "headline": "Հաքերները կրիպտո-գողացող կոդ են տեղադրել կայքերում",
+        "summary": "Optimizely-ի գրանցման թերությունը հաքերին թույլ է տվել հասցեներ փոխող կոդ տեղադրել 178 խոշոր կայքերում, ներառյալ HSBC-ն, BBC-ն և Ledger-ը։",
+        "link": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Solana Foundation-ը մեծամասնական բաժնեմաս է ձեռք բերում CoinGecko-ում",
+        "summary": "Solana Foundation-ն այժմ մեծամասնական բաժնեմաս ունի CoinGecko-ում, քանի որ կրիպտո տվյալների հարթակը ուսումնասիրում է առևտրային գործառույթները։",
+        "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MRRJPQ774RM2VSE27T59EP/hi-how-to-buy-nfts-on-solana.jpg"
+      },
+      {
+        "headline": "Tether Capital-ը ներդրում է կատարում Nomad-ում",
+        "summary": "Tether-ը հայտարարել է, որ գործարքը կարող է հեշտացնել միջազգային վճարումները Բրազիլիայում և ճանապարհ բացել USDT-ի և Tether Gold-ի ինտեգրումների համար։",
+        "link": "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097",
+        "source": "The Block",
+        "enTitle": "Tether Capital invests $15 million in Nomad, eyes wider access to USDT and XAUT in Brazil",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Tether_News.jpg"
       }
     ]
   }
