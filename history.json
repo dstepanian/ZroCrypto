@@ -4241,9 +4241,9 @@
   },
   {
     "date": "2026-11-18",
-    "ts": 1794957306097,
+    "ts": 1795013394338,
     "fng": {
-      "value": 12,
+      "value": 11,
       "label": "Extreme Fear",
       "hy": "Ծայրահեղ վախ",
       "dot": "🔴"
@@ -4251,64 +4251,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 65140,
-        "change24h": -0.1232411153295307
+        "price": 63163,
+        "change24h": -2.7641320063914705
       },
       {
         "label": "Ethereum",
-        "price": 1832.1,
-        "change24h": 0.3057522534356989
+        "price": 1758.37,
+        "change24h": -3.116842858411984
       }
     ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ ընդունման աճով և կարգավորող մարմինների ուշադրության կենտրոնացմամբ: Մինչ խոշոր ֆինանսական հաստատությունները մեծացնում են իրենց ներդրումները կրիպտո ակտիվներում, կարգավորիչները մտահոգություններ են բարձրացնում նորարարությունների հետ կապված ռիսկերի շուրջ:",
+    "overview": "Այսօրվա կրիպտո նորությունները կարևոր զարգացումներ են արձանագրել կարգավորման, ինստիտուցիոնալ ընդունման և AI տեխնոլոգիաների կիրառման ոլորտներում։ Շուկան շարունակում է հարմարվել նոր մարտահրավերներին և հնարավորություններին։",
     "items": [
       {
-        "headline": "Wells Fargo-ն կրկնապատկում է BlackRock Bitcoin ETF-ի բաժնետոմսերը",
-        "summary": "Wells Fargo-ն զգալիորեն ավելացրել է իր BlackRock Bitcoin ETF-ի բաժնետոմսերը՝ հասցնելով 2.35 միլիարդ դոլարի՝ ցույց տալով ավանդական ֆինանսների աճող հետաքրքրությունը կրիպտո ակտիվների նկատմամբ:",
-        "link": "https://news.bitcoin.com/featured/wells-fargo-doubles-blackrock-bitcoin-etf-holdings-2-35-billion/",
-        "source": "Bitcoin News",
-        "enTitle": "Wells Fargo More Than Doubles Blackrock Bitcoin ETF Holdings to $2.35B",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/wells-fargo-768x432.jpg"
+        "headline": "Backpack-ը ստացել է NFA հավանություն ԱՄՆ-ում",
+        "summary": "Backpack-ը ստացել է NFA-ի հավանությունը՝ ամբողջացնելով իր լիցենզավորման փաթեթը ԱՄՆ-ում դերիվատիվների գործարկման համար։",
+        "link": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980",
+        "source": "The Block",
+        "enTitle": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/workflow_Article-cover-image-Free-metaphor-choice_2026-11-18_10-21-41.png"
       },
       {
-        "headline": "Համաշխարհային բանկը փորձարկում է stablecoin-ները վճարումների համար",
-        "summary": "Համաշխարհային բանկը Circle-ի և Citi-ի հետ համատեղ փորձարկում է stablecoin-ների օգտագործումը զարգացման վճարումների համար՝ նպատակ ունենալով արագացնել և նվազեցնել ծախսերը:",
-        "link": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
-        "source": "Decrypt",
-        "enTitle": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-gID_7.png@png"
-      },
-      {
-        "headline": "Cathie Wood-ի ARK-ը վաճառում է Nvidia, գնում կրիպտո բաժնետոմսեր",
-        "summary": "Cathie Wood-ի ARK Invest-ը վաճառել է Nvidia-ի բաժնետոմսեր՝ 85 միլիոն դոլար արժողությամբ, և 40 միլիոն դոլարով կրիպտո բաժնետոմսեր է ձեռք բերել՝ ցույց տալով իր վստահությունը կրիպտո շուկայի նկատմամբ:",
-        "link": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
-        "source": "Decrypt",
-        "enTitle": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/cathie-wood-ark-invest-decrypt-style-02-gID_7.jpg@png"
-      },
-      {
-        "headline": "Ethereum-ի մշակողները քննարկում են մասշտաբայնության արդիականացում",
-        "summary": "Ethereum-ի մշակողները քննարկում են Glamsterdam արդիականացումը, որը կարող է 3.3 անգամ մեծացնել հզորությունը, սակայն նաև վտանգել հազարավոր հավելվածների աշխատանքը:",
-        "link": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
-        "source": "Decrypt",
-        "enTitle": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ethereum-decrypt-style-05-gID_7.png@png"
-      },
-      {
-        "headline": "Fed-ի Waller-ը նախազգուշացնում է tokenized ֆինանսների ռիսկերի մասին",
-        "summary": "Fed-ի կառավարիչ Christopher Waller-ը Binance-ի հաքերային հարձակումը որպես օրինակ բերելով՝ մտահոգություն է հայտնել tokenized ֆինանսների հետ կապված խարդախությունների և անվտանգության ռիսկերի շուրջ:",
-        "link": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "Ռուսաստանի կրիպտո առևտրի մեկնարկը սպառնալիքի տակ է",
+        "summary": "Ռուսաստանում կրիպտո առևտրի կարգավորված մեկնարկը բախվում է անորոշության՝ պատժամիջոցների հետ կապված մտավախությունների պատճառով։",
+        "link": "https://cointelegraph.com/news/sanctions-fears-russia-crypto-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "Fed’s Waller cites Binance hack in warning over tokenized finance",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N66YD4VEG6WKSNQ9ZJSDDF/hi-impact-of-fed-interest-rates-on-crypto-holders-stablecoin-2.png"
+        "enTitle": "Sanctions fears loom over Russia’s regulated crypto trading launch",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q75JXEH3W3H0DFN6HB6KQR/contemplative-coin-character.png"
       },
       {
-        "headline": "Kalshi-ն դադարեցնում է Trump-ի հետ կապված շուկաները",
-        "summary": "Կանխատեսումների շուկայի օպերատոր Kalshi-ն դադարեցրել է Trump-ի հետ կապված որոշ շուկաներ՝ Ապրանքային Ֆյուչերսների Առևտրի Հանձնաժողովի (CFTC) մտահոգություններից հետո՝ կապված մանիպուլյացիայի ռիսկերի հետ:",
-        "link": "https://news.bitcoin.com/regulation-and-legal/kalshi-axes-trump-mention-markets-cftc-raises-concerns/",
-        "source": "Bitcoin News",
-        "enTitle": "Kalshi Axes Trump Mention Markets After CFTC Raises Concerns: CNBC",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/trump-teleprompter-operator-fined-172k-after-dominating-kalshi-bets-768x432.png"
+        "headline": "MARA-ն $185 միլիոն պարտք է վերցրել",
+        "summary": "Bitcoin մայնինգով զբաղվող MARA ընկերությունը $185 միլիոն պարտք է վերցրել՝ նախկինում $1 միլիարդ BTC վաճառելուց հետո՝ վարկերը մարելու համար։",
+        "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca66b3dc87ea8726aae8c39431318f25701396b3-4000x2667.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Համաշխարհային բանկը համագործակցում է Circle-ի հետ",
+        "summary": "Համաշխարհային բանկը համագործակցում է Circle-ի և Citi-ի հետ՝ ուսումնասիրելու stablecoin-ների կիրառումը վճարումների համար։",
+        "link": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg"
+      },
+      {
+        "headline": "Հոնկոնգի կենտրոնական բանկը ուսումնասիրում է AI-ն",
+        "summary": "Հոնկոնգի կենտրոնական բանկը (HKMA) ուսումնասիրում է AI գործակալների կիրառումը կրիպտոարժույթների հետ կապված ֆինանսական հանցագործությունները հայտնաբերելու համար։",
+        "link": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959",
+        "source": "The Block",
+        "enTitle": "Hong Kong central bank explores agentic AI to detect crypto-related financial crime",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2304654925-1ed-2-scaled.jpg"
+      },
+      {
+        "headline": "Solana-ն դուրս է եկել բետա փուլից",
+        "summary": "Solana-ն դուրս է եկել բետա փուլից, որը նա օգտագործում էր 2020 թվականի իր գործարկումից ի վեր, ինչից հետո SOL թոքենի գինը բարձրացել է 7%-ով։",
+        "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7PVBTFSABZPYDQ0WHD9YNKW/price-movements-solana.png"
       }
     ]
   }
