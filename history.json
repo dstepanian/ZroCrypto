@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-20",
-    "ts": 1789928634899,
-    "fng": {
-      "value": 71,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 81190,
-        "change24h": -0.31178679787603664
-      },
-      {
-        "label": "Ethereum",
-        "price": 2632.48,
-        "change24h": -0.3318913465432236
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո նորությունները ցույց են տալիս կարգավորող մարմինների աճող ուշադրությունը ոլորտի նկատմամբ, ինչպես նաև շուկայում առկա անվտանգության մարտահավերները։ Միաժամանակ, դիտվում է ինստիտուցիոնալ ներդրողների հետաքրքրության շարունակական աճ և նոր ֆինանսական ապրանքների զարգացում։",
-    "items": [
-      {
-        "headline": "ԵՄ-ն քննարկում է սթեյքինգի կարգավորումը",
-        "summary": "Եվրոպական հանձնաժողովը քննարկում է սթեյքինգի ծառայությունների կարգավորումը, ինչը կարող է ազդել կրիպտո եկամտաբերության և ցանցի անվտանգության վրա։",
-        "link": "https://cryptoslate.com/staking-is-becoming-too-large-for-europe-to-leave-alone/",
-        "source": "CryptoSlate",
-        "enTitle": "EU staking review threatens crypto yields and network security could pay the price",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/eu-staking-lockdown.webp"
-      },
-      {
-        "headline": "SEC-ը խթանում է թոքենիզացված բաժնետոմսերը",
-        "summary": "Վերլուծաբանները նշում են, որ SEC-ի կողմից թոքենիզացված բաժնետոմսերի խթանումը նոր հնարավորություններ է ստեղծում Coinbase-ի, Robinhood-ի և Circle-ի համար։",
-        "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/419fc7b18585acc0821aefb3c6973a9391cfaa86-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Visa-ն փակում է մեմ քոինի բացը",
-        "summary": "Visa-ն քայլեր է ձեռնարկում՝ կանխելու մեմ քոինների գնումները որպես «թվային մեդիա» կոդավորելուց և քարտի պարգևավճարներ ստանալուց։",
-        "link": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
-        "source": "Decrypt",
-        "enTitle": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg@png"
-      },
-      {
-        "headline": "Polymarket-ը բախվել է խարդախության",
-        "summary": "Polymarket կանխատեսումների շուկան բախվել է 10 միլիոն դոլարի խարդախության փորձի, մինչդեռ հաքերները կոտրել են մոտ 500 օգտատերերի հաշիվներ։",
-        "link": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
-        "source": "The Block",
-        "enTitle": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/10/20201007_Polymarket-Daily.png"
-      },
-      {
-        "headline": "Saylor-ը ազդանշան է տալիս Bitcoin գնելու մասին",
-        "summary": "Michael Saylor-ը նոր «նարնջագույն» ազդանշանով և հոլդինգների աղյուսակով վերակենդանացրել է MicroStrategy-ի կողմից ևս մեկ Bitcoin գնելու շահարկումները։",
-        "link": "https://news.bitcoin.com/featured/a-little-more-orange-saylor-signals-fresh-strategy-bitcoin-buy/",
-        "source": "Bitcoin News",
-        "enTitle": "A Little More Orange: Saylor Signals Fresh Strategy Bitcoin Buy",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/strategy-orange-dot-chart-sept-20-768x432.jpg"
-      },
-      {
-        "headline": "Կեղծ USDT-ն Վենեսուելայում",
-        "summary": "Զեկույցները ցույց են տալիս, որ խարդախները Վենեսուելայում օգտագործում են կեղծ USDT թոքեններ՝ առևտրականներից գողանալու համար։",
-        "link": "https://news.bitcoin.com/stablecoins/scammers-use-fake-usdt-tokens-to-steal-from-venezuelan-merchants/",
-        "source": "Bitcoin News",
-        "enTitle": "Scammers Use Fake USDT Tokens to Steal From Venezuelan Merchants",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/us-dollars-768x432.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-09-21",
     "ts": 1789990137692,
     "fng": {
@@ -4309,6 +4236,71 @@
         "source": "Cointelegraph.com News",
         "enTitle": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7PVBTFSABZPYDQ0WHD9YNKW/price-movements-solana.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "ts": 1795041993070,
+    "fng": {
+      "value": 11,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 62469,
+        "change24h": -3.548743709472209
+      },
+      {
+        "label": "Ethereum",
+        "price": 1763.44,
+        "change24h": -2.796842101699868
+      }
+    ],
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է կարգավորող զարգացումներով և անվտանգության մտահոգություններով։ Կարևոր իրադարձությունները ներառում են ապարատային դրամապանակների հետ կապված խնդիրներ, կառավարությունների կողմից Bitcoin-ի սառեցման փորձեր և խոշոր բորսաների կողմից գողացված միջոցների վերականգնում։",
+    "items": [
+      {
+        "headline": "Ledger-ը հաստատում է կեղծված դրամապանակներ Բեռլինում",
+        "summary": "Ledger-ը հաստատել է, որ Բեռլինում հայտնաբերվել են կեղծված Bitcoin դրամապանակներ, և հետաքննությունը տարածվում է նաև Դուբայի վրա։",
+        "link": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
+        "source": "Decrypt",
+        "enTitle": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-hardware-wallets-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Գերմանիան նախատեսում է սառեցնել Bitcoin-ը",
+        "summary": "Գերմանիան քայլեր է ձեռնարկում Bitcoin-ը մինչև 180 օրով սառեցնելու ուղղությամբ, նույնիսկ առանց անձնական բանալիների հասանելիության։",
+        "link": "https://cryptoslate.com/germany-moves-to-freeze-bitcoin-for-up-to-180-days-even-without-access-to-private-keys/",
+        "source": "CryptoSlate",
+        "enTitle": "Germany moves to freeze Bitcoin for up to 180 days, even without access to private keys",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/germany-bitcoin-frost-divider.webp"
+      },
+      {
+        "headline": "Binance-ը ստացել է $6.5 միլիարդի սառեցման հրաման",
+        "summary": "Binance-ը Աբու Դաբիի դատարանից ստացել է $6.5 միլիարդի համաշխարհային սառեցման հրաման՝ հոկտեմբերյան հաքերային հարձակումից գողացված կրիպտոարժույթը վերականգնելու համար։",
+        "link": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
+        "source": "The Block",
+        "enTitle": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/02/20230215_Binance3.jpg"
+      },
+      {
+        "headline": "Coinshares-ը վաճառել է ETH և Solana",
+        "summary": "Coinshares-ը վաճառել է իր ամբողջ Ether-ի պաշարը և Solana-ի կեսը՝ $40 միլիոն արժողությամբ բաժնետոմսերի հետգնման ծրագիր ֆինանսավորելու համար։",
+        "link": "https://news.bitcoin.com/finance/coinshares-sells-all-ether-half-sol-fund-40m-share-buyback/",
+        "source": "Bitcoin News",
+        "enTitle": "Coinshares Sells All Ether, Half Its Solana to Fund $40M Share Buyback",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/coinshares-logo-768x432.png"
+      },
+      {
+        "headline": "Backpack-ը ստացել է ԱՄՆ կարգավորող հաստատում",
+        "summary": "Backpack կրիպտո բորսան ստացել է ԱՄՆ վերջնական կարգավորող հաստատումը՝ լծակային կրիպտո ֆյուչերսներ առաջարկելու համար։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/backpack-securies-final-us-regulatory-approval-leveraged-crypto-futures/",
+        "source": "Bitcoin News",
+        "enTitle": "Backpack Secures Final US Regulatory Approval to Offer Leveraged Crypto Futures",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/backpack-768x432.png"
       }
     ]
   }
