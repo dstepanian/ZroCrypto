@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-21",
-    "ts": 1789990137692,
-    "fng": {
-      "value": 70,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 84648,
-        "change24h": 5.384961789271622
-      },
-      {
-        "label": "Ethereum",
-        "price": 2720.7,
-        "change24h": 5.827259208297107
-      }
-    ],
-    "overview": "Կրիպտո շուկան այսօր նշանավորվել է ֆինանսական հաստատությունների կողմից բլոկչեյն տեխնոլոգիաների ինտեգրմամբ և կարգավորող մարմինների միջամտություններով, մինչդեռ անվտանգության խոցելիությունները և կիբերհանցագործությունները շարունակում են մնալ օրակարգում։",
-    "items": [
-      {
-        "headline": "ԵԿԲ-ն գործարկում է Pontes հարթակը",
-        "summary": "Եվրոպական Կենտրոնական Բանկը (ECB) գործարկել է Pontes հարթակը՝ կենտրոնական բանկի փողերով մեծածախ թոքենացված ակտիվների հաշվարկների համար։",
-        "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Bitcoin Lightning-ի անվտանգության խոցելիություն",
-        "summary": "Bitcoin Lightning ցանցում հայտնաբերվել է թերություն, որը կարող է հանգեցնել նոդի ամբողջ հաշվեկշռի փոխանցմանը մայնորներին։",
-        "link": "https://cryptoslate.com/a-bitcoin-lightning-flaw-could-send-a-nodes-entire-balance-straight-to-miners/",
-        "source": "CryptoSlate",
-        "enTitle": "A Bitcoin Lightning flaw could send a node’s entire balance straight to miners",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/eclair-peer-risk-shield.webp"
-      },
-      {
-        "headline": "Hana Bank-ը թողարկում է թվային պարտատոմս",
-        "summary": "Հարավկորեական Hana Bank-ը թողարկել է երկրի առաջին թվային պարտատոմսը՝ օգտագործելով Euroclear-ի բլոկչեյն ենթակառուցվածքը։",
-        "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ca0c5227db16e3f89f1df6c7b19698cc547c9f6-3192x1772.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "ԱՄՆ-ը սև ցուցակում է ներառել Bitbank-ը",
-        "summary": "Միացյալ Նահանգները սև ցուցակում է ներառել իրանական կրիպտո փոխանակման Bitbank-ը՝ հարյուր միլիոնավոր դոլարների Bitcoin փոխանցումների համար՝ իբրև պատժամիջոցներից խուսափելու նպատակով։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/us-blacklists-bitbank-over-hundreds-of-millions-in-bitcoin-transfers/",
-        "source": "Bitcoin News",
-        "enTitle": "US Blacklists Bitbank Over Hundreds of Millions in Bitcoin Transfers",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/treasury-department-2-768x432.jpg"
-      },
-      {
-        "headline": "ԱՄՆ Կոնգրեսը առաջ է տանում Bitcoin պահուստի օրինագիծը",
-        "summary": "ԱՄՆ Կոնգրեսի հանձնաժողովը առաջ է տվել օրենսդրություն, որը կամրագրի ԱՄՆ ռազմավարական Bitcoin պահուստը և կարգելի դրա վաճառքը 20 տարի ժամկետով։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/house-panel-advances-us-bitcoin-reserve-bill-with-20-year-hold/",
-        "source": "Bitcoin News",
-        "enTitle": "House Panel Advances US Bitcoin Reserve Bill With 20-Year Hold",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/congress-building-3-768x432.jpg"
-      },
-      {
-        "headline": "Հյուսիսկորեական հաքերները գողացել են $10.7M կրիպտո",
-        "summary": "Հյուսիսկորեական WaterPlum կիբերխումբը վարակել է ավելի քան 30,000 սարք և գողացել 10.7 միլիոն դոլար կրիպտո՝ կեղծ աշխատանքի առաջարկների միջոցով։",
-        "link": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M30SCR3TXMTSM58MCQ6E0A8X/north-korea-it.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-09-22",
     "ts": 1790105277003,
     "fng": {
@@ -4309,6 +4236,79 @@
         "source": "CryptoSlate",
         "enTitle": "Citi and Circle join World Bank in tests with USDC, unlocking a massive aid shift",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_6qrfJuRkeY.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-20",
+    "ts": 1795128611230,
+    "fng": {
+      "value": 10,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 62202,
+        "change24h": -0.22688072245442667
+      },
+      {
+        "label": "Ethereum",
+        "price": 1762.74,
+        "change24h": 0.21926574043766534
+      }
+    ],
+    "overview": "Շուկան խառը ազդանշաններ է ստանում։ Ինստիտուցիոնալ Bitcoin ETF-ները արտահոսքեր են գրանցել, հնարավոր է՝ Anthropic-ի IPO-ի մրցակցության պատճառով, մինչդեռ խոշոր կրիպտո հարթակները բախվել են կարգավորող և գործառնական մարտահրավերների։",
+    "items": [
+      {
+        "headline": "Binance-ը սառեցրել է 6.5 միլիարդ դոլարի ակտիվներ",
+        "summary": "Binance-ը Աբու Դաբիի ADGM դատարաններից ստացել է 6.5 միլիարդ դոլարի համաշխարհային սառեցման հրաման՝ հոկտեմբերի 29-ի հաքերային հարձակման ժամանակ գողացված ակտիվները հետապնդելու համար։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/new-recovery-model-binance-wins-6-5b-freeze-26k-wallets/",
+        "source": "Bitcoin News",
+        "enTitle": "A New Recovery Model? Binance Wins $6.5B Freezing Order Across 26K Wallets",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/binance-wins-6-5b-freeze-across-26000-walletsa-new-recovery-model-768x432.jpg"
+      },
+      {
+        "headline": "Babylon-ը դիտարկում է Bitcoin staking-ի դադարեցումը",
+        "summary": "Babylon-ի համահիմնադիր Ֆիշեր Յուն առաջարկել է մինչև տարեվերջ դադարեցնել իր BTC staking ծրագիրը, ինչը հարցականի տակ է դնում մոտ 2.6 միլիարդ դոլար արժողությամբ 41,600 BTC-ն։",
+        "link": "https://news.bitcoin.com/defi/babylon-weighs-end-bitcoin-staking-what-happens-2-6b-btc/",
+        "source": "Bitcoin News",
+        "enTitle": "Babylon Weighs End to Bitcoin Staking—What Happens to $2.6B in BTC?",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/untitled-design1-4-768x432.png"
+      },
+      {
+        "headline": "MoonPay-ը ԱՄՆ բանկային լիցենզիա է փնտրում",
+        "summary": "MoonPay-ի առաջարկած ազգային վստահության բանկը կառաջարկի stablecoin-ի թողարկում և մարում, պահուստների կառավարում և թվային ակտիվների պահպանում դաշնային վերահսկողության ներքո։",
+        "link": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "MoonPay seeks US bank charter for stablecoin, custody services",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TRZBKZ9CRA2JGQ7AM7G08Z/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.png"
+      },
+      {
+        "headline": "SEC-ի թեկնածուն աջակցում է tokenized բաժնետոմսերի կանոնակարգմանը",
+        "summary": "Նախկին CFTC հանձնակատար Քրիստին Ջոնսոնը աջակցել է tokenized բաժնետոմսերի առևտրի համար պաշտոնական կանոնակարգման գործընթացին։",
+        "link": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TFD02FRZ10BM2N4QZ1NBPG/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2027.png"
+      },
+      {
+        "headline": "Sky-ի USDS stablecoin-ը կրճատվել է 35%-ով",
+        "summary": "Sky-ի USDS stablecoin-ը կրճատվել է 35%-ով, քանի որ 1.5 միլիարդ դոլար է դուրս բերվել պահուստներից՝ ապօրինի ֆինանսավորման մասին զեկույցից հետո։",
+        "link": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/68cca7099bc4c4f1be04587d54e876e9da8719ee-1440x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Bitcoin ETF-ները կորցրել են 306 միլիոն դոլար",
+        "summary": "Bitcoin ETF-ները չորեքշաբթի օրը կորցրել են 306.42 միլիոն դոլար, քանի որ ներդրողները պատրաստվում էին Anthropic-ի շուկայական դեբյուտին։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/anthropic-ipo-tests-bitcoin-etfs-blackrock-leads-306m-exit/",
+        "source": "Bitcoin News",
+        "enTitle": "Anthropic IPO Tests Bitcoin ETFs as Blackrock Leads $306M Exit",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/anthropic-ipo-tests-bitcoin-etfs-as-blackrock-leads-306m-exit-1-768x432.jpg"
       }
     ]
   }
