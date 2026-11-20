@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-22",
-    "ts": 1790105277003,
-    "fng": {
-      "value": 78,
-      "label": "Extreme Greed",
-      "hy": "Ծայրահեղ ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 86500,
-        "change24h": 0.22643271159324938
-      },
-      {
-        "label": "Ethereum",
-        "price": 2760.78,
-        "change24h": -0.18167078230788175
-      }
-    ],
-    "overview": "Ամփոփելով վերջին 24 ժամվա իրադարձությունները, կրիպտո շուկան տեսել է ակտիվություն Bitcoin-ի շուրջ, հատկապես ETF-ների ներհոսքերի և գնի կայունացման առումով, մինչդեռ այլ ակտիվներ և նորարարություններ նույնպես գրավել են ուշադրություն։",
-    "items": [
-      {
-        "headline": "Bitcoin ETF-ները գրանցել են ռեկորդային ներհոսք",
-        "summary": "ԱՄՆ-ի Bitcoin ETF-ները երկուշաբթի օրը գրանցել են ամենամեծ մեկօրյա ներհոսքը 2026 թվականին՝ գրեթե 1 միլիարդ դոլարի չափով, ինչը նպաստել է Bitcoin-ի գնի՝ 86,000 դոլարը գերազանցելուն։",
-        "link": "https://news.bitcoin.com/market-updates/bitcoin-etfs-hit-2026-high-with-999m-inflow-as-bitcoin-price-tops-86k/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin ETFs Hit 2026 High With $999M Inflow as Bitcoin Price Tops $86K",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-etfs-hit-2026-high-with-999m-inflow-as-bitcoin-price-tops-86k-768x432.jpg"
-      },
-      {
-        "headline": "Bitcoin-ի գինը կայունացել է 86,000 դոլարի շրջանում",
-        "summary": "Bitcoin-ի գինը կայունացել է 86,000 դոլարի շրջանում՝ նախորդ գագաթնակետից հետո, մինչդեռ ածանցյալ գործիքների շուկան հանգստացել է՝ վկայելով շուկայի կայունացման միտումների մասին։",
-        "link": "https://news.bitcoin.com/market-updates/bitcoin-liquidations-drop-sharply-price-holds-above-86000/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Liquidations Drop Sharply as BTC Price Holds Above $86,000",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-liquidations-fall-as-price-holds-above-86000-768x432.jpg"
-      },
-      {
-        "headline": "Coinbase-ը և Circle-ը կայունացնում են դիրքերը կրիպտո վերականգնման համար",
-        "summary": "William Blair-ը նշում է, որ Coinbase-ի բաժնետոմսերն առաջարկում են գրավիչ մուտք, մինչդեռ Circle-ի USDC-ի աճը կշարունակի խթանել ընկերության զարգացումը։",
-        "link": "https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083",
-        "source": "The Block",
-        "enTitle": "Coinbase, Circle shares positioned for crypto recovery as estimates stabilize: William Blair",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News.jpg"
-      },
-      {
-        "headline": "Ռուսաստանի խոշորագույն բորսան ցուցակում է XRP-ի պերպետուալ ֆյուչերսներ",
-        "summary": "Մոսկվայի բորսան սկսել է XRP-ի պերպետուալ ֆյուչերսների առևտուրը, սակայն այս պայմանագրերը հասանելի են միայն որակյալ ներդրողներին։",
-        "link": "https://news.bitcoin.com/altcoins/moscow-exchange-xrp-perpetual-futures-qualified-investors/",
-        "source": "Bitcoin News",
-        "enTitle": "Russia’s Largest Exchange Lists XRP Perpetuals, but There Is a Caveat",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/russias-largest-exchange-lists-xrp-perpetuals--but-there-are-caveats-768x432.jpg"
-      },
-      {
-        "headline": "Binance-ը ներդրում է կատարում Circle-ում՝ ընդլայնելով USDC գործընկերությունը",
-        "summary": "Binance-ը 100 միլիոն դոլարի ներդրում է կատարել Circle-ում և երկարաձգել է USDC գործընկերությունը հինգ տարով՝ խթանելու համար USDC-ի օգտագործումը իր հարթակում։",
-        "link": "https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Binance takes $100M stake in Circle under expanded USDC deal",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34EG4VHJABBH8BW3DK0M075/binance-circle.jpg"
-      },
-      {
-        "headline": "Եվրոպական կենտրոնական բանկերը փոփոխություններ են առաջարկում stablecoin-ների համար",
-        "summary": "Եվրոպական կենտրոնական բանկերը և ԵՄ-ի այլ կենտրոնական բանկեր առաջարկում են փոխարինել MiCA-ի stablecoin-ների համար նախատեսված բանկային ավանդների նվազագույն պահանջները՝ իրացվելիության շեմերով։",
-        "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-09-23",
     "ts": 1790191212056,
     "fng": {
@@ -4309,6 +4236,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-21",
+    "ts": 1795213609168,
+    "fng": {
+      "value": 12,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 59086,
+        "change24h": -4.663722339851402
+      },
+      {
+        "label": "Ethereum",
+        "price": 1620.39,
+        "change24h": -7.563817466093137
+      }
+    ],
+    "overview": "Կրիպտոարժույթների շուկան անկում է ապրել, ընդ որում Bitcoin-ը նվազել է մինչև բազմամսյա նվազագույն մակարդակ։ Միևնույն ժամանակ, կարգավորող մարմինները շարունակում են ուշադրություն դարձնել ոլորտին, իսկ անվտանգության խախտումները մնում են մտահոգիչ։",
+    "items": [
+      {
+        "headline": "Bitcoin-ի գինը նվազել է $59K-ից",
+        "summary": "Bitcoin-ի գինը իջել է $59,000-ից, ինչը հանգեցրել է ավելի քան $1.5 միլիարդի կրիպտո լիկվիդացիաների։",
+        "link": "https://news.bitcoin.com/market-updates/bitcoin-price-crashes-below-59k-crypto-liquidations-top-1-5b/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin Price Crashes Below $59K as Crypto Liquidations Top $1.5B",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/bitcoin-price-nov20-2026-768x432.png"
+      },
+      {
+        "headline": "XMR1-ը կտրուկ անկում է ապրել հաքերային հարձակումից հետո",
+        "summary": "Wagyu-ի XMR1 wrapped Monero թոքենը 99%-ով անկում է ապրել $13 միլիոն արժողությամբ հաքերային հարձակումից հետո, իսկ հիմնադիրը խոստացել է փոխհատուցել կորուստները։",
+        "link": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+        "source": "The Block",
+        "enTitle": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg"
+      },
+      {
+        "headline": "Cathie Wood-ը ներդրում է կատարել Anthropic-ում",
+        "summary": "Cathie Wood-ի ARK Invest-ը $91 միլիոն է ներդրել Anthropic-ի IPO-ում՝ միաժամանակ նվազեցնելով իր կրիպտոարժույթների ազդեցությունը Ethereum և Solana ETF-ներում։",
+        "link": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+        "source": "Decrypt",
+        "enTitle": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Սենատը արգելել է կանխատեսումային շուկաների խաղադրույքները",
+        "summary": "ԱՄՆ Սենատը ընդունել է օրինագիծ, որն արգելում է կանխատեսումային շուկաների պայմանագրերը, որոնք կապված են պատերազմի, ահաբեկչության և մահվան հետ։",
+        "link": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+        "source": "Decrypt",
+        "enTitle": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png"
+      },
+      {
+        "headline": "Հոնկոնգը ընդլայնում է կրիպտո լիցենզավորումը",
+        "summary": "Հոնկոնգը նախատեսում է ընդլայնել կրիպտոարժույթների լիցենզավորման կանոնները՝ ներառելով բրոքերներին, խորհրդատուներին և պահառուներին։",
+        "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee1f6aa8d9fba0788e1caa531b53c15fbc6174ba-4608x2880.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "ԱՄՆ spot Bitcoin ETF-ների արտահոսքը",
+        "summary": "ԱՄՆ spot Bitcoin ETF-ները գրանցել են գրեթե $3.5 միլիարդի զուտ արտահոսք, ինչը մոտ է ամսական ռեկորդային ցուցանիշին։",
+        "link": "https://cryptoslate.com/blackrock-leads-582-million-bitcoin-etf-exodus-as-november-withdrawals-approach-3-5-billion/",
+        "source": "CryptoSlate",
+        "enTitle": "US spot Bitcoin ETFs are almost $1 billion short of a record monthly outflow at $3.5 billion",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/blackrock-ibit-bitcoin-etf-record-outflow-draining-reservoir.webp"
       }
     ]
   }
