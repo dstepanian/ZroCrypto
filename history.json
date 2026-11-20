@@ -4241,9 +4241,9 @@
   },
   {
     "date": "2026-11-20",
-    "ts": 1795128611230,
+    "ts": 1795185443050,
     "fng": {
-      "value": 10,
+      "value": 12,
       "label": "Extreme Fear",
       "hy": "Ծայրահեղ վախ",
       "dot": "🔴"
@@ -4251,64 +4251,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 62202,
-        "change24h": -0.22688072245442667
+        "price": 61810,
+        "change24h": -3.1916564147756024
       },
       {
         "label": "Ethereum",
-        "price": 1762.74,
-        "change24h": 0.21926574043766534
+        "price": 1747.04,
+        "change24h": -3.5512894485632254
       }
     ],
-    "overview": "Շուկան խառը ազդանշաններ է ստանում։ Ինստիտուցիոնալ Bitcoin ETF-ները արտահոսքեր են գրանցել, հնարավոր է՝ Anthropic-ի IPO-ի մրցակցության պատճառով, մինչդեռ խոշոր կրիպտո հարթակները բախվել են կարգավորող և գործառնական մարտահրավերների։",
+    "overview": "Կրիպտո շուկան զգալի արտահոսքեր է արձանագրել Bitcoin ETF-ներից, հատկապես BlackRock-ի IBIT-ից, ինչը համընկել է շուկայի ընդհանուր անկման հետ։ Կարգավորող մարմինների կողմից նկատվել են զարգացումներ, այդ թվում՝ ԱՄՆ Սենատի կողմից որոշ կանխատեսումային շուկայի պայմանագրերի արգելումը և SEC-ի կողմից կրիպտո խարդախությունների դեմ պայքարը, մինչդեռ ԵԿԲ-ն նախազգուշացրել է թոքենիզացված շուկաների մասնատման մասին։ Michael Saylor-ի MicroStrategy-ն նույնպես ազդարարել է իր Bitcoin ռազմավարության հնարավոր փոփոխությունների մասին։",
     "items": [
       {
-        "headline": "Binance-ը սառեցրել է 6.5 միլիարդ դոլարի ակտիվներ",
-        "summary": "Binance-ը Աբու Դաբիի ADGM դատարաններից ստացել է 6.5 միլիարդ դոլարի համաշխարհային սառեցման հրաման՝ հոկտեմբերի 29-ի հաքերային հարձակման ժամանակ գողացված ակտիվները հետապնդելու համար։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/new-recovery-model-binance-wins-6-5b-freeze-26k-wallets/",
-        "source": "Bitcoin News",
-        "enTitle": "A New Recovery Model? Binance Wins $6.5B Freezing Order Across 26K Wallets",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/binance-wins-6-5b-freeze-across-26000-walletsa-new-recovery-model-768x432.jpg"
-      },
-      {
-        "headline": "Babylon-ը դիտարկում է Bitcoin staking-ի դադարեցումը",
-        "summary": "Babylon-ի համահիմնադիր Ֆիշեր Յուն առաջարկել է մինչև տարեվերջ դադարեցնել իր BTC staking ծրագիրը, ինչը հարցականի տակ է դնում մոտ 2.6 միլիարդ դոլար արժողությամբ 41,600 BTC-ն։",
-        "link": "https://news.bitcoin.com/defi/babylon-weighs-end-bitcoin-staking-what-happens-2-6b-btc/",
-        "source": "Bitcoin News",
-        "enTitle": "Babylon Weighs End to Bitcoin Staking—What Happens to $2.6B in BTC?",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/untitled-design1-4-768x432.png"
-      },
-      {
-        "headline": "MoonPay-ը ԱՄՆ բանկային լիցենզիա է փնտրում",
-        "summary": "MoonPay-ի առաջարկած ազգային վստահության բանկը կառաջարկի stablecoin-ի թողարկում և մարում, պահուստների կառավարում և թվային ակտիվների պահպանում դաշնային վերահսկողության ներքո։",
-        "link": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "headline": "BlackRock-ի IBIT-ը ռեկորդային արտահոսք է գրանցել",
+        "summary": "BlackRock-ի IBIT Bitcoin ETF-ը գրանցել է իր պատմության մեջ ամենամեծ օրական արտահոսքը՝ կազմելով 541 միլիոն դոլար։",
+        "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "enTitle": "MoonPay seeks US bank charter for stablecoin, custody services",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TRZBKZ9CRA2JGQ7AM7G08Z/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.png"
+        "enTitle": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWM2HDCADQ2AM2AK506KFS/btc-1.png"
       },
       {
-        "headline": "SEC-ի թեկնածուն աջակցում է tokenized բաժնետոմսերի կանոնակարգմանը",
-        "summary": "Նախկին CFTC հանձնակատար Քրիստին Ջոնսոնը աջակցել է tokenized բաժնետոմսերի առևտրի համար պաշտոնական կանոնակարգման գործընթացին։",
-        "link": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TFD02FRZ10BM2N4QZ1NBPG/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2027.png"
-      },
-      {
-        "headline": "Sky-ի USDS stablecoin-ը կրճատվել է 35%-ով",
-        "summary": "Sky-ի USDS stablecoin-ը կրճատվել է 35%-ով, քանի որ 1.5 միլիարդ դոլար է դուրս բերվել պահուստներից՝ ապօրինի ֆինանսավորման մասին զեկույցից հետո։",
-        "link": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+        "headline": "ԱՄՆ Սենատը արգելում է կանխատեսումային խաղադրույքները",
+        "summary": "ԱՄՆ Սենատը օրինագիծ է ընդունել, որն արգելում է պատերազմի, սպանությունների և ռազմական գործողությունների վերաբերյալ կանխատեսումային շուկայի խաղադրույքները։",
+        "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/68cca7099bc4c4f1be04587d54e876e9da8719ee-1440x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+        "enTitle": "U.S. Senate passes bill to ban prediction market bets on war and death",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "Bitcoin ETF-ները կորցրել են 306 միլիոն դոլար",
-        "summary": "Bitcoin ETF-ները չորեքշաբթի օրը կորցրել են 306.42 միլիոն դոլար, քանի որ ներդրողները պատրաստվում էին Anthropic-ի շուկայական դեբյուտին։",
-        "link": "https://news.bitcoin.com/bitcoin-etf/anthropic-ipo-tests-bitcoin-etfs-blackrock-leads-306m-exit/",
+        "headline": "ԵԿԲ-ն նախազգուշացնում է թոքենիզացված շուկաների մասին",
+        "summary": "ԵԿԲ նախագահ Lagarde-ը նախազգուշացրել է, որ Եվրոպան կարող է բաց թողնել թոքենիզացված շուկաները միավորելու հնարավորությունը։",
+        "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Lagarde warns Europe could miss chance to unify tokenized markets",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WGQEQ57ZB4C6X8Y2M5KYTQ/christine-lagarde-imf.jpg"
+      },
+      {
+        "headline": "Saylor-ը հնարավոր է վաճառի Bitcoin",
+        "summary": "Michael Saylor-ը հայտարարել է, որ MicroStrategy-ն կարող է նվազեցնել իր STRC-ի չափը մինչև 5 միլիարդ դոլար և նույնիսկ վաճառել Bitcoin՝ այն պաշտպանելու համար։",
+        "link": "https://news.bitcoin.com/finance/saylor-strategy-shrink-strc-5-billion-sell-bitcoin/",
         "source": "Bitcoin News",
-        "enTitle": "Anthropic IPO Tests Bitcoin ETFs as Blackrock Leads $306M Exit",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/anthropic-ipo-tests-bitcoin-etfs-as-blackrock-leads-306m-exit-1-768x432.jpg"
+        "enTitle": "Saylor Says Strategy Could Shrink STRC to $5B and Even Sell Bitcoin to Defend It",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/michael-saylor-says-bitcoins-simplicity-is-its-best-ai-defense-768x432.jpg"
+      },
+      {
+        "headline": "MoonPay-ը դիմել է բանկային լիցենզիայի համար",
+        "summary": "Կրիպտո վճարումների MoonPay ընկերությունը դիմել է ազգային վստահության բանկային լիցենզիայի համար՝ ընդլայնելու իր պահառության և stablecoin-ի բիզնեսը։",
+        "link": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+        "source": "Decrypt",
+        "enTitle": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-moonpay-gID_7.png@png"
+      },
+      {
+        "headline": "SEC-ը մեղադրում է կրիպտո խարդախության համար",
+        "summary": "SEC-ը մեղադրանք է ներկայացրել ութ ընկերությունների՝ 37 միլիոն դոլարի խարդախության հետ կապված կեղծ կրիպտո հարթակներ ստեղծելու համար։",
+        "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg"
       }
     ]
   }
