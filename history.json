@@ -4241,7 +4241,7 @@
   },
   {
     "date": "2026-11-21",
-    "ts": 1795213609168,
+    "ts": 1795269317771,
     "fng": {
       "value": 12,
       "label": "Extreme Fear",
@@ -4251,64 +4251,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 59086,
-        "change24h": -4.663722339851402
+        "price": 60558,
+        "change24h": -2.0097099078122262
       },
       {
         "label": "Ethereum",
-        "price": 1620.39,
-        "change24h": -7.563817466093137
+        "price": 1702.69,
+        "change24h": -2.7075952671104053
       }
     ],
-    "overview": "Կրիպտոարժույթների շուկան անկում է ապրել, ընդ որում Bitcoin-ը նվազել է մինչև բազմամսյա նվազագույն մակարդակ։ Միևնույն ժամանակ, կարգավորող մարմինները շարունակում են ուշադրություն դարձնել ոլորտին, իսկ անվտանգության խախտումները մնում են մտահոգիչ։",
+    "overview": "Ամփոփելով վերջին 24 ժամվա իրադարձությունները, կրիպտո շուկան զգալի անկում է ապրել, որի հետևանքով Bitcoin-ը հասել է երկու տարվա նվազագույնին։ Միևնույն ժամանակ, կարգավորող մարմինները և օրենսդիրները ակտիվորեն քննարկում են կանխատեսումային շուկաների և կրիպտո ակտիվների հետ կապված նոր օրենքներ։",
     "items": [
       {
-        "headline": "Bitcoin-ի գինը նվազել է $59K-ից",
-        "summary": "Bitcoin-ի գինը իջել է $59,000-ից, ինչը հանգեցրել է ավելի քան $1.5 միլիարդի կրիպտո լիկվիդացիաների։",
-        "link": "https://news.bitcoin.com/market-updates/bitcoin-price-crashes-below-59k-crypto-liquidations-top-1-5b/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Price Crashes Below $59K as Crypto Liquidations Top $1.5B",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/bitcoin-price-nov20-2026-768x432.png"
-      },
-      {
-        "headline": "XMR1-ը կտրուկ անկում է ապրել հաքերային հարձակումից հետո",
-        "summary": "Wagyu-ի XMR1 wrapped Monero թոքենը 99%-ով անկում է ապրել $13 միլիոն արժողությամբ հաքերային հարձակումից հետո, իսկ հիմնադիրը խոստացել է փոխհատուցել կորուստները։",
-        "link": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
-        "source": "The Block",
-        "enTitle": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg"
-      },
-      {
-        "headline": "Cathie Wood-ը ներդրում է կատարել Anthropic-ում",
-        "summary": "Cathie Wood-ի ARK Invest-ը $91 միլիոն է ներդրել Anthropic-ի IPO-ում՝ միաժամանակ նվազեցնելով իր կրիպտոարժույթների ազդեցությունը Ethereum և Solana ETF-ներում։",
-        "link": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
-        "source": "Decrypt",
-        "enTitle": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "Սենատը արգելել է կանխատեսումային շուկաների խաղադրույքները",
-        "summary": "ԱՄՆ Սենատը ընդունել է օրինագիծ, որն արգելում է կանխատեսումային շուկաների պայմանագրերը, որոնք կապված են պատերազմի, ահաբեկչության և մահվան հետ։",
-        "link": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
-        "source": "Decrypt",
-        "enTitle": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png"
-      },
-      {
-        "headline": "Հոնկոնգը ընդլայնում է կրիպտո լիցենզավորումը",
-        "summary": "Հոնկոնգը նախատեսում է ընդլայնել կրիպտոարժույթների լիցենզավորման կանոնները՝ ներառելով բրոքերներին, խորհրդատուներին և պահառուներին։",
-        "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+        "headline": "Bitcoin-ը հասել է երկու տարվա նվազագույնին՝ 57,000 դոլարից ցածր",
+        "summary": "Bitcoin-ի գինը կտրուկ անկում է ապրել՝ հասնելով 57,000 դոլարից ցածր, ինչը նրա ամենացածր ցուցանիշն է վերջին երկու տարվա ընթացքում, մինչդեռ XRP-ն նույնպես զգալի անկում է գրանցել՝ հասնելով 0.90 դոլարից ցածր:",
+        "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee1f6aa8d9fba0788e1caa531b53c15fbc6174ba-4608x2880.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+        "enTitle": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/c4a0fdccd8d94e89522ad3903cb55ceb60c5e3d6-2158x1102.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
       },
       {
-        "headline": "ԱՄՆ spot Bitcoin ETF-ների արտահոսքը",
-        "summary": "ԱՄՆ spot Bitcoin ETF-ները գրանցել են գրեթե $3.5 միլիարդի զուտ արտահոսք, ինչը մոտ է ամսական ռեկորդային ցուցանիշին։",
-        "link": "https://cryptoslate.com/blackrock-leads-582-million-bitcoin-etf-exodus-as-november-withdrawals-approach-3-5-billion/",
+        "headline": "ԱՄՆ-ի հաստատությունները ռեկորդային 356,000 Bitcoin են կուտակել Q3-ում",
+        "summary": "ԱՄՆ-ի ինստիտուցիոնալ ներդրողները, հատկապես հարստության կառավարման հարթակները, Q3-ում կուտակել են ռեկորդային 356,000 Bitcoin՝ հիմնականում ԱՄՆ-ի սպոտ Bitcoin ETF-ների միջոցով:",
+        "link": "https://news.bitcoin.com/finance/wells-fargo-leads-us-institutions-hit-record-356k-bitcoin-holdings/",
+        "source": "Bitcoin News",
+        "enTitle": "Wells Fargo Leads as US Institutions Hit Record 356K Bitcoin Holdings: Galaxy",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/wells-fargo-leads-as-us-institutions-hit-record-356k-btc-holdings-768x432.jpg"
+      },
+      {
+        "headline": "IOSCO-ն զգուշացնում է բլոկչեյնի վրա քվանտային ռիսկի մասին",
+        "summary": "Արժեթղթերի հանձնաժողովների միջազգային կազմակերպությունը (IOSCO) զգուշացրել է, որ բլոկչեյն ցանցերը, ներառյալ Bitcoin-ը, կարող են բախվել քվանտային համակարգչային աշխարհին հարմարվելու մարտահրավերների, քանի որ դրանք պահանջում են համակարգված ջանքեր՝ արդիականացնելու և փոխելու կենտրոնացված տարրերը:",
+        "link": "https://news.bitcoin.com/security/iosco-warns-quantum-risk-blockchains-bitcoin-devs-weigh-fixes/",
+        "source": "Bitcoin News",
+        "enTitle": "IOSCO Warns of Quantum Risk to Blockchains as Bitcoin Devs Weigh Fixes",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/nine-blockchain-groups-unite-as-quantum-threat-hangs-over-bitcoin-768x432.png"
+      },
+      {
+        "headline": "Կանխատեսումային շուկաների վերաբերյալ նոր օրենսդրություն ԱՄՆ-ում",
+        "summary": "ԱՄՆ-ի օրենսդիրները նախաձեռնել են նոր օրինագծեր, որոնք կառաջարկեն մինչև 30% պարգևատրումներ կանխատեսումային շուկաներում ներքին առևտրի կամ խարդախության մասին տեղեկություններ հայտնողների համար, ինչպես նաև Սենատը հավանություն է տվել մահվան և պատերազմի հետ կապված կանխատեսումային շուկաները արգելող օրինագծին:",
+        "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TG0M8S1BAV7KN2AJ34JJE9/prediction-market.jpg"
+      },
+      {
+        "headline": "Ethereum-ի Glamsterdam թարմացումը հետաձգվում է մինչև 2027 թվականը",
+        "summary": "Ethereum-ի Glamsterdam թարմացումը, որը նախատեսված էր 2026 թվականի առաջին կեսին, հետաձգվել է մինչև 2027 թվականի հունվարի կեսերը՝ զարգացման և ժամկետներին համապատասխանելու միջև աճող անջրպետը բացահայտելով:",
+        "link": "https://cryptoslate.com/ethereums-glamsterdam-delay-reveals-a-troubling-pattern-behind-its-biggest-network-upgrades/",
         "source": "CryptoSlate",
-        "enTitle": "US spot Bitcoin ETFs are almost $1 billion short of a record monthly outflow at $3.5 billion",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/blackrock-ibit-bitcoin-etf-record-outflow-draining-reservoir.webp"
+        "enTitle": "Ethereum’s Glamsterdam delay reveals a troubling pattern behind its biggest network upgrades",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-testing-return-loop.webp"
+      },
+      {
+        "headline": "Nvidia-ի կապիտալիզացիայի անկումը գերազանցում է կրիպտո շուկայի չափը",
+        "summary": "Nvidia-ի շուկայական կապիտալիզացիայի անկումը՝ մոտ 2.75 տրիլիոն դոլար, գերազանցում է ամբողջ կրիպտո շուկայի ընթացիկ արժեքը՝ մոտ 2.02 տրիլիոն դոլար:",
+        "link": "https://news.bitcoin.com/finance/nvidias-2-75-trillion-wipeout-is-now-bigger-than-the-whole-crypto-market/",
+        "source": "Bitcoin News",
+        "enTitle": "Nvidia’s $2.75 Trillion Wipeout Is Now Bigger Than The Whole Crypto Market",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/nvidia-partners-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-768x432.jpg"
       }
     ]
   }
