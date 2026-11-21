@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-23",
-    "ts": 1790191212056,
-    "fng": {
-      "value": 71,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 84324,
-        "change24h": -2.5595391254409425
-      },
-      {
-        "label": "Ethereum",
-        "price": 2665.98,
-        "change24h": -3.4446985296520833
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է ինստիտուցիոնալ հետաքրքրության աճով և նորարարական զարգացումներով, ինչպես նաև անվտանգության հետ կապված մտահոգություններով։ Bitcoin ETF-ները շարունակում են զգալի ներհոսքեր գրանցել, մինչդեռ խոշոր ֆինանսական հաստատությունները ուսումնասիրում են թվային ակտիվների ինտեգրումը։",
-    "items": [
-      {
-        "headline": "XRP դրամապանակներից գողացվել է $20 միլիոն",
-        "summary": "Վերջին հարձակումների արդյունքում մոտ 20 միլիոն դոլարի XRP է գողացվել 6,678 դրամապանակներից։",
-        "link": "https://cryptoslate.com/nearly-20-million-in-xrp-drained-from-6678-wallets-across-six-attack-waves/",
-        "source": "CryptoSlate",
-        "enTitle": "Nearly $20 million in XRP drained from 6,678 wallets across six attack waves",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-wallet-hacker-drain.webp"
-      },
-      {
-        "headline": "ԱՄՆ-ում stablecoin-ների ընդունումը կարող է աճել",
-        "summary": "Visa-ի հարցումը ցույց է տվել, որ բանկային պաշտպանությունը կարող է զգալիորեն մեծացնել stablecoin-ների ընդունումը ԱՄՆ-ում։",
-        "link": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "US stablecoin adoption could surge with bank-like protections: Visa survey",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37J1B2V73G566QY4TGVRJ04/hi-why-the-us-is-one-of-the-most-crypto-friendly-countries-in-the-world2.jpg"
-      },
-      {
-        "headline": "Կանադայի խոշորագույն բանկերը համագործակցում են թվային դոլարի շուրջ",
-        "summary": "Կանադայի վեց խոշորագույն բանկերը համատեղ ուսումնասիրում են կանադական դոլարի թոքենիզացված ավանդային համակարգ՝ սկսելով բանկերի միջև փոխանցումներից։",
-        "link": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network",
-        "source": "Decrypt",
-        "enTitle": "Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/blockchain-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "NYSE-ը և Blockchain.com-ը կներկայացնեն թոքենիզացված բաժնետոմսեր",
-        "summary": "NYSE-ը և Blockchain.com-ը նախնական համաձայնագիր են ստորագրել՝ թոքենիզացված ԱՄՆ բաժնետոմսեր և ETF-ներ կրիպտո ներդրողներին հասանելի դարձնելու համար՝ սպասելով կարգավորող մարմինների հաստատմանը։",
-        "link": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
-        "source": "Decrypt",
-        "enTitle": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "BlackRock. AI-ն կխթանի կրիպտոյի պահանջարկը",
-        "summary": "BlackRock-ը պնդում է, որ ինքնավար AI գործակալները կարող են դառնալ կրիպտոյի հաջորդ պահանջարկի հիմնական շարժիչ ուժը։",
-        "link": "https://decrypt.co/379070/blackrock-ai-agents-crypto-next-demand-wave",
-        "source": "Decrypt",
-        "enTitle": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-Larry-Fink-decrypt-style-02-gID_7.png@png"
-      },
-      {
-        "headline": "Bitcoin ETF-ները գրանցել են $715 միլիոնի ներհոսք",
-        "summary": "Bitcoin ETF-ները երեքշաբթի օրը ներգրավել են ևս 714.75 միլիոն դոլար՝ չորս օրվա ընթացքում հասնելով 2.3 միլիարդ դոլարի ներհոսքի։",
-        "link": "https://news.bitcoin.com/market-updates/bitcoin-etfs-add-715m-as-4-day-inflow-streak-hits-2-3b/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin ETFs Add $715M as 4-Day Inflow Streak Hits $2.3B",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-etfs-add-715m-as-four-day-inflow-streak-hits-2-3b-768x432.png"
-      }
-    ]
-  },
-  {
     "date": "2026-09-24",
     "ts": 1790278696620,
     "fng": {
@@ -4309,6 +4236,79 @@
         "source": "Bitcoin News",
         "enTitle": "Nvidia’s $2.75 Trillion Wipeout Is Now Bigger Than The Whole Crypto Market",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/nvidia-partners-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-768x432.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-22",
+    "ts": 1795296054910,
+    "fng": {
+      "value": 12,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 60349,
+        "change24h": 3.706740685223079
+      },
+      {
+        "label": "Ethereum",
+        "price": 1684.2,
+        "change24h": 5.567759524334364
+      }
+    ],
+    "overview": "Կրիպտո շուկան այսօր բնութագրվում է կարգավորող մարմինների ակտիվությամբ և զգալի իրադարձություններով։ Մինչ որոշ երկրներ նպաստում են կրիպտոյի ընդունմանը, մյուսները խստացնում են կանոնակարգերը, իսկ տեխնիկական խնդիրները և անվտանգության միջադեպերը շարունակում են մարտահրավերներ ստեղծել։",
+    "items": [
+      {
+        "headline": "Ռուսաստանը թույլ է տալիս Bitcoin-ի առևտուրը",
+        "summary": "Ռուսաստանը թույլ է տվել Bitcoin-ի առևտուրը, և Moscow Exchange-ը նախատեսում է դեկտեմբերին գործարկել փորձնական ծրագիր՝ չնայած պատժամիջոցներին։",
+        "link": "https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/",
+        "source": "CryptoSlate",
+        "enTitle": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/moex-bitcoin-trading-gate.webp"
+      },
+      {
+        "headline": "Chainflip-ի FLIP թոքենի անկումը",
+        "summary": "Cross-chain արձանագրություն Chainflip-ի FLIP թոքենը 30% անկում է գրանցել՝ $4.86 միլիոն դոլարի ենթադրյալ գողությունից հետո։",
+        "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Ինստիտուցիոնալ ներդրումները Bitcoin-ում",
+        "summary": "ԱՄՆ ինստիտուցիոնալ ներդրողները, ներառյալ Wells Fargo-ն, հասել են ռեկորդային 356K Bitcoin պահումների՝ Galaxy-ի տվյալներով։",
+        "link": "https://news.bitcoin.com/finance/wells-fargo-leads-us-institutions-hit-record-356k-bitcoin-holdings/",
+        "source": "Bitcoin News",
+        "enTitle": "Wells Fargo Leads as US Institutions Hit Record 356K Bitcoin Holdings: Galaxy",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/wells-fargo-leads-as-us-institutions-hit-record-356k-btc-holdings-768x432.jpg"
+      },
+      {
+        "headline": "Ethereum-ի Glamsterdam թարմացման հետաձգումը",
+        "summary": "Ethereum-ի Glamsterdam թարմացումը հետաձգվել է մինչև 2027 թվականը՝ բացահայտելով ցանցի արդիականացումների ժամկետների հետ կապված խնդիրներ։",
+        "link": "https://cryptoslate.com/ethereums-glamsterdam-delay-reveals-a-troubling-pattern-behind-its-biggest-network-upgrades/",
+        "source": "CryptoSlate",
+        "enTitle": "Ethereum’s Glamsterdam delay reveals a troubling pattern behind its biggest network upgrades",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-testing-return-loop.webp"
+      },
+      {
+        "headline": "Գլխավոր դատախազները դեմ են CFTC-ին",
+        "summary": "Երկկուսակցական գլխավոր դատախազների կոալիցիան դեմ է արտահայտվել CFTC-ի առաջարկներին, որոնք կանխատեսումների շուկաները կդասակարգեն որպես «swaps»։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/bipartisan-attorney-general-coalition-fights-cftc-prediction-market-power-grab/",
+        "source": "Bitcoin News",
+        "enTitle": "Bipartisan Attorney General Coalition Fights CFTC Prediction Market Power Grab",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/new-jersey-ag-jennifer-davenport-768x432.jpg"
+      },
+      {
+        "headline": "Հոնկոնգը խստացնում է կրիպտո կանոնակարգերը",
+        "summary": "Հոնկոնգը նախատեսում է կրիպտո պահառուներին և խորհրդատուներին ենթարկել լիցենզավորման կանոններին՝ ներդրողների պաշտպանությունը բարձրացնելու համար։",
+        "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Y9VC5TT6XQ46DCK68VGC0X/regulation-hong-kong.jpg"
       }
     ]
   }
