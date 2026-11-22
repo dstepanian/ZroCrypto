@@ -4241,9 +4241,9 @@
   },
   {
     "date": "2026-11-22",
-    "ts": 1795296054910,
+    "ts": 1795355282404,
     "fng": {
-      "value": 12,
+      "value": 11,
       "label": "Extreme Fear",
       "hy": "Ծայրահեղ վախ",
       "dot": "🔴"
@@ -4251,64 +4251,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 60349,
-        "change24h": 3.706740685223079
+        "price": 60589,
+        "change24h": 0.28327355799441345
       },
       {
         "label": "Ethereum",
-        "price": 1684.2,
-        "change24h": 5.567759524334364
+        "price": 1700.41,
+        "change24h": 0.09902973997871953
       }
     ],
-    "overview": "Կրիպտո շուկան այսօր բնութագրվում է կարգավորող մարմինների ակտիվությամբ և զգալի իրադարձություններով։ Մինչ որոշ երկրներ նպաստում են կրիպտոյի ընդունմանը, մյուսները խստացնում են կանոնակարգերը, իսկ տեխնիկական խնդիրները և անվտանգության միջադեպերը շարունակում են մարտահրավերներ ստեղծել։",
+    "overview": "Այսօրվա կրիպտո շուկան բնութագրվում է Bitcoin-ի գնի անկմամբ և ներդրողների կողմից դեպի AI բաժնետոմսեր կապիտալի տեղաշարժով։ Չնայած այս անորոշությանը, նկատվում են կարևոր կարգավորող և տեխնոլոգիական զարգացումներ, ինչպես նաև անվտանգության հետ կապված մտահոգություններ։",
     "items": [
       {
+        "headline": "Bitcoin-ի անկումը և Fed-ի որոշումը",
+        "summary": "Bitcoin-ի գինը իջել է $60,000-ից, ինչը ուշադրության կենտրոնում է դնում Federal Reserve-ի դեկտեմբերյան հանդիպումը։",
+        "link": "https://cryptoslate.com/bitcoin-below-60000-fed-half-point-cpi/",
+        "source": "CryptoSlate",
+        "enTitle": "Bitcoin’s $60,000 breakdown puts December Fed decision under the spotlight",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-broken-price-support.webp"
+      },
+      {
+        "headline": "Կրիպտո ներդրողները տեղափոխվում են AI բաժնետոմսեր",
+        "summary": "Ըստ Bloomberg-ի զեկույցի, կրիպտո ներդրողները Bitcoin-ից տեղափոխվում են AI բաժնետոմսեր, քանի որ փոխանակման առևտրի ծավալները նվազում են։",
+        "link": "https://news.bitcoin.com/finance/bored-crypto-investors-dump-bitcoin-to-chase-massive-ai-stocks/",
+        "source": "Bitcoin News",
+        "enTitle": "Bored Crypto Investors Dump Bitcoin to Chase Massive AI Stocks",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/bitcoin-balloon-768x432.jpg"
+      },
+      {
+        "headline": "Chainflip-ը հաստատում է $12M հաքերային հարձակումը",
+        "summary": "Chainflip-ը հաստատել է $12 միլիոնի հաքերային հարձակումը և հաքերին առաջարկել է 10% պարգևատրում՝ գողացված միջոցների 90%-ը վերադարձնելու դիմաց։",
+        "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M80VMG116PQ22VH13YJ5ANN8/hacky-hack-2.png"
+      },
+      {
+        "headline": "AI-ն հայտնաբերել է Bitcoin Core-ի խոցելիություն",
+        "summary": "Արհեստական բանականության օգնությամբ անվտանգության հետազոտությունը բացահայտել է Bitcoin Core-ի միջին ծանրության խոցելիություն, որը կարող է ժամանակավորապես անդամալույծ դարձնել հանգույցները։",
+        "link": "https://news.bitcoin.com/security/ai-finds-bitcoin-core-security-flaw-that-could-temporarily-freeze-nodes/",
+        "source": "Bitcoin News",
+        "enTitle": "AI Finds Bitcoin Core Security Flaw That Could Temporarily Freeze Nodes",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/ai-finds-bitcoin-core-security-flaw-that-could-temporarily-freeze-nodes-768x432.png"
+      },
+      {
         "headline": "Ռուսաստանը թույլ է տալիս Bitcoin-ի առևտուրը",
-        "summary": "Ռուսաստանը թույլ է տվել Bitcoin-ի առևտուրը, և Moscow Exchange-ը նախատեսում է դեկտեմբերին գործարկել փորձնական ծրագիր՝ չնայած պատժամիջոցներին։",
+        "summary": "Ռուսաստանը թույլ է տվել Bitcoin-ի առևտուրը, և Moscow Exchange-ը պատրաստվում է դեկտեմբերին գործարկել այն՝ Կենտրոնական բանկի կանոնների հաստատումից հետո։",
         "link": "https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/",
         "source": "CryptoSlate",
         "enTitle": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/11/moex-bitcoin-trading-gate.webp"
       },
       {
-        "headline": "Chainflip-ի FLIP թոքենի անկումը",
-        "summary": "Cross-chain արձանագրություն Chainflip-ի FLIP թոքենը 30% անկում է գրանցել՝ $4.86 միլիոն դոլարի ենթադրյալ գողությունից հետո։",
-        "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Ինստիտուցիոնալ ներդրումները Bitcoin-ում",
-        "summary": "ԱՄՆ ինստիտուցիոնալ ներդրողները, ներառյալ Wells Fargo-ն, հասել են ռեկորդային 356K Bitcoin պահումների՝ Galaxy-ի տվյալներով։",
-        "link": "https://news.bitcoin.com/finance/wells-fargo-leads-us-institutions-hit-record-356k-bitcoin-holdings/",
-        "source": "Bitcoin News",
-        "enTitle": "Wells Fargo Leads as US Institutions Hit Record 356K Bitcoin Holdings: Galaxy",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/wells-fargo-leads-as-us-institutions-hit-record-356k-btc-holdings-768x432.jpg"
-      },
-      {
-        "headline": "Ethereum-ի Glamsterdam թարմացման հետաձգումը",
-        "summary": "Ethereum-ի Glamsterdam թարմացումը հետաձգվել է մինչև 2027 թվականը՝ բացահայտելով ցանցի արդիականացումների ժամկետների հետ կապված խնդիրներ։",
-        "link": "https://cryptoslate.com/ethereums-glamsterdam-delay-reveals-a-troubling-pattern-behind-its-biggest-network-upgrades/",
+        "headline": "Սինգապուրը կփորձարկի stablecoin վճարումները AI-ի միջոցով",
+        "summary": "Սինգապուրը նախատեսում է փորձարկել stablecoin վճարումները AI գործակալների միջոցով՝ ստուգելու համար, թե ինչպես են բանկերն ու վճարային ծառայություններ մատուցողները հաստատում գործակալի լիազորությունները։",
+        "link": "https://cryptoslate.com/singapore-wants-to-test-stablecoin-payments-by-ai-agents/",
         "source": "CryptoSlate",
-        "enTitle": "Ethereum’s Glamsterdam delay reveals a troubling pattern behind its biggest network upgrades",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-testing-return-loop.webp"
-      },
-      {
-        "headline": "Գլխավոր դատախազները դեմ են CFTC-ին",
-        "summary": "Երկկուսակցական գլխավոր դատախազների կոալիցիան դեմ է արտահայտվել CFTC-ի առաջարկներին, որոնք կանխատեսումների շուկաները կդասակարգեն որպես «swaps»։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/bipartisan-attorney-general-coalition-fights-cftc-prediction-market-power-grab/",
-        "source": "Bitcoin News",
-        "enTitle": "Bipartisan Attorney General Coalition Fights CFTC Prediction Market Power Grab",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/new-jersey-ag-jennifer-davenport-768x432.jpg"
-      },
-      {
-        "headline": "Հոնկոնգը խստացնում է կրիպտո կանոնակարգերը",
-        "summary": "Հոնկոնգը նախատեսում է կրիպտո պահառուներին և խորհրդատուներին ենթարկել լիցենզավորման կանոններին՝ ներդրողների պաշտպանությունը բարձրացնելու համար։",
-        "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Y9VC5TT6XQ46DCK68VGC0X/regulation-hong-kong.jpg"
+        "enTitle": "Singapore wants to test stablecoin payments by AI agents",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bank-agent-payment-clearance.webp"
       }
     ]
   }
