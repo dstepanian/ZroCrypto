@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-24",
-    "ts": 1790278696620,
-    "fng": {
-      "value": 71,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 84590,
-        "change24h": 0.17159664482315884
-      },
-      {
-        "label": "Ethereum",
-        "price": 2696.06,
-        "change24h": 0.8141463962840881
-      }
-    ],
-    "overview": "Շուկան ցույց է տալիս ինստիտուցիոնալ ինտեգրման և ընդունման նշաններ, քանի որ ավանդական ֆինանսական խաղացողները ուսումնասիրում են թոքենիզացված ակտիվներն ու stablecoin-ները: Այնուամենայնիվ, կարգավորող մարմինների ուշադրությունը և անվտանգության միջադեպերը մնում են մտահոգիչ:",
-    "items": [
-      {
-        "headline": "NYSE-ը նախապատրաստվում է թոքենիզացված ակտիվների շուկային",
-        "summary": "NYSE-ն նախատեսում է ստեղծել 5.5 տրիլիոն դոլար արժողությամբ թոքենիզացված ակտիվների շուկա՝ նոր առևտրային հարթակի և կարգավորող մարմինների հաստատումների միջոցով:",
-        "link": "https://cryptoslate.com/nyse-is-assembling-the-pipes-for-a-5-5-trillion-tokenized-asset-market/",
-        "source": "CryptoSlate",
-        "enTitle": "NYSE is assembling the pipes for a $5.5 trillion tokenized asset market",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/blockchain-nyse-tokenized-access.webp"
-      },
-      {
-        "headline": "Ondo-ն գործարկում է BlackRock-ի ռազմավարությամբ թոքեններ",
-        "summary": "Ondo-ն թողարկել է երեք onchain պորտֆոլիո թոքեններ, որոնք հիմնված են BlackRock-ի կողմից մշակված մոդելային պորտֆոլիո ռազմավարությունների վրա:",
-        "link": "https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260",
-        "source": "The Block",
-        "enTitle": "Ondo launches onchain portfolio tokens based on BlackRock-developed strategies",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/01/shutterstock_1324038479-e1781241568546.jpg"
-      },
-      {
-        "headline": "Մեծ Բրիտանիայի բանկերը կատարել են թոքենիզացված ավանդների գործարքներ",
-        "summary": "Մեծ Բրիտանիայի խոշորագույն բանկերը, ներառյալ Barclays-ը, NatWest-ը և HSBC-ն, ավարտել են աշխարհում առաջին միջբանկային գործարքները՝ օգտագործելով թոքենիզացված ավանդներ:",
-        "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a55120319f442a7083bbe28359db7f277af29df-5745x3830.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Bitcoin ETF-ները վերականգնում են արտահոսքերը",
-        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները վերացրել են 2026 թվականի արտահոսքերը՝ օգոստոսի 19-ից ի վեր ներգրավելով մոտ 4.6 միլիարդ դոլար:",
-        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-erase-2026-outflows-with-4-6-billion-rebound/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin ETFs Erase 2026 Outflows With $4.6 Billion Rebound",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-etfs-erase-2026-outflows-with-4-6-billion-rebound-768x432.jpg"
-      },
-      {
-        "headline": "Նյու Յորքը դատի է տվել Polymarket-ին",
-        "summary": "Նյու Յորքի գլխավոր դատախազ Լետիցիա Ջեյմսը և նահանգապետ Քեթի Հոչուլը պնդում են, որ Polymarket-ը գործում է առանց լիցենզիայի և Նյու Յորքի բնակիչներին ենթարկում է մոլախաղային վնասների:",
-        "link": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
-        "source": "Decrypt",
-        "enTitle": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "Crypto Casino Duelbits-ը կոտրվել է",
-        "summary": "Crypto-կազինո Duelbits-ը հաստատել է, որ ենթարկվել է հաքերային հարձակման, որի հետևանքով իր hot wallet-ներից արտահոսել է մոտ 7 միլիոն դոլար արժողությամբ միջոցներ:",
-        "link": "https://news.bitcoin.com/security/crypto-casino-duelbits-7m-hack-offline/",
-        "source": "Bitcoin News",
-        "enTitle": "Crypto Casino Duelbits Hit With $7M Hack, Taken Offline",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/crypto-casino-duelbits-hit-with-7m-hack-taken-offline-768x432.png"
-      }
-    ]
-  },
-  {
     "date": "2026-09-25",
     "ts": 1790365403654,
     "fng": {
@@ -4309,6 +4236,79 @@
         "source": "CryptoSlate",
         "enTitle": "Singapore wants to test stablecoin payments by AI agents",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bank-agent-payment-clearance.webp"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "ts": 1795382674549,
+    "fng": {
+      "value": 11,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 60859,
+        "change24h": 0.7816764103092818
+      },
+      {
+        "label": "Ethereum",
+        "price": 1721.5,
+        "change24h": 2.1838066301769667
+      }
+    ],
+    "overview": "Շուկան ցույց է տալիս խառը ազդանշաններ, որոշ վերլուծաբաններ կանխատեսում են Bitcoin-ի գների հետագա անկում, մինչդեռ ինստիտուցիոնալ ներդրողները գնում են անկումները։ Կարգավորող մարմինների ուշադրությունը և անվտանգության մտահոգությունները մնում են առաջնային։",
+    "items": [
+      {
+        "headline": "Arthur Hayes-ի նախազգուշացումը Bitcoin-ի մասին",
+        "summary": "Արթուր Հեյսը զգուշացրել է, որ Bitcoin-ը կարող է փորձարկել $50,000 մակարդակը, եթե Nasdaq-ի անկումը շարունակվի։",
+        "link": "https://news.bitcoin.com/market-updates/bitcoin-could-test-50000-if-nasdaq-slides-arthur-hayes-warns/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin Could Test $50,000 if Nasdaq Slides, Arthur Hayes Warns",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/hayes-btc-chart-nov-22-768x432.jpg"
+      },
+      {
+        "headline": "Հեջ-ֆոնդը գնում է $1B Bitcoin",
+        "summary": "Abraxas Capital Management հեջ-ֆոնդը Bitcoin-ի գնի անկման ժամանակ ձեռք է բերել մոտ 1 միլիարդ դոլարի BTC։",
+        "link": "https://news.bitcoin.com/featured/bitcoins-price-dip-attracts-a-whale-as-hedge-fund-scoops-up-1b/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin’s Price Dip Attracts a Whale as Hedge Fund Scoops up $1B",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/bitcoins-price-dip-attracts-a-whale-as-hedge-fund-scoops-up-1b-768x432.png"
+      },
+      {
+        "headline": "Կոնգրեսի վերահսկողության լսումներ",
+        "summary": "Նոր նամակները ցույց են տալիս Կոնգրեսի կոմիտեների ընդլայնվող շրջանակը, որոնք կուսումնասիրեն նախագահական վարչակազմը և կրիպտո ակտիվները։",
+        "link": "https://www.coindesk.com/",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "More on the pending oversight hearings: State of Crypto",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/39aef47b93f60ebf7e668e371d51320693bb79e3-3364x1894.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Chainflip-ի $12 միլիոնի հաք",
+        "summary": "Chainflip պրոտոկոլը հայտարարել է 122.9 BTC գողության մասին, որի արդյունքում կորուստները հասել են $12 միլիոնի և հաքերին պարգևատրում է առաջարկել։",
+        "link": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+        "source": "The Block",
+        "enTitle": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/07/20240710_Cypherpunks_News_1.jpg"
+      },
+      {
+        "headline": "Մեծ Բրիտանիան կարգելում է կրիպտո բորսաներին",
+        "summary": "Մեծ Բրիտանիան նախատեսում է արգելել կրիպտո բորսաներին իրենց հարթակներում շուկա ստեղծել Bitcoin-ի կանոնների փոփոխության շրջանակներում։",
+        "link": "https://cryptoslate.com/uk-to-ban-crypto-exchanges-from-making-markets-on-their-own-platforms-as-bitcoin-rules-change/",
+        "source": "CryptoSlate",
+        "enTitle": "UK to ban crypto exchanges from making markets on their own platforms as Bitcoin rules change",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/uk-bitcoin-market-carveout.webp"
+      },
+      {
+        "headline": "Michael Saylor-ը ակնարկում է Bitcoin-ի գնում",
+        "summary": "Michael Saylor-ը կրկին շահարկումներ է առաջացրել Strategy-ի կողմից Bitcoin-ի հնարավոր նոր գնման մասին։",
+        "link": "https://news.bitcoin.com/featured/the-dots-arent-done-michael-saylor-hints-at-another-strategy-bitcoin-buy/",
+        "source": "Bitcoin News",
+        "enTitle": "‘The Dots Aren’t Done’: Michael Saylor Hints at Another Strategy Bitcoin Buy",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/saylor-strategy-nov-22-768x432.jpg"
       }
     ]
   }
