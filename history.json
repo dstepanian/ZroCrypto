@@ -4241,7 +4241,7 @@
   },
   {
     "date": "2026-11-23",
-    "ts": 1795382674549,
+    "ts": 1795452771048,
     "fng": {
       "value": 11,
       "label": "Extreme Fear",
@@ -4251,64 +4251,64 @@
     "prices": [
       {
         "label": "Bitcoin",
-        "price": 60859,
-        "change24h": 0.7816764103092818
+        "price": 62079,
+        "change24h": 1.4505039690200203
       },
       {
         "label": "Ethereum",
-        "price": 1721.5,
-        "change24h": 2.1838066301769667
+        "price": 1762.3,
+        "change24h": 2.458039670310077
       }
     ],
-    "overview": "Շուկան ցույց է տալիս խառը ազդանշաններ, որոշ վերլուծաբաններ կանխատեսում են Bitcoin-ի գների հետագա անկում, մինչդեռ ինստիտուցիոնալ ներդրողները գնում են անկումները։ Կարգավորող մարմինների ուշադրությունը և անվտանգության մտահոգությունները մնում են առաջնային։",
+    "overview": "Այսօրվա կրիպտո շուկան նշանավորվեց Nvidia-ի գործադիր տնօրենի վերադարձի հետևանքով առաջացած զգալի աճով, մինչդեռ Bitcoin ETF-ները գրանցեցին զանգվածային արտահոսքեր։ Կարևոր իրադարձություններ են նաև նոր ֆինանսական ապրանքների գործարկումը և ավանդական բանկերի կողմից կրիպտո ծառայությունների ընդլայնումը։",
     "items": [
       {
-        "headline": "Arthur Hayes-ի նախազգուշացումը Bitcoin-ի մասին",
-        "summary": "Արթուր Հեյսը զգուշացրել է, որ Bitcoin-ը կարող է փորձարկել $50,000 մակարդակը, եթե Nasdaq-ի անկումը շարունակվի։",
-        "link": "https://news.bitcoin.com/market-updates/bitcoin-could-test-50000-if-nasdaq-slides-arthur-hayes-warns/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Could Test $50,000 if Nasdaq Slides, Arthur Hayes Warns",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/hayes-btc-chart-nov-22-768x432.jpg"
-      },
-      {
-        "headline": "Հեջ-ֆոնդը գնում է $1B Bitcoin",
-        "summary": "Abraxas Capital Management հեջ-ֆոնդը Bitcoin-ի գնի անկման ժամանակ ձեռք է բերել մոտ 1 միլիարդ դոլարի BTC։",
-        "link": "https://news.bitcoin.com/featured/bitcoins-price-dip-attracts-a-whale-as-hedge-fund-scoops-up-1b/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin’s Price Dip Attracts a Whale as Hedge Fund Scoops up $1B",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/bitcoins-price-dip-attracts-a-whale-as-hedge-fund-scoops-up-1b-768x432.png"
-      },
-      {
-        "headline": "Կոնգրեսի վերահսկողության լսումներ",
-        "summary": "Նոր նամակները ցույց են տալիս Կոնգրեսի կոմիտեների ընդլայնվող շրջանակը, որոնք կուսումնասիրեն նախագահական վարչակազմը և կրիպտո ակտիվները։",
-        "link": "https://www.coindesk.com/",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "More on the pending oversight hearings: State of Crypto",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/39aef47b93f60ebf7e668e371d51320693bb79e3-3364x1894.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "Chainflip-ի $12 միլիոնի հաք",
-        "summary": "Chainflip պրոտոկոլը հայտարարել է 122.9 BTC գողության մասին, որի արդյունքում կորուստները հասել են $12 միլիոնի և հաքերին պարգևատրում է առաջարկել։",
-        "link": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
-        "source": "The Block",
-        "enTitle": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/07/20240710_Cypherpunks_News_1.jpg"
-      },
-      {
-        "headline": "Մեծ Բրիտանիան կարգելում է կրիպտո բորսաներին",
-        "summary": "Մեծ Բրիտանիան նախատեսում է արգելել կրիպտո բորսաներին իրենց հարթակներում շուկա ստեղծել Bitcoin-ի կանոնների փոփոխության շրջանակներում։",
-        "link": "https://cryptoslate.com/uk-to-ban-crypto-exchanges-from-making-markets-on-their-own-platforms-as-bitcoin-rules-change/",
+        "headline": "Nvidia-ի Գործադիր Տնօրենի Վերադարձը Բարձրացրեց Bitcoin-ը",
+        "summary": "Nvidia-ի գործադիր տնօրեն Ջենսեն Հուանգի վերականգնումից հետո Bitcoin-ի գինը մեկ ժամվա ընթացքում աճեց ավելի քան 4%-ով՝ հասնելով $64,427-ի, ինչը հանգեցրեց $376 միլիոն կարճ դիրքերի լուծարման։",
+        "link": "https://cryptoslate.com/bitcoin-rockets-above-64000-as-nvidia-reinstates-jensen-huang-wiping-out-372-million-in-shorts/",
         "source": "CryptoSlate",
-        "enTitle": "UK to ban crypto exchanges from making markets on their own platforms as Bitcoin rules change",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/uk-bitcoin-market-carveout.webp"
+        "enTitle": "Bitcoin rockets above $64,000 as Nvidia reinstates Jensen Huang, wiping out $372 million in shorts",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/jensen-huang-bitcoin-rebound.webp"
       },
       {
-        "headline": "Michael Saylor-ը ակնարկում է Bitcoin-ի գնում",
-        "summary": "Michael Saylor-ը կրկին շահարկումներ է առաջացրել Strategy-ի կողմից Bitcoin-ի հնարավոր նոր գնման մասին։",
-        "link": "https://news.bitcoin.com/featured/the-dots-arent-done-michael-saylor-hints-at-another-strategy-bitcoin-buy/",
+        "headline": "Bitcoin ETF-ներից $1.79 Մլրդ-ի Արտահոսք",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները գրանցել են իրենց պատմության մեջ երրորդ ամենամեծ շաբաթական արտահոսքը՝ կորցնելով $1.79 միլիարդ, որի առաջատարը BlackRock-ն էր։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-1-79b-in-3rd-largest-weekly-outflow/",
         "source": "Bitcoin News",
-        "enTitle": "‘The Dots Aren’t Done’: Michael Saylor Hints at Another Strategy Bitcoin Buy",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/saylor-strategy-nov-22-768x432.jpg"
+        "enTitle": "Bitcoin ETFs Lose $1.79B in 3rd-Largest Weekly Outflow",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/bitcoin-etfs-lose-1-79b-in-3rd-largest-weekly-outflow-768x432.jpg"
+      },
+      {
+        "headline": "ARK Invest-ը Հրաժարվում է Կրիպտո ETF-ներից",
+        "summary": "Cathie Wood-ի ARK Invest-ը հրաժարվել է երկու նախատեսված կրիպտո ETF-ների գործարկման պլաններից։",
+        "link": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b575e5fb400b044ebb5d3c2d88d2a80846eafb-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "OKXICE-ը Գործարկում է Թոքենիզացված Արժեթղթերի Հարթակ",
+        "summary": "OKXICE-ը գործարկել է թոքենիզացված արժեթղթերի հարթակ՝ հաստատելով 113 ակտիվ 24/7 առևտրի համար, ներառյալ eToro-ն, Fidelity-ն և Coinbase-ը։",
+        "link": "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898",
+        "source": "The Block",
+        "enTitle": "OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/okx-1920-scaled-e1795429769945.jpg"
+      },
+      {
+        "headline": "Cross River Bank-ը Մտնում է Bitcoin-ով Ապահովված Վարկավորում",
+        "summary": "ԱՄՆ-ի Cross River Bank-ը սկսում է Bitcoin-ով ապահովված վարկեր տրամադրել $10,000-ից մինչև $250,000 չափով՝ LendingUSA-ի միջոցով։",
+        "link": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22T4WSTAGZ7E6YW1EWZGJDW/dollar-fiat-money-bitcoin-1.jpg"
+      },
+      {
+        "headline": "Ռուսաստանի Բանկը Պատրաստվում է Օֆլայն Թվային Ռուբլու Վճարումներին",
+        "summary": "Ռուսաստանի Բանկը հայտարարել է, որ 2027 թվականին կընդլայնի թվային ռուբլու համակարգի կիրառումը՝ ներառելով օֆլայն վճարումների փորձնական ծրագիր։",
+        "link": "https://news.bitcoin.com/crypto-news/bank-of-russia-preps-offline-digital-ruble-payments-for-2027/",
+        "source": "Bitcoin News",
+        "enTitle": "Bank of Russia Preps Offline Digital Ruble Payments for 2027",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/russian-digital-ruble-logo-768x432.jpg"
       }
     ]
   }
