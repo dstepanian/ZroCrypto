@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-25",
-    "ts": 1790365403654,
-    "fng": {
-      "value": 71,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 83975,
-        "change24h": -0.5457909011030235
-      },
-      {
-        "label": "Ethereum",
-        "price": 2691.26,
-        "change24h": -0.08666424616004306
-      }
-    ],
-    "overview": "Օրը նշանավորվեց անվտանգության խոշոր միջադեպերով, քանի որ Bitget բորսայի հաքերային հարձակումից կորուստները հասան գրեթե 388 միլիոն դոլարի, ինչը դրդեց stablecoin-ի թողարկողներին սառեցնել որոշ միջոցներ։ Միաժամանակ, ինստիտուցիոնալ հետաքրքրությունը կրիպտո ETF-ների նկատմամբ շարունակում է աճել՝ զգալի ներհոսքերով տարբեր թվային ակտիվներում։",
-    "items": [
-      {
-        "headline": "Bitget-ի հաքերային հարձակման կորուստները հասել են $387M-ի",
-        "summary": "Bitget կրիպտո բորսայի հաքերային հարձակումից կորուստները հասել են $387.5 միլիոնի, և կասկածներ կան, որ հարձակման հետևում կարող է կանգնած լինել Հյուսիսային Կորեան։",
-        "link": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
-        "source": "Decrypt",
-        "enTitle": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "Սպիտակ գլխարկավոր հաքերները փրկել են $5.7M արժողությամբ NFT-ներ",
-        "summary": "Սպիտակ գլխարկավոր հաքերների թիմը փրկել է ավելի քան $5.7 միլիոն արժողությամբ 23,155 NFT՝ կանխելով հնարավոր շահագործումը Magic Eden-ի հին թերության պատճառով։",
-        "link": "https://news.bitcoin.com/security/white-hats-swipe-5-7m-in-nfts-before-attackers-get-their-shot/",
-        "source": "Bitcoin News",
-        "enTitle": "White Hats Swipe $5.7M in NFTs Before Attackers Get Their Shot",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/white-hats-swipe-5-7m-in-nfts-before-attackers-get-their-shot-768x432.png"
-      },
-      {
-        "headline": "Tether-ը սահմանափակ կապ է ունեցել EQIBank-ի հետ",
-        "summary": "Tether-ը հայտարարել է, որ սահմանափակ կապ է ունեցել EQIBank-ի հետ, որը կապված է ԱՄՆ-ի կողմից $84 միլիոնի առգրավման հետ, որը վերաբերում է անօրինական փոխանցումներին։",
-        "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CMJJSCGPAGYWMC5WQF9J64/hi-what-happens-to-seized-cryptocurrency-1.jpg"
-      },
-      {
-        "headline": "Circle-ը և Tether-ը սառեցրել են Bitget հաքերային միջոցները",
-        "summary": "Circle-ը և Tether-ը սառեցրել են մոտ $318,000 արժողությամբ USDC և USDT, որոնք կապված են Bitget հաքերային հարձակման հետ, սակայն հարձակվողը միջոցների մեծ մասը փոխարկել է ETH-ի՝ նախքան միջամտությունը։",
-        "link": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-        "source": "Decrypt",
-        "enTitle": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png"
-      },
-      {
-        "headline": "ԱՄՆ կրիպտո ETF-ները ներգրավել են $3 միլիարդից ավելի",
-        "summary": "ԱՄՆ կրիպտո ETF-ները այս շաբաթ ներգրավել են ավելի քան $3 միլիարդ, որից մոտ $800 միլիոնը ներհոսել է ոչ միայն Bitcoin-ի, այլև Ethereum-ի և այլ altcoin ապրանքների մեջ։",
-        "link": "https://cryptoslate.com/us-crypto-etfs-draw-over-3-billion-this-week-with-nearly-800-million-flowing-beyond-bitcoin/",
-        "source": "CryptoSlate",
-        "enTitle": "US crypto ETFs draw over $3 billion this week, with nearly $800 million flowing beyond Bitcoin",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/us-crypto-etf-inflows-2.webp"
-      },
-      {
-        "headline": "Aave V4-ը ավելացնում է Coinbase-ի թոքենացված բաժնետոմսերը",
-        "summary": "Aave V4-ը Base ցանցում ավելացրել է Coinbase-ի թոքենացված բաժնետոմսերը, ներառյալ Apple-ը և Nvidia-ն, որպես գրավ USDC վարկերի համար՝ ոչ ԱՄՆ օգտատերերի համար։",
-        "link": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
-        "source": "The Block",
-        "enTitle": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/08/20240819_Aave_News_3.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-09-26",
     "ts": 1790448729810,
     "fng": {
@@ -4309,6 +4236,79 @@
         "source": "Bitcoin News",
         "enTitle": "Bank of Russia Preps Offline Digital Ruble Payments for 2027",
         "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/russian-digital-ruble-logo-768x432.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "ts": 1795538622995,
+    "fng": {
+      "value": 11,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 59422,
+        "change24h": -4.325462035920822
+      },
+      {
+        "label": "Ethereum",
+        "price": 1668.33,
+        "change24h": -5.168090920477784
+      }
+    ],
+    "overview": "Bitcoin-ը շարունակում է պայքարել ETF-ների զգալի արտահոսքի ֆոնին, մինչդեռ ինստիտուցիոնալ խաղացողները և կարգավորող մարմինները շարունակում են զարգացումները կրիպտո ոլորտում։",
+    "items": [
+      {
+        "headline": "Bitcoin ETF-ների ռեկորդային արտահոսք",
+        "summary": "Bitcoin ETF-ներից նոյեմբերին արձանագրվել է ռեկորդային 4.71 միլիարդ դոլարի զուտ արտահոսք, որի մեծ մասը բաժին է ընկել BlackRock-ի IBIT ֆոնդին։",
+        "link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-570m-as-blackrocks-3-day-exodus-hits-1-6b/",
+        "source": "Bitcoin News",
+        "enTitle": "Bitcoin ETFs Lose $570M as Blackrock’s 3-Day Exodus Hits $1.6B",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/bitcoin-etfs-lose-570m-as-blackrocks-3-day-exodus-hits-1-6b-768x432.jpg"
+      },
+      {
+        "headline": "BlackRock-ը ընդլայնում է թոքենիզացված ֆոնդերը",
+        "summary": "BlackRock-ը Հոնկոնգում գործարկել է իր առաջին թոքենիզացված դրամական շուկայի ֆոնդը՝ 100 միլիոն դոլարի ներդրումային մեքենա՝ մանրածախ և ինստիտուցիոնալ ներդրողների համար։",
+        "link": "https://news.bitcoin.com/finance/blackrock-expands-tokenized-fund-empire-100m-hong-kong-debut/",
+        "source": "Bitcoin News",
+        "enTitle": "Blackrock Expands Its Tokenized Fund Empire With $100M Hong Kong Debut",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/blackrock-expands-its-tokenized-fund-empire-with-100m-hong-kong-debut-768x432.png"
+      },
+      {
+        "headline": "Հարավային Կորեայի կրիպտո կանոնակարգերի առաջարկներ",
+        "summary": "Հարավային Կորեան առաջարկում է վերացնել 2017 թվականից գործող ICO արգելքը և սահմանել 20% սահմանաչափ կրիպտո փոխանակումների բաժնետոմսերի համար։",
+        "link": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Z3BJXQ46ZDN2Q8H9RF7F7N/hi-will-crypto-be-the-only-digital-currency-left-standing-south-korea-1.jpg"
+      },
+      {
+        "headline": "ԱՄՆ Արդարադատության նախարարության գործողությունները",
+        "summary": "ԱՄՆ Արդարադատության նախարարությունը ձգտում է բռնագրավել 1.1 միլիարդ դոլար արժողությամբ USDC՝ Հյուսիսային Կորեայի կողմից Binance-ի հաքերային հարձակումից գողացված միջոցներից։",
+        "link": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+        "source": "Decrypt",
+        "enTitle": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/department-of-justice-doj-decrypt-style-scaled-gID_7.jpg@png"
+      },
+      {
+        "headline": "Ethereum Foundation-ի անվտանգության ընդլայնում",
+        "summary": "Ethereum Foundation-ը կրկնապատկում է իր արձանագրության անվտանգության թիմը՝ AI-ն համարելով ավելի հրատապ ռիսկ, քան քվանտային հաշվարկները։",
+        "link": "https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497",
+        "source": "The Block",
+        "enTitle": "Ethereum Foundation doubles protocol security team, calls AI a ‘more urgent risk’ than quantum",
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1238606759-1-scaled.jpg"
+      },
+      {
+        "headline": "Շվեյցարիայի կենտրոնական բանկի ուսումնասիրություն",
+        "summary": "Շվեյցարիայի կենտրոնական բանկը, UBS-ը և SIX-ը ուսումնասիրում են ընդհանուր լեջերի հնարավորությունը՝ կենտրոնական բանկի փողը, առևտրային բանկի փողը և արժեթղթերը մեկ հարթակում միավորելու համար։",
+        "link": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86VV86WEBASNMG35FPTXVR5/hi-switzerland-crypto-valley-crypto-regulation2.jpg"
       }
     ]
   }
