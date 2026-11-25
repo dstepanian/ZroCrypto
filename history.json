@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-26",
-    "ts": 1790448729810,
-    "fng": {
-      "value": 74,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 83998,
-        "change24h": 0.05929746572884746
-      },
-      {
-        "label": "Ethereum",
-        "price": 2683.89,
-        "change24h": -0.35888026637122095
-      }
-    ],
-    "overview": "Վերջին 24 ժամվա ընթացքում կրիպտոարժույթների շուկայում նկատվել է ինստիտուցիոնալ ներդրումների աճ, մասնավորապես Bitcoin ETF-ների միջոցով, ինչպես նաև կարևոր կարգավորող փոփոխություններ։ Կենտրոնական բանկերի և կարգավորող մարմինների կողմից առաջարկվող նոր կանոնները զգալի ազդեցություն կունենան stablecoin-ների և DeFi-ի վրա, մինչդեռ անվտանգության հետ կապված մտահոգությունները շարունակում են մնալ օրակարգում։",
-    "items": [
-      {
-        "headline": "Bitcoin ETF-ները գրանցել են ներհոսքերի յոթօրյա շարք",
-        "summary": "ԱՄՆ-ի Bitcoin ETF-ները գրավել են ավելի քան 2.98 միլիարդ դոլարի ներհոսք յոթ անընդմեջ նիստերի ընթացքում՝ դրական դարձնելով տարեկան զուտ հոսքերը։",
-        "link": "https://news.bitcoin.com/market-updates/bitcoin-etfs-add-134m-as-7-day-inflow-streak-hits-2-98b/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin ETFs Add $134M as 7-Day Inflow Streak Hits $2.98B",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-etfs-add-134m-as-7-day-inflow-streak-hits-2-98b-768x432.jpg"
-      },
-      {
-        "headline": "Fed-ի stablecoin-ի առաջարկը կարող է լիկվիդացիա առաջացնել",
-        "summary": "Դաշնային պահուստային համակարգի կողմից առաջարկվող նոր կանոնները stablecoin-ի թողարկողների համար կարող են հանգեցնել 48-ժամյա լիկվիդացիոն ճգնաժամի, եթե նրանց պահուստները նվազեն։",
-        "link": "https://cryptoslate.com/fed-proposed-stablecoin-rule-could-trigger-a-48-hour-liquidation-run/",
-        "source": "CryptoSlate",
-        "enTitle": "Fed proposed stablecoin rule could trigger a 48-hour liquidation run",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/usdc-supermarket-run.webp"
-      },
-      {
-        "headline": "SEC հանձնակատար Հեսթեր Փիրսը հեռանում է պաշտոնից",
-        "summary": "ԱՄՆ Արժեթղթերի և բորսաների հանձնաժողովի (SEC) հանձնակատար Հեսթեր Փիրսը, որը հայտնի է որպես «Crypto Mom», հոկտեմբերի 2-ին կլքի իր պաշտոնը՝ մոտ ութ տարվա ծառայությունից հետո։",
-        "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3EF3D5VFWA1TXNZDN794WQV/hester-peirce-sec-1.jpg"
-      },
-      {
-        "headline": "LayerZero-ի դեմ 292 միլիոն դոլարի հայց է ներկայացվել",
-        "summary": "Evercrest Technologies-ը LayerZero Labs-ի դեմ հայց է ներկայացրել 292 միլիոն դոլարի չարաշահման համար՝ մեղադրելով անփույթ ապատեղեկացման և զրպարտության մեջ։",
-        "link": "https://cryptoslate.com/nearly-15-billion-is-moving-off-layerzero-now-a-292-million-lawsuit-puts-its-security-model-on-trial/",
-        "source": "CryptoSlate",
-        "enTitle": "Nearly $15B is moving off LayerZero, now a $292M lawsuit puts its security model on trial",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/layerzero-asset-rescue.webp"
-      },
-      {
-        "headline": "ARK-ը համագործակցում է Securitize-ի հետ Ethereum-ում",
-        "summary": "ARK-ը համագործակցել է Securitize-ի հետ՝ իր վենչուրային ֆոնդը Ethereum-ում թոքենիզացնելու համար, չնայած որ դուրս գալու հնարավորությունները սահմանափակ են։",
-        "link": "https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/",
-        "source": "CryptoSlate",
-        "enTitle": "ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/arkvx-ethereum-liquidity-standard-image.jpg"
-      },
-      {
-        "headline": "Solana-ի հաշվարկների արագության թարմացումը հասել է թեստային ցանց",
-        "summary": "Solana-ի 150 միլիվայրկյան հաշվարկների արագության թարմացումը հասել է երկրորդ հանրային թեստային ցանց՝ Alpenglow-ին, նախքան հիմնական ցանցում գործարկվելը։",
-        "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      }
-    ]
-  },
-  {
     "date": "2026-09-27",
     "ts": 1790537096660,
     "fng": {
@@ -4309,6 +4236,79 @@
         "source": "Cointelegraph.com News",
         "enTitle": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86VV86WEBASNMG35FPTXVR5/hi-switzerland-crypto-valley-crypto-regulation2.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "ts": 1795624157272,
+    "fng": {
+      "value": 13,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 58776,
+        "change24h": -1.5060681990509965
+      },
+      {
+        "label": "Ethereum",
+        "price": 1650.52,
+        "change24h": -1.5165601752357794
+      }
+    ],
+    "overview": "Շուկան ընդհանուր առմամբ անկում է ապրում, իսկ Bitcoin ETF-ներից նկատվում են զգալի արտահոսքեր։ Այնուամենայնիվ, կան նաև դրական զարգացումներ կարգավորման և ինստիտուցիոնալ ընդունման ոլորտում։",
+    "items": [
+      {
+        "headline": "Համաշխարհային շուկաների անկում",
+        "summary": "Ֆինանսական շուկաները, ներառյալ Bitcoin-ը, ոսկին և Wall Street-ը, զգալի անկում են ապրել, ընդհանուր կորուստները գերազանցելով 4 տրիլիոն դոլարը։",
+        "link": "https://news.bitcoin.com/market-updates/global-markets-bleed-trillions-as-bitcoin-gold-and-wall-street-tumble/",
+        "source": "Bitcoin News",
+        "enTitle": "Global Markets Bleed Trillions as Bitcoin, Gold and Wall Street Tumble",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/global-markets-bleed-trillions-as-bitcoin-gold-and-wall-street-tumble-768x432.png"
+      },
+      {
+        "headline": "Ուկրաինան օրինականացնում է կրիպտո շուկան",
+        "summary": "Ուկրաինան օրենք է ընդունել՝ օրինականացնելու և հարկելու իր կրիպտո շուկան 2027 թվականի հուլիսից, որից ակնկալվում է մոտ 330 միլիոն դոլարի եկամուտ։",
+        "link": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
+        "source": "Decrypt",
+        "enTitle": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png"
+      },
+      {
+        "headline": "Ճապոնական հսկաները մուտք են գործում Solana",
+        "summary": "Ճապոնական ֆինանսական հսկաներ SBI Holdings-ը և Sumitomo Mitsui Financial Group-ը գործարկել են SBI Solana Global-ը՝ stablecoin-ների, թոքենիզացված ակտիվների և բլոկչեյնի վրա հիմնված ներդրումային ծառայություններ մշակելու համար։",
+        "link": "https://news.bitcoin.com/finance/japans-2-3t-financial-giants-sbi-smfg-launch-solana-venture/",
+        "source": "Bitcoin News",
+        "enTitle": "Japan’s $2.3T Financial Giants SBI, SMFG Launch Solana Venture",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/japans-2-3t-financial-giants-sbi-smfg-launch-solana-venture-768x432.png"
+      },
+      {
+        "headline": "Bitcoin ETF-ների ռեկորդային արտահոսք",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները նոյեմբերին գրանցել են գրեթե 5 միլիարդ դոլարի զուտ արտահոսք՝ գերազանցելով նախորդ ամսական ռեկորդը։",
+        "link": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M892VEWZNVC10NYBA407X6BQ/111111111.png"
+      },
+      {
+        "headline": "ԵՄ-ն կանոններ է փնտրում DeFi վարկավորման համար",
+        "summary": "ԵՄ բանկային վերահսկիչ մարմինը կրկին կոչ է արել Եվրոպական հանձնաժողովին առաջարկել կանոններ կրիպտո ընկերությունների համար, որոնք հաճախորդներին հասանելիություն են տալիս DeFi, մասնավորապես վարկավորման արձանագրություններին։",
+        "link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b8af97c895160d3ed27ac10e9be7535ee79e1d6-3673x2449.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "VanEck-ը հեռացնում է Gemini-ին ETF-ներից",
+        "summary": "VanEck-ը հեռացնում է Gemini-ին իր մոտ 1 միլիարդ դոլար արժողությամբ Bitcoin, Ethereum և Solana ETF-ներից՝ Coinbase Custody-ին պահպանելով որպես պահառու։",
+        "link": "https://cryptoslate.com/vaneck-is-dropping-gemini-from-nearly-1-billion-in-bitcoin-ethereum-and-solana-etfs/",
+        "source": "CryptoSlate",
+        "enTitle": "VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/11/vaneck-gemini-settlement-junction.webp"
       }
     ]
   }
