@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-27",
-    "ts": 1790537096660,
-    "fng": {
-      "value": 70,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [
-      {
-        "label": "Bitcoin",
-        "price": 84774,
-        "change24h": 0.9051616961477297
-      },
-      {
-        "label": "Ethereum",
-        "price": 2693.91,
-        "change24h": 0.37916626442543466
-      }
-    ],
-    "overview": "Այսօրվա կրիպտո նորությունները ներառում են կարևոր տեխնիկական զարգացումներ, կարգավորող մարմինների պարզաբանումներ և ապակենտրոնացման հետ կապված մարտահրավերներ։ Շուկան արձագանքում է ինչպես ներքին, այնպես էլ արտաքին գործոններին։",
-    "items": [
-      {
-        "headline": "Thorchain-ը մերժում է Bitget-ի խնդրանքը",
-        "summary": "Thorchain-ը մերժել է Bitget բորսայի խնդրանքը՝ արգելափակելու հաքերների հասցեները՝ վկայակոչելով ապակենտրոնացման սկզբունքները։",
-        "link": "https://news.bitcoin.com/crypto-news/thorchain-faces-heat-as-bitget-hack-revives-bybit-controversy/",
-        "source": "Bitcoin News",
-        "enTitle": "Thorchain Faces Heat as Bitget Hack Revives Bybit Controversy",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/thorchain-faces-heat-as-bitget-hack-revives-bybit-controversy-768x432.png"
-      },
-      {
-        "headline": "Cosmos-ը վերականգնում է գողացված ATOM-ը",
-        "summary": "Cosmos-ի վալիդատորները վերականգնել են 1.23 միլիոն գողացված ATOM, սակայն միջոցների վերադարձը կախված է կառավարման քվեարկությունից։",
-        "link": "https://cryptoslate.com/cosmos-intercepts-1-23-million-stolen-atom-but-refunds-now-wait-on-governance-vote/",
-        "source": "CryptoSlate",
-        "enTitle": "Cosmos intercepts 1.23 million stolen ATOM but refunds now wait on governance vote",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/cosmos-atom-vote.webp"
-      },
-      {
-        "headline": "Zano-ն ջնջում է մեկ ամսվա պատմություն",
-        "summary": "Zano բլոկչեյնը հետ է գլորվել մեկ ամսով՝ շտկելու համար գնաճի լուրջ սխալը՝ ջնջելով գործարքների պատմությունը։",
-        "link": "https://news.bitcoin.com/security/zano-wipes-1-month-of-history-to-fix-massive-crypto-inflation-bug/",
-        "source": "Bitcoin News",
-        "enTitle": "Zano Wipes 1 Month of History to Fix Massive Crypto Inflation Bug",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/zano-logo-768x432.jpg"
-      },
-      {
-        "headline": "Vitalik Buterin-ի Ethereum-ի տեսլականը",
-        "summary": "Vitalik Buterin-ը ներկայացրել է Ethereum-ի 2030 թվականի տեսլականը՝ ընդգծելով նրա զարգացումը որպես պարզ բլոկչեյնից ավելին։",
-        "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "enTitle": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc25947f1bdd54e21669cfeb4f95b3a58f436d2c-1500x919.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-      },
-      {
-        "headline": "SEC-ի պարզաբանումը թոքենների հետգնումների մասին",
-        "summary": "SEC-ի աշխատակազմը հայտարարել է, որ թոքենների հետգնումները չեն դարձնում կրիպտոարժույթը արժեթուղթ, եթե ցանցը գործում է։",
-        "link": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
-        "source": "Decrypt",
-        "enTitle": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png"
-      },
-      {
-        "headline": "Կրիպտո ATM-ների թվի անկում",
-        "summary": "Կրիպտո ATM-ների թիվն ամբողջ աշխարհում նվազել է մինչև 2021 թվականի մակարդակ՝ կարգավորող մարմինների ճնշման պատճառով։",
-        "link": "https://news.bitcoin.com/crypto-news/crypto-atm-numbers-fall-to-2021-levels-amid-regulatory-crackdown/",
-        "source": "Bitcoin News",
-        "enTitle": "Crypto ATM Numbers Fall to 2021 Levels Amid Regulatory Crackdown",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/crypto-atm-numbers-fall-to-2021-levels-amid-regulatory-crackdown-768x432.png"
-      }
-    ]
-  },
-  {
     "date": "2026-09-28",
     "ts": 1790598231387,
     "fng": {
@@ -4309,6 +4236,79 @@
         "source": "CryptoSlate",
         "enTitle": "VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs",
         "image": "https://cryptoslate.com/wp-content/uploads/2026/11/vaneck-gemini-settlement-junction.webp"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "ts": 1795708945172,
+    "fng": {
+      "value": 11,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 60556,
+        "change24h": 3.9167087557563485
+      },
+      {
+        "label": "Ethereum",
+        "price": 1690.55,
+        "change24h": 2.559927549029667
+      }
+    ],
+    "overview": "Վերջին 24 ժամվա ընթացքում կրիպտո շուկայում նկատվել են կարգավորող նոր զարգացումներ և անվտանգության հետ կապված մտահոգություններ։ Միաժամանակ, ինստիտուցիոնալ ներդրումների ոլորտում առկա են ինչպես դրական, այնպես էլ բացասական միտումներ։",
+    "items": [
+      {
+        "headline": "AI-ի առաջընթացը և Bitcoin-ի անվտանգությունը",
+        "summary": "AI լաբորատորիաների մաթեմատիկական բացահայտումները բանավեճեր են առաջացրել Bitcoin-ի անվտանգության և գաղտնագրության շուրջ։",
+        "link": "https://news.bitcoin.com/technology/ai-math-breakthroughs-ignite-rsa-crack-rumors-and-bitcoin-security-debate/",
+        "source": "Bitcoin News",
+        "enTitle": "AI Math Breakthroughs Ignite RSA Crack Rumors and Bitcoin Security Debate",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/ai-math-breakthroughs-ignite-rsa-crack-rumors-and-bitcoin-security-debate.png"
+      },
+      {
+        "headline": "Իսպանիան կրիպտո հաշիվներ սառեցնելու լիազորություն է տալիս",
+        "summary": "Իսպանիան իր հակափողերի լվացման ստորաբաժանմանը լիազորել է սառեցնել կրիպտո հաշիվները՝ առանց դատավորի որոշման։",
+        "link": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/323210c28533ae279cbc3e36b349743bedce4346-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Zodia Custody-ի տվյալների արտահոսք",
+        "summary": "Standard Chartered-ի Zodia Custody կրիպտո պահառուն հայտարարել է, որ չարտոնված կողմը մուտք է գործել որոշ հաճախորդների և աշխատակիցների կոնտակտային տվյալներ։",
+        "link": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
+        "source": "Decrypt",
+        "enTitle": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png@png"
+      },
+      {
+        "headline": "Մեծ Բրիտանիան խստացնում է DeFi կանոնները",
+        "summary": "Մեծ Բրիտանիայի կարգավորող մարմինը, հղում անելով Binance-ի հաքերային հարձակմանը, նախատեսում է ԷՄ-ից և ԱՄՆ-ից ավելի խիստ DeFi կանոններ։",
+        "link": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
+        "source": "Decrypt",
+        "enTitle": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg@png"
+      },
+      {
+        "headline": "Bitcoin ETF-ների դրամական արտահոսք",
+        "summary": "ԱՄՆ-ի spot Bitcoin ETF-ները նոյեմբերին գրանցել են ավելի քան 5 միլիարդ դոլարի զուտ արտահոսք՝ նշանավորելով ամենավատ ամիսը։",
+        "link": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "enTitle": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/7537396377d2a1b6e420708464dc0952068164d6-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      },
+      {
+        "headline": "Շվեյցարիայի առաջին spot Bitcoin ETF-ը",
+        "summary": "Շվեյցարիայի առաջին spot Bitcoin ETF-ը իր բացման ժամին գրանցել է 0.6% աճ։",
+        "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CM5K1VY11KXJASBKDSS5M2/hi-inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin.jpg"
       }
     ]
   }
