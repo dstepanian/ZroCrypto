@@ -1,67 +1,5 @@
 [
   {
-    "date": "2026-09-29",
-    "ts": 1790682583856,
-    "fng": {
-      "value": 73,
-      "label": "Greed",
-      "hy": "Ագահություն",
-      "dot": "🟢"
-    },
-    "prices": [],
-    "overview": "Շուկան ազդված է ինչպես կարգավորող զարգացումներից, այնպես էլ մակրոգործոններից։ Կարևոր ենթակառուցվածքային բարելավումներ են տեղի ունենում, մինչդեռ stablecoin-ների համապատասխանությունը և altcoin շուկայի միտումները նույնպես ուշադրության կենտրոնում են։",
-    "items": [
-      {
-        "headline": "Coinbase-ը ստացել է CFTC-ի հավանությունը",
-        "summary": "Coinbase-ը ստացել է CFTC-ի հավանությունը DCO-ի համար՝ ամբողջացնելով իր ածանցյալ գործիքների ենթակառուցվածքը և թույլ տալով ներքին լիստինգ, բրոքերային և քլիրինգային ծառայություններ։",
-        "link": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
-        "source": "The Block",
-        "enTitle": "Coinbase receives DCO approval from CFTC, completing full derivatives stack",
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News.jpg"
-      },
-      {
-        "headline": "Ethereum-ը նախատեսում է Glamsterdam թարմացում",
-        "summary": "Ethereum-ը հոկտեմբերի 6-ին Sepolia-ի վրա կիրականացնի Glamsterdam թարմացումը, որը կներառի proposer-builder separation, block-level access lists և գազի նոր գնագոյացում։",
-        "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PCAM6EFZWRXAWSS5F2XJAN/fork-workout-ethereum.jpg"
-      },
-      {
-        "headline": "Tether-ը սառեցրել է Իրանի հետ կապված USDT",
-        "summary": "Tether-ը հայտարարել է, որ այս տարի օգնել է սառեցնել 550 միլիոն դոլարի Իրանի հետ կապված USDT՝ ի պատասխան Սենատի հետաքննության։",
-        "link": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "enTitle": "Tether says it helped freeze $550M in Iran-linked USDT this year",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3NT5GYVR0DHCZ7EB688AQWY/tether-2.jpg"
-      },
-      {
-        "headline": "Altcoin-ների ծավալը գերազանցում է Bitcoin-ին",
-        "summary": "Altcoin-ների spot ծավալը գրեթե քառապատկվել է Bitcoin-ի համեմատ, իսկ ԱՄՆ-ի spot Bitcoin ETF-ների ներհոսքերը նվազել են հինգ նիստերի ընթացքում։",
-        "link": "https://cryptoslate.com/altcoin-spot-volume-nears-4x-bitcoins-as-etf-inflows-shrink-across-five-sessions/",
-        "source": "CryptoSlate",
-        "enTitle": "Altcoin spot volume nears 4x Bitcoin’s as ETF inflows shrink across five sessions",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-rotation-bridge.webp"
-      },
-      {
-        "headline": "ESMA-ն առաջնահերթ է համարում MiCA-ն",
-        "summary": "ESMA-ն իր 2027 թվականի աշխատանքային ծրագրում առաջնահերթություն է տվել MiCA-ի ներքո crypto-asset ծառայություններ մատուցողների վերահսկողությանը և թվային ակտիվների ազդեցության ուսումնասիրությանը։",
-        "link": "https://news.bitcoin.com/regulation-and-legal/esma-prioritizes-mica-and-crypto-oversight-in-2027-work-program/",
-        "source": "Bitcoin News",
-        "enTitle": "ESMA Prioritizes MiCA and Crypto Oversight in 2027 Work Program",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/esma-logo-768x432.jpg"
-      },
-      {
-        "headline": "Bitcoin-ի գինը նվազել է մակրոգործոններից",
-        "summary": "Bitcoin-ի գինը իջել է $83,000-ից՝ մոտ 500 միլիոն դոլարի լծակային կրիպտո խաղադրույքների լուծարման պատճառով, ինչը պայմանավորված է նավթի, պարտատոմսերի և ոսկու շուկաների արտաքին ազդեցություններով։",
-        "link": "https://news.bitcoin.com/market-updates/bitcoin-price-83k-500m-liquidations-129197-traders/",
-        "source": "Bitcoin News",
-        "enTitle": "Bitcoin Price Dips Below $83K as 129,197 Traders Get Wiped out",
-        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/bitcoin-price-dips-below-83k-as-129197-traders-got-wiped-out-768x432.jpg"
-      }
-    ]
-  },
-  {
     "date": "2026-09-30",
     "ts": 1790768175890,
     "fng": {
@@ -4309,6 +4247,79 @@
         "source": "The Block",
         "enTitle": "Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
         "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/tether.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "ts": 1795823415766,
+    "fng": {
+      "value": 12,
+      "label": "Extreme Fear",
+      "hy": "Ծայրահեղ վախ",
+      "dot": "🔴"
+    },
+    "prices": [
+      {
+        "label": "Bitcoin",
+        "price": 59819,
+        "change24h": -1.0043793705679067
+      },
+      {
+        "label": "Ethereum",
+        "price": 1659.1,
+        "change24h": -1.5196166854785067
+      }
+    ],
+    "overview": "Շուկան այսօր բնութագրվում է կարգավորող մարմինների զարգացումներով, շարունակվող անվտանգության մտահոգություններով և նորարարական նախաձեռնություններով։ Կարգավորիչ մարմինները խստացնում են վերահսկողությունը, մինչդեռ նոր ապրանքներն ու թարմացումները ձևավորում են կրիպտո ոլորտի ապագան։",
+    "items": [
+      {
+        "headline": "Ethereum-ի Glamsterdam թեստը դեկտեմբերին",
+        "summary": "Ethereum-ի մշակողները դեկտեմբերին կանցկացնեն Glamsterdam ցանցի արդիականացման հերթական փորձարկումը՝ չնայած խելացի պայմանագրերի հետ կապված մտահոգություններին։",
+        "link": "https://news.bitcoin.com/blockchain/ethereum-developers-december-glamsterdam-test-smart-contract-concerns/",
+        "source": "Bitcoin News",
+        "enTitle": "Ethereum Developers Set December Glamsterdam Test Despite Smart Contract Concerns",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/institutional-ethereum-stakers-weigh-speed-and-privacy-trade-off-under-eip-8222.jpg"
+      },
+      {
+        "headline": "Իսպանիան կկարողանա սառեցնել կրիպտո հաշիվները",
+        "summary": "Իսպանիան նոր օրենք է ընդունել, որը թույլ է տալիս իշխանություններին մինչև 10 օրով արգելափակել կրիպտո գործարքները՝ առանց դատարանի թույլտվության։",
+        "link": "https://news.bitcoin.com/regulation-and-legal/spain-moves-freeze-crypto-accounts-without-court-approval/",
+        "source": "Bitcoin News",
+        "enTitle": "Spain Moves to Freeze Crypto Accounts Without Need for Court Approval",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/spains-decree.jpg"
+      },
+      {
+        "headline": "Չինաստանը կսահմանի բլոկչեյն ID կանոնակարգեր",
+        "summary": "Չինաստանը հրապարակել է բլոկչեյնի վրա հիմնված թվային ինքնությունները կարգավորող նոր կանոնակարգեր՝ սահմանելով միջպլատֆորմային ստուգման և տվյալների գաղտնիության կանոններ, որոնք կգործեն 2027 թվականի մարտից։",
+        "link": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "China sets March 2027 rollout for blockchain identity regulations",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EVTBT6HP6DPAEHWFE95N9V/stronger-china-flag-overlay.jpeg"
+      },
+      {
+        "headline": "Binance-ի հաքերները $600M են փոխանցել Thorchain-ով",
+        "summary": "Հյուսիսային Կորեայի հետ կապված հաքերները, որոնք կանգնած են Binance-ի կողոպուտի հետևում, ավելի քան 600 միլիոն դոլարի գողացված միջոցներ են ուղղել Thorchain-ի միջոցով՝ չնայած FBI-ի նախազգուշացմանը։",
+        "link": "https://news.bitcoin.com/featured/binance-hackers-funnel-600m-thorchain-despite-fbi-warning/",
+        "source": "Bitcoin News",
+        "enTitle": "Binance Hackers Funnel Over $600M Through Thorchain Despite FBI Warning",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/binance-hackers-funnel-over-600-million-through-thorchain-despite-fbi-warning.png"
+      },
+      {
+        "headline": "Binance-ը կգործարկի tokenized IPO ծրագիր",
+        "summary": "Binance-ը նախատեսում է գործարկել tokenized IPO ծրագիր՝ կարգավորող մարմինների հաստատումից հետո՝ ընդլայնելով իր առաջարկները դեպի tokenized equity ապրանքներ։",
+        "link": "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "enTitle": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EJFC8H3G5TK8AK4NXK7WYY/he-yi.jpg"
+      },
+      {
+        "headline": "Մեծ Բրիտանիան խստացնում է DeFi կանոնները",
+        "summary": "Միացյալ Թագավորության ֆինանսական կարգավորիչը (FCA) պատրաստվում է խստացնել ապակենտրոնացված ֆինանսների (DeFi) կանոնները՝ վկայակոչելով սպառողների պաշտպանության թույլ մեխանիզմները, ինչին դեմ են Coinbase-ը և Aave-ը։",
+        "link": "https://news.bitcoin.com/defi/uk-fca-plans-strict-defi-rules-as-coinbase-and-aave-push-back/",
+        "source": "Bitcoin News",
+        "enTitle": "UK FCA Plans Strict DeFi Rules as Coinbase and Aave Push Back",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/uk-fca-plans-strict-defi-rules-as-coinbase-and-aave-push-back.jpg"
       }
     ]
   }
